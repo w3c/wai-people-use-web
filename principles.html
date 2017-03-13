@@ -1,0 +1,920 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" prefix="og: http://ogp.me/ns# fb: http://www.facebook.com/2008/fbml" lang="en-US">
+<head>
+  <meta charset="utf-8">
+  <title>Accessibility Principles - How People with Disabilities Use the Web | Web Accessibility Initiative (WAI) | W3C</title>
+
+  <link rel="stylesheet" href="https://www.w3.org/WAI/wai-main.css" type="text/css" />
+  <!--[if IE 7]><link rel="stylesheet" href="https://www.w3.org/WAI/ie-old.css" type="text/css" media="all" /><![endif]-->
+  <link rel="stylesheet" href="https://www.w3.org/WAI/style/hMenu.css" type="text/css" />
+  <!--[if lte IE 7]><link href="https://www.w3.org/WAI/style/hMenuIE7.css" rel="stylesheet" type="text/css" /><![endif]-->
+ 
+   <script type="text/javascript" src="https://www.w3.org/WAI/scripts/excol/excol.js"></script>
+
+<style>
+  .highlight-version {
+  border: solid 1px #630;
+  color: #630;
+  background-color: #FFC;
+  padding: 0.5em;
+  font-weight: normal;
+  margin-top: 1em; margin-bottom: 1.5em;
+  font-size:85%;
+}
+.highlight-version blockquote {line-height:100%; margin-top: 0; margin-bottom: 0; padding-top: 0; padding-bottom: 0;}
+.highlight-version p {margin-top: 0; margin-bottom: 0; padding-top: 0; padding-bottom: 0;}
+
+h2.toc { border: 0em; color: #000000; margin-bottom: 0em; }
+ul.toc { list-style: none; margin-left: 1.5em; margin-top: 0.5em; padding: 0em; }
+ul.toc ul { list-style: none; margin-left: 1.5em; margin: 0em; }
+ul.toc a {  background: url(https://www.w3.org/WAI/images/bullet-c60.png) left no-repeat; color: #930; font-weight: bold; padding-left: 1em; }
+p.totop { display: block; text-align: right; }
+p.totop a { background: url(https://www.w3.org/Icons/topofpage.png) left no-repeat; padding-left: 1em; }
+p.catchy { border-left: solid 1px #930; padding-left: 1em; }
+.subhead { font-size: 0.75em; display: block; }  </style>
+
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/">
+  <meta name="DCTERMS.language" content="eng" />
+  <meta name="DCTERMS.source" property="og:site_name" content="W3C Web Accessibility Initiative (WAI)" />
+  <meta name="DCTERMS.contributor" content=" W3C Web Accessibility Initiative (WAI)" />
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@w3c_wai">
+  <meta property="og:type" content="article" />
+  <meta name="twitter:title" property="og:title" content="Accessibility Principles - How People with Disabilities Use the Web  ◦ Web Accessibility Initiative ◦ W3C">
+  <meta name="DCTERMS.subject" content="Web Accessibility" />
+  <meta name="DCTERMS.subject" content="W3C WAI" />
+  <meta name="DCTERMS.subject" content="Web Accessibility Initiative" />
+</head><body><div id="controls">
+   <ul>
+      <li><a href="#skip"><img src="https://www.w3.org/Icons/downinpage.png" alt="" /> Skip to Content </a></li>
+      <li><a href="https://www.w3.org/WAI/changedesign.html"> | Change text size or colors </a></li>
+   </ul>
+</div> <!-- end controls -->
+<div id="masthead">
+   <p id="logos">
+     <a href="https://www.w3.org/" title="W3C Home"><img alt="W3C logo" src="https://www.w3.org/Icons/w3c_home"></a><a href="https://www.w3.org/WAI/" title="WAI Home"><img alt="Web Accessibility Initiative" src="https://www.w3.org/Icons/wai"></a></p>
+</div> <!-- end masthead -->
+<div id="tagline">
+   <p>WAI: Strategies, guidelines, resources to make the Web accessible to people with disabilities</p>
+</div> <!-- end tagline -->
+<div id="nav">
+<h2>Site Navigation</h2>
+<p id="w3cnav"><a href="https://www.w3.org/">W3C Home</a></p>
+<p id="subhomenav"><a href="/WAI/">Web Accessibility Initiative (WAI) Home</a></p>
+<ol id='nav1'>
+<li><a href="../../gettingstarted">Getting Started</a>
+</li>
+<li class="current-nav"><a href="../../users">Designing for Inclusion</a>
+<ul class="anno">
+<li class="current-nav"><a href="">How People with Disabilities Use the Web</a>
+<ul class="anno">
+<li><a href="stories">Stories of Web Users</a>
+</li>
+<li><a href="diversity">Diversity of Web Users</a>
+</li>
+<li><a href="browsing">Diversity in Web Use</a>
+</li>
+<li id='current-node' class='current-nav'><span class='label'><span id='current-icon'>»</span>Accessibility Principles</span>
+</li>
+</ul>
+</li>
+<li><a href="../../older-users">Web and Older Users</a>
+</li>
+<li><a href="../../mobile/Overview">Mobile</a>
+</li>
+</ul>
+</li>
+<li><a href="../../guid-tech">Guidelines &amp; Techniques</a>
+</li>
+<li><a href="../../managing">Planning &amp; Implementing</a>
+</li>
+<li><a href="../../eval/Overview">Evaluating Accessibility</a>
+</li>
+<li><a href="../../train">Tutorials and Presentations</a>
+</li>
+<li><a href="../../about-links">Getting Involved with WAI</a>
+</li>
+</ol>
+<div id="nav-static">
+<div class="nav-discover">
+<p><a href="https://www.w3.org/WAI/yourWAI"><strong><u>Discover new resources</u></strong> for people with disabilities, policy makers, managers, and you!</a></p>
+</div>
+<p class="translations"><a href="https://www.w3.org/WAI/wai-translations"><img src="https://www.w3.org/WAI/images/translations-med-1" alt="" /> Translations</a></p>
+</div> <!-- nav-static -->
+
+</div> <!-- nav-menu -->
+<div id="main">
+  <h2 class="no-display">In-Suite Navigation</h2>
+  <ul class="hmenu5">
+    <li><a href="Overview" shape="rect">Over­view</a></li>
+    <li><a href="stories" shape="rect">Sto­ries of Web Users</a></li>
+    <li><a href="diversity" shape="rect">Di­ver­sity of Web Users</a></li>
+    <li><a href="browsing" shape="rect">Di­ver­sity in Web Use</a></li>
+    <li class="hmenuselection"><a shape="rect">Ac­ces­si­bil­ity Prin­ci­ples</a></li>
+  </ul>
+
+  <div class="sidebar">
+    <h2>Sidebar</h2>
+    <p><img src="https://www.w3.org/Icons/tr.png" alt="links off WAI website" /> icon indicates technical report.</p>
+  </div>
+
+  <h1>Accessibility Principles <span class="subhead"><br clear="none" />
+  [Draft] How People with Disabilities Use the Web</span></h1>
+
+  <h2 class="no-display"><a name="introduction" id="introduction" shape="rect">Introduction</a></h2>
+  <p>This page introduces some of the web accessibility requirements for websites, web applications, browsers, and other tools. It provides references to the international standards from <acronym>W3C</acronym> Web Accessibility Initiative (<acronym>WAI</acronym>), which include considerations for the broad <a href="diversity" shape="rect">diversity of web users</a> and <a href="browsing" shape="rect">ways people use the Web</a>.</p>
+  <p><strong>Note:</strong> This page is illustrative and is not intended to be an exhaustive listing of all accessibility requirements.</p>
+
+  <h2 class="toc"><a name="toc" id="toc" shape="rect">On this page</a></h2>
+  <ul class="toc">
+    <li><a href="#standards" shape="rect">Web accessibility standards</a></li>
+    <li><a href="#perceivable" shape="rect">Perceivable information and user interface</a>
+      <ul>
+        <li><a href="#alternatives" shape="rect">Text alternatives for non-text content</a></li>
+        <li><a href="#captions" shape="rect">Captions and other alternatives for multimedia</a></li>
+        <li><a href="#adaptable" shape="rect">Content can be presented in different ways</a></li>
+        <li><a href="#distinguishable" shape="rect">Content is easier to see and hear</a></li>
+      </ul>
+    </li>
+    <li><a href="#operable" shape="rect">Operable user interface and navigation</a>
+      <ul>
+        <li><a href="#keyboard" shape="rect">Functionality is available from a keyboard</a></li>
+        <li><a href="#time" shape="rect">Users have enough time to read and use the content</a></li>
+        <li><a href="#safe" shape="rect">Content does not cause seizures</a></li>
+        <li><a href="#navigable" shape="rect">Users can easily navigate, find content, and determine where they are</a></li>
+      </ul>
+    </li>
+    <li><a href="#understandable" shape="rect">Understandable information and user interface</a>
+      <ul>
+        <li><a href="#readable" shape="rect">Text is readable and understandable</a></li>
+        <li><a href="#predictable" shape="rect">Content appears and operates in predictable ways</a></li>
+        <li><a href="#tolerant" shape="rect">Users are helped to avoid and correct mistakes</a></li>
+      </ul>
+    </li>
+    <li><a href="#robust" shape="rect">Robust content and reliable interpretation</a>
+      <ul>
+        <li><a href="#compatible" shape="rect">Content is compatible with current and future user tools</a></li>
+      </ul>
+    </li>
+  </ul>
+
+  <div class="applicationNaviWrapper">
+    <div class="f_controls_accordion f_fileToLoad_accordionControls"></div>
+    <div id="accordion" class="accordionWrapper">
+
+  <h2><a name="standards" id="standards" shape="rect">Web accessibility standards</a></h2>
+  <p>Web accessibility relies on several components that work together. Some of these include:</p>
+  <ul>
+    <li><strong><a name="webcontent" id="webcontent" shape="rect">Web content</a></strong> - refers to any part of a website, including text, images, forms, and multimedia, as well as any markup code, scripts, applications, and such.</li>
+    <li><strong><a name="useragents" id="useragents" shape="rect">User agents</a></strong> - software that people use to access web content, including desktop graphical browsers, voice browsers, mobile phone browsers, multimedia players, plug-ins, and some <a href="browsing#at" class="termref" title="definition" shape="rect">assistive technologies</a>.</li>
+    <li><strong><a name="authoringtools" id="authoringtools" shape="rect">Authoring tools</a></strong> - software or services that people use to produce web content, including code editors, document conversion tools, content management systems, blogs, database scripts, and other tools.</li>
+  </ul>
+  <h3 class="f_panelHead">More about web accessibility standards</h3>
+  <div>
+    <p>These components inter-relate and support each other. For instance, <strong>web content</strong> needs to include text alternatives for images. This information needs to be processed by <strong>web browsers</strong> and relayed to <strong>assistive technologies</strong>, such as screen readers. In order to create such text alternatives, authors need <strong>authoring tools</strong> that support them to do so. More background is provided in <a href="http://www.w3.org/WAI/intro/components.php" shape="rect">Essential Components of Web Accessibility</a>.</p>
+    <p>Standards play a key role in defining accessibility requirements for each of these components. Some accessibility requirements are easy to meet, yet understanding the basics of how people with disabilities use the Web helps implement them more effectively and efficiently. Some aspects of accessibility require more technical skills or advanced knowledge of how people use the Web. In all cases, <a href="http://www.w3.org/WAI/users/involving" shape="rect">involving users early and throughout your web projects</a> will make your work better and easier.</p>
+    <p>The <acronym>W3C</acronym> Web Accessibility Initiative (<acronym>WAI</acronym>) <a href="http://www.w3.org/WAI/intro/w3c-process.php" shape="rect">develops a set of guidelines</a> that are internationally recognized as the standard for web accessibility. These include:</p>
+    <ul>
+      <li><strong><a href="https://www.w3.org/WAI/intro/wcag.php" shape="rect">Web Content Accessibility Guidelines (WCAG)</a></strong></li>
+      <li><strong><a href="https://www.w3.org/WAI/intro/uaag.php" shape="rect">User Agent Accessibility Guidelines (UAAG)</a></strong></li>
+      <li><strong><a href="https://www.w3.org/WAI/intro/atag.php" shape="rect">Authoring Tool Accessibility Guidelines (ATAG)</a></strong></li>
+    </ul>
+    <p>There is also a <acronym>WAI</acronym> specification for <strong><a href="https://www.w3.org/WAI/intro/aria.php" shape="rect">Accessible Rich Internet Applications (WAI-ARIA)</a></strong>, which include dynamic content and advanced user interface controls developed with Ajax, JavaScript, and related web technologies.</p>
+  </div>
+  <p class="totop"><a href="#toc" shape="rect">back to page contents</a></p>
+
+  <h2><a name="perceivable" id="perceivable" shape="rect">Perceivable information and user interface</a></h2>
+
+  <h3><a name="alternatives" id="alternatives" shape="rect">Text alternatives for non-text content</a></h3>
+  <p>Text alternatives are equivalents for non-text content. Examples include:</p>
+  <ul>
+    <li>Short equivalents for images, including icons, buttons, and graphics;</li>
+    <li>Description of data represented on charts, diagrams, and illustrations;</li>
+    <li>Brief descriptions of non-text content such as audio and video files;</li>
+    <li>Labels for form controls, input, and other user interface components.</li>
+  </ul>
+  <p>Text alternatives convey the purpose of an image or function to provide an equivalent user experience. For instance, an appropriate text alternative for a search button would be "<em>search</em>" rather than "<em>magnifying lens</em>".</p>
+  <p>Text alternatives can be presented in a variety of ways. For instance, they can be read aloud for people who cannot see the screen and for people with reading difficulties, enlarged to custom text-sizes, or displayed on braille devices. Text alternatives serve as labels for controls and functionality to aid keyboard navigation and navigation by voice recognition (speech input). They also serve as labels to identify audio, video, and files in other formats, as well as applications that are embedded as part of a website.</p>
+  <h4 class="f_panelHead">Accessibility requirements related to text alternatives</h4>
+  <div>
+    <p class="listintro"><strong><acronym>WCAG</acronym> 2.0</strong></p>
+    <ul class="listwithp">
+      <li><a href="http://www.w3.org/WAI/WCAG20/quickref/#text-equiv" shape="rect">Guideline 1.1 - Text Alternatives <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+    </ul>
+    <p class="listintro"><strong><acronym>UAAG</acronym> 1.0</strong></p>
+    <ul class="listwithp">
+      <li><a href="http://www.w3.org/TR/UAAG10/guidelines.html#gl-content-access" shape="rect">Guideline 2 - Ensure user access to all content <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+    </ul>
+    <p class="listintro"><strong><acronym>ATAG</acronym> 1.0</strong></p>
+    <ul class="listwithp">
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-access-support" shape="rect">Guideline 1 - Support accessible authoring practices <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-prewritten-descs" shape="rect">Guideline 3 - Support the creation of accessible content <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-make-accessible" shape="rect">Guideline 7 - Ensure that the authoring tool is accessible to authors with disabilities <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+    </ul>
+  </div>
+  <h4 class="f_panelHead"><!-- Sections -->Stories related to text alternatives</h4>
+  <div><!-- 
+    <p class="listintro"><strong>Stories of web users:</strong></p> -->
+    <ul class="listwithp">
+      <li><a href="stories#reporter" shape="rect">Mr. Jones, Reporter with repetitive stress injury</a></li>
+      <li><a href="stories#onlinestudent" shape="rect">Ms. Martinez, Online student who is hard of hearing</a></li>
+      <li><a href="stories#accountant" shape="rect">Ms. Laitinen, Accountant with blindness</a></li>
+      <li><a href="stories#classroomstudent" shape="rect">Ms. Olsen, Classroom student with attention deficit hyperactivity disorder (<acronym>ADHD</acronym>) and dyslexia</a></li>
+      <li><a href="stories#retiree" shape="rect">Mr. Yunus, Retiree with low vision, hand tremor, and mild short-term memory loss</a></li>
+      <li><a href="stories#teenager" shape="rect">Ms. Kaseem, Teenager with deaf-blindness</a></li>
+    </ul><!-- 
+    <p class="listintro"><strong>Diversity of web users:</strong></p>
+    <ul class="listwithp">
+      <li><a href="diversity#auditory" shape="rect">Auditory disabilities</a></li>
+      <li><a href="diversity#cognitive" shape="rect">Cognitive and neurological disabilities</a></li>
+      <li><a href="diversity#physical" shape="rect">Physical disabilities</a></li>
+      <li><a href="diversity#visual" shape="rect">Visual disabilities</a></li>
+    </ul>
+    <p class="listintro"><strong>Diversity in web use:</strong></p>
+    <ul class="listwithp">
+      <li><a href="browsing#format" shape="rect">Braille (Hearing, feeling, and seeing)</a></li>
+      <li><a href="browsing#format" shape="rect">Refreshable braille display (Hearing, feeling, and seeing)</a></li>
+      <li><a href="browsing#format" shape="rect">Screen reader (Hearing, feeling, and seeing)</a></li>
+      <li><a href="browsing#format" shape="rect">Text-to-speech (Hearing, feeling, and seeing)</a></li>
+      <li><a href="browsing#format" shape="rect">Voice browser (Hearing, feeling, and seeing)</a></li>
+      <li><a href="browsing#interaction" shape="rect">Voice recognition (Typing, writing, and clicking)</a></li>
+      <li><a href="browsing#navigation" shape="rect">Keyboard navigation (Navigating and finding content)</a></li>
+    </ul> -->
+  </div>
+  <p class="totop"><a href="#toc" shape="rect">back to page contents</a></p>
+
+  <h3><a name="captions" id="captions" shape="rect">Captions and other alternatives for multimedia</a></h3>
+  <p>People who cannot hear audio or see video need alternatives. Examples of alternatives for audio and video include:</p>
+  <ul>
+    <li>Text transcripts and captions of audio content, such as recordings of people speaking;</li>
+    <li>Audio descriptions, which are narrations to describe important visual details in a video;</li>
+    <li>Sign language interpretation of audio content, including relevant auditory experiences.</li>
+  </ul>
+  <p>Well-written text transcripts containing the correct sequence of any auditory or visual information provide a basic level of accessibility and facilitate the production of captions and audio descriptions.</p>
+  <h4 class="f_panelHead">Accessibility requirements related to multimedia</h4>
+  <div>
+    <p class="listintro"><strong><acronym>WCAG</acronym> 2.0</strong></p>
+    <ul class="listwithp">
+      <li><a href="http://www.w3.org/WAI/WCAG20/quickref/#media-equiv" shape="rect">Guideline 1.2 - Time-based Media <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+    </ul>
+    <p class="listintro"><strong><acronym>UAAG</acronym> 1.0</strong></p>
+    <ul class="listwithp">
+      <li><a href="http://www.w3.org/TR/UAAG10/guidelines.html#gl-content-access" shape="rect">Guideline 2 - Ensure user access to all content <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+    </ul>
+    <p class="listintro"><strong><acronym>ATAG</acronym> 1.0</strong></p>
+    <ul class="listwithp">
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-access-support" shape="rect">Guideline 1 - Support accessible authoring practices <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-prewritten-descs" shape="rect">Guideline 3 - Support the creation of accessible content <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-make-accessible" shape="rect">Guideline 7 - Ensure that the authoring tool is accessible to authors with disabilities <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+    </ul>
+  </div>
+  <h4 class="f_panelHead"><!-- Sections -->Stories related to multimedia</h4>
+  <div><!-- 
+    <p class="listintro"><strong>Stories of web users:</strong></p> -->
+    <ul class="listwithp">
+      <li><a href="stories#onlinestudent" shape="rect">Ms. Martinez, Online student who is hard of hearing</a></li>
+      <li><a href="stories#accountant" shape="rect">Ms. Laitinen, Accountant with blindness</a></li>
+      <li><a href="stories#teenager" shape="rect">Ms. Kaseem, Teenager with deaf-blindness</a></li>
+    </ul><!-- 
+    <p class="listintro"><strong>Diversity of web users:</strong></p>
+    <ul class="listwithp">
+      <li><a href="diversity#auditory" shape="rect">Auditory disabilities</a></li>
+      <li><a href="diversity#cognitive" shape="rect">Cognitive and neurological disabilities</a></li>
+      <li><a href="diversity#visual" shape="rect">Visual disabilities</a></li>
+    </ul>
+    <p class="listintro"><strong>Diversity in web use:</strong></p>
+    <ul class="listwithp">
+      <li><a href="browsing#format" shape="rect">Audio descriptions (Hearing, feeling, and seeing)</a></li>
+      <li><a href="browsing#format" shape="rect">Auditory, tactile, and visual notifications (Hearing, feeling, and seeing)</a></li>
+      <li><a href="browsing#format" shape="rect">Captions (Hearing, feeling, and seeing)</a></li>
+      <li><a href="browsing#format" shape="rect">Transcripts (Hearing, feeling, and seeing)</a></li>
+      <li><a href="browsing#presentation" shape="rect">Sign language (Distinguishing and understanding)</a></li>
+      <li><a href="browsing#presentation" shape="rect">Symbols (Distinguishing and understanding)</a></li>
+    </ul> -->
+  </div>
+  <p class="totop"><a href="#toc" shape="rect">back to page contents</a></p>
+
+  <h3><a name="adaptable" id="adaptable" shape="rect">Content can be presented in different ways</a></h3>
+  <p>In order for users to be able to change the presentation of content, it is necessary that:</p>
+  <ul>
+    <li>Headings, lists, tables, and other structures in the content are marked-up properly;</li>
+    <li>Sequences of information or instructions are independent of any presentation;</li>
+    <li>Browsers and assistive technologies provide settings to customize the presentation.</li>
+  </ul>
+  <p>Meeting this requirement allows content to be correctly read aloud, enlarged, or adapted to meet the needs and preferences of different people. For instance, it can be presented using custom color combinations, text size, or other styling to facilitate reading. This requirement also facilitates other forms of adaptation, including automatic generation of page outlines and summaries to help people get an overview and to focus on particular parts more easily.</p>
+  <h4 class="f_panelHead">Accessibility requirements related to adaptability</h4>
+  <div>
+    <p class="listintro"><strong><acronym>WCAG</acronym> 2.0</strong></p>
+    <ul class="listwithp">
+      <li><a href="http://www.w3.org/WAI/WCAG20/quickref/#content-structure-separation" shape="rect">Guideline 1.3 - Adaptable <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+    </ul>
+    <p class="listintro"><strong><acronym>UAAG</acronym> 1.0</strong></p>
+    <ul class="listwithp">
+      <li><a href="http://www.w3.org/TR/UAAG10/guidelines.html#gl-user-control-styles" shape="rect">Guideline 4 - Ensure user control of rendering <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/UAAG10/guidelines.html#gl-user-control-ui" shape="rect">Guideline 5 - Ensure user control of user interface behavior <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/UAAG10/guidelines.html#gl-configuration" shape="rect">Guideline 11 - Allow configuration and customization <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+    </ul>
+    <p class="listintro"><strong><acronym>ATAG</acronym> 1.0</strong></p>
+    <ul class="listwithp">
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-access-support" shape="rect">Guideline 1 - Support accessible authoring practices <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-language-support" shape="rect">Guideline 2 - Generate standard markup <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-prewritten-descs" shape="rect">Guideline 3 - Support the creation of accessible content <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-make-accessible" shape="rect">Guideline 7 - Ensure that the authoring tool is accessible to authors with disabilities <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+    </ul>
+  </div>
+  <h4 class="f_panelHead"><!-- Sections -->Stories related to adaptability</h4>
+  <div><!-- 
+    <p class="listintro"><strong>Stories of web users:</strong></p> -->
+    <ul class="listwithp">
+      <li><a href="stories#shopper" shape="rect">Mr. Lee, Online shopper with color blindness</a></li>
+      <li><a href="stories#reporter" shape="rect">Mr. Jones, Reporter with repetitive stress injury</a></li>
+      <li><a href="stories#accountant" shape="rect">Ms. Laitinen, Accountant with blindness</a></li>
+      <li><a href="stories#classroomstudent" shape="rect">Ms. Olsen, Classroom student with attention deficit hyperactivity disorder (<acronym>ADHD</acronym>) and dyslexia</a></li>
+      <li><a href="stories#retiree" shape="rect">Mr. Yunus, Retiree with low vision, hand tremor, and mild short-term memory loss</a></li>
+      <li><a href="stories#supermarketassistant" shape="rect">Mr. Sands, Supermarket assistant with Down syndrome</a></li>
+      <li><a href="stories#teenager" shape="rect">Ms. Kaseem, Teenager with deaf-blindness</a></li>
+    </ul><!-- 
+    <p class="listintro"><strong>Diversity of web users:</strong></p>
+    <ul class="listwithp">
+      <li><a href="diversity#cognitive" shape="rect">Cognitive and neurological disabilities</a></li>
+      <li><a href="diversity#physical" shape="rect">Physical disabilities</a></li>
+      <li><a href="diversity#visual" shape="rect">Visual disabilities</a></li>
+    </ul>
+    <p class="listintro"><strong>Diversity in web use:</strong></p>
+    <ul class="listwithp">
+      <li><a href="browsing#format" shape="rect">Braille (Hearing, feeling, and seeing)</a></li>
+      <li><a href="browsing#format" shape="rect">Refreshable braille display (Hearing, feeling, and seeing)</a></li>
+      <li><a href="browsing#format" shape="rect">Screen reader (Hearing, feeling, and seeing)</a></li>
+      <li><a href="browsing#format" shape="rect">Text-to-speech (Hearing, feeling, and seeing)</a></li>
+      <li><a href="browsing#format" shape="rect">Voice browser (Hearing, feeling, and seeing)</a></li>
+      <li><a href="browsing#presentation" shape="rect">Reading assistants (Distinguishing and understanding)</a></li>
+      <li><a href="browsing#presentation" shape="rect">Screen magnification (Distinguishing and understanding)</a></li>
+      <li><a href="browsing#presentation" shape="rect">Screen magnifier (Distinguishing and understanding)</a></li>
+      <li><a href="browsing#presentation" shape="rect">Sign language (Distinguishing and understanding)</a></li>
+      <li><a href="browsing#presentation" shape="rect">Symbols (Distinguishing and understanding)</a></li>
+    </ul> -->
+  </div>
+  <p class="totop"><a href="#toc" shape="rect">back to page contents</a></p>
+
+  <h3><a name="distinguishable" id="distinguishable" shape="rect">Content is easier to see and hear</a></h3>
+  <p>Distinguishable content is easier to see and hear. This includes:</p>
+  <ul>
+    <li>Color is not used as the only way of conveying information or identifying content;</li>
+    <li>Default foreground and background color combinations provide sufficient contrast;</li>
+    <li>Text is resizable up to 200% without losing information, using a standard browser;</li>
+    <li>Images of text are resizable, replaced with actual text, or avoided where possible;</li>
+    <li>Users can pause, stop, or adjust the volume of audio that is played on a website;</li>
+    <li>Background audio is low, or can be turned off, to avoid interference or distraction.</li>
+  </ul>
+  <p>Meeting this requirement helps separate foreground from background, to make important information more distinguishable. This includes considerations for people who do not use assistive technologies and for people using assistive technologies who may observe interference from prominent audio or visual content in the background. For instance, many people with color blindness do not use any particular tools and rely on proper design that provides sufficient color contrast between text and its surrounding background. For others, audio that is automatically played could interfere with text-to-speech or with <a href="http://www.w3.org/WAI/training/accessible#ald" class="termref" title="definition" shape="rect">assistive listening devices (<acronym>ALD</acronym>s)</a>.</p>
+  <h4 class="f_panelHead">Accessibility requirements related to distinguishability</h4>
+  <div>
+    <p class="listintro"><strong><acronym>WCAG</acronym> 2.0</strong></p>
+    <ul class="listwithp">
+      <li><a href="http://www.w3.org/WAI/WCAG20/quickref/#visual-audio-contrast" shape="rect">Guideline 1.4 - Distinguishable <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+    </ul>
+    <p class="listintro"><strong><acronym>UAAG</acronym> 1.0</strong></p>
+    <ul class="listwithp">
+      <li><a href="http://www.w3.org/TR/UAAG10/guidelines.html#gl-feature-on-off" shape="rect">Guideline 3 - Allow configuration not to render some content that may reduce accessibility <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/UAAG10/guidelines.html#gl-user-control-styles" shape="rect">Guideline 4 - Ensure user control of rendering <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/UAAG10/guidelines.html#gl-user-control-ui" shape="rect">Guideline 5 - Ensure user control of user interface behavior <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/UAAG10/guidelines.html#gl-configuration" shape="rect">Guideline 11 - Allow configuration and customization <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+    </ul>
+    <p class="listintro"><strong><acronym>ATAG</acronym> 1.0</strong></p>
+    <ul class="listwithp">
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-access-support" shape="rect">Guideline 1 - Support accessible authoring practices <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-prewritten-descs" shape="rect">Guideline 3 - Support the creation of accessible content <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-make-accessible" shape="rect">Guideline 7 - Ensure that the authoring tool is accessible to authors with disabilities <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+    </ul>
+  </div>
+  <h4 class="f_panelHead"><!-- Sections -->Stories related to distinguishability</h4>
+  <div><!-- 
+    <p class="listintro"><strong>Stories of web users:</strong></p> -->
+    <ul class="listwithp">
+      <li><a href="stories#shopper" shape="rect">Mr. Lee, Online shopper with color blindness</a></li>
+      <li><a href="stories#onlinestudent" shape="rect">Ms. Martinez, Online student who is hard of hearing</a></li>
+      <li><a href="stories#accountant" shape="rect">Ms. Laitinen, Accountant with blindness</a></li>
+      <li><a href="stories#retiree" shape="rect">Mr. Yunus, Retiree with low vision, hand tremor, and mild short-term memory loss</a></li>
+      <li><a href="stories#teenager" shape="rect">Ms. Kaseem, Teenager with deaf-blindness</a></li>
+    </ul><!-- 
+    <p class="listintro"><strong>Diversity of web users:</strong></p>
+    <ul class="listwithp">
+      <li><a href="diversity#auditory" shape="rect">Auditory disabilities</a></li>
+      <li><a href="diversity#cognitive" shape="rect">Cognitive and neurological disabilities</a></li>
+      <li><a href="diversity#visual" shape="rect">Visual disabilities</a></li>
+    </ul>
+    <p class="listintro"><strong>Diversity in web use:</strong></p>
+    <ul class="listwithp">
+      <li><a href="browsing#format" shape="rect">Screen reader (Hearing, feeling, and seeing)</a></li>
+      <li><a href="browsing#format" shape="rect">Text-to-speech (Hearing, feeling, and seeing)</a></li>
+      <li><a href="browsing#format" shape="rect">Voice browser (Hearing, feeling, and seeing)</a></li>
+      <li><a href="browsing#presentation" shape="rect">Customized fonts and colors (Distinguishing and understanding)</a></li>
+      <li><a href="browsing#presentation" shape="rect">Reading assistants (Distinguishing and understanding)</a></li>
+      <li><a href="browsing#presentation" shape="rect">Screen magnification (Distinguishing and understanding)</a></li>
+      <li><a href="browsing#presentation" shape="rect">Screen magnifier (Distinguishing and understanding)</a></li>
+      <li><a href="browsing#navigation" shape="rect">Visual orientation cues (Navigating and finding content)</a></li>
+    </ul> -->
+  </div>
+  <p class="totop"><a href="#toc" shape="rect">back to page contents</a></p>
+
+  <h2><a name="operable" id="operable" shape="rect">Operable user interface and navigation</a></h2>
+
+  <h3><a name="keyboard" id="keyboard" shape="rect">Functionality is available from a keyboard</a></h3>
+  <p>Many people do not use the mouse and rely on the keyboard to interact with the Web. This requires keyboard access to all functionality, including form controls, input, and other user interface components.</p>
+  <p>Keyboard accessibility includes:</p>
+  <ul>
+    <li>All functionality that is available by mouse is also available by keyboard;</li>
+    <li>Keyboard focus does not get trapped in any part of the content;</li>
+    <li>Web browsers, authoring tools, and other tools provide keyboard support.</li>
+  </ul>
+  <p>Meeting this requirement helps keyboard users, including people using alternative keyboards such as keyboards with ergonomic layouts, on-screen keyboards, or switch devices. It also helps people using voice recognition (speech input) to operate websites and to dictate text through the keyboard interface.</p>
+  <h4 class="f_panelHead">Accessibility requirements related to keyboard accessibility</h4>
+  <div>
+    <p class="listintro"><strong><acronym>WCAG</acronym> 2.0</strong></p>
+    <ul class="listwithp">
+      <li><a href="http://www.w3.org/WAI/WCAG20/quickref/#keyboard-operation" shape="rect">Guideline 2.1 - Keyboard accessible <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+    </ul>
+    <p class="listintro"><strong><acronym>UAAG</acronym> 1.0</strong></p>
+    <ul class="listwithp">
+      <li><a href="http://www.w3.org/TR/UAAG10/guidelines.html#gl-device-independence" shape="rect">Guideline 1 - Support input and output device-independence <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/UAAG10/guidelines.html#gl-conventions" shape="rect">Guideline 7 - Observe operating environment conventions <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/UAAG10/guidelines.html#gl-implement-access-features" shape="rect">Guideline 8 - Implement specifications that benefit accessibility <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+    </ul>
+    <p class="listintro"><strong><acronym>ATAG</acronym> 1.0</strong></p>
+    <ul class="listwithp">
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-access-support" shape="rect">Guideline 1 - Support accessible authoring practices <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-prewritten-descs" shape="rect">Guideline 3 - Support the creation of accessible content <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-make-accessible" shape="rect">Guideline 7 - Ensure that the authoring tool is accessible to authors with disabilities <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+    </ul>
+  </div>
+  <h4 class="f_panelHead"><!-- Sections -->Stories related to keyboard accessibility</h4>
+  <div><!-- 
+    <p class="listintro"><strong>Stories of web users:</strong></p> -->
+    <ul class="listwithp">
+      <li><a href="stories#reporter" shape="rect">Mr. Jones, Reporter with repetitive stress injury</a></li>
+      <li><a href="stories#accountant" shape="rect">Ms. Laitinen, Accountant with blindness</a></li>
+    </ul><!-- 
+    <p class="listintro"><strong>Diversity of web users:</strong></p>
+    <ul class="listwithp">
+      <li><a href="diversity#physical" shape="rect">Physical disabilities</a></li>
+      <li><a href="diversity#visual" shape="rect">Visual disabilities</a></li>
+    </ul>
+    <p class="listintro"><strong>Diversity in web use:</strong></p>
+    <ul class="listwithp">
+      <li><a href="browsing#interaction" shape="rect">Accelerators (Typing, writing, and clicking)</a></li>
+      <li><a href="browsing#interaction" shape="rect">Alternative keyboard and mouse (Typing, writing, and clicking)</a></li>
+      <li><a href="browsing#interaction" shape="rect">Eye tracking (Typing, writing, and clicking)</a></li>
+      <li><a href="browsing#interaction" shape="rect">Keyboard customization (Typing, writing, and clicking)</a></li>
+      <li><a href="browsing#interaction" shape="rect">Keyboard and mouse filters (Typing, writing, and clicking)</a></li>
+      <li><a href="browsing#navigation" shape="rect">Keyboard navigation (Navigating and finding content)</a></li>
+      <li><a href="browsing#navigation" shape="rect">Skip links (Navigating and finding content)</a></li>
+    </ul> -->
+  </div>
+  <p class="totop"><a href="#toc" shape="rect">back to page contents</a></p>
+
+  <h3><a name="time" id="time" shape="rect">Users have enough time to read and use the content</a></h3>
+  <p>Some people need more time than others to read and use the content. For instance, some people need more time to type text, understand instructions, operate controls, or to otherwise complete tasks on a website.</p>
+  <p>Examples of providing enough time include providing mechanisms to:</p>
+  <ul>
+    <li>Stop, extend, or adjust time limits, except where necessary;</li>
+    <li>Pause, stop, or hide moving, blinking, or scrolling content;</li>
+    <li>Postpone or suppress interruptions, except where necessary;</li>
+    <li>Re-authenticate when a session expires without losing data.</li>
+  </ul>
+  <h4 class="f_panelHead">Accessibility requirements related to sufficient time</h4>
+  <div>
+    <p class="listintro"><strong><acronym>WCAG</acronym> 2.0</strong></p>
+    <ul class="listwithp">
+      <li><a href="http://www.w3.org/WAI/WCAG20/quickref/#time-limits" shape="rect">Guideline 2.2 - Enough time <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+    </ul>
+    <p class="listintro"><strong><acronym>UAAG</acronym> 1.0</strong></p>
+    <ul class="listwithp">
+      <li><a href="http://www.w3.org/TR/UAAG10/guidelines.html#gl-content-access" shape="rect">Guideline 2 - Ensure user access to all content <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/UAAG10/guidelines.html#gl-feature-on-off" shape="rect">Guideline 3 - Allow configuration not to render some content that may reduce accessibility <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/UAAG10/guidelines.html#gl-user-control-styles" shape="rect">Guideline 4 - Ensure user control of rendering <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/UAAG10/guidelines.html#gl-user-control-ui" shape="rect">Guideline 5 - Ensure user control of user interface behavior <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+    </ul>
+    <p class="listintro"><strong><acronym>ATAG</acronym> 1.0</strong></p>
+    <ul class="listwithp">
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-access-support" shape="rect">Guideline 1 - Support accessible authoring practices <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-prewritten-descs" shape="rect">Guideline 3 - Support the creation of accessible content <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-make-accessible" shape="rect">Guideline 7 - Ensure that the authoring tool is accessible to authors with disabilities <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+    </ul>
+  </div>
+  <h4 class="f_panelHead"><!-- Sections -->Stories related to sufficient time</h4>
+  <div><!-- 
+    <p class="listintro"><strong>Stories of web users:</strong></p> -->
+    <ul class="listwithp">
+      <li><a href="stories#reporter" shape="rect">Mr. Jones, Reporter with repetitive stress injury</a></li>
+      <li><a href="stories#classroomstudent" shape="rect">Ms. Olsen, Classroom student with attention deficit hyperactivity disorder (<acronym>ADHD</acronym>) and dyslexia</a></li>
+      <li><a href="stories#retiree" shape="rect">Mr. Yunus, Retiree with low vision, hand tremor, and mild short-term memory loss</a></li>
+      <li><a href="stories#supermarketassistant" shape="rect">Mr. Sands, Supermarket assistant with Down syndrome</a></li>
+      <li><a href="stories#teenager" shape="rect">Ms. Kaseem, Teenager with deaf-blindness</a></li>
+    </ul><!-- 
+    <p class="listintro"><strong>Diversity of web users:</strong></p>
+    <ul class="listwithp">
+      <li><a href="diversity#cognitive" shape="rect">Cognitive and neurological disabilities</a></li>
+      <li><a href="diversity#physical" shape="rect">Physical disabilities</a></li>
+      <li><a href="diversity#visual" shape="rect">Visual disabilities</a></li>
+    </ul>
+    <p class="listintro"><strong>Diversity in web use:</strong></p>
+    <ul class="listwithp">
+      <li><a href="browsing#interaction" shape="rect">Accelerators (Typing, writing, and clicking)</a></li>
+      <li><a href="browsing#interaction" shape="rect">Alternative keyboard and mouse (Typing, writing, and clicking)</a></li>
+      <li><a href="browsing#interaction" shape="rect">Eye tracking (Typing, writing, and clicking)</a></li>
+      <li><a href="browsing#interaction" shape="rect">Keyboard customization (Typing, writing, and clicking)</a></li>
+      <li><a href="browsing#interaction" shape="rect">Keyboard and mouse filters (Typing, writing, and clicking)</a></li>
+      <li><a href="browsing#interaction" shape="rect">Mouse customization (Typing, writing, and clicking)</a></li>
+      <li><a href="browsing#interaction" shape="rect">On-screen keyboard (Typing, writing, and clicking)</a></li>
+      <li><a href="browsing#interaction" shape="rect">Spelling and grammar tools (Typing, writing, and clicking)</a></li>
+      <li><a href="browsing#interaction" shape="rect">Voice recognition (Typing, writing, and clicking)</a></li>
+      <li><a href="browsing#interaction" shape="rect">Word prediction (Typing, writing, and clicking)</a></li>
+      <li><a href="browsing#navigation" shape="rect">Keyboard navigation (Navigating and finding content)</a></li>
+      <li><a href="browsing#navigation" shape="rect">Skip links (Navigating and finding content)</a></li>
+    </ul> -->
+  </div>
+  <p class="totop"><a href="#toc" shape="rect">back to page contents</a></p>
+
+  <h3><a name="safe" id="safe" shape="rect">Content does not cause seizures</a></h3>
+  <p>Content that flashes at certain rates or patterns can cause photo-sensitive reactions, including seizures. Flashing content is ideally avoided entirely, or only used in a way that does not cause known risks.</p>
+  <h4 class="f_panelHead">Accessibility requirements related to seizures</h4>
+  <div>
+    <p class="listintro"><strong><acronym>WCAG</acronym> 2.0</strong></p>
+    <ul class="listwithp">
+      <li><a href="http://www.w3.org/WAI/WCAG20/quickref/#seizure" shape="rect">Guideline 2.3 - Seizures <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+    </ul>
+    <p class="listintro"><strong><acronym>UAAG</acronym> 1.0</strong></p>
+    <ul class="listwithp">
+      <li><a href="http://www.w3.org/TR/UAAG10/guidelines.html#gl-feature-on-off" shape="rect">Guideline  3 - Allow configuration not to render some content that may reduce accessibility <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+    </ul>
+    <p class="listintro"><strong><acronym>ATAG</acronym> 1.0</strong></p>
+    <ul class="listwithp">
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-access-support" shape="rect">Guideline 1 - Support accessible authoring practices <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-prewritten-descs" shape="rect">Guideline 3 - Support the creation of accessible content <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-make-accessible" shape="rect">Guideline 7 - Ensure that the authoring tool is accessible to authors with disabilities <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+    </ul>
+  </div>
+  <p class="totop"><a href="#toc" shape="rect">back to page contents</a></p>
+
+  <h3><a name="navigable" id="navigable" shape="rect">Users can easily navigate, find content, and determine where they are</a></h3>
+  <p>Content that is well organized helps users to orient themselves and to navigate effectively. This includes:</p>
+  <ul>
+    <li>Pages have clear titles and are organized using descriptive section headings;</li>
+    <li>There is more than one way to find relevant pages within a set of web pages;</li>
+    <li>Users are informed about their current location within a set of related pages;</li>
+<!--//
+    <li>There are ways to bypass <a href="#blocks" class="termref" title="definition">blocks of content</a> that are repeated on multiple pages</li>
+    <li>The <a href="#focus" class="termref" title="definition">keyboard focus</a> is visible and the focus order follows a meaningful sequence</li>
+//-->
+<!--//
+    <li>There are ways to bypass blocks of content (such as the header area or navigation bar) that are repeated on multiple pages</li>
+    <li>The keyboard focus (that shows what component on the web page has focus) is visible and the focus order follows a meaningful sequence</li>
+//-->
+    <li>There are ways to bypass blocks of content that are repeated on multiple pages;</li>
+    <li>The keyboard focus is visible and the focus order follows a meaningful sequence;</li>
+    <li>The purpose of a link is clear, ideally even when the link is viewed on its own.</li>
+  </ul>
+  <p>Meeting this requirement helps people to navigate through web pages in different ways, depending on their particular needs and preferences. For instance, while some people rely on hierarchical navigation structures such as menu bars to find specific web pages, others rely on search functions on websites instead. Some people may be seeing the content while others may be hearing it, or seeing and hearing it at the same time. Some people may be using the content with only a mouse or a keyboard, while others may be using both.</p>
+<!--//
+  <h4>Terminology</h4>
+  <ul>
+    <li><strong><a name="blocks" id="blocks">Blocks of content</a></strong> - significant parts of a web page, such as the header area or a navigation bar.</li>
+    <li><strong><a name="focus" id="focus">Keyboard focus</a></strong> - the indicator signalling the component of a web page that currently has focus.</li>
+  </ul>
+  <p class="open">[@@ Editor note: these definitions could also be footnotes or in-line examples (if necessary).]</p>
+//-->
+  <h4 class="f_panelHead">Accessibility requirements related to navigation</h4>
+  <div>
+    <p class="listintro"><strong><acronym>WCAG</acronym> 2.0</strong></p>
+    <ul class="listwithp">
+      <li><a href="http://www.w3.org/WAI/WCAG20/quickref/#navigation-mechanisms" shape="rect">Guideline 2.4 - Navigable <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+    </ul>
+    <p class="listintro"><strong><acronym>UAAG</acronym> 1.0</strong></p>
+    <ul class="listwithp">
+      <li><a href="http://www.w3.org/TR/UAAG10/guidelines.html#gl-navigation" shape="rect">Guideline 9 - Provide navigation mechanisms <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/UAAG10/guidelines.html#gl-orientation" shape="rect">Guideline 10 - Orient the user</a> <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></li>
+    </ul>
+    <p class="listintro"><strong><acronym>ATAG</acronym> 1.0</strong></p>
+    <ul class="listwithp">
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-access-support" shape="rect">Guideline 1 - Support accessible authoring practices <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-prewritten-descs" shape="rect">Guideline 3 - Support the creation of accessible content <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-make-accessible" shape="rect">Guideline 7 - Ensure that the authoring tool is accessible to authors with disabilities <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+    </ul>
+  </div>
+  <h4 class="f_panelHead"><!-- Sections -->Stories related to navigation</h4>
+  <div><!-- 
+    <p class="listintro"><strong>Stories of web users:</strong></p> -->
+    <ul class="listwithp">
+      <li><a href="stories#reporter" shape="rect">Mr. Jones, Reporter with repetitive stress injury</a></li>
+      <li><a href="stories#accountant" shape="rect">Ms. Laitinen, Accountant with blindness</a></li>
+      <li><a href="stories#classroomstudent" shape="rect">Ms. Olsen, Classroom student with attention deficit hyperactivity disorder (<acronym>ADHD</acronym>) and dyslexia</a></li>
+      <li><a href="stories#retiree" shape="rect">Mr. Yunus, Retiree with low vision, hand tremor, and mild short-term memory loss</a></li>
+      <li><a href="stories#supermarketassistant" shape="rect">Mr. Sands, Supermarket assistant with Down syndrome</a></li>
+      <li><a href="stories#teenager" shape="rect">Ms. Kaseem, Teenager with deaf-blindness</a></li>
+    </ul><!-- 
+    <p class="listintro"><strong>Diversity of web users:</strong></p>
+    <ul class="listwithp">
+      <li><a href="diversity#cognitive" shape="rect">Cognitive and neurological disabilities</a></li>
+      <li><a href="diversity#physical" shape="rect">Physical disabilities</a></li>
+      <li><a href="diversity#visual" shape="rect">Visual disabilities</a></li>
+    </ul>
+    <p class="listintro"><strong>Diversity in web use:</strong></p>
+    <ul class="listwithp">
+      <li><a href="browsing#navigation" shape="rect">Bookmarks and history (Navigating and finding content)</a></li>
+      <li><a href="browsing#navigation" shape="rect">Consistency and predictability (Navigating and finding content)</a></li>
+      <li><a href="browsing#navigation" shape="rect">Descriptive titles, headings, and labels (Navigating and finding content)</a></li>
+      <li><a href="browsing#navigation" shape="rect">Helpful error and success messages (Navigating and finding content)</a></li>
+      <li><a href="browsing#navigation" shape="rect">Keyword search (Navigating and finding content)</a></li>
+      <li><a href="browsing#navigation" shape="rect">Multiple navigation mechanisms (Navigating and finding content)</a></li>
+      <li><a href="browsing#navigation" shape="rect">Page maps (Navigating and finding content)</a></li>
+      <li><a href="browsing#navigation" shape="rect">Pictorial links (Navigating and finding content)</a></li>
+      <li><a href="browsing#navigation" shape="rect">Visual orientation cues (Navigating and finding content)</a></li>
+    </ul> -->
+  </div>
+  <p class="totop"><a href="#toc" shape="rect">back to page contents</a></p>
+
+  <h2><a name="understandable" id="understandable" shape="rect">Understandable information and user interface</a></h2>
+
+  <h3><a name="readable" id="readable" shape="rect">Text is readable and understandable</a></h3>
+  <p>Content authors need to ensure that text content is readable and understandable to the broadest audience possible, including when it is read aloud by text-to-speech. This includes:</p>
+  <ul>
+    <li>Identifying the primary language of a web page, such as Arabic, Dutch, or Korean;</li>
+    <li>Identifying the language of text passages, phrases, or other parts of a web page;</li>
+    <li>Providing definitions for any unusual words, phrases, idioms, and abbreviations;</li>
+    <li>Using the clearest and simplest language possible, or providing simplified versions.</li>
+  </ul>
+  <p>Meeting this requirement helps software, including assistive technology, to process text content correctly. For instance, this requirement helps software to read the content aloud, to generate page summaries, and to provide definitions for unusual words such as technical jargon. It also helps people who have difficulty understanding more complex sentences, phrases, and vocabulary. In particular, it helps people with different types of cognitive disabilities.</p>
+  <h4 class="f_panelHead">Accessibility requirements related to readability</h4>
+  <div>
+    <p class="listintro"><strong><acronym>WCAG</acronym> 2.0</strong></p>
+    <ul class="listwithp">
+      <li><a href="http://www.w3.org/WAI/WCAG20/quickref/#meaning" shape="rect">Guideline 3.1 - Readable <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+    </ul>
+    <p class="listintro"><strong><acronym>UAAG</acronym> 1.0</strong></p>
+    <ul class="listwithp">
+      <li><a href="http://www.w3.org/TR/UAAG10/guidelines.html#gl-content-access" shape="rect">Guideline 2 - Ensure user access to all content <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/UAAG10/guidelines.html#gl-user-control-styles" shape="rect">Guideline 4 - Ensure user control of rendering <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+    </ul>
+    <p class="listintro"><strong><acronym>ATAG</acronym> 1.0</strong></p>
+    <ul class="listwithp">
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-access-support" shape="rect">Guideline 1 - Support accessible authoring practices <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-language-support" shape="rect">Guideline 2 - Generate standard markup <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-prewritten-descs" shape="rect">Guideline 3 - Support the creation of accessible content <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-make-accessible" shape="rect">Guideline 7 - Ensure that the authoring tool is accessible to authors with disabilities <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+    </ul>
+  </div>
+  <h4 class="f_panelHead"><!-- Sections -->Stories related to readability</h4>
+  <div><!-- 
+    <p class="listintro"><strong>Stories of web users:</strong></p> -->
+    <ul class="listwithp">
+      <li><a href="stories#onlinestudent" shape="rect">Ms. Martinez, Online student who is hard of hearing</a></li>
+      <li><a href="stories#accountant" shape="rect">Ms. Laitinen, Accountant with blindness</a></li>
+      <li><a href="stories#classroomstudent" shape="rect">Ms. Olsen, Classroom student with attention deficit hyperactivity disorder (<acronym>ADHD</acronym>) and dyslexia</a></li>
+      <li><a href="stories#retiree" shape="rect">Mr. Yunus, Retiree with low vision, hand tremor, and mild short-term memory loss</a></li>
+      <li><a href="stories#supermarketassistant" shape="rect">Mr. Sands, Supermarket assistant with Down syndrome</a></li>
+    </ul><!-- 
+    <p class="listintro"><strong>Diversity of web users:</strong></p>
+    <ul class="listwithp">
+      <li><a href="diversity#auditory" shape="rect">Auditory disabilities</a></li>
+      <li><a href="diversity#cognitive" shape="rect">Cognitive and neurological disabilities</a></li>
+      <li><a href="diversity#visual" shape="rect">Visual disabilities</a></li>
+    </ul>
+    <p class="listintro"><strong>Diversity in web use:</strong></p>
+    <ul class="listwithp">
+      <li><a href="browsing#format" shape="rect">Screen reader (Hearing, feeling, and seeing)</a></li>
+      <li><a href="browsing#format" shape="rect">Text-to-speech (Hearing, feeling, and seeing)</a></li>
+      <li><a href="browsing#format" shape="rect">Voice browser (Hearing, feeling, and seeing)</a></li>
+      <li><a href="browsing#presentation" shape="rect">Reading assistants (Distinguishing and understanding)</a></li>
+      <li><a href="browsing#presentation" shape="rect">Sign language (Distinguishing and understanding)</a></li>
+      <li><a href="browsing#presentation" shape="rect">Symbols (Distinguishing and understanding)</a></li>
+    </ul> -->
+  </div>
+  <p class="totop"><a href="#toc" shape="rect">back to page contents</a></p>
+
+  <h3><a name="predictable" id="predictable" shape="rect">Content appears and operates in predictable ways</a></h3>
+  <p>Many people rely on predictable user interfaces and are disoriented or distracted by inconsistent appearance or behavior. Examples of making content more predictable include:</p>
+  <ul>
+    <li>Navigation mechanisms that are repeated on multiple pages appear in the same place each time;</li>
+    <li>User interface components that are repeated on web pages have the same labelling each time;</li>
+    <li>Significant changes on a web page do not happen without the consent of the user.</li>
+  </ul>
+  <p>Meeting this requirement helps people to quickly learn the functionality and navigation mechanisms provided on a website, and to operate them according to their specific needs and preferences. For instance, some people assign personalized shortcut keys to functions they frequently use to enhance keyboard navigation. Others memorize the steps to reach certain pages or to complete processes on a website. Both rely on predictable and consistent functionality.</p>
+  <h4 class="f_panelHead">Accessibility requirements related to predictability</h4>
+  <div>
+    <p class="listintro"><strong><acronym>WCAG</acronym> 2.0</strong></p>
+    <ul class="listwithp">
+      <li><a href="http://www.w3.org/WAI/WCAG20/quickref/#consistent-behavior" shape="rect">Guideline 3.2 - Predictable <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+    </ul>
+    <p class="listintro"><strong><acronym>UAAG</acronym> 1.0</strong></p>
+    <ul class="listwithp">
+      <li><a href="http://www.w3.org/TR/UAAG10/guidelines.html#gl-feature-on-off" shape="rect">Guideline 3 - Allow configuration not to render some content that may reduce accessibility <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/UAAG10/guidelines.html#gl-user-control-styles" shape="rect">Guideline 4 - Ensure user control of rendering <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/UAAG10/guidelines.html#gl-conventions" shape="rect">Guideline 7 - Observe operating environment conventions <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+    </ul>
+    <p class="listintro"><strong><acronym>ATAG</acronym> 1.0</strong></p>
+    <ul class="listwithp">
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-access-support" shape="rect">Guideline 1 - Support accessible authoring practices <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-prewritten-descs" shape="rect">Guideline 3 - Support the creation of accessible content <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-integrate-naturally" shape="rect">Guideline 5 - Integrate accessibility solutions into the overall "look and feel" <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-make-accessible" shape="rect">Guideline 7 - Ensure that the authoring tool is accessible to authors with disabilities <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+    </ul>
+  </div>
+  <h4 class="f_panelHead"><!-- Sections -->Stories related to predictability</h4>
+  <div><!-- 
+    <p class="listintro"><strong>Stories of web users:</strong></p> -->
+    <ul class="listwithp">
+      <li><a href="stories#reporter" shape="rect">Mr. Jones, Reporter with repetitive stress injury</a></li>
+      <li><a href="stories#accountant" shape="rect">Ms. Laitinen, Accountant with blindness</a></li>
+      <li><a href="stories#classroomstudent" shape="rect">Ms. Olsen, Classroom student with attention deficit hyperactivity disorder (<acronym>ADHD</acronym>) and dyslexia</a></li>
+      <li><a href="stories#retiree" shape="rect">Mr. Yunus, Retiree with low vision, hand tremor, and mild short-term memory loss</a></li>
+      <li><a href="stories#supermarketassistant" shape="rect">Mr. Sands, Supermarket assistant with Down syndrome</a></li>
+      <li><a href="stories#teenager" shape="rect">Ms. Kaseem, Teenager with deaf-blindness</a></li>
+    </ul><!-- 
+    <p class="listintro"><strong>Diversity of web users:</strong></p>
+    <ul class="listwithp">
+      <li><a href="diversity#cognitive" shape="rect">Cognitive and neurological disabilities</a></li>
+      <li><a href="diversity#physical" shape="rect">Physical disabilities</a></li>
+      <li><a href="diversity#visual" shape="rect">Visual disabilities</a></li>
+    </ul>
+    <p class="listintro"><strong>Diversity in web use:</strong></p>
+    <ul class="listwithp">
+      <li><a href="browsing#presentation" shape="rect">Document outline (Distinguishing and understanding)</a></li>
+      <li><a href="browsing#presentation" shape="rect">Easy-to-read text (Distinguishing and understanding)</a></li>
+      <li><a href="browsing#presentation" shape="rect">Progressive disclosure (Distinguishing and understanding)</a></li>
+      <li><a href="browsing#presentation" shape="rect">Reading assistants (Distinguishing and understanding)</a></li>
+      <li><a href="browsing#presentation" shape="rect">Reduced interface (Distinguishing and understanding)</a></li>
+      <li><a href="browsing#navigation" shape="rect">Consistency and predictability (Navigating and finding content)</a></li>
+      <li><a href="browsing#navigation" shape="rect">Descriptive titles, headings, and labels (Navigating and finding content)</a></li>
+    </ul> -->
+  </div>
+  <p class="totop"><a href="#toc" shape="rect">back to page contents</a></p>
+
+  <h3><a name="tolerant" id="tolerant" shape="rect">Users are helped to avoid and correct mistakes</a></h3>
+  <p>Forms and other interaction can be confusing or difficult to use for many people, and, as a result, they may be more likely to make mistakes. Examples of helping users to avoid and correct mistakes include:</p>
+  <ul>
+    <li>Descriptive instructions, error messages, and suggestions for correction;</li>
+    <li>Context-sensitive help for more complex functionality and interaction;</li>
+    <li>Opportunity to review, correct, or reverse submissions if necessary.</li>
+  </ul>
+  <p>Meeting this requirement helps people who do not see or hear the content, and may not recognize implicit relationships, sequences, and other cues. It also helps people who do not understand the functionality, are disoriented or confused, forget, or make mistakes using forms and interaction for any other reason.</p>
+  <h4 class="f_panelHead">Accessibility requirements related to input assistance</h4>
+  <div>
+    <p class="listintro"><strong><acronym>WCAG</acronym> 2.0</strong></p>
+    <ul class="listwithp">
+      <li><a href="http://www.w3.org/WAI/WCAG20/quickref/#minimize-error" shape="rect">Guideline 3.3 - Input assistance <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+    </ul>
+    <p class="listintro"><strong><acronym>UAAG</acronym> 1.0</strong></p>
+    <ul class="listwithp">
+      <li><a href="http://www.w3.org/TR/UAAG10/guidelines.html#gl-documentation" shape="rect">Guideline 12 - Provide accessible user agent documentation and help <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+    </ul>
+    <p class="listintro"><strong><acronym>ATAG</acronym> 1.0</strong></p>
+    <ul class="listwithp">
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-access-support" shape="rect">Guideline 1 - Support accessible authoring practices <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-prewritten-descs" shape="rect">Guideline 3 - Support the creation of accessible content <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-identify-markup" shape="rect">Guideline 4 - Provide ways of checking and correcting inaccessible content <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-integrate-naturally" shape="rect">Guideline 5 - Integrate accessibility solutions into the overall "look and feel" <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-provide-help" shape="rect">Guideline 6 - Promote accessibility in help and documentation <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-make-accessible" shape="rect">Guideline 7 - Ensure that the authoring tool is accessible to authors with disabilities <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+    </ul>
+  </div>
+  <h4 class="f_panelHead"><!-- Sections -->Stories related to input assistance</h4>
+  <div><!-- 
+    <p class="listintro"><strong>Stories of web users:</strong></p> -->
+    <ul class="listwithp">
+      <li><a href="stories#shopper" shape="rect">Mr. Lee, Online shopper with color blindness</a></li>
+      <li><a href="stories#reporter" shape="rect">Mr. Jones, Reporter with repetitive stress injury</a></li>
+      <li><a href="stories#classroomstudent" shape="rect">Ms. Olsen, Classroom student with attention deficit hyperactivity disorder (<acronym>ADHD</acronym>) and dyslexia</a></li>
+      <li><a href="stories#retiree" shape="rect">Mr. Yunus, Retiree with low vision, hand tremor, and mild short-term memory loss</a></li>
+      <li><a href="stories#supermarketassistant" shape="rect">Mr. Sands, Supermarket assistant with Down syndrome</a></li>
+    </ul><!-- 
+    <p class="listintro"><strong>Diversity of web users:</strong></p>
+    <ul class="listwithp">
+      <li><a href="diversity#cognitive" shape="rect">Cognitive and neurological disabilities</a></li>
+      <li><a href="diversity#physical" shape="rect">Physical disabilities</a></li>
+      <li><a href="diversity#visual" shape="rect">Visual disabilities</a></li>
+    </ul>
+    <p class="listintro"><strong>Diversity in web use:</strong></p>
+    <ul class="listwithp">
+      <li><a href="browsing#presentation" shape="rect">Easy-to-read text (Distinguishing and understanding)</a></li>
+      <li><a href="browsing#presentation" shape="rect">Pop-up and animations blockers (Distinguishing and understanding)</a></li>
+      <li><a href="browsing#presentation" shape="rect">Progressive disclosure (Distinguishing and understanding)</a></li>
+      <li><a href="browsing#presentation" shape="rect">Reading assistants (Distinguishing and understanding)</a></li>
+      <li><a href="browsing#presentation" shape="rect">Reduced interface (Distinguishing and understanding)</a></li>
+      <li><a href="browsing#interaction" shape="rect">Keyboard customization (Typing, writing, and clicking)</a></li>
+      <li><a href="browsing#interaction" shape="rect">Keyboard and mouse filters (Typing, writing, and clicking)</a></li>
+      <li><a href="browsing#interaction" shape="rect">Mouse customization (Typing, writing, and clicking)</a></li>
+      <li><a href="browsing#interaction" shape="rect">Spelling and grammar tools (Typing, writing, and clicking)</a></li>
+      <li><a href="browsing#interaction" shape="rect">Word prediction (Typing, writing, and clicking)</a></li>
+      <li><a href="browsing#navigation" shape="rect">Consistency and predictability (Navigating and finding content)</a></li>
+      <li><a href="browsing#navigation" shape="rect">Descriptive titles, headings, and labels (Navigating and finding content)</a></li>
+      <li><a href="browsing#navigation" shape="rect">Helpful error and success messages (Navigating and finding content)</a></li>
+    </ul> -->
+  </div>
+  <p class="totop"><a href="#toc" shape="rect">back to page contents</a></p>
+
+  <h2><a name="robust" id="robust" shape="rect">Robust content and reliable interpretation</a></h2>
+
+  <h3><a name="compatible" id="compatible" shape="rect">Content is compatible with current and future user tools</a></h3>
+  <p>Robust content is compatible with different browsers, assistive technologies, and other user agents. Examples of how this can be achieved include:</p>
+  <ul>
+    <li>Ensuring markup can be reliably interpreted, for instance by ensuring it is valid;</li>
+    <li>Providing a name, role, and value for non-standard user interface components.</li>
+  </ul>
+  <p>Meeting this requirement helps maximize compatibility with current and future user agents, including assistive technologies. In particular, it enables assistive technologies to reliably process the content, and to present or to operate it in different ways. This includes non-standard (scripted) buttons, input fields, and other controls.</p>
+  <h4 class="f_panelHead">Accessibility requirements related to compatibility</h4>
+  <div>
+    <p class="listintro"><strong><acronym>WCAG</acronym> 2.0</strong></p>
+    <ul class="listwithp">
+      <li><a href="http://www.w3.org/WAI/WCAG20/quickref/#ensure-compat" shape="rect">Guideline 4.1 - Compatible <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+    </ul>
+    <p class="listintro"><strong><acronym>UAAG</acronym> 1.0</strong></p>
+    <ul class="listwithp">
+      <li><a href="http://www.w3.org/TR/UAAG10/guidelines.html#gl-device-independence" shape="rect">Guideline 1 - Support input and output device-independence <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/UAAG10/guidelines.html#gl-accessible-interface" shape="rect">Guideline 6 - Implement interoperable application programming interfaces <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/UAAG10/guidelines.html#gl-conventions" shape="rect">Guideline 7 - Observe operating environment conventions <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/UAAG10/guidelines.html#gl-implement-access-features" shape="rect">Guideline 8 - Implement specifications that benefit accessibility <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+    </ul>
+    <p class="listintro"><strong><acronym>ATAG</acronym> 1.0</strong></p>
+    <ul class="listwithp">
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-language-support" shape="rect">Guideline 2 - Generate standard markup <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-prewritten-descs" shape="rect">Guideline 3 - Support the creation of accessible content <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+      <li><a href="http://www.w3.org/TR/ATAG10/#gl-identify-markup" shape="rect">Guideline 4 - Provide ways of checking and correcting inaccessible content <img src="http://www.w3.org/Icons/tr.png" alt="technical report" /></a></li>
+    </ul>
+  </div>
+  <h4 class="f_panelHead"><!-- Sections -->Stories related to compatibility</h4>
+  <div><!-- 
+    <p class="listintro"><strong>Stories of web users:</strong></p> -->
+    <ul class="listwithp">
+      <li><a href="stories#shopper" shape="rect">Mr. Lee, Online shopper with color blindness</a></li>
+      <li><a href="stories#reporter" shape="rect">Mr. Jones, Reporter with repetitive stress injury</a></li>
+      <li><a href="stories#accountant" shape="rect">Ms. Laitinen, Accountant with blindness</a></li>
+      <li><a href="stories#classroomstudent" shape="rect">Ms. Olsen, Classroom student with attention deficit hyperactivity disorder (<acronym>ADHD</acronym>) and dyslexia</a></li>
+      <li><a href="stories#supermarketassistant" shape="rect">Mr. Sands, Supermarket assistant with Down syndrome</a></li>
+      <li><a href="stories#teenager" shape="rect">Ms. Kaseem, Teenager with deaf-blindness</a></li>
+    </ul><!-- 
+    <p class="listintro"><strong>Diversity of web users:</strong></p>
+    <ul class="listwithp">
+      <li><a href="diversity#cognitive" shape="rect">Cognitive and neurological disabilities</a></li>
+      <li><a href="diversity#physical" shape="rect">Physical disabilities</a></li>
+      <li><a href="diversity#visual" shape="rect">Visual disabilities</a></li>
+    </ul>
+    <p class="listintro"><strong>Diversity in web use:</strong></p>
+    <ul class="listwithp">
+      <li><a href="browsing#format" shape="rect">Screen reader (Hearing, feeling, and seeing)</a></li>
+      <li><a href="browsing#format" shape="rect">Text-to-speech (Hearing, feeling, and seeing)</a></li>
+      <li><a href="browsing#format" shape="rect">Voice browser (Hearing, feeling, and seeing)</a></li>
+      <li><a href="browsing#presentation" shape="rect">Pop-up and animations blockers (Distinguishing and understanding)</a></li>
+      <li><a href="browsing#presentation" shape="rect">Reading assistants (Distinguishing and understanding)</a></li>
+      <li><a href="browsing#presentation" shape="rect">Screen magnifier (Distinguishing and understanding)</a></li>
+      <li><a href="browsing#interaction" shape="rect">Eye tracking (Typing, writing, and clicking)</a></li>
+      <li><a href="browsing#interaction" shape="rect">Spelling and grammar tools (Typing, writing, and clicking)</a></li>
+      <li><a href="browsing#interaction" shape="rect">Voice recognition (Typing, writing, and clicking)</a></li>
+    </ul> -->
+  </div>
+  <p class="totop"><a href="#toc" shape="rect">back to page contents</a></p>
+
+    </div><div class="f_controls_accordion f_fileToLoad_accordionControls"></div>
+  </div>
+  <p>[<a href="browsing" shape="rect"><strong>Previous Page</strong> - Diversity in Web Use</a> | <a href="#main" shape="rect">Top of Page</a>]</p>
+</div>
+<div id="footer">
+<div class="highlight-version">
+<p><strong>Editors' Draft: 13 March 2017</strong>
+<br clear="none" />
+<strong>This document is an in-progress draft.</strong> If you quote anything from this draft, clearly indicate that it is draft wording.<br clear="none" />
+<strong>References to this material must include the draft status</strong>, for example:</p>
+<blockquote><em>How People with Disabilities Use the Web</em>. Shadi Abou-Zahra, ed. Copyright © 2017 W3C® (MIT, ERCIM, Keio). Status: Draft Updated 13 March 2017. https://www.w3.org/WAI/intro/people-use-web/Overview</blockquote>
+<p>(For more information, see  <a href="https://www.w3.org/WAI/about/usingWAImaterial.html" shape="rect">Using WAI Material</a>.)</p>
+</div>
+
+  <p><strong>Status: Editors' Draft 13 March 2017</strong>
+  <br clear="none" />
+    Editor: Shadi Abou-Zahra. Previous editor: Judy Brewer. <a href="acknowledgments" shape="rect">Acknowledgments</a>.  Previously developed with support of the <a href="http://www.w3.org/WAI/WAI-AGE/" shape="rect">WAI-AGE Project</a>, with contribution from the <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf" shape="rect">WAI-AGE Task Force</a> of the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/" shape="rect">EOWG</a>).</p>
+  <div class="footer-nav"><p>[<a href="https://www.w3.org/WAI/sitemap.html" shape="rect">WAI Site Map</a>] [<a href="https://www.w3.org/WAI/sitehelp.html" shape="rect">Help with WAI Website</a>] [<a href="https://www.w3.org/WAI/search.php" shape="rect">Search</a>] [<a href="https://www.w3.org/WAI/contacts" shape="rect">Contacting WAI</a>]
+  <br clear="none" />
+  <strong>Feedback welcome to <a href="mailto:wai-eo-editors@w3.org" shape="rect">wai-eo-editors@w3.org</a></strong> (a publicly archived list) or <a href="mailto:wai@w3.org" shape="rect">wai@w3.org</a> (a WAI staff-only list).</p></div><div class="copyright">
+    <div class="copyright">
+     <p>Copyright &#xA9; 2017 W3C <sup>&#xAE;</sup> (<a href="http://www.csail.mit.edu/"><abbr title="Massachusetts Institute of Technology">MIT</abbr></a>, <a href="http://www.ercim.eu/"><abbr title="European Research Consortium for Informatics and Mathematics">ERCIM</abbr></a>, <a href="http://www.keio.ac.jp/">Keio</a>, <a href="http://ev.buaa.edu.cn/">Beihang</a>) <a href="/Consortium/Legal/ipr-notice">Usage policies apply</a>.</p>
+  </div>
+</div>
+</div>
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["setDomains", ["*.www.w3.org/WAI"]]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//www.w3.org/analytics/piwik/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 328]);
+    var d=document, g=d.createElement('script'),
+    s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js';
+    s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="https://www.w3.org/analytics/piwik/piwik.php?idsite=328" style="border:0;" alt=""></p></noscript>
+<!-- End Piwik Code --></body>
+</html>
