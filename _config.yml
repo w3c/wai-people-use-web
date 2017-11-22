@@ -1,0 +1,60 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: "Web Accessibility Initiative (WAI)"
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  The Website of the World Wide Web Consortium’s Web Accessibility Initiative.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://w3c.github.io/wai-InvolveUsersEval/" # the base hostname & protocol for your site
+twitter:
+  username: w3c_wai
+author: w3c_wai
+exclude:
+  - "_external"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "README.md"
+  - "w3c.json"
+
+# Build settings
+markdown: kramdown
+kramwdown:
+  toc_levels: 2..3
+  input: GFM
+  syntax_highlighter: rouge
+highlighter: rouge
+repository: w3c/wai-showcase-examples
+
+ytkey: AIzaSyCiZ9uToWu9jb7BTx47NtzCvmGGXKXp8nI
+
+includes_dir: _external/wai-website-jekyll-templates/_includes
+layouts_dir: _external/wai-website-jekyll-templates/_layouts
+
+collections:
+  people-use-web:
+    area: "Accessibility Fundamentals"
+    name: "How People with Disabilities Use the Web"
+    icon: "book" # TODO
+    repostitory: w3c/wai-people-use-web
+    output: true
+    acknowledgements: false
+    permalink: /:collection/:path/
+
+defaults:
+  -
+    scope:
+      path: "_people-use-web"
+    values:
+      layout: "sidenav"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-include-cache
