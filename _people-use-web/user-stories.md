@@ -77,7 +77,7 @@ Alex, reporter with repetitive stress injury {#reporter}
 
 Alex has worked as a reporter for more than 20 years and has developed a repetitive strain injury that makes it painful to use a mouse and to type for extended periods of time.
 
-With the following modifications to his work environment, which took research, time, and commitment to learn, he is able to continue working with less pain:
+Though it took considerable research, time, and commitment to learn, he is able to work with less pain using the following modifications to his work environment:
 
 * use of an ergonomic keyboard
 * use of keyboard commands without a mouse
@@ -291,7 +291,7 @@ Yun, retiree with low vision, hand tremor, and mild short-term memory loss {#ret
 
 Yun is an 85 year-old with reduced vision, hand-tremor, and mild memory loss, common age- related impairments for someone his age. Yun regularly browses the web reading news sites In recent years he also started using social media to stay in touch with his family and friends. He maintains his own blog where he posts articles on art history and other topics he enjoys.
 
-Like many older individuals, Yun has difficulty reading small text and clicking on small links and form elements. His daughter showed him how to enlarge text in the web browser, which works well on many websites. He encounters problems when text does not reflow when it is enlarged and he is forced to scroll back and forth to read the enlarged content, which means he easily loses track of his place. He also has problems with CAPTCHA images found on many social media sites. The text is so distorted even when he enlarges it he often cannot accurately enter the text. He has a better experience on sites that use alternative CAPTCHA options, unfortunately only a small number currently do.
+Like many older individuals, Yun has difficulty reading small text and clicking on small links and form elements. His daughter showed him how to enlarge text in the web browser, which works well on many websites. He encounters problems when text does not reflow when it is enlarged and he is forced to scroll back and forth to read the enlarged content, which means he easily loses track of his place. He also has problems with CAPTCHA images found on many social media sites. The text is so distorted, even when he enlarges it, that he often cannot accurately enter the text. He has a better experience on sites that use alternative CAPTCHA options, unfortunately only a small number currently do.
 
 Yun’s daughter gave him a special mouse that is easier to control with his hand tremors. He also uses a web browser that saves thumbnail images of his frequently visited sites, which makes it easier for him to keep track of the sites he goes to most often.
 
@@ -355,7 +355,7 @@ Luis works at a market, bagging groceries for customers. Typically he buys his g
 
 Recently, a friend showed him an app for online grocery purchases that has consistent, easy-to-use navigation with clear and direct instructions. Luis is able to add the list of his most frequently purchased items into the app and save it for additional purchases. He also likes the search functionality that makes suggestions for mistyped or misspelled words. The app also keeps a running total of the items in his virtual shopping cart which helps him keep up with how much he is spending.
 
-His friend also showed him several accessibility features in his mobile phone that he finds very helpful including word prediction which provides a selection of possible word choices based on the first characters he enters and the speak selection which allows him to listen to reviews posted by other users on the grocery app. With the use of these tools, Luis has begun posting his own reviews of items he has purchased.
+His friend also showed him several accessibility features in his mobile phone that he finds very helpful including word prediction which provides a selection of possible word choices based on the first characters he enters and the text-to-speech functionality which allows him to listen to reviews posted by other users on the grocery app. With the use of these tools, Luis has begun posting his own reviews of items he has purchased.
 
 Luis now uses the shopping app a couple of times a month for frequently purchased items and buys a few fresh items regularly from the store where he works.
 
