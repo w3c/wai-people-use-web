@@ -361,18 +361,6 @@ Luis now uses the shopping app a couple of times a month for frequently purchase
 
 For more information on implementing techniques that remove barriers for Luis, see the following resources:
 
-Luis has Down syndrome and has difficulty with abstract concepts, reading, and math calculations.
-
-Luis works at a market, bagging groceries for customers. Typically he buys his groceries at the same market where he works, but he is sometimes confused by the large number of product choices and sometimes has problems finding his favorite items when the store layout is changed.
-
-Recently, a friend showed him an app for online grocery purchases that has consistent, easy-to-use navigation with clear and direct instructions. Luis is able to add the list of his most frequently purchased items into the app and save it for additional purchases. He also likes the search functionality that makes suggestions for mistyped or misspelled words. The app also keeps a running total of the items in his virtual shopping cart which helps him keep up with how much he is spending.
-
-His friend also showed him several accessibility features in his mobile phone that he finds very helpful including word prediction which provides a selection of possible word choices based on the first characters he enters and the speak selection which allows him to listen to reviews posted by other users on the grocery app. With the use of these tools, Luis has begun posting his own reviews of items he has purchased.
-
-Luis now uses the shopping app a couple of times a month for frequently purchased items and buys a few fresh items regularly from the store where he works.
-
-For more information on implementing techniques that remove barriers for Luis, see the following resources:
-
 {% include_cached excol.html type="start" id="luis-sections" %}
 
 ### Sections related to Luis
