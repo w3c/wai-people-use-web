@@ -39,9 +39,7 @@ and do not address every kind of disability.
 Lee, online shopper with color blindness {#shopper}
 ---------------------------------------------------
 
-Lee is colorblind and encounters barriers when shopping online –
-
-Lee has one of the most common visual disabilities that affect men: red and green color blindness. Lee frequently shops online and sometimes encounters problems on websites and with apps where the color contrast of text and images is not adequate and where color alone is used to indicate required fields and sale prices. When red and green color combinations are used, Lee cannot distinguish between the two, since both look brown to him. It is also very difficult for him to make product choices when color swatches are not labeled with the name of the color.
+Lee is colorblind and encounters barriers when shopping online. He has one of the most common visual disabilities that affect men: red and green color blindness. Lee frequently shops online and sometimes encounters problems on websites and with apps where the color contrast of text and images is not adequate and where color alone is used to indicate required fields and sale prices. When red and green color combinations are used, Lee cannot distinguish between the two, since both look brown to him. It is also very difficult for him to make product choices when color swatches are not labeled with the name of the color.
 
 Lee has better experiences with online content and apps that use adequate contrast and allow him to adjust contrast settings in his browser. He is also better able to recognize when information is required when asterisks are used. Lee can more easily identify the products he would like to purchase, especially clothing, when the color label names are included in the selection options rather than color swatches alone.
 
