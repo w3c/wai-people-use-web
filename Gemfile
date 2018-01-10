@@ -11,3 +11,5 @@ gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap'
 gem 'jekyll-redirect-from'
 gem 'jekyll-include-cache'
+
+gem 'wai-website-theme'

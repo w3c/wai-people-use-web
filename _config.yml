@@ -33,8 +33,8 @@ repository: w3c/wai-showcase-examples
 
 ytkey: AIzaSyCiZ9uToWu9jb7BTx47NtzCvmGGXKXp8nI
 
-includes_dir: _external/wai-website-jekyll-templates/_includes
-layouts_dir: _external/wai-website-jekyll-templates/_layouts
+theme: wai-website-theme
+remote_theme: w3c/wai-website-theme
 
 collections:
   people-use-web:
