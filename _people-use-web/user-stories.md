@@ -15,12 +15,18 @@ support:
     url: https://www.w3.org/WAI/EO/2008/wai-age-tf
 ---
 
-The following stories are selected scenarios of people with disabilities
-using the Web, to highlight the effect of web accessibility barriers and
-the broader benefits of accessible websites and web tools.
+{::nomarkdown}
+{% include box.html type="start" h="2" title="Summary" class="full" %}
+{:/}
 
-**Note:** The following scenarios do not represent actual individuals
-and do not address every kind of disability.
+The following stories are selected scenarios of people with disabilities using the Web, to highlight the effect of web accessibility barriers and the broader benefits of accessible websites and web tools.
+
+**Note:** The following scenarios do not represent actual individuals and do not address every kind of disability.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
 
 {::options toc_levels="2" /}
 
