@@ -33,7 +33,6 @@ repository: w3c/wai-showcase-examples
 
 ytkey: AIzaSyCiZ9uToWu9jb7BTx47NtzCvmGGXKXp8nI
 
-theme: wai-website-theme
 remote_theme: w3c/wai-website-theme
 
 collections:
@@ -58,3 +57,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-include-cache
+  - jekyll-remote-theme
