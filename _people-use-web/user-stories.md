@@ -19,7 +19,7 @@ support:
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-The following stories of people with disabilities using the Web highlight the effect of web accessibility barriers and the broader benefits of accessible websites and web tools.
+The following stories of people with disabilities using the Web highlight the effect of accessibility barriers and the broader benefits of accessible websites and web tools.
 
 **Note:** The following scenarios are not real people. They do not address every kind of disability.
 
