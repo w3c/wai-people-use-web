@@ -151,9 +151,8 @@ know sign language.
 ### Stories related to auditory disabilities {#stories-related-to-auditory-disabilities}
 
 
--   [Ms. Martinez, Online student who is hard of
-    hearing](stories#onlinestudent)
--   [Ms. Kaseem, Teenager with deaf-blindness](stories#teenager)
+-   [Martine, online student who is hard of hearing]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#onlinestudent)
+-   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#teenager)
 
 
 Cognitive, learning, and neurological {#cognitive}
@@ -274,12 +273,9 @@ disabilities.
 ### Stories related to cognitive, learning, and neurological disabilities {#stories-related-to-cognitive-learning-and-neurological-disabilities}
 
 
--   [Ms. Olsen, Classroom student with attention deficit hyperactivity
-    disorder (ADHD) and dyslexia](stories#classroomstudent)
--   [Mr. Yunus, Retiree with low vision, hand tremor, and mild
-    short-term memory loss](stories#retiree)
--   [Mr. Sands, Supermarket assistant with Down
-    syndrome](stories#supermarketassistant)
+-   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#classroomstudent)
+-   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#retiree)
+-   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#supermarketassistant)
 
 
 Physical {#physical}
@@ -377,10 +373,8 @@ disabilities share many of these requirements.
 ### Stories related to physical disabilities {#stories-related-to-physical-disabilities}
 
 
--   [Mr. Jones, Reporter with repetitive stress
-    injury](stories#reporter)
--   [Mr. Yunus, Retiree with low vision, hand tremor, and mild
-    short-term memory loss](stories#retiree)
+-   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#reporter)
+-   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#retiree)
 
 
 Speech {#speech}
@@ -499,9 +493,11 @@ interaction.
 -   **Deaf-blindness**{:#deafblind} – substantial, uncorrectable visual
     and hearing impairments.
 
+{% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
 ### Examples of barriers for people with visual disabilities {#examples-of-barriers-for-people-with-visual-disabilities}
 
+{% include excol.html type="middle" %}
 
 -   Images, controls, and other structural elements that do not have
     equivalent text alternatives.
@@ -524,11 +520,9 @@ interaction.
 ### Stories related to visual disabilities {#stories-related-to-visual-disabilities}
 
 
--   [Mr. Lee, Online shopper with color blindness](stories#shopper)
--   [Ms. Laitinen, Accountant with blindness](stories#accountant)
--   [Mr. Yunus, Retiree with low vision, hand tremor, and mild
-    short-term memory loss](stories#retiree)
--   [Ms. Kaseem, Teenager with deaf-blindness](stories#teenager)
-
+-   [Lee, online shopper with color blindness]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#shopper)
+-   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#accountant)
+-   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#retiree)
+-   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#teenager)
 
 

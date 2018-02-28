@@ -159,12 +159,10 @@ such alternatives but the conversion is usually not fully automatable.
 
 ### Stories related to perception {#stories-related-to-perception}
 
--   [Ms. Martinez, Online student who is hard of
-    hearing](stories#onlinestudent)
--   [Ms. Laitinen, Accountant with blindness](stories#accountant)
--   [Ms. Olsen, Classroom student with attention deficit hyperactivity
-    disorder (ADHD) and dyslexia](stories#classroomstudent)
--   [Ms. Kaseem, Teenager with deaf-blindness](stories#teenager)
+-   [Martine, online student who is hard of hearing]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#onlinestudent)
+-   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#accountant)
+-   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#classroomstudent)
+-   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#teenager)
 
 Presentation - distinguishing and understanding {#presentation}
 ----------------------------------------------------------------
@@ -276,16 +274,12 @@ language](#sign){:.termref} videos for sign language users.
 
 ### Stories related to presentation {#stories-related-to-presentation}
 
--   [Mr. Lee, Online shopper with color blindness](stories#shopper)
--   [Ms. Martinez, Online student who is hard of
-    hearing](stories#onlinestudent)
--   [Ms. Olsen, Classroom student with attention deficit hyperactivity
-    disorder (ADHD) and dyslexia](stories#classroomstudent)
--   [Mr. Yunus, Retiree with low vision, hand tremor, and mild
-    short-term memory loss](stories#retiree)
--   [Mr. Sands, Supermarket assistant with Down
-    syndrome](stories#supermarketassistant)
--   [Ms. Kaseem, Teenager with deaf-blindness](stories#teenager)
+-   [Lee, online shopper with color blindness]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#shopper)
+-   [Martine, online student who is hard of hearing]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#onlinestudent)
+-   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#classroomstudent)
+-   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#retiree)
+-   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#supermarketassistant)
+-   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#teenager)
 
 Input - typing, writing, and clicking {#input}
 -----------------------------------------------
@@ -376,15 +370,11 @@ and options for correcting input.
 
 ### Stories related to input {#stories-related-to-input}
 
--   [Mr. Jones, Reporter with repetitive stress
-    injury](stories#reporter)
--   [Ms. Olsen, Classroom student with attention deficit hyperactivity
-    disorder (ADHD) and dyslexia](stories#classroomstudent)
--   [Mr. Yunus, Retiree with low vision, hand tremor, and mild
-    short-term memory loss](stories#retiree)
--   [Mr. Sands, Supermarket assistant with Down
-    syndrome](stories#supermarketassistant)
 
+-   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#reporter)
+-   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#classroomstudent)
+-   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#retiree)
+-   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#supermarketassistant)
 
 Interaction - navigating and finding {#interaction}
 ----------------------------------------------------
@@ -478,13 +468,9 @@ essential factor to support different styles of navigation.
 
 ### Stories related to interaction {#stories-related-to-interaction}
 
--   [Mr. Jones, Reporter with repetitive stress
-    injury](stories#reporter)
--   [Ms. Laitinen, Accountant with blindness](stories#accountant)
--   [Ms. Olsen, Classroom student with attention deficit hyperactivity
-    disorder (ADHD) and dyslexia](stories#classroomstudent)
--   [Mr. Yunus, Retiree with low vision, hand tremor, and mild
-    short-term memory loss](stories#retiree)
--   [Mr. Sands, Supermarket assistant with Down
-    syndrome](stories#supermarketassistant)
--   [Ms. Kaseem, Teenager with deaf-blindness](stories#teenager)
+-   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#reporter)
+-   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#accountant)
+-   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#classroomstudent)
+-   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#retiree)
+-   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#supermarketassistant)
+-   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#teenager)
