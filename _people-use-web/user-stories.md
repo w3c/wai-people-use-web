@@ -471,38 +471,3 @@ For more information on implementing techniques that remove barriers for Kaseem,
 
 {% include_cached excol.html type="end" %}
 
-<style>
-details {
-  padding-left: 2rem;
-}
-summary {
-  display: block;
-  margin-left: -2rem;
-}
-
-summary > * {
-  display: inline;
-}
-
-summary::-webkit-details-marker {
-  display: none;
-}
-
-summary > *:first-child::before {
-  content: '+';
-  margin-right: 0.5rem;
-  margin-bottom: .25rem;
-  display: inline-block;
-  border-radius: 5px;
-  width: 1.5rem;
-  height: 1.5rem;
-  background: #036;
-  color: #fff;
-  text-align: center;
-  font-weight: bold;
-}
-
-details[open] > summary > *:first-child::before {
-  content: '–';
-}
-</style>
