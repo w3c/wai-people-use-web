@@ -64,11 +64,11 @@ For more information on implementing techniques that remove barriers for Lee, se
 **Accessibility principles:**
 
 -   [Content can be presented in different ways
-    (Perceivable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#adaptable)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#adaptable)
 -   [Content is easier to see and hear
-    (Perceivable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#distinguishable)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#distinguishable)
 -   [Content is compatible with current and future user tools
-    (Robust)](https://www.w3.org/WAI/intro/people-use-web/principles.html#compatible)
+    (Robust)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#compatible)
 
 {% include_cached excol.html type="end" %}
 
@@ -111,21 +111,21 @@ For more information on implementing techniques that remove barriers for Alex, s
 **Accessibility principles:**
 
 -   [Text alternatives for non-text content
-    (Perceivable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#alternatives)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#alternatives)
 -   [Content can be presented in different ways
-    (Perceivable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#adaptable)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#adaptable)
 -   [Functionality is available from a keyboard
-    (Operable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#keyboard)
+    (Operable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#keyboard)
 -   [Users have enough time to read and use the content
-    (Operable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#time)
+    (Operable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#time)
 -   [Users can easily navigate, find content, and determine where they
-    are (Operable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#navigable)
+    are (Operable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#navigable)
 -   [Content appears and operates in predictable ways
-    (Understandable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#predictable)
+    (Understandable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#predictable)
 -   [Users are helped to avoid and correct mistakes
-    (Understandable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#tolerant)
+    (Understandable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#tolerant)
 -   [Content is compatible with current and future user tools
-    (Robust)](https://www.w3.org/WAI/intro/people-use-web/principles.html#compatible)
+    (Robust)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#compatible)
 
 {% include_cached excol.html type="end" %}
 
@@ -157,13 +157,13 @@ For more information on implementing techniques that remove barriers for Martine
 **Accessibility principles:**
 
 -   [Text alternatives for non-text content
-    (Perceivable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#alternatives)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#alternatives)
 -   [Captions and other alternatives for multimedia
-    (Perceivable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#captions)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#captions)
 -   [Content is easier to see and hear
-    (Perceivable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#distinguishable)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#distinguishable)
 -   [Content is readable and understandable
-    (Understandable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#readable)
+    (Understandable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#readable)
 
 {% include_cached excol.html type="end" %}
 
@@ -207,23 +207,23 @@ For more information on implementing techniques that remove barriers for Ilya, s
 **Accessibility principles:**
 
 -   [Text alternatives for non-text content
-    (Perceivable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#alternatives)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#alternatives)
 -   [Captions and other alternatives for multimedia
-    (Perceivable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#captions)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#captions)
 -   [Content can be presented in different ways
-    (Perceivable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#adaptable)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#adaptable)
 -   [Content is easier to see and hear
-    (Perceivable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#distinguishable)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#distinguishable)
 -   [Functionality is available from a keyboard
-    (Operable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#keyboard)
+    (Operable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#keyboard)
 -   [Users can easily navigate, find content, and determine where they
-    are (Operable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#navigable)
+    are (Operable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#navigable)
 -   [Content is readable and understandable
-    (Understandable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#readable)
+    (Understandable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#readable)
 -   [Content appears and operates in predictable ways
-    (Understandable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#predictable)
+    (Understandable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#predictable)
 -   [Content is compatible with current and future user tools
-    (Robust)](https://www.w3.org/WAI/intro/people-use-web/principles.html#compatible)
+    (Robust)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#compatible)
 
 {% include_cached excol.html type="end" %}
 
@@ -268,21 +268,21 @@ For more information on implementing techniques that remove barriers for Preety,
 **Accessibility principles:**
 
 -   [Text alternatives for non-text content
-    (Perceivable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#alternatives)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#alternatives)
 -   [Content can be presented in different ways
-    (Perceivable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#adaptable)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#adaptable)
 -   [Users have enough time to read and use the content
-    (Operable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#time)
+    (Operable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#time)
 -   [Users can easily navigate, find content, and determine where they
-    are (Operable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#navigable)
+    are (Operable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#navigable)
 -   [Content is readable and understandable
-    (Understandable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#readable)
+    (Understandable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#readable)
 -   [Content appears and operates in predictable ways
-    (Understandable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#predictable)
+    (Understandable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#predictable)
 -   [Users are helped to avoid and correct mistakes
-    (Understandable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#tolerant)
+    (Understandable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#tolerant)
 -   [Content is compatible with current and future user tools
-    (Robust)](https://www.w3.org/WAI/intro/people-use-web/principles.html#compatible)
+    (Robust)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#compatible)
 
 {% include_cached excol.html type="end" %}
 
@@ -326,23 +326,23 @@ For more information on implementing techniques that remove barriers for Yun, se
 **Accessibility principles:**
 
 -   [Text alternatives for non-text content
-    (Perceivable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#alternatives)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#alternatives)
 -   [Content can be presented in different ways
-    (Perceivable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#adaptable)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#adaptable)
 -   [Content is easier to see and hear
-    (Perceivable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#distinguishable)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#distinguishable)
 -   [Users have enough time to read and use the content
-    (Operable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#time)
+    (Operable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#time)
 -   [Users can easily navigate, find content, and determine where they
-    are (Operable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#navigable)
+    are (Operable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#navigable)
 -   [Content is readable and understandable
-    (Understandable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#readable)
+    (Understandable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#readable)
 -   [Content appears and operates in predictable ways
-    (Understandable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#predictable)
+    (Understandable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#predictable)
 -   [Users are helped to avoid and correct mistakes
-    (Understandable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#tolerant)
+    (Understandable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#tolerant)
 -   [Content is compatible with current and future user tools
-    (Robust)](https://www.w3.org/WAI/intro/people-use-web/principles.html#compatible)
+    (Robust)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#compatible)
 
 {% include_cached excol.html type="end" %}
 
@@ -391,19 +391,19 @@ For more information on implementing techniques that remove barriers for Luis, s
 **Accessibility principles:**
 
 -   [Content can be presented in different ways
-    (Perceivable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#adaptable)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#adaptable)
 -   [Users have enough time to read and use the content
-    (Operable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#time)
+    (Operable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#time)
 -   [Users can easily navigate, find content, and determine where they
-    are (Operable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#navigable)
+    are (Operable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#navigable)
 -   [Content is readable and understandable
-    (Understandable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#readable)
+    (Understandable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#readable)
 -   [Content appears and operates in predictable ways
-    (Understandable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#predictable)
+    (Understandable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#predictable)
 -   [Users are helped to avoid and correct mistakes
-    (Understandable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#tolerant)
+    (Understandable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#tolerant)
 -   [Content is compatible with current and future user tools
-    (Robust)](https://www.w3.org/WAI/intro/people-use-web/principles.html#compatible)
+    (Robust)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#compatible)
 
 {% include_cached excol.html type="end" %}
 
@@ -453,21 +453,21 @@ For more information on implementing techniques that remove barriers for Kaseem,
 **Accessibility principles:**
 
 -   [Text alternatives for non-text content
-    (Perceivable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#alternatives)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#alternatives)
 -   [Alternatives for audio and video content
-    (Perceivable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#captions)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#captions)
 -   [Content can be presented in different ways
-    (Perceivable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#adaptable)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#adaptable)
 -   [Content is easier to see and hear
-    (Perceivable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#distinguishable)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#distinguishable)
 -   [Users have enough time to read and use the content
-    (Operable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#time)
+    (Operable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#time)
 -   [Users can easily navigate, find content, and determine where they
-    are (Operable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#navigable)
+    are (Operable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#navigable)
 -   [Content appears and operates in predictable ways
-    (Understandable)](https://www.w3.org/WAI/intro/people-use-web/principles.html#predictable)
+    (Understandable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#predictable)
 -   [Content is compatible with current and future user tools
-    (Robust)](https://www.w3.org/WAI/intro/people-use-web/principles.html#compatible)
+    (Robust)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#compatible)
 
 {% include_cached excol.html type="end" %}
 
