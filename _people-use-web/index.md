@@ -28,11 +28,11 @@ tools.
     scenarios of people with disabilities using the Web, to highlight
     the effect of barriers and the broader benefits of accessible
     websites and web tools.
--   [**Diversity of Web Users**]({{ site.github.url }}{% link _people-use-web/abilities-barriers.md %}) – explores the
+-   [**Diverse Abilities and Barriers**]({{ site.github.url }}{% link _people-use-web/abilities-barriers.md %}) – explores the
     wide range of diversity of people and abilities, and highlights some
     of the types of barriers that people commonly encounter due to
     inaccessible design.
--   [**Diversity in Web Use**]({{ site.github.url }}{% link _people-use-web/tools-techniques.md %}) – introduces some of
+-   [**Tools and Techniques**]({{ site.github.url }}{% link _people-use-web/tools-techniques.md %}) – introduces some of
     the techniques and tools that people with disabilities use to
     interact with the Web, such as browser settings, text-to-speech,
     voice recognition, and many more.

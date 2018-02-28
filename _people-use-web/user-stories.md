@@ -53,11 +53,11 @@ For more information on implementing techniques that remove barriers for Lee, se
 
 {% include_cached excol.html type="middle" %}
 
-**Diversity of web users:**
+**Diverse Abilities and Barriers**
 
 -   [Color blindness (Visual disabilities)]({% link _people-use-web/abilities-barriers.md %}#visual)
 
-**Diversity in web use:**
+**Tools and Techniques**
 
 -   [Customized fonts and colors (Presentation)]({% link _people-use-web/tools-techniques.md %}#presentation)
 
@@ -94,12 +94,12 @@ For more information on implementing techniques that remove barriers for Alex, s
 
 {% include_cached excol.html type="middle" %}
 
-**Diversity of web users:**
+**Diverse Abilities and Barriers**
 
 -   [Repetitive stress injury (Physical
     disabilities)]({% link _people-use-web/abilities-barriers.md %}#physical)
 
-**Diversity in web use:**
+**Tools and Techniques**
 
 -   [Accelerators (Input)]({% link _people-use-web/tools-techniques.md %}#input)
 -   [Alternative keyboard and mouse (Input)]({% link _people-use-web/tools-techniques.md %}#input)
@@ -144,11 +144,11 @@ For more information on implementing techniques that remove barriers for Martine
 
 {% include_cached excol.html type="middle" %}
 
-**Diversity of web users:**
+**Diverse Abilities and Barriers**
 
 -   [Hard of hearing (Auditory disabilities)]({% link _people-use-web/abilities-barriers.md %}#auditory)
 
-**Diversity in web use:**
+**Tools and Techniques**
 
 -   [Captions (Perception)]({% link _people-use-web/tools-techniques.md %}#perception)
 -   [Transcripts (Perception)]({% link _people-use-web/tools-techniques.md %}#perception)
@@ -187,11 +187,11 @@ For more information on implementing techniques that remove barriers for Ilya, s
 
 {% include_cached excol.html type="middle" %}
 
-**Diversity of web users:**
+**Diverse Abilities and Barriers**
 
 -   [Blindness (Visual disabilities)]({% link _people-use-web/abilities-barriers.md %}#visual)
 
-**Diversity in web use:**
+**Tools and Techniques**
 
 -   [Screen reader (Perception)]({% link _people-use-web/tools-techniques.md %}#perception)
 -   [Text-to-speech (Perception)]({% link _people-use-web/tools-techniques.md %}#perception)
@@ -244,13 +244,13 @@ For more information on implementing techniques that remove barriers for Preety,
 
 {% include_cached excol.html type="middle" %}
 
-**Diversity of web users:**
+**Diverse Abilities and Barriers**
 
 -   [Attention deficit hyperactivity disorder, ADHD (Cognitive
     disabilities)]({% link _people-use-web/abilities-barriers.md %}#cognitive)
 -   [Dyslexia (Cognitive disabilities)]({% link _people-use-web/abilities-barriers.md %}#cognitive)
 
-**Diversity in web use:**
+**Tools and Techniques**
 
 -   [Captions (Perception)]({% link _people-use-web/tools-techniques.md %}#perception)
 -   [Screen reader (Perception)]({% link _people-use-web/tools-techniques.md %}#perception)
@@ -303,14 +303,14 @@ For more information on implementing techniques that remove barriers for Yun, se
 
 {% include_cached excol.html type="middle" %}
 
-**Diversity of web users:**
+**Diverse Abilities and Barriers**
 
 -   [Low vision (Visual disabilities)]({% link _people-use-web/abilities-barriers.md %}#visual)
 -   [Hand tremor (Physical disabilities)]({% link _people-use-web/abilities-barriers.md %}#physical)
 -   [Mild short-term memory loss (Cognitive
     disabilities)]({% link _people-use-web/abilities-barriers.md %}#cognitive)
 
-**Diversity in web use:**
+**Tools and Techniques**
 
 -   [Screen magnification (Presentation)]({% link _people-use-web/tools-techniques.md %}#presentation)
 -   [Alternative keyboard and mouse (Input)]({% link _people-use-web/tools-techniques.md %}#input)
@@ -367,11 +367,11 @@ For more information on implementing techniques that remove barriers for Luis, s
 
 {% include_cached excol.html type="middle" %}
 
-**Diversity of web users:**
+**Diverse Abilities and Barriers**
 
 -   [Down syndrome (Cognitive disabilities)]({% link _people-use-web/abilities-barriers.md %}#cognitive)
 
-**Diversity in web use:**
+**Tools and Techniques**
 
 -   [Easy-to-read text (Presentation)]({% link _people-use-web/tools-techniques.md %}#presentation)
 -   [Pop-up and animations blockers
@@ -428,12 +428,12 @@ For more information on implementing techniques that remove barriers for Kaseem,
 
 {% include_cached excol.html type="middle" %}
 
-**Diversity of web users:**
+**Diverse Abilities and Barriers**
 
 -   [Deaf-blindness (Auditory disabilities)]({% link _people-use-web/abilities-barriers.md %}#auditory)
 -   [Deaf-blindness (Visual disabilities)]({% link _people-use-web/abilities-barriers.md %}#visual)
 
-**Diversity in web use:**
+**Tools and Techniques**
 
 -   [Braille (Perception)]({% link _people-use-web/tools-techniques.md %}#perception)
 -   [Refreshable Braille display (Perception)]({% link _people-use-web/tools-techniques.md %}#perception)
