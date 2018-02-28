@@ -26,6 +26,8 @@ exhaustive listing of all disabilities and barriers.
 {% include_cached toc.html type="end" %}
 {:/}
 
+{% include excol.html type="all" %}
+
 Diversity of abilities {#diversity}
 ------------------------------------
 
@@ -36,8 +38,11 @@ accident, or they may develop impairments with age. Some may not
 consider themselves to have disabilities even if they do experience such
 functional limitations.
 
+{% include excol.html type="start" id="" %}
+
 ### More about diversity of abilities {#more-about-diversity-of-abilities}
 
+{% include excol.html type="middle" %}
 
 Each individual is unique. People have diverse abilities, skills, tools,
 preferences, and expectations that can impact how they use the Web. For
@@ -80,6 +85,7 @@ is, therefore, important to consider the broad diversity of functional
 needs rather than to categorize people according to medical
 classifications.
 
+{% include excol.html type="end" %}
 
 Auditory {#auditory}
 ---------------------
@@ -91,8 +97,11 @@ can hear sounds but sometimes not sufficiently to understand all speech,
 especially when there is background noise. This can include people using
 hearing aids.
 
+{% include excol.html type="start" id="" %}
+
 ### More about auditory disabilities {#more-about-auditory-disabilities}
 
+{% include excol.html type="middle" %}
 
 While multimedia on the Web provides many opportunities for people with
 auditory disabilities, it also poses challenges when content is not
@@ -121,9 +130,11 @@ make web content more understandable to many people. However, it is
 important to remember that not all people with auditory disabilities
 know sign language.
 
+{% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
 ### Examples of auditory disabilities {#examples-of-auditory-disabilities}
 
+{% include excol.html type="middle" %}
 
 -   **Hard of hearing**{:#hardofhearing} – mild or moderate hearing
     impairments in one or both ears.
@@ -132,9 +143,11 @@ know sign language.
 -   **Deaf-blindness**{:#deafblindness} – substantial, uncorrectable
     hearing and visual impairments.
 
+{% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
 ### Examples of barriers for people with auditory disabilities {#examples-of-barriers-for-people-with-auditory-disabilities}
 
+{% include excol.html type="middle" %}
 
 -   Audio content, such as videos with voices and sounds, without
     captions or transcripts.
@@ -147,13 +160,16 @@ know sign language.
 -   Lack of sign language to supplement important information and text
     that is difficult to read.
 
+{% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
 ### Stories related to auditory disabilities {#stories-related-to-auditory-disabilities}
 
+{% include excol.html type="middle" %}
 
 -   [Martine, online student who is hard of hearing]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#onlinestudent)
 -   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#teenager)
 
+{% include excol.html type="end" %}
 
 Cognitive, learning, and neurological {#cognitive}
 ---------------------------------------------------
@@ -166,8 +182,11 @@ move, see, speak, and understand information. Cognitive, learning, and
 neurological disabilities do not necessarily affect the intelligence of
 a person.
 
+{% include excol.html type="start" id="" %}
+
 ### More about cognitive, learning, and neurological disabilities {#more-about-cognitive-learning-and-neurological-disabilities}
 
+{% include excol.html type="middle" %}
 
 Computer technologies and the Web provide many opportunities for people
 with cognitive, learning, and neurological disabilities to interact with
@@ -202,9 +221,11 @@ work, developers need to consider web accessibility requirements which
 are often shared by people with hearing, physical, speech, and visual
 disabilities.
 
+{% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
 ### Examples of cognitive, learning, and neurological disabilities {#examples-of-cognitive-learning-and-neurological-disabilities}
 
+{% include excol.html type="middle" %}
 
 -   **Attention deficit hyperactivity disorder (ADHD)**{:#adhd}
     (formerly "attention deficit disorder (ADD)") – involves difficulty
@@ -252,9 +273,11 @@ disabilities.
     epilepsy and migraines, which may be in reaction to visual
     flickering or audio signals at certain frequencies or patterns.
 
+{% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
 ### Examples of barriers for people with cognitive, learning, and neurological disabilities {#examples-of-barriers-for-people-with-cognitive-learning-and-neurological-disabilities}
 
+{% include excol.html type="middle" %}
 
 -   Complex navigation mechanisms and page layouts that are difficult to
     understand and use.
@@ -269,14 +292,17 @@ disabilities.
 -   Visual page designs that cannot be adapted using web browser
     controls or custom style sheets.
 
+{% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
 ### Stories related to cognitive, learning, and neurological disabilities {#stories-related-to-cognitive-learning-and-neurological-disabilities}
 
+{% include excol.html type="middle" %}
 
 -   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#classroomstudent)
 -   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#retiree)
 -   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#supermarketassistant)
 
+{% include excol.html type="end" %}
 
 Physical {#physical}
 ---------------------
@@ -287,8 +313,11 @@ movements including tremors, lack of coordination, or paralysis),
 limitations of sensation, joint disorders (such as arthritis), pain that
 impedes movement, and missing limbs.
 
+{% include excol.html type="start" id="" %}
+
 ### More about physical disabilities {#more-about-physical-disabilities}
 
+{% include excol.html type="middle" %}
 
 To use the Web, people with physical disabilities often use specialized
 hardware and software such as:
@@ -320,9 +349,11 @@ current focus, and mechanisms to skip over blocks, such as over page
 headers or navigation bars. People with cognitive and visual
 disabilities share many of these requirements.
 
+{% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
 ### Examples of physical disabilities {#examples-of-physical-disabilities}
 
+{% include excol.html type="middle" %}
 
 -   **Amputation**{:#limbs} – includes missing fingers, limbs, or other
     parts of the human body.
@@ -354,9 +385,11 @@ disabilities share many of these requirements.
     partial or total paralysis (includes motor control and sensation) to
     all four body limbs (legs and arms) and the torso.
 
+{% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
 ### Examples of barriers for people with physical disabilities {#examples-of-barriers-for-people-with-physical-disabilities}
 
+{% include excol.html type="middle" %}
 
 -   Websites, web browsers, and authoring tools that do not provide full
     keyboard support.
@@ -369,13 +402,16 @@ disabilities share many of these requirements.
 -   Inconsistent, unpredictable, and overly complicated navigation
     mechanisms and page functions.
 
+{% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
 ### Stories related to physical disabilities {#stories-related-to-physical-disabilities}
 
+{% include excol.html type="middle" %}
 
 -   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#reporter)
 -   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#retiree)
 
+{% include excol.html type="end" %}
 
 Speech {#speech}
 -----------------
@@ -385,8 +421,11 @@ recognizable by others or by voice recognition software. For instance,
 the loudness or clarity of someone's voice might be difficult to
 understand.
 
+{% include excol.html type="start" id="" %}
+
 ### More about speech disabilities {#more-about-speech-disabilities}
 
+{% include excol.html type="middle" %}
 
 People with speech disabilities encounter barriers with voice-based
 services, such as automated web-based hotlines and web applications that
@@ -398,9 +437,11 @@ provide telephone numbers as the only means of communicating with an
 organization pose barriers for people with speech disabilities.
 Alternative means of communication include e-mail and feedback forms.
 
+{% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
 ### Examples of speech disabilities {#examples-of-speech-disabilities}
 
+{% include excol.html type="middle" %}
 
 -   **Apraxia of speech (AOS)**{:#apraxia} – includes inconsistent
     articulation and production of speech sounds, and errors producing
@@ -425,15 +466,18 @@ Alternative means of communication include e-mail and feedback forms.
     inability to speak due to various reasons such as anxiety, brain
     injuries, or inability to hear and learn speech.
 
+{% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
 ### Examples of barriers for people with speech disabilities {#examples-of-barriers-for-people-with-speech-disabilities}
 
+{% include excol.html type="middle" %}
 
 -   Web-based services, including web applications, that rely on
     interaction using voice only.
 -   Websites that offer phone numbers as the only way to communicate
     with the organizations.
 
+{% include excol.html type="end" %}
 
 Visual {#visual}
 -----------------
@@ -445,8 +489,11 @@ to certain colors ("color blindness"), or increased sensitivity to
 bright colors. These variations in perception of colors and brightness
 can be independent of the visual acuity.
 
+{% include excol.html type="start" id="" %}
+
 ### More about visual disabilities {#more-about-visual-disabilities}
 
+{% include excol.html type="middle" %}
 
 People with visual disabilities typically rely on changing the
 presentation of web content into forms that are more usable for their
@@ -475,9 +522,11 @@ they cannot see the mouse pointer. An accessible design supports
 different presentations of the web content and different ways of
 interaction.
 
+{% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
 ### Examples of visual disabilities {#examples-of-visual-disabilities}
 
+{% include excol.html type="middle" %}
 
 -   **Color blindness**{:#colorblindness} – includes difficulty
     distinguishing between colors such as between red and green, or
@@ -516,13 +565,17 @@ interaction.
 -   Websites, web browsers, and authoring tools that do not provide full
     keyboard support.
 
+{% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
 ### Stories related to visual disabilities {#stories-related-to-visual-disabilities}
 
+{% include excol.html type="middle" %}
 
 -   [Lee, online shopper with color blindness]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#shopper)
 -   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#accountant)
 -   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#retiree)
 -   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#teenager)
 
+{% include excol.html type="end" %}
 
+{% include excol.html type="all" %}

@@ -37,6 +37,7 @@ The following stories are selected scenarios of people with disabilities using t
 {% include_cached toc.html type="end" %}
 {:/}
 
+{% include excol.html type="all" %}
 
 Lee, online shopper with color blindness {#shopper}
 ---------------------------------------------------
@@ -471,3 +472,4 @@ For more information on implementing techniques that remove barriers for Kaseem,
 
 {% include_cached excol.html type="end" %}
 
+{% include excol.html type="all" %}
