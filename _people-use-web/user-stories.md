@@ -1,18 +1,14 @@
 ---
 title: "Stories of Web Users"
 order: 1
-date: 2017-05-15
-people:
-  editorslabel: "Editor"
-  editors:
-    - name: Shadi Abou-Zahra
-      url: https://www.w3.org/People/shadi
-  contributors:
-support:
-  - name: WAI-AGE Project
-    url: https://www.w3.org/WAI/WAI-AGE/
-  - name: WAI-AGE Task Force
-    url: https://www.w3.org/WAI/EO/2008/wai-age-tf
+footer: >
+  <p>
+    <strong>Status:</strong> Updated 22 December 2017. <br>
+    <strong>Editors:</strong>  Shadi Abou-Zahra and Norah Sinclair. 
+    Previous editor: Judy Brewer. 
+    <a href="../acknowledgments/">Acknowledgments</a>. 
+    Previously developed with support of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a>, with contribution from the <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE Task Force</a> of the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).
+  </p>
 ---
 
 {::nomarkdown}
