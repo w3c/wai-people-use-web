@@ -72,7 +72,7 @@ accessibility features and solutions.
 
 Sometimes hardware and software with specific accessibility features,
 including web browsers, media players, or assistive technologies, may
-not be available to an individual. For instance, tools may not be
+not be available to an individual. For example, tools may not be
 affordable, not installed or not compatible with the computer, not
 available in some languages, or not available for other reasons. In
 other cases, people are unaware of accessibility solutions or how to
@@ -84,7 +84,7 @@ Perception - hearing, feeling, and seeing {#perception}
 --------------------------------------------------------
 
 People perceive content through different senses depending on their
-needs and preferences. For instance, some people are not seeing the
+needs and preferences. For example, some people are not seeing the
 screen or hearing the audio. Examples of perception include:
 
 -   **Auditory** - such as speech, music, and sound that can be *heard*.
@@ -98,7 +98,7 @@ screen or hearing the audio. Examples of perception include:
 {% include excol.html type="middle" %}
 
 Some people need to convert content from one form to another to perceive
-it. For instance, someone who is deaf-blind requires audio and visual
+it. For example, someone who is deaf-blind requires audio and visual
 content in a tactile form (such as [Braille](#braille){:.termref}). Other
 people need to perceive content through multiple senses, such as someone
 with dyslexia who may need to hear and see the text to understand it
@@ -112,7 +112,7 @@ understandability, ease-of-use, and satisfaction with websites and
 applications for everyone.
 
 In some cases, content can be converted into different forms using
-software or hardware. For instance, a text-to-speech software can
+software or hardware. For example, a text-to-speech software can
 convert text into speech. In other cases, content authors need to
 provide alternative forms of the content. For example, at least some
 level of human intervention is necessary to create textual descriptions
@@ -219,7 +219,7 @@ preferences.
 
 Making text more readable is of particular importance. This involves
 changing its visual appearance, using additional text-to-speech, and
-adapting the content. For instance, changing the font type, colors,
+adapting the content. For example, changing the font type, colors,
 spacing, and line width makes texts more readable for many people.
 Sometimes text-to-speech is used to assist reading further. Adapting the
 content involves rearranging sections of web pages, adding functionality
@@ -259,7 +259,7 @@ language](#sign){:.termref} videos for sign language users.
     with information.
 -   **Reduced interface**{:#reduced} – representation of the content
     that only shows most relevant information or more frequently used
-    functions; for instance, by hiding other parts of the content that
+    functions; for example, by hiding other parts of the content that
     can distract users.
 -   **Screen magnification**{:#display} – changing the settings of the
     web browser, operating system, or screen to enlarge or reduce text
@@ -346,14 +346,14 @@ using:
 {% include excol.html type="middle" %}
 
 Some people use software and customized settings to enhance the
-efficiency of typing, writing, and clicking. For instance, some people
+efficiency of typing, writing, and clicking. For example, some people
 assign personalized shortcut keys to functions they frequently use. Some
 people use word prediction software to help complete words and sentences
 with minimal typing, grammar and spelling tools to help correct text,
 and tools to help click, select text, and scroll with minimal movement.
 
 Web content needs to be designed to support these different types of
-approaches. For instance, forms, links, and other functionality need to
+approaches. For example, forms, links, and other functionality need to
 be usable by keyboard. In particular, web applications ("client-side
 scripting"), embedded media players, and other programmatic objects need
 to provide full keyboard support that does not trap the keyboard focus
@@ -374,7 +374,7 @@ and options for correcting input.
 {% include excol.html type="middle" %}
 
 -   **Accelerators**{:#accelerators} – software and functionality that
-    help reduce the effort needed to type or click. For instance, by
+    help reduce the effort needed to type or click. For example, by
     providing options to create shortcuts for commands or sequences of
     commands, by highlighting selection choices such as menu items,
     links, or options, and by helping to steer the mouse.
@@ -468,7 +468,7 @@ Examples of such situations include:
     provide alternative mechanisms for navigation.
 
 Many functions to support different styles of navigation are built
-directly into web browsers and assistive technologies. For instance,
+directly into web browsers and assistive technologies. For example,
 most commonly available browsers provide bookmark functionality, and
 screen readers provide functions to list headings, links, and other
 structures on a web page. However, the design of the content is also an
@@ -492,7 +492,7 @@ essential factor to support different styles of navigation.
     complete their tasks and avoid disorientation, distraction,
     confusion, or discomfort.
 -   **Multiple navigation mechanisms**{:#navigating} – websites need to
-    provide multiple ways to locate web pages, for instance by providing
+    provide multiple ways to locate web pages, for example by providing
     sitemaps and search functionality in addition to hierarchical
     navigation menus.
 -   **Skip links**{:#skip} – mechanisms to allow keyboard users to skip
@@ -527,7 +527,7 @@ essential factor to support different styles of navigation.
     that is being currently viewed.
 -   **Pictorial links**{:#pictorial} – some web browsers, plug-ins, and
     websites show small images of the link targets (sometimes called
-    "screen shots") rather than the addresses or names; for instance in
+    "screen shots") rather than the addresses or names; for example in
     combination with [bookmarks and history](#bookmarks){:.termref}
     listings, back and forward buttons in web browsers, or links on web
     pages.

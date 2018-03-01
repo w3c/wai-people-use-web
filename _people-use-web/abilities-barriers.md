@@ -55,7 +55,7 @@ instance, consider the following aspects:
     level of computer skills, or in the use of the Web in general.
 -   **Multiple disabilities:**{:#combined} Some people have
     combinations of different kinds of disabilities, which may limit
-    their approaches for interacting with the Web. For instance, someone
+    their approaches for interacting with the Web. For example, someone
     who is deaf and has low vision might benefit from captions for
     audio, but only if these captions have adjustable size and color.
 -   **Health conditions:**{:#health} Some people have health conditions
@@ -65,7 +65,7 @@ instance, consider the following aspects:
     the duration or extent of their use of the Web.
 -   **Changing abilities:**{:#changing} Some people may be experiencing
     progressive or recurring functional limitations that impact their
-    use of the Web differently at different times. For instance, some
+    use of the Web differently at different times. For example, some
     may need particular accessibility features on one day, and others or
     none on another day, depending on their condition.
 -   **Temporary impairments:**{:#temporary} Some people may be
@@ -75,7 +75,7 @@ instance, consider the following aspects:
     features, and may be unaware of their needs.
 -   **Situational limitations:**{:#situational} Some people may be
     experiencing constraints due to their surrounding or due to other
-    situational aspects. For instance, they may be in a loud environment
+    situational aspects. For example, they may be in a loud environment
     and unable to hear audio, in bright sunlight and unable to see a
     screen, or they may not be able to afford some technologies.
 
@@ -105,7 +105,7 @@ hearing aids.
 
 While multimedia on the Web provides many opportunities for people with
 auditory disabilities, it also poses challenges when content is not
-designed to be accessible. For instance, while video content can be used
+designed to be accessible. For example, while video content can be used
 to communicate information visually, audio content needs to have
 alternatives, such as transcripts and captions, so that it is accessible
 for people with auditory disabilities.
@@ -191,7 +191,7 @@ a person.
 Computer technologies and the Web provide many opportunities for people
 with cognitive, learning, and neurological disabilities to interact with
 content and to process information in ways that are more usable to them.
-For instance, people can navigate web content using different
+For example, people can navigate web content using different
 strategies, access information in text, audio, or other formats, and
 change the presentation of the content according to their individual
 needs or preferences.
@@ -212,7 +212,7 @@ neurological disabilities often rely on:
 
 People with cognitive, learning, and neurological disabilities use
 different types of web browsing methods, depending on their particular
-needs. For instance, some people use text-to-speech software to hear the
+needs. For example, some people use text-to-speech software to hear the
 information while reading it visually or use captions to read the
 information while hearing it. Some people use tools that resize text and
 spacing or customize colors to assist reading. Others use grammar and
@@ -417,7 +417,7 @@ Speech {#speech}
 -----------------
 
 Speech disabilities include difficulty producing speech that is
-recognizable by others or by voice recognition software. For instance,
+recognizable by others or by voice recognition software. For example,
 the loudness or clarity of someone's voice might be difficult to
 understand.
 
@@ -509,7 +509,7 @@ For these web browsing methods to work, developers need to ensure that
 the presentation of web content is independent of its underlying
 structure and that the structure is correctly coded so that it can be
 processed and presented in different ways by web browsers and assistive
-technologies. For instance, some people do not see the content and rely
+technologies. For example, some people do not see the content and rely
 on lists, headings, tables, and other page structures to be properly
 coded so that they can be identified by web browsers and assistive
 technologies.
