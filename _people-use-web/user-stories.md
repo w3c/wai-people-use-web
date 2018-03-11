@@ -65,11 +65,11 @@ For more information on implementing techniques that remove barriers for Lee, se
 **Accessibility principles:**
 
 -   [Content can be presented in different ways
-    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#adaptable)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#adaptable)
 -   [Content is easier to see and hear
-    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#distinguishable)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#distinguishable)
 -   [Content is compatible with current and future user tools
-    (Robust)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#compatible)
+    (Robust)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#compatible)
 
 {% include_cached excol.html type="end" %}
 
@@ -112,21 +112,21 @@ For more information on implementing techniques that remove barriers for Alex, s
 **Accessibility principles:**
 
 -   [Text alternatives for non-text content
-    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#alternatives)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#alternatives)
 -   [Content can be presented in different ways
-    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#adaptable)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#adaptable)
 -   [Functionality is available from a keyboard
-    (Operable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#keyboard)
+    (Operable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#keyboard)
 -   [Users have enough time to read and use the content
-    (Operable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#time)
+    (Operable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#time)
 -   [Users can easily navigate, find content, and determine where they
-    are (Operable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#navigable)
+    are (Operable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#navigable)
 -   [Content appears and operates in predictable ways
-    (Understandable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#predictable)
+    (Understandable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#predictable)
 -   [Users are helped to avoid and correct mistakes
-    (Understandable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#tolerant)
+    (Understandable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#tolerant)
 -   [Content is compatible with current and future user tools
-    (Robust)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#compatible)
+    (Robust)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#compatible)
 
 {% include_cached excol.html type="end" %}
 
@@ -158,13 +158,13 @@ For more information on implementing techniques that remove barriers for Martine
 **Accessibility principles:**
 
 -   [Text alternatives for non-text content
-    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#alternatives)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#alternatives)
 -   [Captions and other alternatives for multimedia
-    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#captions)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#captions)
 -   [Content is easier to see and hear
-    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#distinguishable)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#distinguishable)
 -   [Content is readable and understandable
-    (Understandable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#readable)
+    (Understandable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#readable)
 
 {% include_cached excol.html type="end" %}
 
@@ -208,23 +208,23 @@ For more information on implementing techniques that remove barriers for Ilya, s
 **Accessibility principles:**
 
 -   [Text alternatives for non-text content
-    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#alternatives)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#alternatives)
 -   [Captions and other alternatives for multimedia
-    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#captions)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#captions)
 -   [Content can be presented in different ways
-    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#adaptable)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#adaptable)
 -   [Content is easier to see and hear
-    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#distinguishable)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#distinguishable)
 -   [Functionality is available from a keyboard
-    (Operable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#keyboard)
+    (Operable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#keyboard)
 -   [Users can easily navigate, find content, and determine where they
-    are (Operable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#navigable)
+    are (Operable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#navigable)
 -   [Content is readable and understandable
-    (Understandable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#readable)
+    (Understandable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#readable)
 -   [Content appears and operates in predictable ways
-    (Understandable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#predictable)
+    (Understandable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#predictable)
 -   [Content is compatible with current and future user tools
-    (Robust)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#compatible)
+    (Robust)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#compatible)
 
 {% include_cached excol.html type="end" %}
 
@@ -269,21 +269,21 @@ For more information on implementing techniques that remove barriers for Preety,
 **Accessibility principles:**
 
 -   [Text alternatives for non-text content
-    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#alternatives)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#alternatives)
 -   [Content can be presented in different ways
-    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#adaptable)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#adaptable)
 -   [Users have enough time to read and use the content
-    (Operable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#time)
+    (Operable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#time)
 -   [Users can easily navigate, find content, and determine where they
-    are (Operable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#navigable)
+    are (Operable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#navigable)
 -   [Content is readable and understandable
-    (Understandable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#readable)
+    (Understandable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#readable)
 -   [Content appears and operates in predictable ways
-    (Understandable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#predictable)
+    (Understandable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#predictable)
 -   [Users are helped to avoid and correct mistakes
-    (Understandable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#tolerant)
+    (Understandable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#tolerant)
 -   [Content is compatible with current and future user tools
-    (Robust)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#compatible)
+    (Robust)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#compatible)
 
 {% include_cached excol.html type="end" %}
 
@@ -327,23 +327,23 @@ For more information on implementing techniques that remove barriers for Yun, se
 **Accessibility principles:**
 
 -   [Text alternatives for non-text content
-    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#alternatives)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#alternatives)
 -   [Content can be presented in different ways
-    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#adaptable)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#adaptable)
 -   [Content is easier to see and hear
-    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#distinguishable)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#distinguishable)
 -   [Users have enough time to read and use the content
-    (Operable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#time)
+    (Operable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#time)
 -   [Users can easily navigate, find content, and determine where they
-    are (Operable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#navigable)
+    are (Operable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#navigable)
 -   [Content is readable and understandable
-    (Understandable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#readable)
+    (Understandable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#readable)
 -   [Content appears and operates in predictable ways
-    (Understandable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#predictable)
+    (Understandable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#predictable)
 -   [Users are helped to avoid and correct mistakes
-    (Understandable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#tolerant)
+    (Understandable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#tolerant)
 -   [Content is compatible with current and future user tools
-    (Robust)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#compatible)
+    (Robust)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#compatible)
 
 {% include_cached excol.html type="end" %}
 
@@ -392,19 +392,19 @@ For more information on implementing techniques that remove barriers for Luis, s
 **Accessibility principles:**
 
 -   [Content can be presented in different ways
-    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#adaptable)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#adaptable)
 -   [Users have enough time to read and use the content
-    (Operable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#time)
+    (Operable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#time)
 -   [Users can easily navigate, find content, and determine where they
-    are (Operable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#navigable)
+    are (Operable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#navigable)
 -   [Content is readable and understandable
-    (Understandable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#readable)
+    (Understandable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#readable)
 -   [Content appears and operates in predictable ways
-    (Understandable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#predictable)
+    (Understandable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#predictable)
 -   [Users are helped to avoid and correct mistakes
-    (Understandable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#tolerant)
+    (Understandable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#tolerant)
 -   [Content is compatible with current and future user tools
-    (Robust)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#compatible)
+    (Robust)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#compatible)
 
 {% include_cached excol.html type="end" %}
 
@@ -454,21 +454,21 @@ For more information on implementing techniques that remove barriers for Kaseem,
 **Accessibility principles:**
 
 -   [Text alternatives for non-text content
-    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#alternatives)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#alternatives)
 -   [Alternatives for audio and video content
-    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#captions)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#captions)
 -   [Content can be presented in different ways
-    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#adaptable)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#adaptable)
 -   [Content is easier to see and hear
-    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#distinguishable)
+    (Perceivable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#distinguishable)
 -   [Users have enough time to read and use the content
-    (Operable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#time)
+    (Operable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#time)
 -   [Users can easily navigate, find content, and determine where they
-    are (Operable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#navigable)
+    are (Operable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#navigable)
 -   [Content appears and operates in predictable ways
-    (Understandable)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#predictable)
+    (Understandable)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#predictable)
 -   [Content is compatible with current and future user tools
-    (Robust)]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}#compatible)
+    (Robust)]({{ "/fundamentals/accessibility-principles/" | relative_url }}#compatible)
 
 {% include_cached excol.html type="end" %}
 

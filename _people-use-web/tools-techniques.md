@@ -181,10 +181,10 @@ such alternatives but the conversion is usually not fully automatable.
 
 {% include excol.html type="middle" %}
 
--   [Martine, online student who is hard of hearing]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#onlinestudent)
--   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#accountant)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#classroomstudent)
--   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#teenager)
+-   [Martine, online student who is hard of hearing]({{ "/people-use-web/user-stories/" | relative_url }}#onlinestudent)
+-   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | relative_url }}#accountant)
+-   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | relative_url }}#classroomstudent)
+-   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | relative_url }}#teenager)
 
 {% include excol.html type="end" %}
 
@@ -314,12 +314,12 @@ language](#sign){:.termref} videos for sign language users.
 
 {% include excol.html type="middle" %}
 
--   [Lee, online shopper with color blindness]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#shopper)
--   [Martine, online student who is hard of hearing]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#onlinestudent)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#retiree)
--   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#supermarketassistant)
--   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#teenager)
+-   [Lee, online shopper with color blindness]({{ "/people-use-web/user-stories/" | relative_url }}#shopper)
+-   [Martine, online student who is hard of hearing]({{ "/people-use-web/user-stories/" | relative_url }}#onlinestudent)
+-   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | relative_url }}#classroomstudent)
+-   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
+-   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | relative_url }}#supermarketassistant)
+-   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | relative_url }}#teenager)
 
 {% include excol.html type="end" %}
 
@@ -423,10 +423,10 @@ and options for correcting input.
 
 {% include excol.html type="middle" %}
 
--   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#reporter)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#retiree)
--   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#supermarketassistant)
+-   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | relative_url }}#reporter)
+-   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | relative_url }}#classroomstudent)
+-   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
+-   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | relative_url }}#supermarketassistant)
 
 {% include excol.html type="end" %}
 
@@ -538,12 +538,12 @@ essential factor to support different styles of navigation.
 
 {% include excol.html type="middle" %}
 
--   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#reporter)
--   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#accountant)
--   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#classroomstudent)
--   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#retiree)
--   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#supermarketassistant)
--   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | prepend: site.github.url }}#teenager)
+-   [Alex, reporter with repetitive stress injury]({{ "/people-use-web/user-stories/" | relative_url }}#reporter)
+-   [Ilya, senior staff member who is blind]({{ "/people-use-web/user-stories/" | relative_url }}#accountant)
+-   [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia]({{ "/people-use-web/user-stories/" | relative_url }}#classroomstudent)
+-   [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
+-   [Luis, supermarket assistant with Down syndrome]({{ "/people-use-web/user-stories/" | relative_url }}#supermarketassistant)
+-   [Kaseem, teenager who is deaf and blind]({{ "/people-use-web/user-stories/" | relative_url }}#teenager)
 
 {% include excol.html type="end" %}
 
