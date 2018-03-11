@@ -39,9 +39,9 @@ tools.
 
 ## Related resources
 
--   [**Accessibility Principles**]({{ "/fundamentals/accessibility-principles/" | prepend: site.github.url }}) - introduces some of the web accessibility requirements and provides references to the international accessibility standards from the W3C Web Accessibility Initiative (WAI).
+-   [**Accessibility Principles**]({{ "/fundamentals/accessibility-principles/" | relative_urls }}) - introduces some of the web accessibility requirements and provides references to the international accessibility standards from the W3C Web Accessibility Initiative (WAI).
 -   [**Web Accessibility
-    Perspectives**](https://www.w3.org/WAI/perspectives/) – short videos
+    Perspectives**]({{ "/perspective-videos/" | relative_url }}) – short videos
     highlighting accessibility features that are essential to people
     with disabilities and useful for all.
 -   [**Better Web Browsing**](http://www.w3.org/WAI/users/browsing) -
