@@ -5,13 +5,18 @@ footer: >
   <p><strong>Status:</strong> Updated 15 May 2017. <br><strong>Editor:</strong> Shadi Abou-Zahra. Previous editor: Judy Brewer. <a href="../acknowledgments/">Acknowledgments</a>. Previously developed with support of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a>, with contribution from the <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE Task Force</a> of the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
 
-This page explores the wide range of diversity of people and abilities
-and highlights some of the types of web accessibility barriers that
-people commonly encounter due to inaccessible designs of websites and
-web tools.
+{::nomarkdown}
+{% include box.html type="start" h="2" title="Summary" class="full" %}
+{:/}
 
-**Note:** This page is illustrative and is not intended to be an
-exhaustive listing of all disabilities and barriers.
+This page explores the wide range of diversity of people and abilities. It highlights some of the types of web accessibility barriers that people commonly encounter due to inaccessible designs of websites and web tools.
+
+**Note:** This page is illustrative and is not intended to be an exhaustive listing of all disabilities and barriers.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
 
 {::options toc_levels="2" /}
 
