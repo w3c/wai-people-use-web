@@ -11,12 +11,18 @@ footer: >
   </p>
 ---
 
-This page introduces some of the techniques and tools that people with
-disabilities use to interact with the Web, such as web browser settings,
-text-to-speech, voice recognition, and many more.
+{::nomarkdown}
+{% include box.html type="start" h="2" title="Summary" class="full" %}
+{:/}
 
-**Note:** This page is illustrative and is not intended to be an
-exhaustive listing of all web browsing methods.
+This page introduces some of the techniques and tools that people with disabilities use to interact with the Web, such as web browser settings, text-to-speech, voice recognition, and many more.
+
+**Note:** This page is illustrative and is not intended to be an exhaustive listing of all web browsing methods.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
 
 {::options toc_levels="2" /}
 
