@@ -9,7 +9,7 @@ footer: >
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page explores the wide range of diversity of people and abilities. It highlights some of the types of web accessibility barriers that people commonly encounter due to inaccessible designs of websites and web tools.
+This page explores the wide range of diversity of people and abilities and highlights some of the types of web accessibility barriers that people commonly encounter due to inaccessible designs of websites and web tools.
 
 **Note:** This page is illustrative and is not intended to be an exhaustive listing of all disabilities and barriers.
 
