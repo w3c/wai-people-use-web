@@ -40,7 +40,7 @@ collections:
     area: "Accessibility Fundamentals"
     name: "How People with Disabilities Use the Web"
     icon: "book" # TODO
-    repostitory: w3c/wai-people-use-web
+    repository: w3c/wai-people-use-web
     output: true
     acknowledgements: false
     permalink: /:collection/:path/
