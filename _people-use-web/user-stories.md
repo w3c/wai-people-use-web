@@ -225,7 +225,7 @@ For more information on implementing techniques that remove barriers for Ilya, s
 
 {% include_cached excol.html type="end" %}
 
-Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia {#classroomstudent}
+Preety, middle school student with attention deficit hyperactivity disorder and dyslexia {#classroomstudent}
 -----------------------------------------------------------------------------------------------------------
 
 Preety is a middle school student with attention deficit hyperactivity disorder with dyslexia. Although she has substantial difficulty reading, she particularly enjoys her literature class.
