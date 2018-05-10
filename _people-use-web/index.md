@@ -27,22 +27,22 @@ tools.
 
 ## This resource includes the following pages
 
--   [**Stories of Web Users**]({{ site.github.url }}{% link _people-use-web/user-stories.md %}) – stories of selected
+-   [**Stories of Web Users**]({{ "/people-use-web/user-stories/" | relative_url }}) – stories of selected
     scenarios of people with disabilities using the Web, to highlight
     the effect of barriers and the broader benefits of accessible
     websites and web tools.
--   [**Diverse Abilities and Barriers**]({{ site.github.url }}{% link _people-use-web/abilities-barriers.md %}) – explores the
+-   [**Diverse Abilities and Barriers**]({{ "/people-use-web/abilities-barriers/" | relative_url }}) – explores the
     wide range of diversity of people and abilities, and highlights some
     of the types of barriers that people commonly encounter due to
     inaccessible design.
--   [**Tools and Techniques**]({{ site.github.url }}{% link _people-use-web/tools-techniques.md %}) – introduces some of
+-   [**Tools and Techniques**]({{ "/people-use-web/tools-techniques/" | relative_url }}) – introduces some of
     the techniques and tools that people with disabilities use to
     interact with the Web, such as browser settings, text-to-speech,
     voice recognition, and many more.
 
 ## Related resources
 
--   [**Accessibility Principles**]({{ "/fundamentals/accessibility-principles/" | relative_urls }}) - introduces some of the web accessibility requirements and provides references to the international accessibility standards from the W3C Web Accessibility Initiative (WAI).
+-   [**Accessibility Principles**]({{ "/fundamentals/accessibility-principles/" | relative_url }}) - introduces some of the web accessibility requirements and provides references to the international accessibility standards from the W3C Web Accessibility Initiative (WAI).
 -   [**Web Accessibility
     Perspectives**]({{ "/perspective-videos/" | relative_url }}) – short videos
     highlighting accessibility features that are essential to people

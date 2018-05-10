@@ -53,11 +53,11 @@ For more information on implementing techniques that remove barriers for Lee, se
 
 **Diverse Abilities and Barriers**
 
--   [Color blindness (Visual disabilities)]({% link _people-use-web/abilities-barriers.md %}#visual)
+-   [Color blindness (Visual disabilities)]({{ "/people-use-web/abilities-barriers/" | relative_url }}#visual)
 
 **Tools and Techniques**
 
--   [Customized fonts and colors (Presentation)]({% link _people-use-web/tools-techniques.md %}#presentation)
+-   [Customized fonts and colors (Presentation)]({{ "/people-use-web/tools-techniques/" | relative_url }}#presentation)
 
 **Accessibility principles:**
 
@@ -95,16 +95,16 @@ For more information on implementing techniques that remove barriers for Alex, s
 **Diverse Abilities and Barriers**
 
 -   [Repetitive stress injury (Physical
-    disabilities)]({% link _people-use-web/abilities-barriers.md %}#physical)
+    disabilities)]({{ "/people-use-web/abilities-barriers/" | relative_url }}#physical)
 
 **Tools and Techniques**
 
--   [Accelerators (Input)]({% link _people-use-web/tools-techniques.md %}#input)
--   [Alternative keyboard and mouse (Input)]({% link _people-use-web/tools-techniques.md %}#input)
--   [Voice recognition (Input)]({% link _people-use-web/tools-techniques.md %}#input)
--   [Word prediction (Input)]({% link _people-use-web/tools-techniques.md %}#input)
--   [Keyboard navigation (Interaction)]({% link _people-use-web/tools-techniques.md %}#interaction)
--   [Skip links (Interation)]({% link _people-use-web/tools-techniques.md %}#interaction)
+-   [Accelerators (Input)]({{ "/people-use-web/tools-techniques/" | relative_url }}#input)
+-   [Alternative keyboard and mouse (Input)]({{ "/people-use-web/tools-techniques/" | relative_url }}#input)
+-   [Voice recognition (Input)]({{ "/people-use-web/tools-techniques/" | relative_url }}#input)
+-   [Word prediction (Input)]({{ "/people-use-web/tools-techniques/" | relative_url }}#input)
+-   [Keyboard navigation (Interaction)]({{ "/people-use-web/tools-techniques/" | relative_url }}#interaction)
+-   [Skip links (Interation)]({{ "/people-use-web/tools-techniques/" | relative_url }}#interaction)
 
 **Accessibility principles:**
 
@@ -144,13 +144,13 @@ For more information on implementing techniques that remove barriers for Martine
 
 **Diverse Abilities and Barriers**
 
--   [Hard of hearing (Auditory disabilities)]({% link _people-use-web/abilities-barriers.md %}#auditory)
+-   [Hard of hearing (Auditory disabilities)]({{ "/people-use-web/abilities-barriers/" | relative_url }}#auditory)
 
 **Tools and Techniques**
 
--   [Captions (Perception)]({% link _people-use-web/tools-techniques.md %}#perception)
--   [Transcripts (Perception)]({% link _people-use-web/tools-techniques.md %}#perception)
--   [Sign language (Presentation)]({% link _people-use-web/tools-techniques.md %}#presentation)
+-   [Captions (Perception)]({{ "/people-use-web/tools-techniques/" | relative_url }}#perception)
+-   [Transcripts (Perception)]({{ "/people-use-web/tools-techniques/" | relative_url }}#perception)
+-   [Sign language (Presentation)]({{ "/people-use-web/tools-techniques/" | relative_url }}#presentation)
 
 **Accessibility principles:**
 
@@ -187,20 +187,20 @@ For more information on implementing techniques that remove barriers for Ilya, s
 
 **Diverse Abilities and Barriers**
 
--   [Blindness (Visual disabilities)]({% link _people-use-web/abilities-barriers.md %}#visual)
+-   [Blindness (Visual disabilities)]({{ "/people-use-web/abilities-barriers/" | relative_url }}#visual)
 
 **Tools and Techniques**
 
--   [Screen reader (Perception)]({% link _people-use-web/tools-techniques.md %}#perception)
--   [Text-to-speech (Perception)]({% link _people-use-web/tools-techniques.md %}#perception)
--   [Transcripts (Perception)]({% link _people-use-web/tools-techniques.md %}#perception)
--   [Consistency and predictability (Interaction)]({% link _people-use-web/tools-techniques.md %}#interaction)
+-   [Screen reader (Perception)]({{ "/people-use-web/tools-techniques/" | relative_url }}#perception)
+-   [Text-to-speech (Perception)]({{ "/people-use-web/tools-techniques/" | relative_url }}#perception)
+-   [Transcripts (Perception)]({{ "/people-use-web/tools-techniques/" | relative_url }}#perception)
+-   [Consistency and predictability (Interaction)]({{ "/people-use-web/tools-techniques/" | relative_url }}#interaction)
 -   [Descriptive titles, headings, and labels
-    (Interaction)]({% link _people-use-web/tools-techniques.md %}#interaction)
+    (Interaction)]({{ "/people-use-web/tools-techniques/" | relative_url }}#interaction)
 -   [Helpful error and success messages
-    (Interaction)]({% link _people-use-web/tools-techniques.md %}#interaction)
--   [Keyboard navigation (Interaction)]({% link _people-use-web/tools-techniques.md %}#interaction)
--   [Skip links (Interaction)]({% link _people-use-web/tools-techniques.md %}#interaction)
+    (Interaction)]({{ "/people-use-web/tools-techniques/" | relative_url }}#interaction)
+-   [Keyboard navigation (Interaction)]({{ "/people-use-web/tools-techniques/" | relative_url }}#interaction)
+-   [Skip links (Interaction)]({{ "/people-use-web/tools-techniques/" | relative_url }}#interaction)
 
 **Accessibility principles:**
 
@@ -245,23 +245,23 @@ For more information on implementing techniques that remove barriers for Preety,
 **Diverse Abilities and Barriers**
 
 -   [Attention deficit hyperactivity disorder, ADHD (Cognitive
-    disabilities)]({% link _people-use-web/abilities-barriers.md %}#cognitive)
--   [Dyslexia (Cognitive disabilities)]({% link _people-use-web/abilities-barriers.md %}#cognitive)
+    disabilities)]({{ "/people-use-web/abilities-barriers/" | relative_url }}#cognitive)
+-   [Dyslexia (Cognitive disabilities)]({{ "/people-use-web/abilities-barriers/" | relative_url }}#cognitive)
 
 **Tools and Techniques**
 
--   [Captions (Perception)]({% link _people-use-web/tools-techniques.md %}#perception)
--   [Screen reader (Perception)]({% link _people-use-web/tools-techniques.md %}#perception)
--   [Text-to-speech (Perception)]({% link _people-use-web/tools-techniques.md %}#perception)
+-   [Captions (Perception)]({{ "/people-use-web/tools-techniques/" | relative_url }}#perception)
+-   [Screen reader (Perception)]({{ "/people-use-web/tools-techniques/" | relative_url }}#perception)
+-   [Text-to-speech (Perception)]({{ "/people-use-web/tools-techniques/" | relative_url }}#perception)
 -   [Pop-up and animations blockers
-    (Presentation)]({% link _people-use-web/tools-techniques.md %}#presentation)
--   [Reading assistants (Presentation)]({% link _people-use-web/tools-techniques.md %}#presentation)
--   [Spelling and grammar tools (input)]({% link _people-use-web/tools-techniques.md %}#input)
--   [Consistency and predictability (Interaction)]({% link _people-use-web/tools-techniques.md %}#interaction)
+    (Presentation)]({{ "/people-use-web/tools-techniques/" | relative_url }}#presentation)
+-   [Reading assistants (Presentation)]({{ "/people-use-web/tools-techniques/" | relative_url }}#presentation)
+-   [Spelling and grammar tools (input)]({{ "/people-use-web/tools-techniques/" | relative_url }}#input)
+-   [Consistency and predictability (Interaction)]({{ "/people-use-web/tools-techniques/" | relative_url }}#interaction)
 -   [Helpful error and success messages
-    (Interaction)]({% link _people-use-web/tools-techniques.md %}#interaction)
--   [Keyword search (Interaction)]({% link _people-use-web/tools-techniques.md %}#interaction)
--   [Multiple navigation mechanisms (Interaction)]({% link _people-use-web/tools-techniques.md %}#interaction)
+    (Interaction)]({{ "/people-use-web/tools-techniques/" | relative_url }}#interaction)
+-   [Keyword search (Interaction)]({{ "/people-use-web/tools-techniques/" | relative_url }}#interaction)
+-   [Multiple navigation mechanisms (Interaction)]({{ "/people-use-web/tools-techniques/" | relative_url }}#interaction)
 
 **Accessibility principles:**
 
@@ -303,23 +303,23 @@ For more information on implementing techniques that remove barriers for Yun, se
 
 **Diverse Abilities and Barriers**
 
--   [Low vision (Visual disabilities)]({% link _people-use-web/abilities-barriers.md %}#visual)
--   [Hand tremor (Physical disabilities)]({% link _people-use-web/abilities-barriers.md %}#physical)
+-   [Low vision (Visual disabilities)]({{ "/people-use-web/abilities-barriers/" | relative_url }}#visual)
+-   [Hand tremor (Physical disabilities)]({{ "/people-use-web/abilities-barriers/" | relative_url }}#physical)
 -   [Mild short-term memory loss (Cognitive
-    disabilities)]({% link _people-use-web/abilities-barriers.md %}#cognitive)
+    disabilities)]({{ "/people-use-web/abilities-barriers/" | relative_url }}#cognitive)
 
 **Tools and Techniques**
 
--   [Screen magnification (Presentation)]({% link _people-use-web/tools-techniques.md %}#presentation)
--   [Alternative keyboard and mouse (Input)]({% link _people-use-web/tools-techniques.md %}#input)
--   [Keyboard and mouse filters (Input)]({% link _people-use-web/tools-techniques.md %}#input)
--   [Mouse customization (Input)]({% link _people-use-web/tools-techniques.md %}#input)
--   [Bookmarks and history (Interaction)]({% link _people-use-web/tools-techniques.md %}#interaction)
--   [Consistency and predictability (Interaction)]({% link _people-use-web/tools-techniques.md %}#interaction)
+-   [Screen magnification (Presentation)]({{ "/people-use-web/tools-techniques/" | relative_url }}#presentation)
+-   [Alternative keyboard and mouse (Input)]({{ "/people-use-web/tools-techniques/" | relative_url }}#input)
+-   [Keyboard and mouse filters (Input)]({{ "/people-use-web/tools-techniques/" | relative_url }}#input)
+-   [Mouse customization (Input)]({{ "/people-use-web/tools-techniques/" | relative_url }}#input)
+-   [Bookmarks and history (Interaction)]({{ "/people-use-web/tools-techniques/" | relative_url }}#interaction)
+-   [Consistency and predictability (Interaction)]({{ "/people-use-web/tools-techniques/" | relative_url }}#interaction)
 -   [Descriptive titles, headings, and labels
-    (Interaction)]({% link _people-use-web/tools-techniques.md %}#interaction)
+    (Interaction)]({{ "/people-use-web/tools-techniques/" | relative_url }}#interaction)
 -   [Helpful error and success messages
-    (Interaction)]({% link _people-use-web/tools-techniques.md %}#interaction)
+    (Interaction)]({{ "/people-use-web/tools-techniques/" | relative_url }}#interaction)
 
 **Accessibility principles:**
 
@@ -367,24 +367,24 @@ For more information on implementing techniques that remove barriers for Luis, s
 
 **Diverse Abilities and Barriers**
 
--   [Down syndrome (Cognitive disabilities)]({% link _people-use-web/abilities-barriers.md %}#cognitive)
+-   [Down syndrome (Cognitive disabilities)]({{ "/people-use-web/abilities-barriers/" | relative_url }}#cognitive)
 
 **Tools and Techniques**
 
--   [Easy-to-read text (Presentation)]({% link _people-use-web/tools-techniques.md %}#presentation)
+-   [Easy-to-read text (Presentation)]({{ "/people-use-web/tools-techniques/" | relative_url }}#presentation)
 -   [Pop-up and animations blockers
-    (Presentation)]({% link _people-use-web/tools-techniques.md %}#presentation)
--   [Progressive disclosure (Presentation)]({% link _people-use-web/tools-techniques.md %}#presentation)
--   [Reading assistants (Presentation)]({% link _people-use-web/tools-techniques.md %}#presentation)
--   [Reduced interface (Presentation)]({% link _people-use-web/tools-techniques.md %}#presentation)
--   [Accelerators (Input)]({% link _people-use-web/tools-techniques.md %}#input)
--   [Spelling and grammar tools (Input)]({% link _people-use-web/tools-techniques.md %}#input)
--   [Consistency and predictability (Interaction)]({% link _people-use-web/tools-techniques.md %}#interaction)
+    (Presentation)]({{ "/people-use-web/tools-techniques/" | relative_url }}#presentation)
+-   [Progressive disclosure (Presentation)]({{ "/people-use-web/tools-techniques/" | relative_url }}#presentation)
+-   [Reading assistants (Presentation)]({{ "/people-use-web/tools-techniques/" | relative_url }}#presentation)
+-   [Reduced interface (Presentation)]({{ "/people-use-web/tools-techniques/" | relative_url }}#presentation)
+-   [Accelerators (Input)]({{ "/people-use-web/tools-techniques/" | relative_url }}#input)
+-   [Spelling and grammar tools (Input)]({{ "/people-use-web/tools-techniques/" | relative_url }}#input)
+-   [Consistency and predictability (Interaction)]({{ "/people-use-web/tools-techniques/" | relative_url }}#interaction)
 -   [Descriptive titles, headings, and labels
-    (Interaction)]({% link _people-use-web/tools-techniques.md %}#interaction)
+    (Interaction)]({{ "/people-use-web/tools-techniques/" | relative_url }}#interaction)
 -   [Helpful error and success messages
-    (Interaction)]({% link _people-use-web/tools-techniques.md %}#interaction)
--   [Multiple navigation mechanisms (Interaction)]({% link _people-use-web/tools-techniques.md %}#interaction)
+    (Interaction)]({{ "/people-use-web/tools-techniques/" | relative_url }}#interaction)
+-   [Multiple navigation mechanisms (Interaction)]({{ "/people-use-web/tools-techniques/" | relative_url }}#interaction)
 
 **Accessibility principles:**
 
@@ -428,25 +428,25 @@ For more information on implementing techniques that remove barriers for Kaseem,
 
 **Diverse Abilities and Barriers**
 
--   [Deaf-blindness (Auditory disabilities)]({% link _people-use-web/abilities-barriers.md %}#auditory)
--   [Deaf-blindness (Visual disabilities)]({% link _people-use-web/abilities-barriers.md %}#visual)
+-   [Deaf-blindness (Auditory disabilities)]({{ "/people-use-web/abilities-barriers/" | relative_url }}#auditory)
+-   [Deaf-blindness (Visual disabilities)]({{ "/people-use-web/abilities-barriers/" | relative_url }}#visual)
 
 **Tools and Techniques**
 
--   [Braille (Perception)]({% link _people-use-web/tools-techniques.md %}#perception)
--   [Refreshable Braille display (Perception)]({% link _people-use-web/tools-techniques.md %}#perception)
--   [Screen reader (Perception)]({% link _people-use-web/tools-techniques.md %}#perception)
--   [Text-to-speech (Perception)]({% link _people-use-web/tools-techniques.md %}#perception)
--   [Transcripts (Perception)]({% link _people-use-web/tools-techniques.md %}#perception)
--   [Customized fonts and colors (Presentation)]({% link _people-use-web/tools-techniques.md %}#presentation)
--   [Screen magnification (Presentation)]({% link _people-use-web/tools-techniques.md %}#presentation)
--   [Screen magnifier (Presentation)]({% link _people-use-web/tools-techniques.md %}#presentation)
+-   [Braille (Perception)]({{ "/people-use-web/tools-techniques/" | relative_url }}#perception)
+-   [Refreshable Braille display (Perception)]({{ "/people-use-web/tools-techniques/" | relative_url }}#perception)
+-   [Screen reader (Perception)]({{ "/people-use-web/tools-techniques/" | relative_url }}#perception)
+-   [Text-to-speech (Perception)]({{ "/people-use-web/tools-techniques/" | relative_url }}#perception)
+-   [Transcripts (Perception)]({{ "/people-use-web/tools-techniques/" | relative_url }}#perception)
+-   [Customized fonts and colors (Presentation)]({{ "/people-use-web/tools-techniques/" | relative_url }}#presentation)
+-   [Screen magnification (Presentation)]({{ "/people-use-web/tools-techniques/" | relative_url }}#presentation)
+-   [Screen magnifier (Presentation)]({{ "/people-use-web/tools-techniques/" | relative_url }}#presentation)
 -   [Descriptive titles, headings, and labels
-    (Interaction)]({% link _people-use-web/tools-techniques.md %}#interaction)
+    (Interaction)]({{ "/people-use-web/tools-techniques/" | relative_url }}#interaction)
 -   [Helpful error and success messages
-    (Interaction)]({% link _people-use-web/tools-techniques.md %}#interaction)
--   [Keyboard navigation (Interaction)]({% link _people-use-web/tools-techniques.md %}#interaction)
--   [Skip links (Interaction)]({% link _people-use-web/tools-techniques.md %}#interaction)
+    (Interaction)]({{ "/people-use-web/tools-techniques/" | relative_url }}#interaction)
+-   [Keyboard navigation (Interaction)]({{ "/people-use-web/tools-techniques/" | relative_url }}#interaction)
+-   [Skip links (Interaction)]({{ "/people-use-web/tools-techniques/" | relative_url }}#interaction)
 
 **Accessibility principles:**
 
