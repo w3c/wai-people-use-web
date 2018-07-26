@@ -1,6 +1,8 @@
 ---
 title: "Diverse Abilities and Barriers"
 order: 2
+description: Highlighting some of the abilities people with disability use to overcome web accessibility barriers.
+image: /content-images/wai-people-use-web/social.png
 footer: >
   <p><strong>Date:</strong> Updated 15 May 2017.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>. Previous editor: <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">Acknowledgments</a>.</p>
