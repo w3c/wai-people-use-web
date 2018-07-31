@@ -1,7 +1,7 @@
 ---
 title: "Tools and Techniques"
 order: 3
-description: Techniques and Tools that people with disabilities use to interact with the Web.
+description: Introduces some of the techniques and tools that people with disabilities use to interact with the web — web browser settings, text-to-speech, voice recognition, and many more.
 image: /content-images/wai-people-use-web/social.png
 footer: >
   <p><strong>Date:</strong> Updated 15 May 2017.</p>
