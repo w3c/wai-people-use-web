@@ -1,7 +1,7 @@
 ---
 title: "Stories of Web Users"
 order: 1
-description: Stories of web users are scenarios of people with disabilities using the Web.
+description: Personas of people with disabilities using the Web that highlight the effect of accessibility barriers and the broader benefits of accessible websites and web tools.
 image: /content-images/wai-people-use-web/social.png
 footer: >
   <p><strong>Date:</strong> Updated 15 May 2017.</p>
