@@ -3,6 +3,8 @@ title: "How People with Disabilities Use the Web"
 nav_title: Overview
 permalink: /people-use-web/
 order: 0
+description: Introduces how people with disabilities, including people with age-related impairments, use the Web.
+image: /content-images/wai-people-use-web/social.png
 footer: >
   <p><strong>Date:</strong> Updated 15 May 2017.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>. Previous editor: <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">Acknowledgments</a>.</p>

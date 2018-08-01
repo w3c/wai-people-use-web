@@ -1,6 +1,8 @@
 ---
 title: "Stories of Web Users"
 order: 1
+description: Personas of people with disabilities using the Web that highlight the effect of accessibility barriers and the broader benefits of accessible websites and web tools.
+image: /content-images/wai-people-use-web/social.png
 footer: >
   <p><strong>Date:</strong> Updated 15 May 2017.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a> and Norah Sinclair. Previous editor: <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">Acknowledgments</a>.</p>

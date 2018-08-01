@@ -1,6 +1,8 @@
 ---
 title: "Tools and Techniques"
 order: 3
+description: Introduces some of the techniques and tools that people with disabilities use to interact with the web — web browser settings, text-to-speech, voice recognition, and many more.
+image: /content-images/wai-people-use-web/social.png
 footer: >
   <p><strong>Date:</strong> Updated 15 May 2017.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>. Previous editor: <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">Acknowledgments</a>.</p>
