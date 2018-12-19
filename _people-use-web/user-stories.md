@@ -167,8 +167,8 @@ For more information on implementing techniques that remove barriers for Martine
 
 {% include_cached excol.html type="end" %}
 
-Ilya, senior staff member who is blind
----------------------------------------
+Ilya, senior staff member who is blind {#accountant}
+----------------------------------------------------
 
 Ilya is blind. She is the chief accountant at an insurance company that uses web-based documents and forms over a corporate intranet and like many other blind computer users,
 she does not read Braille.
