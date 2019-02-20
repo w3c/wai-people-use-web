@@ -33,7 +33,7 @@ repository: w3c/wai-showcase-examples
 
 ytkey: AIzaSyCiZ9uToWu9jb7BTx47NtzCvmGGXKXp8nI
 
-remote_theme: w3c/wai-website-theme
+remote_theme: w3c/wai-website-theme-beta
 
 collections:
   people-use-web:
@@ -50,7 +50,7 @@ defaults:
     scope:
       path: "_people-use-web"
     values:
-      layout: "sidenav"
+      layout: "default"
 
 plugins:
   - jekyll-seo-tag
