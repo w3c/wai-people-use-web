@@ -50,7 +50,7 @@ defaults:
     scope:
       path: "_people-use-web"
     values:
-      layout: "sidenav"
+      layout: "default"
 
 plugins:
   - jekyll-seo-tag
