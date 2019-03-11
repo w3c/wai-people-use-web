@@ -364,6 +364,8 @@ current focus, and mechanisms to skip over blocks, such as over page
 headers or navigation bars. People with cognitive and visual
 disabilities share many of these requirements.
 
+@@@ 2.5.1 Pointer gestures, 2.5.2, 2.5.3, 2.5.4, 2.5.5, 2.5.6, 1.3.4, 2.1.4, 2.2.6 all could potentially be talked about here.
+
 {% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
 ### Examples of physical disabilities {#examples-of-physical-disabilities}
