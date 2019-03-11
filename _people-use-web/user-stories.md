@@ -423,6 +423,8 @@ Kaseem, teenager who is deaf and blind {#teenager}
 
 Kaseem is a teenager who is deaf and recently became legally blind too, which means she can see only small portions of a screen and read text when it is significantly enlarged.
 
+@@@ Would need updates to incorporate some criteria (2.5.3, 4.1.3, 2.2.6) Need to add in mobile device usage to this persona and its related critria (2.5.4, 2.5.6, 2.1.4) @@@
+
 Kaseem uses:
 
 * screen magnification software to enlarge the text on websites to a suitable font size;
