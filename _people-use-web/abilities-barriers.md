@@ -540,6 +540,8 @@ they cannot see the mouse pointer. An accessible design supports
 different presentations of the web content and different ways of
 interaction.
 
+@@@ Need to add relevant low-vision criteria and potentially others - see our matrix in the google doc. @@@
+
 {% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
 ### Examples of visual disabilities {#examples-of-visual-disabilities}

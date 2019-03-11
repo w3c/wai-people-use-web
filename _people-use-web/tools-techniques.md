@@ -62,12 +62,12 @@ Some common approaches for interacting with the Web include:
     These include screen readers that read aloud web pages for people
     who cannot read the text, screen magnifiers for people with some
     types of low vision, and voice recognition software and selection
-    switches for people who cannot use a keyboard or mouse.
+    switches for people who cannot use a keyboard or mouse. @@@ Add in mobile considerations of what assistive technogies are present as well. @@@
 -   **Adaptive Strategies**{:#as} – techniques that people with
     disabilities use to improve interaction with the Web, such as
     increasing text size, reducing mouse speed, and turning on captions.
     Adaptive strategies include techniques with standard software, with
-    mainstream web browsers, and with assistive technologies.
+    mainstream web browsers, and with assistive technologies. @@@ Add assistive touch potentially. @@@
 
 Accessibility benefits people with and without disabilities. Features
 that support accessibility are becoming increasingly available in
