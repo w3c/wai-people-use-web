@@ -125,7 +125,7 @@ provide alternative forms of the content. For example, at least some
 level of human intervention is necessary to create textual descriptions
 for images and captions for audio content. Sometimes software tools,
 such as voice and picture recognition, can assist authors in providing
-such alternatives but the conversion is usually not fully automatable.
+such alternatives but the conversion is usually not fully automatable. @@@ Need to condense text - this is tools and techniques, don't need so much narrative. @@@
 
 {% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
