@@ -344,6 +344,7 @@ hardware and software such as:
     movements;
 -   Voice recognition, eye tracking, and other approaches for hands-free
     interaction.
+-   @@@ Add bullet about mechanisms to hold mobile/touchscreen devices @@@
 
 People with physical disabilities may be using a mouse or mouse-like
 device only, or keyboard or keyboard-like device only to operate the
