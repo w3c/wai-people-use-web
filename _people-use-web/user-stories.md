@@ -296,6 +296,8 @@ Yun, retiree with low vision, hand tremor, and mild short-term memory loss {#ret
 
 Yun is an 85 year-old with reduced vision, hand-tremor, and mild memory loss; common age-related impairments for someone his age. Yun regularly browses the web reading news sites. In recent years he also started using social media to stay in touch with his family and friends. He maintains his own blog where he posts articles on art history and other topics he enjoys.
 
+@@@ Definitly needs several additional references for low vision, mobility, and mobile.
+
 Like many older individuals, Yun has difficulty reading small text and clicking on small links and form elements. His daughter showed him how to enlarge text in the web browser, which works well on many websites. He encounters problems when text does not reflow when it is enlarged and he is forced to scroll back and forth to read the enlarged content, which means he easily loses track of his place. He also has problems with CAPTCHA images found on many social media sites. The text is so distorted, even when he enlarges it, that he often cannot accurately enter the text. He has a better experience on sites that use alternative CAPTCHA options, unfortunately only a small number currently do.
 
 Yun’s daughter gave him a special mouse that is easier to control with his hand tremors. He also uses a web browser that saves thumbnail images of his frequently visited sites, which makes it easier for him to keep track of the sites he goes to most often.
