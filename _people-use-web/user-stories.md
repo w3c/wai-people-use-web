@@ -360,6 +360,8 @@ Luis, supermarket assistant with Down syndrome {#supermarketassistant}
 
 Luis has Down syndrome and has difficulty with abstract concepts, reading, and math calculations.
 
+@@@ Some coga criteria apply (2.5.3, 1.3.5, 1.3.6, 2.2.6, 2.3.3, 4.1.3) and some low vision apply (1.4.12, 2.5.5, 1.4.13) @@@
+
 Luis works at a market, bagging groceries for customers. Typically he buys his groceries at the same market where he works, but he is sometimes confused by the large number of product choices and sometimes has problems finding his favorite items when the store layout is changed.
 
 Recently, a friend showed him an app for online grocery purchases that has consistent, easy-to-use navigation with clear and direct instructions. Luis is able to add the list of his most frequently purchased items into the app and save it for additional purchases. He also likes the search functionality that makes suggestions for mistyped or misspelled words. The app also keeps a running total of the items in his virtual shopping cart which helps him keep up with how much he is spending.
