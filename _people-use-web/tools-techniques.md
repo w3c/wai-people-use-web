@@ -132,7 +132,7 @@ such alternatives but the conversion is usually not fully automatable. @@@ Need 
 ### Examples of accessibility features {#examples-of-accessibility-features}
 
 {% include excol.html type="middle" %}
-
+@@@ For all "examples of" sections, add any relevant cognitive, mobile, or low vision bullets. @@@
 -   **Audio descriptions**{:#audio} – (also referred to as "video
     descriptions" and "described video") narrations that describe
     important visual details in a video. These narrations can be during
