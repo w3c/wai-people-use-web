@@ -221,6 +221,8 @@ neurological disabilities often rely on:
     distracting content;
 -   Simpler text that is supplemented by images, graphs, and other
     illustrations;
+-   @@@ Add bullet on timeouts @@@
+-   @@@ Add bullet on customization of text attributes @@@
 
 People with cognitive, learning, and neurological disabilities use
 different types of web browsing methods, depending on their particular
