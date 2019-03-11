@@ -521,6 +521,7 @@ particular needs. For example by:
 -   Listening to text-to-speech synthesis of the content;
 -   Listening to audio descriptions of video in multimedia;
 -   Reading text using refreshable Braille.
+- @@@ May want to add high contrast mode @@@
 
 For these web browsing methods to work, developers need to ensure that
 the presentation of web content is independent of its underlying
