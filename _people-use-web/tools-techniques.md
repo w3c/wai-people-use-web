@@ -55,7 +55,7 @@ perform certain tasks.
 
 {% include excol.html type="middle" %}
 
-Some common approaches for interacting with the Web include:
+Some common approaches for interacting with the Web include: @@@ more about is getting too much into details - maybe incorporate this info into the profiles instead of repeating and giving too much info. @@@
 
 -   **Assistive Technologies**{:#at} – software and hardware that
     people with disabilities use to improve interaction with the web.
