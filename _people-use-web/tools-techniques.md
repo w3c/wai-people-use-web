@@ -83,7 +83,7 @@ not be available to an individual. For example, tools may not be
 affordable, not installed or not compatible with the computer, not
 available in some languages, or not available for other reasons. In
 other cases, people are unaware of accessibility solutions or how to
-configure and use them.
+configure and use them. @@@ Why is this paragraph in here? @@@
 
 {% include excol.html type="end" %}
 
