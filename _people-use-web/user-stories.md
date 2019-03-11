@@ -180,6 +180,8 @@ Ilya uses a screen reader and mobile phone to access the web. Both her screen re
 
 When accessing web content, the screen reader indicates aloud the structural information on a webpage such as headings, column and row headers in tables, list items, links, form controls, and more that enable her to better navigate the page, complete and submit forms, and access information in an effective manner. She is able to listen to and understand speech output at a very high speed. Ilya encounters problems when websites are not properly coded and do not include alt text descriptions on images. These sites are unnavigable and require large amounts of time to read text from the top of the page to the bottom without navigation cues. Occasionally she finds herself trapped in areas on a webpage unable to move to another area and must abandon the page altogether.
 
+When she uses her touchscreen device (e.g. mobile phone or tablet), she may also use an external keyboard or braille display. She sometimes encounters problems when they don't work correctly with the websites she uses.
+
 As a senior member of her organization, Ilya provides training to employees in online environments through the use of video conferencing applications, document and slide sharing applications as well as chat rooms. Ilya and her staff evaluated a number of training tools before finding an effective application with accessibility features that meet the needs of a diverse staff with diverse abilities.
 
 For more information on implementing techniques that remove barriers for Ilya, see the following resources:
