@@ -89,7 +89,7 @@ instance, consider the following aspects:
     experiencing constraints due to their surrounding or due to other
     situational aspects. For example, they may be in a loud environment
     and unable to hear audio, in bright sunlight and unable to see a
-    screen, or they may not be able to afford some technologies.
+    screen, or they may not be able to afford some technologies. @@@ Would probably be best to add clearer description of mobile situational issues here. @@@
 
 Websites and web tools designed for people with a broad range of
 abilities benefit everyone, including people without disabilities. It
