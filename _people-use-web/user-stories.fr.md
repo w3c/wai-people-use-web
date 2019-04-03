@@ -140,7 +140,7 @@ Martine, étudiante en ligne, malentendante {#onlinestudent}
 
 Martine a 62 ans et est malentendante depuis la naissance. Elle peut entendre quelques sons, mais pas assez pour comprendre la parole. Dans l’enfance elle a appris la langue des signes, et pendant ses premières années d’école elle a appris la langue écrite. Elle est étudiante à nouveau&#8239;: elle suit des cours universitaires en ligne.
 
-L’université à laquelle elle est inscrite propose des interprètes en langue des signes et de la sténographie en temps réel (<i lang="en">Communication Access Realtime Translation</i>) qui fournit des verbatims écrits reprenant ce qui est dit dans ses cours. Cependant Martine rencontre des points bloquants quand les vidéos ou d’autres contenus média ne sont pas sous-titrés. L’université est maintenant consciente des besoins et des obligations de fournir des médias sous-titrés et des transcriptions pour les contenus audio&#8239;; elle travaille avec un fournisseur de sous-titres afin de sous-titrer tous les contenus publiés sur les sites de l’université, y compris le contenu de tous les cours fournis sur les plate-formes en ligne. En plus de donner un accès aux contenus pour les étudiants sourds et malentendants, l’université a découvert que les sous-titres et les transcriptions ont d’autres bénéfices. Les transcriptions facilitent la production de sous-titres dans plusieurs langues et aident aussi à mieux indexer les contenus en ligne. Une meilleure indexation permet une meilleure optimisation pour les moteurs de recherche et rend les contenus de l’université plus facilement trouvables. L’université suit les recommandations des <abbr>WCAG</abbr> (Recommandations d’Accessibilité des Contenus Web) pour fournir les sous-titres.
+L’université à laquelle elle est inscrite propose des interprètes en langue des signes et de la sténotypie en temps réel (<i lang="en">Communication Access Realtime Translation</i>) qui fournit des verbatims écrits reprenant ce qui est dit dans ses cours. Cependant Martine rencontre des points bloquants quand les vidéos ou d’autres contenus média ne sont pas sous-titrés. L’université est maintenant consciente des besoins et des obligations de fournir des médias sous-titrés et des transcriptions pour les contenus audio&#8239;; elle travaille avec un fournisseur de sous-titres afin de sous-titrer tous les contenus publiés sur les sites de l’université, y compris le contenu de tous les cours fournis sur les plate-formes en ligne. En plus de donner un accès aux contenus pour les étudiants sourds et malentendants, l’université a découvert que les sous-titres et les transcriptions ont d’autres bénéfices. Les transcriptions facilitent la production de sous-titres dans plusieurs langues et aident aussi à mieux indexer les contenus en ligne. Une meilleure indexation permet une meilleure optimisation pour les moteurs de recherche et rend les contenus de l’université plus facilement trouvables. L’université suit les recommandations des <abbr>WCAG</abbr> (Recommandations d’Accessibilité des Contenus Web) pour fournir les sous-titres.
 
 Pour plus d’informations sur les techniques qui permettent d’enlever des points bloquants pour Martine, référez-vous aux ressources suivantes&#8239;:
 
@@ -178,7 +178,7 @@ Pour plus d’informations sur les techniques qui permettent d’enlever des poi
 Ilya, cadre supérieure, aveugle {#accountant}
 ---------------------------------------------
 
-Ilya est aveugle. Elle est directrice de la comptabilité dans une compagnie d’assurance qui utilise des documents et des formulaires web sur l’intranet de l’entreprise et, comme de nombreux utilisateurs aveugles d’ordinateurs, elle ne lit pas le Braille.
+Ilya est aveugle. Elle est directrice de la comptabilité dans une compagnie d’assurance qui utilise des documents et des formulaires web sur l’intranet de l’entreprise et, comme de nombreux utilisateurs aveugles d’ordinateurs, elle ne lit pas le braille.
 
 Ilya utilise un lecteur d’écran et un téléphone mobile pour accéder au Web. Son lecteur d’écran et les services d’accessibilité de son téléphone lui fournissent des informations sur le système, les applications, et les contenus textes dans une forme vocalisée.
 
@@ -413,10 +413,10 @@ Kaseem est une adolescente sourde et depuis peu légalement aveugle, ce qui sign
 Kaseem utilise&#8239;:
 
 * un logiciel de zoom écran pour agrandir le texte des sites web jusqu’à une taille lisible,
-* un logiciel de synthèse vocale qui affiche le texte sur une plage Braille,
+* un logiciel de synthèse vocale qui affiche le texte sur une plage braille,
 * un grand écran d’ordinateur avec une grande résolution et une forte luminosité.
 
-L’assistant électronique portable Braille de Kaseem inclut un calendrier, un client mail, un navigateur web, et un outil de prise de notes. Son appareil mobile comprend un GPS qui l’aide à se repérer et à circuler en ville. Kaseem utilise le site des transports publics pour organiser ses déplacements et voir les horaires des bus, mais elle rencontre des problèmes quand elle agrandit le texte et qu’il ne se réorganise pas comme il faut, ce qui rend l’utilisation des cartes très difficile. Son expérience est meilleure avec les horaires de trains qui sont correctement balisés et permettent une réorganisation du texte. Kaseem a trouvé les informations de contact de l’équipe web sur le site des transports publics, et leur a envoyé un message pour leur expliquer les problèmes qu’elle rencontre sur leur site. Elle leur a aussi envoyé un lien vers le site web des trains en leur décrivant en quoi il fonctionne mieux pour elle. Elle a récemment reçu un message pour la remercier de ces informations et l’informer que l’équipe web des transports publics améliorera l’accessibilité du site web lors de sa prochaine version.
+L’assistant électronique portable braille de Kaseem inclut un calendrier, un client mail, un navigateur web, et un outil de prise de notes. Son appareil mobile comprend un GPS qui l’aide à se repérer et à circuler en ville. Kaseem utilise le site des transports publics pour organiser ses déplacements et voir les horaires des bus, mais elle rencontre des problèmes quand elle agrandit le texte et qu’il ne se réorganise pas comme il faut, ce qui rend l’utilisation des cartes très difficile. Son expérience est meilleure avec les horaires de trains qui sont correctement balisés et permettent une réorganisation du texte. Kaseem a trouvé les informations de contact de l’équipe web sur le site des transports publics, et leur a envoyé un message pour leur expliquer les problèmes qu’elle rencontre sur leur site. Elle leur a aussi envoyé un lien vers le site web des trains en leur décrivant en quoi il fonctionne mieux pour elle. Elle a récemment reçu un message pour la remercier de ces informations et l’informer que l’équipe web des transports publics améliorera l’accessibilité du site web lors de sa prochaine version.
 
 
 Pour plus d’informations sur les techniques qui permettent d’enlever des points bloquants pour Kaseem, référez-vous aux ressources suivantes&#8239;:
@@ -435,7 +435,7 @@ Pour plus d’informations sur les techniques qui permettent d’enlever des poi
 **Outils et techniques**
 
 -   [Braille (Perception)]({{ "/people-use-web/tools-techniques/fr/" | relative_url }}#perception)
--   [Afficheur Braille (Perception)]({{ "/people-use-web/tools-techniques/fr/" | relative_url }}#perception)
+-   [Afficheur braille (Perception)]({{ "/people-use-web/tools-techniques/fr/" | relative_url }}#perception)
 -   [Lecteur d’écran (Perception)]({{ "/people-use-web/tools-techniques/fr/" | relative_url }}#perception)
 -   [Synthèse vocale (Perception)]({{ "/people-use-web/tools-techniques/fr/" | relative_url }}#perception)
 -   [Transcriptions (Perception)]({{ "/people-use-web/tools-techniques/fr/" | relative_url }}#perception)
