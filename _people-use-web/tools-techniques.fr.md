@@ -78,7 +78,7 @@ Les gens perçoivent le contenu à travers divers sens selon leurs besoins et le
 
 {% include excol.html type="middle" %}
 
-Certaines personnes doivent convertir du contenu d’une forme à l’autre pour le percevoir. Par exemple, une personne sourde-aveugle a besoin de convertir le contenu audio et visuel dans une forme tactile (comme le [Braille](#braille){:.termref}). D’autres personnes ont besoin de percevoir le contenu à travers plusieurs sens, par exemple une personne dyslexique aura besoin d’entendre et de voir le texte pour mieux le comprendre.
+Certaines personnes doivent convertir du contenu d’une forme à l’autre pour le percevoir. Par exemple, une personne sourde-aveugle a besoin de convertir le contenu audio et visuel dans une forme tactile (comme le [braille](#braille){:.termref}). D’autres personnes ont besoin de percevoir le contenu à travers plusieurs sens, par exemple une personne dyslexique aura besoin d’entendre et de voir le texte pour mieux le comprendre.
 
 Le contenu sous forme textuelle peut plus facilement être converti dans d’autres formes et est donc particulièrement utile. Cependant le contenu en texte seul pose de gros problèmes à de nombreuses personnes qui ont des difficultés avec le langage écrit. Les graphiques et les illustrations peuvent être rendus accessibles et rendent souvent les sites web et les applications plus compréhensibles, plus faciles à utiliser et plus satisfaisants pour tout le monde.
 
@@ -92,7 +92,7 @@ Dans certains cas, le contenu peut être converti dans d’autres formes grâce 
 
 - **Audiodescription**{:#audio} (aussi appelée «&#8239;description vidéo&#8239;» ou «&#8239;vidéo décrite&#8239;»)&#8239;: narration qui décrit les détails visuels importants d’une vidéo. Ces narrations peuvent s’insérer dans les pauses naturelles de la piste son, ou être sur une piste audio séparée dans le fichier multimédia, ou dans un fichier son séparé.
 - **Notifications auditives, tactiles ou visuelles**{:#notifications}&#8239;: notifier l’utilisateur ou l’alerter de différentes manières, avec un clignotement, un dialogue visuel qui apparaît, un son, ou une vibration.
-- **Braille**{:#braille}&#8239;: une matrice utilisant six à huit points élevés ou baissés selon différents schémas, pour représenter des lettres et des chiffres. Ces caractères sont lus en parcourant les points élevés du bout des doigts. Le Braille est utilisé par des personnes aveugles, mais toutes les personnes aveugles ne connaissent pas le Braille.
+- **Braille**{:#braille}&#8239;: une matrice utilisant six à huit points élevés ou baissés selon différents schémas, pour représenter des lettres et des chiffres. Ces caractères sont lus en parcourant les points élevés du bout des doigts. Le braille est utilisé par des personnes aveugles, mais toutes les personnes aveugles ne connaissent pas le braille.
 - **Sous-titres**{:#captions}&#8239;: texte rapportant un verbatim de toutes les paroles et décrivant l’information auditive pertinente, qui apparaît en même temps que l’audio (y compris l’audio qui accompagne la vidéo dans le multimédia). Le sous-titrage en temps réel nécessite typiquement des interprètes professionnels.
 - **Synthèse vocale**{:#tts} (aussi appelé «&#8239;sortie vocale&#8239;»)&#8239;: conversion automatique de texte en une voix synthétique qui lit le texte à voix haute.
 - **Transcriptions**{:#transcripts}&#8239;: manuscrits textuels contenant la séquence verbatim de la parole enregistrée ainsi que la description de l’information auditive ou visuelle importante.
@@ -103,8 +103,8 @@ Dans certains cas, le contenu peut être converti dans d’autres formes grâce 
 
 {% include excol.html type="middle" %}
 
-- **Afficheur Braille**{:#braille_display}&#8239;: un terminal mécanique qui affiche une ligne de caractères [Braille](#braille){:.termref} (souvent 40 à 80) en élevant et baissant dynamiquement des picots (des points). Les assistants Braille, qui ont la capacité de petits ordinateurs, sont équipés d’afficheurs Braille. Ces terminaux peuvent être utilisés pour prendre des notes, faire des calculs, ou s’interfacer avec d’autres outils comme les kiosques publics d’information.
-- **Lecteur d’écran**{:#sr}&#8239;: logiciel qui interprète le contenu du bureau et dans le navigateur web, et le convertit dans d’autres formes comme [de la voix](#tts){:.termref} ou [du Braille](#braille){:.termref}. Les lecteurs d’écran fournissent généralement d’autres fonctions, comme des raccourcis clavier, plusieurs moyens d’interpréter le contenu et d’interagir avec lui, et la capacité de surligner le texte qui est en cours de vocalisation.
+- **Afficheur braille**{:#braille_display}&#8239;: un terminal mécanique qui affiche une ligne de caractères [braille](#braille){:.termref} (souvent 40 à 80) en élevant et baissant dynamiquement des picots (des points). Les assistants braille, qui ont la capacité de petits ordinateurs, sont équipés d’afficheurs braille. Ces terminaux peuvent être utilisés pour prendre des notes, faire des calculs, ou s’interfacer avec d’autres outils comme les kiosques publics d’information.
+- **Lecteur d’écran**{:#sr}&#8239;: logiciel qui interprète le contenu du bureau et dans le navigateur web, et le convertit dans d’autres formes comme [de la voix](#tts){:.termref} ou [du braille](#braille){:.termref}. Les lecteurs d’écran fournissent généralement d’autres fonctions, comme des raccourcis clavier, plusieurs moyens d’interpréter le contenu et d’interagir avec lui, et la capacité de surligner le texte qui est en cours de vocalisation.
 - **Navigateur vocal**{:#vb}&#8239;: similaire à un [lecteur d’écran](#sr){:.termref} mais n’interprète souvent que les contenus web. Les navigateurs vocaux ne sont généralement pas développés en tant qu’outils d’assistance mais comme alternatives à des navigateurs web pour des téléphones mobiles et d’autres usages similaires.
 
 {% include excol.html type="end" %}{% include excol.html type="start" id="" %}
@@ -219,7 +219,7 @@ Un contenu web accessible est utilisable par les personnes qui ont besoin de plu
 - **Clavier et souris alternatifs**{:#input}&#8239;: logiciel et matériel principalement utilisés par des personnes atteintes de handicaps cognitifs et physiques pour interagir avec l’ordinateur. Par exemple&#8239;:
     - Un clavier avec des touches plus grosses, des étiquettes sur les touches, un espaceur de touches, des touches illuminées, ou une disposition particulière&#8239;;
     - Un clavier virtuel, un écran tactile, un contacteur à la paille, et un contacteur à une touche&#8239;;
-    - Une trackball, un joystick, un touchpad, une souris spécialement conçue, et autres outils de pointage&#8239;;
+    - Une boule de commande (trackball), une poignée (joystick), un pavé tactile (touchpad), une souris spécialement conçue, et autres outils de pointage&#8239;;
     - Un logiciel de [reconnaissance vocale](#voice){:.termref}, ou d’[oculométrie](#gaze){:.termref}, et autres méthodes d’interaction sans les mains.
 - **Oculométrie**{:#gaze} (aussi appelé «&#8239;<span lang="en">eye-tracking</span>&#8239;»)&#8239;: un système qui suit le mouvement des yeux pour contrôler le pointeur de souris et qui détecte le clignement pour déclencher des clics de souris.
 - **Personnalisation du clavier**{:#kbd}&#8239;: permet le changement de la disposition des touches, l’assignation de raccourcis pour des fonctions, le réglage de [filtres](#filters){:.termref} et l’usage de «&#8239;touches rémanentes&#8239;» pour permettre la frappe à une seule main.
