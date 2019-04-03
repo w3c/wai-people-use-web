@@ -26,11 +26,11 @@ Cette ressource est une introduction pour comprendre comment des personnes attei
 ## Cette ressource comprend les pages suivantes
 
 -   <strong>{% include link.html to="/people-use-web/user-stories/" %}</strong>&#8239;: expose différents scénarios de personnes handicapées utilisant le Web, pour montrer les effets des points bloquants qu’elles rencontrent et les bénéfices plus larges induits par l’accessibilité des sites et des outils web.
--   <strong>{% include link.html to="/people-use-web/abilities-barriers/" %}</strong>&#8239;: présente la vaste diversité de gens et de capacités, et souligne quelques points bloquants qu’on rencontre fréquemmen face à un design inaccessible.
+-   <strong>{% include link.html to="/people-use-web/abilities-barriers/" %}</strong>&#8239;: présente la vaste diversité de gens et de capacités, et souligne quelques points bloquants qu’on rencontre fréquemment face à un design inaccessible.
 -   <strong>{% include link.html to="/people-use-web/tools-techniques/" %}</strong>&#8239;: propose une introduction à des outils et des techniques que les personnes handicapées utilisent pour interagir avec le Web, tels que les réglages du navigateur, la synthèse vocale, la reconnaissance vocale, et bien d’autres méthodes.
 
 ## Ressources liées
 
 -   <span lang="en">[**Accessibility Principles**]({{ "/fundamentals/accessibility-principles/" | relative_url }}){: hreflang="en"}</span> (en anglais)&#8239;: une introduction aux exigences d’accessibilité et aux références d’accessibilité internationales produites par la W3C <i lang="en">Web Accessibility Initiative</i> (WAI, Initiative pour l’Accessibilité Web).
 -   <span lang="en">[**Web Accessibility Perspectives**]({{ "/perspective-videos/" | relative_url }}){: hreflang="en"}</span> (en anglais)&#8239;: de courtes vidéos illustrant des points d’accessibilité essentiels pour les personnes handicapées et utiles à tout le monde.
--   <span lang="en">[**Better Web Browsing**](http://www.w3.org/WAI/users/browsing){: hreflang="en"}</span> (en anglais)&#8239;: des conseils pour personnaliser votre navigateur et la configuration de votre ordinateur pour tirer profit des fonctions d’accessibilité.s
+-   <span lang="en">[**Better Web Browsing**](http://www.w3.org/WAI/users/browsing){: hreflang="en"}</span> (en anglais)&#8239;: des conseils pour personnaliser votre navigateur et la configuration de votre ordinateur pour tirer profit des fonctions d’accessibilités.
