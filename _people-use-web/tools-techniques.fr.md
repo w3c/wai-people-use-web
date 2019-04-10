@@ -8,7 +8,7 @@ description: Introduit quelques techniques et outils que les personnes atteintes
 image: /content-images/wai-people-use-web/social.png
 last_updated: 2018-09-12
 translator: "Stéphane Deschamps"
-contributors: "Denis Boudreau"
+contributors: "Denis Boudreau, @code-elegant"
 reviewers: "Denis Boudreau"
 ---
 
