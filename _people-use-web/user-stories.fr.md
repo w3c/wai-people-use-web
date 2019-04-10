@@ -8,7 +8,7 @@ description: Des personas de personnes atteintes de handicaps et utilisant le We
 image: /content-images/wai-people-use-web/social.png
 last_updated: 2018-09-12
 translator: "Stéphane Deschamps"
-contributors: "Denis Boudreau"
+contributors: "Denis Boudreau, @code-elegant"
 reviewers: "Denis Boudreau"
 ---
 
