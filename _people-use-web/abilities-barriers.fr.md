@@ -8,7 +8,7 @@ description: Explore la grande diversité de publics et de capacités et soulign
 image: /content-images/wai-people-use-web/social.png
 last_updated: 2018-09-12
 translator: "Stéphane Deschamps"
-# contributors: ""
+contributors: "@code-elegant"
 # reviewers: ""
 ---
 
