@@ -8,7 +8,7 @@ description: Explore la grande diversité de publics et de capacités et soulign
 image: /content-images/wai-people-use-web/social.png
 last_updated: 2018-09-12
 translator: "Stéphane Deschamps"
-# contributors: ""
+contributors: "@code-elegant"
 # reviewers: ""
 ---
 
@@ -154,7 +154,7 @@ Les personnes atteintes de handicaps cognitifs, neurologiques, de troubles d’a
 - **Troubles d’apprentissage**{:#learning}&#8239;: c’est davantage un terme fonctionnel qu’une dénomination médicale, et ce n’est pas un terme défini uniformément. En Europe et dans certains pays il s’agit de [handicaps intellectuels](#intellectual){:.termref}, tandis qu’en Australie, au Canada et aux U.S.A. et dans d’autres pays il s’agit de [troubles de la perception](#perceptual){:.termref}.
 - **Handicaps liés à une maladie mentale**{:#mhealth}&#8239;: cela inclut l’anxiété, le delirium, la dépression, la paranoïa, la schizophrénie, et d’autres maladies. Elles peuvent causer des difficultés à se concentrer sur l’information, à la décoder et à la comprendre. En particulier la médication associée à ces maladies peut avoir des effets secondaires comme un flou visuel, un tremblement des mains, et d’autres déficiences.
 - **Déficiences de la mémoire**{:#memory}&#8239;: impliquent une mémoire à court terme limitée, une mémoire à long terme défectueuse, ou une capacité limitée à solliciter les capacités langagières. La démence est une des nombreuses causes de déficiences de la mémoire.
-- **Sclérose en plaques**{:#ms}&#8239;: abîme les cellules nerveuses du cerveau et de la moëlle épinière, et peut affecter les capacités auditives, cognitives, physiques ou visuelle, en particulier pendant les rechutes.
+- **Sclérose en plaques**{:#ms}&#8239;: abîme les cellules nerveuses du cerveau et de la moelle épinière, et peut affecter les capacités auditives, cognitives, physiques ou visuelle, en particulier pendant les rechutes.
 - **Neurodiversité**{:#nd}&#8239;: c’est un terme davantage sociétal que clinique, pour décrire la diversité naturelle des fonctionnements cognitifs, tels que le genre, l’ethnicité, l’orientation sexuelle et le handicap.
 - **Handicaps de perception**{:#perceptual} (aussi appelés «&#8239;[Troubles d’apprentissage](#learning){:.termref}&#8239;» en Australie, au Canada, aux U.S.A. et dans d’autres pays)&#8239;: impliquent la difficulté à interpréter l’information auditive, tactile, visuelle ou autre information sensorielle. Ils peuvent impacter la lecture (dyslexie), l’écriture (dysgraphie), la perception des nombre (dyscalculie), ainsi que l’orientation spatiale ou temporelle.
 - **Troubles liés à des crises**{:#seizure}&#8239;: incluent différents types d’épilepsie et de migraines, qui peuvent être en réaction à des vibrations lumineuses ou à des signaux audios à certaines fréquences, voire à des motifs visuels.
@@ -187,7 +187,7 @@ Les personnes atteintes de handicaps cognitifs, neurologiques, de troubles d’a
 Physiques {#physical}
 ---------------------
 
-Les handicaps physiques (parfois appelés «&#8239;handicaps moteurs&#8239;») incluent les faiblesses et les limitations du contrôle musculaire (telles que des mouvements involotaires comme des spasmes, un manque de coordination, ou une paralysie), des limitations de la sensation, des maladies articulaires (telles que l’arthrite), la douleur qui gêne le mouvement, et les membres manquants.
+Les handicaps physiques (parfois appelés «&#8239;handicaps moteurs&#8239;») incluent les faiblesses et les limitations du contrôle musculaire (telles que des mouvements involontaires comme des spasmes, un manque de coordination, ou une paralysie), des limitations de la sensation, des maladies articulaires (telles que l’arthrite), la douleur qui gêne le mouvement, et les membres manquants.
 
 {% include excol.html type="start" id="" %}
 
@@ -199,7 +199,7 @@ Pour utiliser le Web, les personnes atteintes de handicaps physiques utilisent s
 
 - Un clavier ou une souris ergonomique ou adapté&#8239;;
 - Un pointeur opéré avec la tête, un bâtonnet buccal, et d’autres aides pour assister la frappe&#8239;;
-- Un clavier virtuel avec une trackball, un joystick ou autre dispositif de pointage&#8239;;
+- Un clavier virtuel avec une boule de commande (trackball), une poignée (joystick) ou un autre dispositif de pointage&#8239;;
 - Un contacteur opéré au pied, à l’épaule, à la paille ou via un autre mouvement&#8239;;
 - Un logiciel de reconnaissance vocale, d’oculométrie et autres solutions pour une interaction sans les mains.
 
@@ -220,7 +220,7 @@ Les personnes atteintes de handicaps physiques peuvent avoir des difficultés à
 - **Dextérité réduite**{:#dexterity}&#8239;: il s’agit d’un terme fonctionnel (plutôt que d’une catégorie clinique) qui décrit la capacité à contrôler sa main, telle que la coordination œil-main de personnes atteintes de handicaps cognitifs et neurologiques.
 - **Dystrophie musculaire**{:#md}&#8239;: faiblesse et dégénération musculaire progressives des muscles, incluant parfois bras et mains.
 - **Trouble musculosquelettique**{:#rsi} (appelé aussi «&#8239;lésion articulaire due au travail répétitif&#8239;» ou «&#8239;trouble traumatique cumulatif&#8239;»)&#8239;: implique des blessures du système musculosquelettique (os, articulations, tendons, et autres tissu connectifs) et du système nerveux dues à un dégât lié à des tâches répétitives.
-- **Tremblements et spasmes**{:#tremor}&#8239;: mouvemens ou contractions musculaires involontaires, incluant des sursauts brefs, et des contractions continues ou rythmiques des muscles.
+- **Tremblements et spasmes**{:#tremor}&#8239;: mouvements ou contractions musculaires involontaires, incluant des sursauts brefs, et des contractions continues ou rythmiques des muscles.
 - **Tétraplégie**{:#quadriplegia}&#8239;: paralysie partielle ou totale (inclut le contrôle et la sensation moteurs) des quatre membres (jambes et bras) et du torse.
 
 {% include excol.html type="end" %}{% include excol.html type="start" id="" %}
