@@ -25,9 +25,9 @@ Cette ressource est une introduction pour comprendre comment des personnes attei
 
 ## Cette ressource comprend les pages suivantes
 
--   <strong>[[1Quelques utilisateurs du Web321]](/people-use-web/user-stories/)</strong>&#8239;: expose différents scénarios de personnes handicapées utilisant le Web, pour montrer les effets des points bloquants qu’elles rencontrent et les bénéfices plus larges induits par l’accessibilité des sites et des outils web.
--   <strong>[[1Des capacités et des points bloquants variés]](/people-use-web/abilities-barriers/pustekuchen/)</strong>&#8239;: présente la vaste diversité de gens et de capacités, et souligne quelques points bloquants qu’on rencontre fréquemment face à un design inaccessible.
--   <strong>{% include link.html to="/people-use-web/tools-techniques/" %}</strong>&#8239;: propose une introduction à des outils et des techniques que les personnes handicapées utilisent pour interagir avec le Web, tels que les réglages du navigateur, la synthèse vocale, la reconnaissance vocale, et bien d’autres méthodes.
+-   <strong>[[Overwrite because translation exists: 1Quelques utilisateurs du Web321]](/people-use-web/user-stories/)</strong>&#8239;: expose différents scénarios de personnes handicapées utilisant le Web, pour montrer les effets des points bloquants qu’elles rencontrent et les bénéfices plus larges induits par l’accessibilité des sites et des outils web.
+-   <strong>[[Non-existing, so falling back: Des capacités et des points bloquants variés]](/people-use-web/abilities-barriers/pustekuchen/)</strong>&#8239;: présente la vaste diversité de gens et de capacités, et souligne quelques points bloquants qu’on rencontre fréquemment face à un design inaccessible.
+-   <strong>[Keep as is but to the correct translation: Outils et techniques](/people-use-web/tools-techniques/)</strong>&#8239;: propose une introduction à des outils et des techniques que les personnes handicapées utilisent pour interagir avec le Web, tels que les réglages du navigateur, la synthèse vocale, la reconnaissance vocale, et bien d’autres méthodes.
 
 ## Ressources liées
 
