@@ -31,6 +31,6 @@ Cette ressource est une introduction pour comprendre comment des personnes attei
 
 ## Ressources liées
 
--   <span lang="en">[**Accessibility Principles**]({{ "/fundamentals/accessibility-principles/" | relative_url }}){: hreflang="en"}</span> (en anglais)&#8239;: une introduction aux exigences d’accessibilité et aux références d’accessibilité internationales produites par la W3C <i lang="en">Web Accessibility Initiative</i> (WAI, Initiative pour l’Accessibilité Web).
--   <span lang="en">[**Web Accessibility Perspectives**]({{ "/perspective-videos/" | relative_url }}){: hreflang="en"}</span> (en anglais)&#8239;: de courtes vidéos illustrant des points d’accessibilité essentiels pour les personnes handicapées et utiles à tout le monde.
--   <span lang="en">[**Better Web Browsing**](http://www.w3.org/WAI/users/browsing){: hreflang="en"}</span> (en anglais)&#8239;: des conseils pour personnaliser votre navigateur et la configuration de votre ordinateur pour tirer profit des fonctions d’accessibilité.
+-   <span lang="en">[**Accessibility Principles**](/fundamentals/accessibility-principles/)</span>&#8239;: une introduction aux exigences d’accessibilité et aux références d’accessibilité internationales produites par la W3C <i lang="en">Web Accessibility Initiative</i> (WAI, Initiative pour l’Accessibilité Web).
+-   <span lang="en">[**Web Accessibility Perspectives**](/perspective-videos/)</span>&#8239;: de courtes vidéos illustrant des points d’accessibilité essentiels pour les personnes handicapées et utiles à tout le monde.
+-   <span lang="en">[**Better Web Browsing**](http://www.w3.org/WAI/users/browsing)</span> (en anglais)&#8239;: des conseils pour personnaliser votre navigateur et la configuration de votre ordinateur pour tirer profit des fonctions d’accessibilité.
