@@ -1,6 +1,6 @@
 # How People With Disabilities use the Web
 
-Preview: https://w3c.github.io/wai-people-use-web/people-use-web/
+Preview: https://wai-people-use-web.netlify.com/
 
 ## Translation Notes
 
