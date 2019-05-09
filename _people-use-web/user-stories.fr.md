@@ -7,9 +7,11 @@ lang: fr
 description: Des personas de personnes atteintes de handicaps et utilisant le Web qui montrent l’effet des points de blocage non accessibles, et les avantages pour tous de faire des sites et des outils web accessibles.
 image: /content-images/wai-people-use-web/social.png
 last_updated: 2018-09-12
-translator: "Stéphane Deschamps"
-contributors: "Denis Boudreau, @code-elegant"
-reviewers: "Denis Boudreau"
+translators: 
+- name: "Stéphane Deschamps"
+contributors:
+- name: "Denis Boudreau"
+- name: "@code-elegant"
 ---
 
 {::nomarkdown}

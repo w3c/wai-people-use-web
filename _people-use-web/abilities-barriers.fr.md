@@ -7,9 +7,10 @@ lang: fr
 description: Explore la grande diversité de publics et de capacités et souligne quelques points bloquants en accessibilité web qu’on rencontre fréquemment à cause de sites et d’outils web inaccessibles.
 image: /content-images/wai-people-use-web/social.png
 last_updated: 2018-09-12
-translator: "Stéphane Deschamps"
-contributors: "@code-elegant"
-# reviewers: ""
+translators:
+- name: "Stéphane Deschamps"
+contributors:
+- name: "@code-elegant"
 ---
 
 {::nomarkdown}

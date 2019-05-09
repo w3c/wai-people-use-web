@@ -8,8 +8,10 @@ lang: fr
 description: Comment les personnes handicapées, y compris pour le cas des handicaps liés à l'âge, utilisent-elles le Web ?
 image: /content-images/wai-people-use-web/social.png
 last_updated: 2018-09-12
-translator: "Stéphane Deschamps"
-contributors: "Christophe Roux"
+translators:
+- name: "Stéphane Deschamps"
+contributors: 
+- name: "Christophe Roux"
 footer: >
   <p><strong>Date:</strong> Updated 15 May 2017.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>. Previous editor: <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">Acknowledgments</a>.</p>

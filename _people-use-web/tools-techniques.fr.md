@@ -7,9 +7,11 @@ lang: fr
 description: Introduit quelques techniques et outils que les personnes atteintes de handicaps utilisent pour interagir avec le Web – réglages de navigateurs, synthèse vocale, reconnaissance vocale et bien d’autres.
 image: /content-images/wai-people-use-web/social.png
 last_updated: 2018-09-12
-translator: "Stéphane Deschamps"
-contributors: "Denis Boudreau, @code-elegant"
-reviewers: "Denis Boudreau"
+translators:
+- name: "Stéphane Deschamps"
+contributors:
+- name: "Denis Boudreau"
+- name: "@code-elegant"
 ---
 
 {::nomarkdown}
