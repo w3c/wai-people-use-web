@@ -113,7 +113,7 @@ Pour plus d’informations sur les techniques qui permettent d’enlever des poi
 -   [Reconnaissance vocale (Saisie)]({{ "/people-use-web/tools-techniques/fr/" | relative_url }}#input)
 -   [Écriture prédictive (Saisie)]({{ "/people-use-web/tools-techniques/fr/" | relative_url }}#input)
 -   [Navigation au clavier (Interaction)]({{ "/people-use-web/tools-techniques/fr/" | relative_url }}#interaction)
--   [Liens d’évitement (Interation)]({{ "/people-use-web/tools-techniques/fr/" | relative_url }}#interaction)
+-   [Liens d’évitement (Interaction)]({{ "/people-use-web/tools-techniques/fr/" | relative_url }}#interaction)
 
 **Principes d’accessibilité**
 
