@@ -14,7 +14,7 @@ contributors:
 ---
 
 {::nomarkdown}
-{% include box.html type="start" h="2" title="Summary" class="full" %}
+{% include box.html type="start" h="2" title="Résumé" class="full" %}
 {:/}
 
 Cette page se propose d’explorer la grande diversité de publics et de capacités. Elle souligne quelques points bloquants en accessibilité web qu’on rencontre fréquemment à cause de sites et d’outils web inaccessibles.
@@ -152,12 +152,12 @@ Les personnes atteintes de handicaps cognitifs, neurologiques, de troubles d’a
 - **Trouble du déficit de l’attention avec ou sans hyperactivité (TDAH)**{:#adhd}&#8239;: implique des difficultés à se concentrer sur une seule tâche, ou se concentrer sur de longues périodes, et une grande facilité à se laisser distraire.
 - **Trouble du spectre de l’autisme (TSA)**{:#asd} (inclut «&#8239;autisme&#8239;», «&#8239;syndrome d’Asperger&#8239;» et «&#8239;trouble envahissant du développement&#8239;» (TED)&#8239;: implique des difficultés de communication et d’interaction sociale, et quelquefois des habitudes et des intérêts limités.
 - **Handicaps intellectuels**{:#intellectual} (parfois appelés «&#8239;[troubles d’apprentissage](#learning){:.termref}&#8239;» en Europe et dans certains pays, ou «&#8239;troubles du développement&#8239;» dans d’autres régions)&#8239;: implique des déficiences d’intelligence, une capacité d’apprentissage plus lente, ou des difficultés à comprendre des concepts complexes. Le syndrome de Down est une des nombreuses causes de handicaps intellectuels.
-- **Troubles d’apprentissage**{:#learning}&#8239;: c’est davantage un terme fonctionnel qu’une dénomination médicale, et ce n’est pas un terme défini uniformément. En Europe et dans certains pays il s’agit de [handicaps intellectuels](#intellectual){:.termref}, tandis qu’en Australie, au Canada et aux U.S.A. et dans d’autres pays il s’agit de [troubles de la perception](#perceptual){:.termref}.
+- **Troubles d’apprentissage**{:#learning}&#8239;: c’est davantage un terme fonctionnel qu’une dénomination médicale, et ce n’est pas un terme défini uniformément. En Europe et dans certains pays il s’agit de [handicaps intellectuels](#intellectual){:.termref}, tandis qu’en Australie, au Canada et aux USA et dans d’autres pays il s’agit de [troubles de la perception](#perceptual){:.termref}.
 - **Handicaps liés à une maladie mentale**{:#mhealth}&#8239;: cela inclut l’anxiété, le delirium, la dépression, la paranoïa, la schizophrénie, et d’autres maladies. Elles peuvent causer des difficultés à se concentrer sur l’information, à la décoder et à la comprendre. En particulier la médication associée à ces maladies peut avoir des effets secondaires comme un flou visuel, un tremblement des mains, et d’autres déficiences.
 - **Déficiences de la mémoire**{:#memory}&#8239;: impliquent une mémoire à court terme limitée, une mémoire à long terme défectueuse, ou une capacité limitée à solliciter les capacités langagières. La démence est une des nombreuses causes de déficiences de la mémoire.
 - **Sclérose en plaques**{:#ms}&#8239;: abîme les cellules nerveuses du cerveau et de la moelle épinière, et peut affecter les capacités auditives, cognitives, physiques ou visuelle, en particulier pendant les rechutes.
 - **Neurodiversité**{:#nd}&#8239;: c’est un terme davantage sociétal que clinique, pour décrire la diversité naturelle des fonctionnements cognitifs, tels que le genre, l’ethnicité, l’orientation sexuelle et le handicap.
-- **Handicaps de perception**{:#perceptual} (aussi appelés «&#8239;[Troubles d’apprentissage](#learning){:.termref}&#8239;» en Australie, au Canada, aux U.S.A. et dans d’autres pays)&#8239;: impliquent la difficulté à interpréter l’information auditive, tactile, visuelle ou autre information sensorielle. Ils peuvent impacter la lecture (dyslexie), l’écriture (dysgraphie), la perception des nombre (dyscalculie), ainsi que l’orientation spatiale ou temporelle.
+- **Handicaps de perception**{:#perceptual} (aussi appelés «&#8239;[Troubles d’apprentissage](#learning){:.termref}&#8239;» en Australie, au Canada, aux USA et dans d’autres pays)&#8239;: impliquent la difficulté à interpréter l’information auditive, tactile, visuelle ou autre information sensorielle. Ils peuvent impacter la lecture (dyslexie), l’écriture (dysgraphie), la perception des nombres (dyscalculie), ainsi que l’orientation spatiale ou temporelle.
 - **Troubles liés à des crises**{:#seizure}&#8239;: incluent différents types d’épilepsie et de migraines, qui peuvent être en réaction à des vibrations lumineuses ou à des signaux audios à certaines fréquences, voire à des motifs visuels.
 
 {% include excol.html type="end" %}{% include excol.html type="start" id="" %}
@@ -268,7 +268,7 @@ Les personnes atteintes de handicaps liés à la parole rencontrent des difficul
 
 - **Apraxie de la parole**{:#apraxia}&#8239;: inclut une articulation et une production de son irrégulières, et des erreurs dans la production de sons dans le bon ordre, ce qui occasionne une difficulté à comprendre les mots et les phrases prononcés.
 - **Emballement**{:#cluttering} (aussi appelé «&#8239;tachyphémie&#8239;»)&#8239;: induit un débit de parole très élevé, un rythme et une intonation incorrects, une co-articulation de sons et autres problèmes de fluidité du langage, parfois similaires au [bégaiement](#stuttering){:.termref}.
-- **Dysarthrie**{:#dysarthria}&#8239;: implique une faiblesse ou une paralysie complète des muscles nécessaires à la production de la parole, incluant les lèvres, les poumons, la langues, et d’autres encore.
+- **Dysarthrie**{:#dysarthria}&#8239;: implique une faiblesse ou une paralysie complète des muscles nécessaires à la production de la parole, incluant les lèvres, les poumons, la langue, et d’autres encore.
 - **Troubles des cordes vocales**{:#sound}&#8239;: implique une difficulté ou une incapacité à produire certains sons ou schémas sonores, et occasionne parfois l’addition, la distorsion, l’omission ou la substitution de ces sons avec d’autres.
 - **Bégaiement**{:#stuttering}&#8239;: inclut une irrégularité de parole, la répétition de sons individuels ou de mots ou de phrases entières, et le déplacement ou la prolongation de pauses et de sons pendant la parole, différents de [l’emballement](#cluttering){:.termref}.
 - **Mutisme**{:#muteness}&#8239;: implique l’incapacité à parler à cause de raisons variées dont l’anxiété, des dommages au cerveau, ou l’incapacité à entendre et à apprendre à parler.
@@ -287,7 +287,7 @@ Les personnes atteintes de handicaps liés à la parole rencontrent des difficul
 Visuels {#visual}
 -----------------
 
-Les handicaps visuels vont d’une perte de la vision légère ou modérée  à un ou aux deux yeux («&#8239;malvoyance&#8239;») à une perte de la vision substantielle impossible à corriger aux deux yeux («&#8239;cécité&#8239;»). Certaines personnes ont une sensibilité à certains couleurs réduite ou absente («&#8239;daltonisme&#8239;»), ou une sensibilité accrue aux couleurs vives. Ces variations dans la perception des couleurs et de la luminosité peuvent être indépendantes de l’acuité visuelle.
+Les handicaps visuels vont d’une perte de la vision légère ou modérée  à un ou aux deux yeux («&#8239;malvoyance&#8239;») à une perte de la vision substantielle impossible à corriger aux deux yeux («&#8239;cécité&#8239;»). Certaines personnes ont une sensibilité à certaines couleurs réduite ou absente («&#8239;daltonisme&#8239;»), ou une sensibilité accrue aux couleurs vives. Ces variations dans la perception des couleurs et de la luminosité peuvent être indépendantes de l’acuité visuelle.
 
 {% include excol.html type="start" id="" %}
 
