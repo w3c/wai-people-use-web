@@ -15,7 +15,7 @@ contributors:
 ---
 
 {::nomarkdown}
-{% include box.html type="start" h="2" title="Summary" class="full" %}
+{% include box.html type="start" h="2" title="Résumé" class="full" %}
 {:/}
 
 Cette page introduit quelques techniques et outils que les personnes atteintes de handicaps utilisent pour interagir avec le Web&#8239;: réglages de navigateurs, synthèse vocale, reconnaissance vocale et bien d’autres.
@@ -45,7 +45,7 @@ Cette page introduit quelques techniques et outils que les personnes atteintes d
 Outils et préférences {#tools}
 -------------------------------
 
-Les personnes atteintes de handicaps accèdent au Web et y naviguent de différentes façons, selon leurs besoins et leurs préférences individuels. Certaines fois elles configurent des logiciels et des matériels génériques selon leurs besoins, tandis que d’autres utilisent des logiciels et matériels spécialisés pour leurs aider à accomplir certaines tâches.
+Les personnes atteintes de handicaps accèdent au Web et y naviguent de différentes façons, selon leurs besoins et leurs préférences individuels. Certaines fois elles configurent des logiciels et des matériels génériques selon leurs besoins, tandis que d’autres utilisent des logiciels et matériels spécialisés pour les aider à accomplir certaines tâches.
 
 {% include excol.html type="start" id="" %}
 
@@ -164,7 +164,7 @@ De même, tout le monde n’interprète pas l’information de la même manière
 
 {% include excol.html type="middle" %}
 
-- **Bloqueurs d’animations et de pop-ups**{:#blockers}&#8239;: plugins de navigateurs et autres outils logiciels qui arrêtent les fenêtres surgissantes automatiques et les redirections, et fournissent des options pour arrêter, mettre en pause ou cacher les animations.
+- **Bloqueurs d’animations et de pop-ups**{:#blockers}&#8239;: modules d’extension (plugins) de navigateurs et autres outils logiciels qui arrêtent les fenêtres surgissantes automatiques et les redirections, et fournissent des options pour arrêter, mettre en pause ou cacher les animations.
 - **Assistants à la lecture**{:#reading}&#8239;: logiciels qui change la présentation du contenu et fournissent d’autres fonctionnalités pour le rendre plus lisible. Par exemple&#8239;:
     - Personnaliser la police de caractères, la taille, l’espacement, les couleurs de premier et d’arrière-plan&#8239;;
     - Analyser le texte et trouver les mots et expressions complexes, les lier à des glossaires&#8239;;
@@ -227,8 +227,8 @@ Un contenu web accessible est utilisable par les personnes qui ont besoin de plu
 - **Personnalisation du clavier**{:#kbd}&#8239;: permet le changement de la disposition des touches, l’assignation de raccourcis pour des fonctions, le réglage de [filtres](#filters){:.termref} et l’usage de «&#8239;touches rémanentes&#8239;» pour permettre la frappe à une seule main.
 - **Filtres de clavier et de souris**{:#filters}&#8239;: fonctions du système ou de logiciels spécialisés, qui reconnaissent et compensent les mouvements involontaires tels que les tremblements ou les spasmes.
 - **Personnalisation de la souris**{:#mouse}&#8239;: inclut de changer l’ordre des boutons, changer la sensibilité de la souris au mouvement, fixer des [filtres](#filters){:.termref}, et changer la taille et l’apparence du pointeur à l’écran.
-- **Clavier virtuel**{:#screenkbd}&#8239;: clavier affiché à l’écran qui peut être utilisé avec un écran tactile, une souris, une trackball, un joystick, ou autre dispositif de pointage.
-- **Outils de correction orthographique et grammaticale**{:#lexical}&#8239;: fonctions du navigateur, plugins ou autres logiciels fournissant une assistance à l’écriture.
+- **Clavier virtuel**{:#screenkbd}&#8239;: clavier affiché à l’écran qui peut être utilisé avec un écran tactile, une souris, une boule de commande (trackball), un joystick, ou autre dispositif de pointage.
+- **Outils de correction orthographique et grammaticale**{:#lexical}&#8239;: fonctions du navigateur, modules d’extension (plugins) ou autres logiciels fournissant une assistance à l’écriture.
 - **Reconnaissance vocale**{:#voice} (aussi appelée «&#8239;commande vocale&#8239;»)&#8239;: logiciel qui reconnaît la voix humaine et peut servir à dicter du texte ou d’émettre des commandes pour interagir avec l’ordinateur.
 - **Écriture prédictive**{:#prediction}&#8239;: logiciel qui propose une sélection de mots, d’expressions  et de phrases basée sur la saisie en cours (et parfois en fonction du contexte) pour économiser de la frappe.
 
@@ -264,7 +264,7 @@ Quelques exemples d’interaction liés au handicap&#8239;:
 - Une personne qui a des difficultés à se rappeler les adresses, les noms, ou une fonctionnalité particulière sur un site web&#8239;; les navigateurs doivent fournir une aide qui simplifie l’usage et aide à se rappeler.
 - Une personne qui peut avoir du mal à comprendre un menu hiérarchique, comme le sont de nombreux menus&#8239;; les sites doivent fournir des mécanismes de navigation alternatifs.
 
-De nombreuses fonctions dévolues à différents styles de navigation sont directement fournis par les navigateurs et les technologies d’assistance. Par exemple, la plupart des navigateurs courants fournit des marque-pages, et les lecteurs d’écran permettent de lister les titres, les liens, et d’autres structures dans la page. Cependant, la conception du contenu est aussi un facteur essentiel afin de permettre différents styles de navigation.
+De nombreuses fonctions dévolues à différents styles de navigation sont directement fournis par les navigateurs et les technologies d’assistance. Par exemple, la plupart des navigateurs courants fournissent des marque-pages, et les lecteurs d’écran permettent de lister les titres, les liens, et d’autres structures dans la page. Cependant, la conception du contenu est aussi un facteur essentiel afin de permettre différents styles de navigation.
 
 {% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
