@@ -11,6 +11,8 @@ translators:
 - name: "Stéphane Deschamps"
 contributors:
 - name: "@code-elegant"
+resource:
+  ref: /people-use-web/
 ---
 
 {::nomarkdown}

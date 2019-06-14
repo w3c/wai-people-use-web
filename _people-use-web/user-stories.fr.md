@@ -12,6 +12,8 @@ translators:
 contributors:
 - name: "Denis Boudreau"
 - name: "@code-elegant"
+resource:
+  ref: /people-use-web/
 ---
 
 {::nomarkdown}
