@@ -3,6 +3,7 @@ title: "How People with Disabilities Use the Web"
 order: 0
 nav_title: Overview
 lang: "en"
+last_updated: 2017-05-15
 permalink: /people-use-web/
 ref: /people-use-web/
 description: Introduces how people with disabilities, including people with age-related impairments, use the Web.
@@ -14,6 +15,7 @@ footer: >
 resource:
   title: "How People with Disabilities Use the Web"
   ref: /people-use-web/
+  
 ---
 
 ## Introduction
