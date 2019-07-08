@@ -4,6 +4,7 @@ order: 3
 permalink: /people-use-web/tools-techniques/
 ref: /people-use-web/tools-techniques/
 lang: en
+last_updated: 2017-05-15
 description: Introduces some of the techniques and tools that people with disabilities use to interact with the web — web browser settings, text-to-speech, voice recognition, and many more.
 image: /content-images/wai-people-use-web/social.png
 footer: >
