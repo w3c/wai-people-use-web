@@ -4,6 +4,7 @@ order: 2
 permalink: /people-use-web/abilities-barriers/
 ref: /people-use-web/abilities-barriers/
 lang: en
+last_updated: 2017-05-15
 description: Explores the wide diversity of people and abilities. Highlights some web accessibility barriers that people commonly experience because of inaccessible websites and web tools.
 image: /content-images/wai-people-use-web/social.png
 footer: >
@@ -12,6 +13,7 @@ footer: >
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Previously developed with the <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE Task Force</a>, with support of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a>.</p>
 resource:
   ref: /people-use-web/
+  
 ---
 
 {::nomarkdown}
