@@ -3,6 +3,7 @@ title: "Stories of Web Users"
 permalink: /people-use-web/user-stories/
 ref: /people-use-web/user-stories/
 lang: en
+last_updated: 2017-05-15
 order: 1
 description: Personas of people with disabilities using the Web that highlight the effect of accessibility barriers and the broader benefits of accessible websites and web tools.
 image: /content-images/wai-people-use-web/social.png
