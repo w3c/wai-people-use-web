@@ -1,5 +1,5 @@
 ---
-title: "Comment utilise-t-on le Web avec un handicap ?"
+title: "Comment les personnes handicapées utilisent le web"
 order: 0
 nav_title: Introduction
 permalink: /people-use-web/fr
@@ -17,7 +17,7 @@ footer: > # Translate all the words below, including "Date:" and "Editor:". Do n
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>. Previous editor: <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">Acknowledgments</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Previously developed with the <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE Task Force</a>, with support of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a>.</p>
 resource:
-  title: "Comment utilise-t-on le Web avec un handicap ?"
+  title: "Comment les personnes handicapées utilisent le web"
   ref: /people-use-web/
 ---
 
