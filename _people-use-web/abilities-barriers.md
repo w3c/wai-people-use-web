@@ -278,7 +278,7 @@ disabilities.
     or visual abilities, in particular during relapses.
 -   **Neurodiversity**{:#nd} – is a societal rather than medical term
     to describe the natural diversity in neurocognitive functioning,
-    alike gender, ethnicity, sexual orientation, and disability.
+    like gender, ethnicity, sexual orientation, and disability.
 -   **Perceptual disabilities**{:#perceptual} (sometimes called
     "[learning disabilities](#learning){:.termref}" in Australia, Canada,
     the U.S., and some other countries) – involves difficulty processing
