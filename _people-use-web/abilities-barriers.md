@@ -93,7 +93,7 @@ instance, consider the following aspects:
     experiencing constraints due to their surrounding or due to other
     situational aspects. For example, they may be in a loud environment
     and unable to hear audio, in bright sunlight and unable to see a
-    screen, or they may not be able to afford some technologies.
+    screen, or they may not be able to afford some technologies. @@@ Would probably be best to add clearer description of mobile situational issues here. @@@
 
 Websites and web tools designed for people with a broad range of
 abilities benefit everyone, including people without disabilities. It
@@ -225,6 +225,8 @@ neurological disabilities often rely on:
     distracting content;
 -   Simpler text that is supplemented by images, graphs, and other
     illustrations;
+-   @@@ Add bullet on timeouts @@@
+-   @@@ Add bullet on customization of text attributes @@@
 
 People with cognitive, learning, and neurological disabilities use
 different types of web browsing methods, depending on their particular
@@ -346,6 +348,7 @@ hardware and software such as:
     movements;
 -   Voice recognition, eye tracking, and other approaches for hands-free
     interaction.
+-   @@@ Add bullet about mechanisms to hold mobile/touchscreen devices @@@
 
 People with physical disabilities may be using a mouse or mouse-like
 device only, or keyboard or keyboard-like device only to operate the
@@ -364,6 +367,8 @@ important design aspects include providing visible indicators of the
 current focus, and mechanisms to skip over blocks, such as over page
 headers or navigation bars. People with cognitive and visual
 disabilities share many of these requirements.
+
+@@@ 2.5.1 Pointer gestures, 2.5.2, 2.5.3, 2.5.4, 2.5.5, 2.5.6, 1.3.4, 2.1.4, 2.2.6 all could potentially be talked about here.
 
 {% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
@@ -520,6 +525,7 @@ particular needs. For example by:
 -   Listening to text-to-speech synthesis of the content;
 -   Listening to audio descriptions of video in multimedia;
 -   Reading text using refreshable Braille.
+- @@@ May want to add high contrast mode @@@
 
 For these web browsing methods to work, developers need to ensure that
 the presentation of web content is independent of its underlying
@@ -537,6 +543,8 @@ or they are navigating through the content using keyboard only because
 they cannot see the mouse pointer. An accessible design supports
 different presentations of the web content and different ways of
 interaction.
+
+@@@ Need to add relevant low-vision criteria and potentially others - see our matrix in the google doc. @@@
 
 {% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 

@@ -46,7 +46,7 @@ The following stories of people with disabilities using the Web highlight the ef
 Lee, online shopper with color blindness {#shopper}
 ---------------------------------------------------
 
-Lee is colorblind and encounters barriers when shopping online. He has one of the most common visual disabilities that affect men: red and green color blindness. Lee frequently shops online and sometimes encounters problems on websites and with apps where the color contrast of text and images is not adequate and where color alone is used to indicate required fields and sale prices. When red and green color combinations are used, Lee cannot distinguish between the two, since both look brown to him. It is also very difficult for him to make product choices when color swatches are not labeled with the name of the color.
+Lee is colorblind and encounters barriers when shopping online. He has one of the most common visual disabilities that affect men: red and green color blindness. Lee frequently shops online and sometimes encounters problems on websites and with apps where the color contrast of text, images, buttons, and other controls is not adequate and where color alone is used to indicate required fields and sale prices. When red and green color combinations are used, Lee cannot distinguish between the two, since both look brown to him. It is also very difficult for him to make product choices when color swatches are not labeled with the name of the color.
 
 Lee has better experiences with online content and apps that use adequate contrast and allow him to adjust contrast settings in his browser. He is also better able to recognize when information is required when asterisks are used. Lee can more easily identify the products he would like to purchase, especially clothing, when the color label names are included in the selection options rather than color swatches alone.
 
@@ -89,7 +89,7 @@ Though it took considerable research, time, and commitment to learn, he is able 
 * voice recognition software on his computer and mobile phone
 * assistive touch on his mobile phone
 
-Alex encounters problems when websites and other online content cannot be navigated by keyboard commands alone. He frequently encounters web forms that do not have keyboard equivalents. Sometimes it is also difficult to skip content and navigate to sections on a webpage without using many keyboard commands, which is very tiring and limits the time he can spend working comfortably. He also recently began to explore the use of assistive touch on his mobile phone which also helps him use fewer gestures and work for longer periods of time. As a temporary fix, Alex’s employer has built several custom work arounds that provide keyboard support for his use of the company’s internal Content Management System with the intention to implement improved keyboard support to benefit all users on the next release of the software.
+Alex encounters problems when websites and other online content cannot be navigated by keyboard commands alone. He frequently encounters web forms or applications that do not have keyboard equivalents or that have single character keyboard shortcuts that interfere with his assistive technology. Sometimes it is also difficult to skip content and navigate to sections on a webpage without using many keyboard commands, which is very tiring and limits the time he can spend working comfortably. He also recently began to explore the use of assistive touch on his mobile phone which also helps him use fewer gestures and work for longer periods of time. As a temporary fix, Alex’s employer has built several custom work arounds that provide keyboard support for his use of the company’s internal Content Management System with the intention to implement improved keyboard support to benefit all users on the next release of the software.
 
 For more information on implementing techniques that remove barriers for Alex, see the following resources:
 
@@ -180,7 +180,9 @@ she does not read Braille.
 
 Ilya uses a screen reader and mobile phone to access the web. Both her screen reader and her mobile phone accessibility features provide her with information regarding the device’s operating system, applications, and text content in a speech output form.
 
-When accessing web content, the screen reader indicates aloud the structural information on a webpage such as headings, column and row headers in tables, list items, links, form controls, and more that enable her to better navigate the page, complete and submit forms, and access information in an effective manner. She is able to listen to and understand speech output at a very high speed. Ilya encounters problems when websites are not properly coded and do not include alt text descriptions on images. These sites are unnavigable and require large amounts of time to read text from the top of the page to the bottom without navigation cues. Occasionally she finds herself trapped in areas on a webpage unable to move to another area and must abandon the page altogether.
+When accessing web content, the screen reader indicates aloud the structural information on a webpage such as headings, column and row headers in tables, list items, links, form controls, and more that enable her to better navigate the page, complete and submit forms, and access information in an effective manner. She is able to listen to and understand speech output at a very high speed. Ilya encounters problems when websites are not properly coded and do not include alt text descriptions on images. These sites are unnavigable and require large amounts of time to read text from the top of the page to the bottom without navigation cues. Occasionally she finds herself trapped in areas on a webpage unable to move to another area and must abandon the page altogether. @@@ Add status messages @@@
+
+When she uses her touchscreen device (e.g. mobile phone or tablet), she may also use an external keyboard or braille display. She sometimes encounters problems when they don't work correctly with the websites she uses.
 
 As a senior member of her organization, Ilya provides training to employees in online environments through the use of video conferencing applications, document and slide sharing applications as well as chat rooms. Ilya and her staff evaluated a number of training tools before finding an effective application with accessibility features that meet the needs of a diverse staff with diverse abilities.
 
@@ -237,7 +239,9 @@ Preety, middle school student with attention deficit hyperactivity disorder and 
 
 Preety is a middle school student with attention deficit hyperactivity disorder with dyslexia. Although she has substantial difficulty reading, she particularly enjoys her literature class.
 
-Preety’s school recently started using online digital textbooks. Preety was initially worried about using this new format, but with the use of text-to-speech software that highlights the text on the screen as it reads it aloud, she has found that she can focus on the content more easily instead of struggling over every word. The text-to-speech software is also helpful with other online text; however, Preety’s experience with websites varies greatly from one site to another. Some sites use graphics and illustrations in a way that helps her to focus on the sections and content that she would like to read, while other sites have a lot of advertisements and moving content that is very distracting. She also experiences problems with online content when the navigation is not clearly evident. She finds websites and apps that provide multiple means of navigation such as a navigation bar, search box, bread-crumb trails, and a sitemap to be much easier to use.
+Preety’s school recently started using online digital textbooks. Preety was initially worried about using this new format, but with the use of text-to-speech software that highlights the text on the screen as it reads it aloud, she has found that she can focus on the content more easily instead of struggling over every word. The text-to-speech software is also helpful with other online text; however, Preety’s experience with websites varies greatly from one site to another. Some sites use graphics and illustrations in a way that helps her to focus on the sections and content that she would like to read, while other sites have a lot of advertisements and moving content that is very distracting. She also experiences problems with online content when the navigation is not clearly evident. She finds websites and apps that provide multiple means of navigation such as a navigation bar, search box, bread-crumb trails, and a sitemap to be much easier to use. 
+
+@@@ Add cognitive new criteria (1.3.5, 1.3.6, 2.2.6, 2.3.3) into descriptions of issues, etc.  Some low vision (2.5.6, 1.4.12) may also apply - especially personalization ones. May need a rewrite.  @@@
 
 Preety's school is also using a new online library catalog with improved accessibility. Before the new catalog was implemented Preety had to physically visit the library to receive assistance in searching and locating material. Now she can search the catalog on her own using her mobile phone, tablet, or laptop. Preety still struggles with spelling but has found that search functionality that suggest alternative spellings and provide error corrections are very helpful and greatly improve her experience.
 
@@ -295,6 +299,8 @@ Yun, retiree with low vision, hand tremor, and mild short-term memory loss {#ret
 --------------------------------------------------------------------------------------------
 
 Yun is an 85 year-old with reduced vision, hand-tremor, and mild memory loss; common age-related impairments for someone his age. Yun regularly browses the web reading news sites. In recent years he also started using social media to stay in touch with his family and friends. He maintains his own blog where he posts articles on art history and other topics he enjoys.
+
+@@@ Definitly needs several additional references for low vision, mobility, and mobile (2.5.1, 2.5.2, 2.5.4, 2.5.5, 1.4.10, 1.4.11, 1.4.12, 1.4.13, 1.3.5, 2.2.6) Should mobile be added?. @@@
 
 Like many older individuals, Yun has difficulty reading small text and clicking on small links and form elements. His daughter showed him how to enlarge text in the web browser, which works well on many websites. He encounters problems when text does not reflow when it is enlarged and he is forced to scroll back and forth to read the enlarged content, which means he easily loses track of his place. He also has problems with CAPTCHA images found on many social media sites. The text is so distorted, even when he enlarges it, that he often cannot accurately enter the text. He has a better experience on sites that use alternative CAPTCHA options, unfortunately only a small number currently do.
 
@@ -356,6 +362,8 @@ Luis, supermarket assistant with Down syndrome {#supermarketassistant}
 
 Luis has Down syndrome and has difficulty with abstract concepts, reading, and math calculations.
 
+@@@ Some coga criteria apply (2.5.3, 1.3.5, 1.3.6, 2.2.6, 2.3.3, 4.1.3) and some low vision apply (1.4.12, 2.5.5, 1.4.13) @@@
+
 Luis works at a market, bagging groceries for customers. Typically he buys his groceries at the same market where he works, but he is sometimes confused by the large number of product choices and sometimes has problems finding his favorite items when the store layout is changed.
 
 Recently, a friend showed him an app for online grocery purchases that has consistent, easy-to-use navigation with clear and direct instructions. Luis is able to add the list of his most frequently purchased items into the app and save it for additional purchases. He also likes the search functionality that makes suggestions for mistyped or misspelled words. The app also keeps a running total of the items in his virtual shopping cart which helps him keep up with how much he is spending.
@@ -416,6 +424,8 @@ Kaseem, teenager who is deaf and blind {#teenager}
 -----------------------------------------------------
 
 Kaseem is a teenager who is deaf and recently became legally blind too, which means she can see only small portions of a screen and read text when it is significantly enlarged.
+
+@@@ Would need updates to incorporate some criteria (2.5.3, 4.1.3, 2.2.6) Need to add in mobile device usage to this persona and its related critria (2.5.4, 2.5.6, 2.1.4) @@@
 
 Kaseem uses:
 

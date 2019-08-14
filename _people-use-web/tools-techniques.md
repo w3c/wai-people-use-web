@@ -58,19 +58,19 @@ perform certain tasks.
 
 {% include excol.html type="middle" %}
 
-Some common approaches for interacting with the Web include:
+Some common approaches for interacting with the Web include: @@@ more about is getting too much into details - maybe incorporate this info into the profiles instead of repeating and giving too much info. @@@
 
 -   **Assistive Technologies**{:#at} – software and hardware that
     people with disabilities use to improve interaction with the web.
     These include screen readers that read aloud web pages for people
     who cannot read the text, screen magnifiers for people with some
     types of low vision, and voice recognition software and selection
-    switches for people who cannot use a keyboard or mouse.
+    switches for people who cannot use a keyboard or mouse. @@@ Add in mobile considerations of what assistive technogies are present as well. Maybe add another bullet for personalization. @@@
 -   **Adaptive Strategies**{:#as} – techniques that people with
     disabilities use to improve interaction with the Web, such as
     increasing text size, reducing mouse speed, and turning on captions.
     Adaptive strategies include techniques with standard software, with
-    mainstream web browsers, and with assistive technologies.
+    mainstream web browsers, and with assistive technologies. @@@ Add assistive touch potentially. @@@
 
 Accessibility benefits people with and without disabilities. Features
 that support accessibility are becoming increasingly available in
@@ -86,7 +86,7 @@ not be available to an individual. For example, tools may not be
 affordable, not installed or not compatible with the computer, not
 available in some languages, or not available for other reasons. In
 other cases, people are unaware of accessibility solutions or how to
-configure and use them.
+configure and use them. @@@ Why is this paragraph in here? @@@
 
 {% include excol.html type="end" %}
 
@@ -128,14 +128,14 @@ provide alternative forms of the content. For example, at least some
 level of human intervention is necessary to create textual descriptions
 for images and captions for audio content. Sometimes software tools,
 such as voice and picture recognition, can assist authors in providing
-such alternatives but the conversion is usually not fully automatable.
+such alternatives but the conversion is usually not fully automatable. @@@ Need to condense text - this is tools and techniques, don't need so much narrative. @@@
 
 {% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
 ### Examples of accessibility features {#examples-of-accessibility-features}
 
 {% include excol.html type="middle" %}
-
+@@@ For all "examples of" sections, add any relevant cognitive, mobile, or low vision bullets. @@@
 -   **Audio descriptions**{:#audio} – (also referred to as "video
     descriptions" and "described video") narrations that describe
     important visual details in a video. These narrations can be during
