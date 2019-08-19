@@ -1,0 +1,11 @@
+[Settings]
+
+ID = "wai-people-use-web"
+
+[build]
+
+command = "bundle exec jekyll build --config '_config.yml,_config_staging.yml'"
+
+[[redirects]]
+  from = "/"
+  to = "/people-use-web/"
