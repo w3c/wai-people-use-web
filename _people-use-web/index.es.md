@@ -1,39 +1,41 @@
 ---
-title: "How People with Disabilities Use the Web"
+title: "Cómo usan la web las personas con discapacidad"
 order: 0
-nav_title: Overview
-lang: "en"
-last_updated: 2017-05-15
-permalink: /people-use-web/
+nav_title: Introducción
+lang: "es"
+last_updated: 2019-08-27
+permalink: /people-use-web/es
 ref: /people-use-web/
-description: Introduces how people with disabilities, including people with age-related impairments, use the Web.
+description: Presenta cómo usan la web las personas con discapacidad y las personas con problemas relacionados con la edad.
 image: /content-images/wai-people-use-web/social.png
+translators: 
+- name: "Carlos Muncharaz"
+  link: "http://www.muncharaz.eu/"
 footer: >
-  <p><strong>Date:</strong> Updated 15 May 2017.</p>
-  <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>. Previous editor: <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">Acknowledgments</a>.</p>
-  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Previously developed with the <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE Task Force</a>, with support of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a>.</p>
+  <p><strong>Fecha:</strong> Publicado el 15 de mayo del 2017.</p>
+  <p><strong>Editores:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>. Editora anterior: <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">Agradecimientos</a>.</p>
+  <p>Desarrollado por el Grupo de Trabajo de Educación y Difusión (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Anteriormente desarrollado con el <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">equipo de trabajo WAI-AGE</a>, con apoyo del <a href="https://www.w3.org/WAI/WAI-AGE/">proyecto WAI-AGE</a>.</p>
 resource:
   title: "How People with Disabilities Use the Web"
   ref: /people-use-web/
   
 ---
 
-## Introduction
+## Introducción
 {:#introduction.no-display}
 
-*How do people who cannot move their arms use your website? What about people who cannot see well or at all? Or people who have difficulty hearing or understanding, or have other disabilities?*
+*¿Cómo usa su sitio web la gente que no puede mover los brazos? ¿Y la gente que ve mal o no ve nada? ¿Y las personas que tienen problemas para oír o entender, o que tienen otras discapacidades?*
 
-This resource introduces how people with disabilities, including people with age-related impairments, use the Web. It describes tools and approaches that people with different kinds of disabilities use to browse the Web and the barriers they encounter due to poor design. It helps developers, designers, and others to understand the principles for creating accessible websites, web applications, browsers, and other web tools.
+Este recurso presenta cómo usan la web las personas con discapacidad y las personas con problemas relacionados con la edad. Describe herramientas y aproximaciones que usan las personas con diferentes discapacidades para navegar por la web, así como las barreras que encuentran por culpa de un mal diseño. Ayudará a desarrolladores, diseñadores y otros a comprender los principios para crear sitios web, aplicaciones web, navegadores y otras herramientas accesibles.
 
-## This resource includes the following pages
+## Este recurso incluye las siguientes páginas
 
--   **[[Stories of Web Users]](/people-use-web/user-stories/)** – stories of selected scenarios of people with disabilities using the Web, to highlight the effect of barriers and the broader benefits of accessible websites and web tools.
--   **[[Diverse Abilities and Barriers]](/people-use-web/abilities-barriers/)** – explores the wide range of diversity of people and abilities, and highlights some     of the types of barriers that people commonly encounter due to inaccessible design.
--   **[[Tools and Techniques]](/people-use-web/tools-techniques/)** – introduces some of the techniques and tools that people with disabilities use to interact with the Web, such as browser settings, text-to-speech, voice recognition, and many more.
+-   **[[Historias de usuarios de la web]](/people-use-web/user-stories/)** – historias de escenarios seleccionados que incluyen a personas con discapacidad usando la web, resaltando el efecto de las barreras y los grandes beneficios de los sitios web y herramientas accesibles.
+-   **[[Diversidad de habilidades y barreras]](/people-use-web/abilities-barriers/)** – explora el amplio rango de la diversidad de personas y habilidades, y pone el énfasis en algunas barreras que la gente suele encontrar debido a un diseño inaccesible.
+-   **[[Herramientas y técnicas]](/people-use-web/tools-techniques/)** – presenta algunas técnicas y herramientas que usan las personas con discapacidad para interactuar con la web, como por ejemplo ajustes del navegador, texto a voz, reconocimiento de voz y muchas más.
 
-## Related resources
+## Recursos relacionados
 
--   **[[Accessibility Principles]](/fundamentals/accessibility-principles/)** - introduces some of the web accessibility requirements and provides references to the international accessibility standards from the W3C Web Accessibility Initiative (WAI).
--   **[[Web Accessibility Perspectives]](/perspective-videos/)** – short videos highlighting accessibility features that are essential to people with disabilities and useful for all.
--   **[Better Web Browsing](http://www.w3.org/WAI/users/browsing)** - tips on how to customize your particular web browser and computer setup to benefit from accessibility features.
-
+-   **[[Principios de accesibilidad]](/fundamentals/accessibility-principles/)** - presenta algunos requisitos de la accesibilidad web y proporciona referencias a los estándares de accesibilidad internacionales de la Iniciativa por la Accesibilidad Web (WAI) del W3C.
+-   **[[Perspectivas de la accesibilidad web]](/perspective-videos/)** – vídeos cortos que resaltan algunas características accesibles que son esenciales para las personas con discapacidad y útiles para todos.
+-   **[Navegación web mejorada](http://www.w3.org/WAI/users/browsing)** - consejos para personalizar su navegador web particular y la configuración de su ordenador para beneficiarse de las características accesibles.
