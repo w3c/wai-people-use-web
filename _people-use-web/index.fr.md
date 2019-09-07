@@ -36,6 +36,6 @@ Cette ressource est une introduction pour comprendre comment des personnes attei
 
 ## Ressources liées
 
--   **[[Accessibility Principles]](/fundamentals/accessibility-principles/)**&#8239;: une introduction aux exigences d’accessibilité et aux références d’accessibilité internationales produites par la W3C <i lang="en">Web Accessibility Initiative</i> (WAI, Initiative pour l’Accessibilité Web).
--   **[[Web Accessibility Perspectives]](/perspective-videos/)**&#8239;: de courtes vidéos illustrant des points d’accessibilité essentiels pour les personnes handicapées et utiles à tout le monde.
--   **[[Better Web Browsing]](http://www.w3.org/WAI/users/browsing)**&#8239;: des conseils pour personnaliser votre navigateur et la configuration de votre ordinateur pour tirer profit des fonctions d’accessibilité.
+-   **[[Principes d’accessibilité]](/fundamentals/accessibility-principles/)**&#8239;: une introduction aux exigences d’accessibilité et aux références d’accessibilité internationales produites par la W3C <i lang="en">Web Accessibility Initiative</i> (WAI, Initiative pour l’Accessibilité Web).
+-   **[[Perspectives sur l’accessibilité web]](/perspective-videos/)**&#8239;: de courtes vidéos illustrant des points d’accessibilité essentiels pour les personnes handicapées et utiles à tout le monde.
+-   **[[Mieux profiter du Web]](http://www.w3.org/WAI/users/browsing)**&#8239;: des conseils pour personnaliser votre navigateur et la configuration de votre ordinateur pour tirer profit des fonctions d’accessibilité.
