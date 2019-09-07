@@ -10,7 +10,7 @@ image: /content-images/wai-people-use-web/social.png
 last_updated: 2018-09-12
 translators:
 - name: "Stéphane Deschamps"
-contributors: 
+contributors:
 - name: "Christophe Roux"
 footer: > # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
   <p><strong>Date:</strong> Updated 15 May 2017.</p>
@@ -24,18 +24,18 @@ resource:
 ## Introduction
 {:#introduction.no-display}
 
-*Comment est-ce qu’une personne qui ne peut pas bouger les bras utilise votre site web ? Et comment fait une personne qui voit mal, voire pas du tout ? Et une personne qui a du mal à entendre, ou à comprendre, ou qui a d’autres handicaps ?*
+*Comment est-ce qu’une personne qui ne peut pas bouger les bras utilise votre site web&#8239;? Et comment fait une personne qui voit mal, voire pas du tout&#8239;? Et une personne qui a du mal à entendre, ou à comprendre, ou qui a d’autres handicaps&#8239;?*
 
 Cette ressource est une introduction pour comprendre comment des personnes atteintes de handicaps, y compris liés à l’âge, utilisent le Web. Elle décrit des outils et des approches utilisés par des personnes atteintes de divers types de handicaps pour parcourir le Web et les points bloquants qu’elles rencontrent à cause de mauvaises conceptions. Elle aide les développeurs, les designers et les autres à comprendre les principes nécessaires pour créer des sites web, des applications web, des navigateurs et d’autres outils web de manière accessible.
 
 ## Cette ressource comprend les pages suivantes
 
 -   **[[Quelques utilisateurs du Web]](/people-use-web/user-stories/)**&#8239;: expose différents scénarios de personnes handicapées utilisant le Web, pour montrer les effets des points bloquants qu’elles rencontrent et les bénéfices plus larges induits par l’accessibilité des sites et des outils web.
--   **[[Des capacités et des points bloquants variés]](/people-use-web/abilities-barriers/)**</strong>&#8239;: présente la vaste diversité de gens et de capacités, et souligne quelques points bloquants qu’on rencontre fréquemment face à un design inaccessible.
+-   **[[Des capacités et des points bloquants variés]](/people-use-web/abilities-barriers/)**&#8239;: présente la vaste diversité de gens et de capacités, et souligne quelques points bloquants qu’on rencontre fréquemment face à un design inaccessible.
 -   **[[Outils et techniques]](/people-use-web/tools-techniques/)**&#8239;: propose une introduction à des outils et des techniques que les personnes handicapées utilisent pour interagir avec le Web, tels que les réglages du navigateur, la synthèse vocale, la reconnaissance vocale, et bien d’autres méthodes.
 
 ## Ressources liées
 
 -   **[[Accessibility Principles]](/fundamentals/accessibility-principles/)**&#8239;: une introduction aux exigences d’accessibilité et aux références d’accessibilité internationales produites par la W3C <i lang="en">Web Accessibility Initiative</i> (WAI, Initiative pour l’Accessibilité Web).
 -   **[[Web Accessibility Perspectives]](/perspective-videos/)**&#8239;: de courtes vidéos illustrant des points d’accessibilité essentiels pour les personnes handicapées et utiles à tout le monde.
--   **[[Better Web Browsing](http://www.w3.org/WAI/users/browsing)**&#8239;: des conseils pour personnaliser votre navigateur et la configuration de votre ordinateur pour tirer profit des fonctions d’accessibilité.
+-   **[[Better Web Browsing]](http://www.w3.org/WAI/users/browsing)**&#8239;: des conseils pour personnaliser votre navigateur et la configuration de votre ordinateur pour tirer profit des fonctions d’accessibilité.
