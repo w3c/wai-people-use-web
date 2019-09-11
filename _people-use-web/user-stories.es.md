@@ -1,27 +1,30 @@
 ---
-title: "Stories of Web Users"
-permalink: /people-use-web/user-stories/
+title: "Historias de usuarios de la web"
+permalink: /people-use-web/user-stories/es
 ref: /people-use-web/user-stories/
-lang: en
-last_updated: 2017-05-15
+lang: es
+last_updated: 2019-09-11
 order: 1
-description: Personas of people with disabilities using the Web that highlight the effect of accessibility barriers and the broader benefits of accessible websites and web tools.
+description: Historias de personas con discapacidad usando la web resaltan el efecto de las barreras de accesibilidad y los grandes beneficios de los sitios web y herramientas accesibles.
 image: /content-images/wai-people-use-web/social.png
+translators: 
+- name: "Carlos Muncharaz"
+  link: "http://www.muncharaz.eu/"
 footer: >
-  <p><strong>Date:</strong> Updated 15 May 2017.</p>
-  <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a> and Norah Sinclair. Previous editor: <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">Acknowledgments</a>.</p>
-  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Previously developed with the <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE Task Force</a>, with support of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a>.</p>
+  <p><strong>Fecha:</strong> Publicado el 15 de mayo del 2017.</p>
+  <p><strong>Editores:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a> y Norah Sinclair. Editora anterior: <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">Agradecimientos</a>.</p>
+  <p>Desarrollado por el Grupo de Trabajo de Educación y Difusión (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Anteriormente desarrollado con el <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">equipo de trabajo WAI-AGE </a>, con apoyo del <a href="https://www.w3.org/WAI/WAI-AGE/">proyecto WAI-AGE</a>.</p>
 resource:
   ref: /people-use-web/
 ---
 
 {::nomarkdown}
-{% include box.html type="start" h="2" title="Summary" class="full" %}
+{% include box.html type="start" h="2" title="Resumen" class="full" %}
 {:/}
 
-The following stories of people with disabilities using the Web highlight the effect of accessibility barriers and the broader benefits of accessible websites and web tools.
+Las siguientes historias de personas con discapacidad usando la web resaltan el efecto de las barreras de accesibilidad y los grandes beneficios de los sitios web y herramientas accesibles.
 
-**Note:** The following scenarios are not real people. They do not address every kind of disability.
+**Nota:** Los siguientes escenarios no incluyen a personas reales.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -31,7 +34,7 @@ The following stories of people with disabilities using the Web highlight the ef
 {::options toc_levels="2" /}
 
 {::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents" class="full" %}
+{% include_cached toc.html type="start" title="Contenidos de la página" class="full" %}
 {:/}
 
 -   TOC is created automatically.
