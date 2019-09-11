@@ -43,358 +43,357 @@ The following stories of people with disabilities using the Web highlight the ef
 
 {% include excol.html type="all" %}
 
-## Lee, online shopper with color blindness {#shopper}
+## Lee, comprador en línea con daltonismo {#shopper}
 
-Lee is colorblind and encounters barriers when shopping online. He has one of the most common visual disabilities that affect men: red and green color blindness. Lee frequently shops online and sometimes encounters problems on websites and with apps where the color contrast of text and images is not adequate and where color alone is used to indicate required fields and sale prices. When red and green color combinations are used, Lee cannot distinguish between the two, since both look brown to him. It is also very difficult for him to make product choices when color swatches are not labeled with the name of the color.
+Lee tiene daltonismo y encuentra barreras cuando compra en línea. Tiene una de las discapacidades visuales más comunes entre los hombres: daltonismo rojo-verde. Lee compra en línea con frecuencia y a veces encuentra problemas en aquellos sitios web o aplicaciones donde el contraste de color del texto y de las imágenes no es adecuado, así como en aquellos sitios donde el color se utiliza para marcar los campos requeridos o los precios de venta. Cuando se usan combinaciones de rojo y verde, Lee no puede distinguir entre ellas, pues ambos colores los ve como si fueran marrón. También se le hace difícil elegir productos cuando las muestras de color no están etiquetadas con un nombre.
 
-Lee has better experiences with online content and apps that use adequate contrast and allow him to adjust contrast settings in his browser. He is also better able to recognize when information is required when asterisks are used. Lee can more easily identify the products he would like to purchase, especially clothing, when the color label names are included in the selection options rather than color swatches alone.
+Las experiencias de Lee son mejores con el contenido y las aplicaciones que hacen un uso adecuado del contraste y le permiten ajustar el contraste desde el navegador. Puede reconocer qué información es requerida si se emplean asteriscos. Puede identificar más fácilmente los productos que quiere comprar, especialmente la ropa, cuando los nombres de los colores se ofrecen en una selección de opciones en lugar de muestras de color solamente.
 
-For more information on implementing techniques that remove barriers for Lee, see the following resources:
+Vea los siguientes recursos donde encontrará más información para implementar técnicas que eliminan las barreras que encuentra Lee:
 
 {% include_cached excol.html type="start" id="lee-sections" %}
 
-### Sections related to Lee
+### Secciones relacionadas con Lee
 
 {% include_cached excol.html type="middle" %}
 
-**Diverse Abilities and Barriers**
+**Habilidades y barreras diversas:**
 
--   [Color blindness (Visual disabilities)](/people-use-web/abilities-barriers/#visual)
+-   [Daltonismo (discapacidades visuales)](/people-use-web/abilities-barriers/#visual)
 
-**Tools and Techniques**
+**Herramientas y técnicas:**
 
--   [Customized fonts and colors (Presentation)]({{ "/people-use-web/tools-techniques/" | relative_url }}#presentation)
+-   [Fuentes y colores personalizados (presentación)]({{ "/people-use-web/tools-techniques/" | relative_url }}#presentation)
 
-**Accessibility principles:**
+**Principios de accesibilidad:**
 
--   [Content can be presented in different ways (Perceivable)](/fundamentals/accessibility-principles/#adaptable)
--   [Content is easier to see and hear (Perceivable)](/fundamentals/accessibility-principles/#distinguishable)
--   [Content is compatible with current and future user tools (Robust)](/fundamentals/accessibility-principles/#compatible)
+-   [El contenido se puede presentar de diferentes formas (Perceptible)](/fundamentals/accessibility-principles/#adaptable)
+-   [El contenido es más fácil de ver y oír (Perceptible)](/fundamentals/accessibility-principles/#distinguishable)
+-   [El contenido es compatible con herramientas presentes y futuras (Robusto)](/fundamentals/accessibility-principles/#compatible)
 
 {% include_cached excol.html type="end" %}
 
-## Alex, reporter with repetitive stress injury {#reporter}
+## Alex, periodista con trastorno musculoesquelético {#reporter}
 
-Alex has worked as a reporter for more than 20 years and has developed a repetitive strain injury that makes it painful to use a mouse and to type for extended periods of time.
+Alex ha trabajado como periodista durante más de 20 años y ha desarrollado un trastorno musculoesquelético por el que le resulta doloroso usar el ratón y teclear durante largos periodos de tiempo.
 
-Though it took considerable research, time, and commitment to learn, he is able to work with less pain using the following modifications to his work environment:
+A pesar de que necesitó investigación, tiempo y voluntad para aprender, es capaz de trabajar con menos dolores gracias a las siguientes modificaciones en su entorno de trabajo:
 
-* use of an ergonomic keyboard
-* use of keyboard commands without a mouse
-* voice recognition software on his computer and mobile phone
-* assistive touch on his mobile phone
+* uso de un teclado ergonómico
+* uso de instrucciones de teclado sin ratón
+* programa de reconocimiento de voz en su ordenador y en su móvil
+* asistencia táctil en su móvil
 
-Alex encounters problems when websites and other online content cannot be navigated by keyboard commands alone. He frequently encounters web forms that do not have keyboard equivalents. Sometimes it is also difficult to skip content and navigate to sections on a webpage without using many keyboard commands, which is very tiring and limits the time he can spend working comfortably. He also recently began to explore the use of assistive touch on his mobile phone which also helps him use fewer gestures and work for longer periods of time. As a temporary fix, Alex’s employer has built several custom work arounds that provide keyboard support for his use of the company’s internal Content Management System with the intention to implement improved keyboard support to benefit all users on the next release of the software.
+Alex encuentra problemas cuando los sitios web y el contenido en línea no se puede navegar usando únicamente instrucciones del teclado. Con frecuencia encuentra formularios web que no tienen equivalencia con el teclado.  A veces es también difícil saltar cierto contenido y navegar a secciones en una página web sin usar muchas instrucciones del teclado, lo cual es agotador y limita el tiempo que puede pasar trabajando cómodamente. Recientemente ha empezado a explorar el uso de la asistencia al toque en su teléfono móvil, que le ayuda a hacer menos gestos y trabajar durante periodos de tiempo más largos. Como ajuste temporal, la empresa de Alex ha habilitado atajos personalizados que proporcionan soporte para el teclado para que pueda usar el sistema de gestión de contenidos interno, con la intención de implementar un soporte para el teclado mejorado y beneficiar a todos los usuarios en la próxima versión del programa.
 
-For more information on implementing techniques that remove barriers for Alex, see the following resources:
+Vea los siguientes recursos donde encontrará más información para implementar técnicas que eliminan las barreras que encuentra Alex:
 
 {% include_cached excol.html type="start" id="alex-sections" %}
 
-### Sections related to Alex
+### Secciones relacionadas con Alex
 
 {% include_cached excol.html type="middle" %}
 
-**Diverse Abilities and Barriers**
+**Habilidades y barreras diversas:**
 
-- [Repetitive stress injury (Physical disabilities)](/people-use-web/abilities-barriers/#physical)
+- [Trastorno musculoesquelético (discapacidades físicas)](/people-use-web/abilities-barriers/#physical)
 
-**Tools and Techniques**
+**Herramientas y técnicas:**
 
--   [Accelerators (Input)](/people-use-web/tools-techniques/#input)
--   [Alternative keyboard and mouse (Input)](/people-use-web/tools-techniques/#input)
--   [Voice recognition (Input)](/people-use-web/tools-techniques/#input)
--   [Word prediction (Input)](/people-use-web/tools-techniques/#input)
--   [Keyboard navigation (Interaction)](/people-use-web/tools-techniques/#interaction)
--   [Skip links (Interation)](/people-use-web/tools-techniques/#interaction)
+-   [Aceleradores (entrada)](/people-use-web/tools-techniques/#input)
+-   [Teclado y ratón alternativos (entrada)](/people-use-web/tools-techniques/#input)
+-   [Reconocimiento de voz (entrada)](/people-use-web/tools-techniques/#input)
+-   [Predicción de voz (entrada)](/people-use-web/tools-techniques/#input)
+-   [Navegación con teclado (interacción)](/people-use-web/tools-techniques/#interaction)
+-   [Enlaces de salto (interacción)](/people-use-web/tools-techniques/#interaction)
 
-**Accessibility principles:**
+**Principios de accesibilidad:**
 
--   [Text alternatives for non-text content (Perceivable)](/fundamentals/accessibility-principles/#alternatives)
--   [Content can be presented in different ways (Perceivable)](/fundamentals/accessibility-principles/#adaptable)
--   [Functionality is available from a keyboard (Operable)](/fundamentals/accessibility-principles/#keyboard)
--   [Users have enough time to read and use the content (Operable)](/fundamentals/accessibility-principles/#time)
--   [Users can easily navigate, find content, and determine where they are (Operable)](/fundamentals/accessibility-principles/#navigable)
--   [Content appears and operates in predictable ways (Understandable)](/fundamentals/accessibility-principles/#predictable)
--   [Users are helped to avoid and correct mistakes (Understandable)](/fundamentals/accessibility-principles/#tolerant)
--   [Content is compatible with current and future user tools (Robust)](/fundamentals/accessibility-principles/#compatible)
+-   [Alternativas textuales para contenido no textual (Perceptible)](/fundamentals/accessibility-principles/#alternatives)
+-   [El contenido se puede presentar de diferentes formas (Perceptible)](/fundamentals/accessibility-principles/#adaptable)
+-   [Funcionalidad disponible desde el teclado (Operable)](/fundamentals/accessibility-principles/#keyboard)
+-   [Los usuarios tienen suficiente tiempo para leer y usar el contenido (Operable)](/fundamentals/accessibility-principles/#time)
+-   [Los usuarios pueden navegar fácilmente, encontrar contenido y determinar dónde se encuentran  (Operable)](/fundamentals/accessibility-principles/#navigable)
+-   [El contenido se muestra y se opera de forma predecible (Comprensible)](/fundamentals/accessibility-principles/#predictable)
+-   [Los usuarios reciben ayuda para evitar y corregir errores (Comprensible)](/fundamentals/accessibility-principles/#tolerant)
+-   [El contenido es compatible con herramientas presentes y futuras (Robusto)](/fundamentals/accessibility-principles/#compatible)
 
 {% include_cached excol.html type="end" %}
 
-## Martine, online student who is hard of hearing {#onlinestudent}
+## Martine, estudiante en línea que tiene discapacidad auditiva {#onlinestudent}
 
-Martine is 62 years old and has been hard of hearing since birth. She can hear some sounds, but not enough to understand speech. As a child she learned sign language and during her early school years learned written language. She is currently a student again, taking online college courses.
+Martine tiene 62 años y padece pérdida auditiva desde que nació. Puede oír algunos sonidos, pero no lo suficiente para entender el habla. En su infancia aprendió la lengua de signos y durante sus primeros años en el colegio aprendió a escribir. Ahora vuelve a ser estudiante en cursos universitarios en línea.
 
-The university she attends provides sign language interpreters and Communication Access Realtime Translation (CART) writers who provide written verbatim text interpreting of spoken language for her courses. However, Martine has encountered barriers when video and other media content are not captioned. The university became aware of the need and requirement to provide captioned media and transcripts for audio content and is now working with a captioning provider to caption all content posted on university websites, including all course content in learning management systems. In addition to providing access to the content for students who are deaf or hard of hearing, the university has found that the use of captions and transcripts has added benefits. Transcripts facilitate easier production of subtitles in a number of languages and also improve the indexing of online content. Improved indexing provides improved search engine optimization and improved discoverability of the university’s online content. The university follows WCAG guidelines in providing the captioned content.
+Su universidad proporciona intérpretes de lengua de signos y estenotipia para ofrecer textos escritos que reflejan fielmente la comunicación hablada en sus cursos. Sin embargo, Martine ha encontrado barreras cuando los vídeos y otros medios no se subtitulan. La universidad se dio cuenta de la necesidad de proporcionar subtítulos y transcripciones para los materiales de audio y está trabajando con un proveedor de servicios para subtitular todo el contenido publicado en los sitios web de la universidad. incluyendo todo el contenido de los cursos incluidos el sistema de gestión de aprendizaje. Además de dar acceso al contenido a los estudiantes sordos y con pérdida auditiva, la universidad ha encontrado que los subtítulos y las transcripciones tienen beneficios adicionales. Las transcripciones facilitan la creación de subtítulos en varios idiomas y también mejoran el indexado del contenido en línea. La mejora del indexado también mejora la optimización en los motores de búsqueda y la posibilidad de encontrar el contenido en línea de la universidad. La universidad sigue las pautas WCAG para proporcionar subtítulos.
 
-For more information on implementing techniques that remove barriers for Martine, see the following resources:
+Vea los siguientes recursos donde encontrará más información para implementar técnicas que eliminan las barreras que encuentra Martine:
 
 {% include_cached excol.html type="start" id="martine-sections" %}
 
-### Sections related to Martine
+### Secciones relacionadas con Martine
 
 {% include_cached excol.html type="middle" %}
 
-**Diverse Abilities and Barriers**
+**Habilidades y barreras diversas:**
 
--   [Hard of hearing (Auditory disabilities)](/people-use-web/abilities-barriers/#auditory)
+-   [Hipoacusia (discapacidades auditivas)](/people-use-web/abilities-barriers/#auditory)
 
-**Tools and Techniques**
+**Herramientas y técnicas:**
 
--   [Captions (Perception)](/people-use-web/tools-techniques/#perception)
--   [Transcripts (Perception)](/people-use-web/tools-techniques/#perception)
--   [Sign language (Presentation)](/people-use-web/tools-techniques/#presentation)
+-   [Subtítulos (percepción)](/people-use-web/tools-techniques/#perception)
+-   [Transcripciones (percepción)](/people-use-web/tools-techniques/#perception)
+-   [Lengua de signos (percepción)](/people-use-web/tools-techniques/#presentation)
 
-**Accessibility principles:**
+**Principios de accesibilidad:**
 
--   [Text alternatives for non-text content (Perceivable)](/fundamentals/accessibility-principles/#alternatives)
--   [Captions and other alternatives for multimedia (Perceivable)](/fundamentals/accessibility-principles/#captions)
--   [Content is easier to see and hear (Perceivable)](/fundamentals/accessibility-principles/#distinguishable)
--   [Content is readable and understandable (Understandable)](/fundamentals/accessibility-principles/#readable)
+-   [Alternativas textuales para contenido no textual (Perceptible)](/fundamentals/accessibility-principles/#alternatives)
+-   [Subtítulos y otras alternativas para multimedia (Perceptible)](/fundamentals/accessibility-principles/#captions)
+-   [El contenido es más fácil de ver y oír (Perceptible)](/fundamentals/accessibility-principles/#distinguishable)
+-   [El contenido es legible y comprensible (Comprensible)](/fundamentals/accessibility-principles/#readable)
 
 {% include_cached excol.html type="end" %}
 
-## Ilya, senior staff member who is blind {#accountant}
+## Ilya, empleada veterana que es ciega {#accountant}
 
-Ilya is blind. She is the chief accountant at an insurance company that uses web-based documents and forms over a corporate intranet and like many other blind computer users, she does not read Braille.
+Ilya es ciega. Es la jefa de contabilidad en una empresa de seguros que utiliza documentos web y formularios en la intranet corporativa y, al igual que otras personas ciegas que usan ordenadores, no lee braille.
 
-Ilya uses a screen reader and mobile phone to access the web. Both her screen reader and her mobile phone accessibility features provide her with information regarding the device’s operating system, applications, and text content in a speech output form.
+Ilya utiliza un lector de pantalla y un teléfono móvil para acceder a la web. Las características accesibles de su lector de pantalla y su teléfono móvil le ofrecen información hablada sobre el sistema operativo, las aplicaciones y el contenido textual.
 
-When accessing web content, the screen reader indicates aloud the structural information on a webpage such as headings, column and row headers in tables, list items, links, form controls, and more that enable her to better navigate the page, complete and submit forms, and access information in an effective manner. She is able to listen to and understand speech output at a very high speed. Ilya encounters problems when websites are not properly coded and do not include alt text descriptions on images. These sites are unnavigable and require large amounts of time to read text from the top of the page to the bottom without navigation cues. Occasionally she finds herself trapped in areas on a webpage unable to move to another area and must abandon the page altogether.
+Cuando accede al contenido web, el lector de pantalla lee en voz alta la información estructural del documento, como por ejemplo los encabezados, las columnas y filas de una tabla, elementos de una lista, enlaces, controles de formulario y demás, lo cual le permite navegar por la página, rellenar y enviar formularios y acceder a al información de una forma efectiva. Puede escuchar y entender la salida de voz a una velocidad muy alta. Ilya encuentra problemas cuando los sitios web no están codificados correctamente y no incluyen texto alternativo para describir las imágenes. Estos sitios no se pueden navegar y requieren mucho tiempo para leer el texto completo, de principio a fin, sin pistas para navegar. A veces se encuentra atrapada en partes de un sitio web y no se puede mover a otra zona, por lo que termina abandonando la página.
 
-As a senior member of her organization, Ilya provides training to employees in online environments through the use of video conferencing applications, document and slide sharing applications as well as chat rooms. Ilya and her staff evaluated a number of training tools before finding an effective application with accessibility features that meet the needs of a diverse staff with diverse abilities.
+Como es una empleada con experiencia en su empresa, Ilya proporciona formación a otros empleados en entornos en línea, a través de aplicaciones de conferencia, compartido de documentos y diapositivas y salas de chat. Ilya y su equipo han evaluado varias herramientas de aprendizaje antes de dar con una aplicación que tuviera las características de accesibilidad que necesita un equipo diverso con diferentes capacidades.
 
-For more information on implementing techniques that remove barriers for Ilya, see the following resources:
+Vea los siguientes recursos donde encontrará más información para implementar técnicas que eliminan las barreras que encuentra Ilya:
 
 {% include_cached excol.html type="start" id="ilya-sections" %}
 
-### Sections related to Ilya
+### Secciones relacionadas con Ilya
 
 {% include_cached excol.html type="middle" %}
 
-**Diverse Abilities and Barriers**
+**Habilidades y barreras diversas:**
 
--   [Blindness (Visual disabilities)](/people-use-web/abilities-barriers/#visual)
+-   [Ceguera (discapacidades visuales)](/people-use-web/abilities-barriers/#visual)
 
-**Tools and Techniques**
+**Herramientas y técnicas:**
 
--   [Screen reader (Perception)](/people-use-web/tools-techniques/#perception)
--   [Text-to-speech (Perception)](/people-use-web/tools-techniques/#perception)
--   [Transcripts (Perception)](/people-use-web/tools-techniques/#perception)
--   [Consistency and predictability (Interaction)](/people-use-web/tools-techniques/#interaction)
--   [Descriptive titles, headings, and labels (Interaction)](/people-use-web/tools-techniques/#interaction)
--   [Helpful error and success messages (Interaction)](/people-use-web/tools-techniques/#interaction)
--   [Keyboard navigation (Interaction)](/people-use-web/tools-techniques/#interaction)
--   [Skip links (Interaction)](/people-use-web/tools-techniques/#interaction)
+-   [Lector de pantallas (percepción)](/people-use-web/tools-techniques/#perception)
+-   [Texto a voz (percepción)](/people-use-web/tools-techniques/#perception)
+-   [Transcripciones (percepción)](/people-use-web/tools-techniques/#perception)
+-   [Consistencia y predicción (interacción)](/people-use-web/tools-techniques/#interaction)
+-   [Títulos, encabezados y etiquetas descriptivos (interacción)](/people-use-web/tools-techniques/#interaction)
+-   [Mensajes de error y de éxito útiles (interacción)](/people-use-web/tools-techniques/#interaction)
+-   [Navegación con teclado (interacción)](/people-use-web/tools-techniques/#interaction)
+-   [Enlaces de salto (interacción)](/people-use-web/tools-techniques/#interaction)
 
-**Accessibility principles:**
+**Principios de accesibilidad:**
 
--   [Text alternatives for non-text content (Perceivable)](/fundamentals/accessibility-principles/#alternatives)
--   [Captions and other alternatives for multimedia (Perceivable)](/fundamentals/accessibility-principles/#captions)
--   [Content can be presented in different ways (Perceivable)](/fundamentals/accessibility-principles/#adaptable)
--   [Content is easier to see and hear (Perceivable)](/fundamentals/accessibility-principles/#distinguishable)
--   [Functionality is available from a keyboard (Operable)](/fundamentals/accessibility-principles/#keyboard)
--   [Users can easily navigate, find content, and determine where they are (Operable)](/fundamentals/accessibility-principles/#navigable)
--   [Content is readable and understandable (Understandable)](/fundamentals/accessibility-principles/#readable)
--   [Content appears and operates in predictable ways (Understandable)](/fundamentals/accessibility-principles/#predictable)
--   [Content is compatible with current and future user tools (Robust)](/fundamentals/accessibility-principles/#compatible)
+-   [Alternativas textuales para contenido no textual (Perceptible)](/fundamentals/accessibility-principles/#alternatives)
+-   [Subtítulos y otras alternativas para multimedia (Perceptible)](/fundamentals/accessibility-principles/#captions)
+-   [El contenido se puede presentar de diferentes formas (Perceptible)](/fundamentals/accessibility-principles/#adaptable)
+-   [El contenido es más fácil de ver y de oír (Perceptible)](/fundamentals/accessibility-principles/#distinguishable)
+-   [Funcionalidad disponible desde el teclado (Operable)](/fundamentals/accessibility-principles/#keyboard)
+-   [Los usuarios pueden navegar fácilmente, encontrar contenido y determinar dónde se encuentran (Operable)](/fundamentals/accessibility-principles/#navigable)
+-   [El contenido es legible y comprensible (Comprensible)](/fundamentals/accessibility-principles/#readable)
+-   [El contenido se muestra y se opera de forma predecible (Comprensible)](/fundamentals/accessibility-principles/#predictable)
+-   [El contenido es compatible con herramientas presentes y futuras (Robusto)](/fundamentals/accessibility-principles/#compatible)
 
 {% include_cached excol.html type="end" %}
 
-## Preety, middle school student with attention deficit hyperactivity disorder and dyslexia {#classroomstudent}
+## Preety, estudiante de secundaria con trastorno por déficit de atención e hiperactividad y dislexia {#classroomstudent}
 
-Preety is a middle school student with attention deficit hyperactivity disorder with dyslexia. Although she has substantial difficulty reading, she particularly enjoys her literature class.
+Preety es una estudiante de secundaria con trastorno por déficit de atención e hiperactividad y dislexia. Aunque tiene dificultades considerables para leer, disfruta particularmente en las clases de literatura.
 
-Preety’s school recently started using online digital textbooks. Preety was initially worried about using this new format, but with the use of text-to-speech software that highlights the text on the screen as it reads it aloud, she has found that she can focus on the content more easily instead of struggling over every word. The text-to-speech software is also helpful with other online text; however, Preety’s experience with websites varies greatly from one site to another. Some sites use graphics and illustrations in a way that helps her to focus on the sections and content that she would like to read, while other sites have a lot of advertisements and moving content that is very distracting. She also experiences problems with online content when the navigation is not clearly evident. She finds websites and apps that provide multiple means of navigation such as a navigation bar, search box, bread-crumb trails, and a sitemap to be much easier to use.
+En la escuela de Preety se han empezado a usar libros electrónicos recientemente. Al principio, Preety estaba preocupada por el nuevo formato, pero gracias a los programas de texto a voz que resaltan el texto en la pantalla mientras lo leen en voz alta, se ha dado cuenta de que puede concentrarse en el contenido más fácilmente en lugar de tener que pelar con cada palabra. El programa de texto a voz también sirve de ayuda con otros textos en línea, pero la experiencia de Preety con los sitios web varía mucho de un sitio a otro. Algunos sitios usan gráficos e ilustraciones de forma que le ayudan a concentrarse en las secciones y en el contenido que le gustaría leer, mientras que otros sitios tienen muchos anuncios y contenido que se mueve que provocan distracciones. También encuentra problemas con el contenido en línea cuando la navegación no es muy evidente. Le parece que son más fáciles de usar los sitios web y aplicaciones que proporcionan diferentes formas de navegar, como por ejemplo barra de navegación, herramienta de búsqueda, migas de pan y un mapa del sitio.
 
-Preety's school is also using a new online library catalog with improved accessibility. Before the new catalog was implemented Preety had to physically visit the library to receive assistance in searching and locating material. Now she can search the catalog on her own using her mobile phone, tablet, or laptop. Preety still struggles with spelling but has found that search functionality that suggest alternative spellings and provide error corrections are very helpful and greatly improve her experience.
+La escuela de Preety también está usando un nuevo catálogo de la biblioteca en línea con mejoras de accesibilidad. Antes de que se implementara el nuevo catálogo, Preety tenía que visitar la biblioteca físicamente para obtener ayuda en la búsqueda de materiales. Ahora puede buscar en el catálogo de forma independiente usando su teléfono móvil, tableta o portátil. Preety todavía tiene problemas para deletrear palabras, pero la funcionalidad de la herramienta de búsqueda que sugiere palabras alternativas y corrige errores es muy útil para ella y mejora enormemente su experiencia.
 
-For more information on implementing techniques that remove barriers for Preety, see the following resources:
+Vea los siguientes recursos donde encontrará más información para implementar técnicas que eliminan las barreras que encuentra Preety:
 
 {% include_cached excol.html type="start" id="preety-sections" %}
 
-### Sections related to Preety
+### Secciones relacionadas con Preety
 
 {% include_cached excol.html type="middle" %}
 
-**Diverse Abilities and Barriers**
+**Habilidades y barreras diversas:**
 
--   [Attention deficit hyperactivity disorder, ADHD (Cognitive disabilities)](/people-use-web/abilities-barriers/#cognitive)
--   [Dyslexia (Cognitive disabilities)](/people-use-web/abilities-barriers/#cognitive)
+-   [Trastorno por déficit de atención e hiperactividad, TDAH (discapacidades cognitivas)](/people-use-web/abilities-barriers/#cognitive)
+-   [Dislexia (discapacidades cognitivas)](/people-use-web/abilities-barriers/#cognitive)
 
-**Tools and Techniques**
+**Herramientas y técnicas:**
 
--   [Captions (Perception)](/people-use-web/tools-techniques/#perception)
--   [Screen reader (Perception)](/people-use-web/tools-techniques/#perception)
--   [Text-to-speech (Perception)](/people-use-web/tools-techniques/#perception)
--   [Pop-up and animations blockers (Presentation)](/people-use-web/tools-techniques/#presentation)
--   [Reading assistants (Presentation)](/people-use-web/tools-techniques/#presentation)
--   [Spelling and grammar tools (input)](/people-use-web/tools-techniques/#input)
--   [Consistency and predictability (Interaction)](/people-use-web/tools-techniques/#interaction)
--   [Helpful error and success messages (Interaction)](/people-use-web/tools-techniques/#interaction)
--   [Keyword search (Interaction)](/people-use-web/tools-techniques/#interaction)
--   [Multiple navigation mechanisms (Interaction)](/people-use-web/tools-techniques/#interaction)
+-   [Subtítulos (percepción)](/people-use-web/tools-techniques/#perception)
+-   [Lector de pantalla (percepción)](/people-use-web/tools-techniques/#perception)
+-   [Texto a voz (percepción)](/people-use-web/tools-techniques/#perception)
+-   [Bloqueadores de pop-up y animaciones (presentación)](/people-use-web/tools-techniques/#presentation)
+-   [Ayuda para la lectura (presentación)](/people-use-web/tools-techniques/#presentation)
+-   [Herramientas de corrección sintáctica y gramática (entrada)](/people-use-web/tools-techniques/#input)
+-   [Consistencia y predicción (interacción)](/people-use-web/tools-techniques/#interaction)
+-   [Mensajes de error y de éxito útiles (interacción)](/people-use-web/tools-techniques/#interaction)
+-   [Búsqueda por palabras clave (interacción)](/people-use-web/tools-techniques/#interaction)
+-   [Mecanismos de navegación múltiple (interacción)](/people-use-web/tools-techniques/#interaction)
 
-**Accessibility principles:**
+**Principios de accesibilidad:**
 
--   [Text alternatives for non-text content (Perceivable)](/fundamentals/accessibility-principles/#alternatives)
--   [Content can be presented in different ways (Perceivable)](/fundamentals/accessibility-principles/#adaptable)
--   [Users have enough time to read and use the content (Operable)](/fundamentals/accessibility-principles/#time)
--   [Users can easily navigate, find content, and determine where they are (Operable)](/fundamentals/accessibility-principles/#navigable)
--   [Content is readable and understandable (Understandable)](/fundamentals/accessibility-principles/#readable)
--   [Content appears and operates in predictable ways (Understandable)](/fundamentals/accessibility-principles/#predictable)
--   [Users are helped to avoid and correct mistakes (Understandable)](/fundamentals/accessibility-principles/#tolerant)
--   [Content is compatible with current and future user tools (Robust)](/fundamentals/accessibility-principles/#compatible)
+-   [Alternativas textuales para contenido no textual (Perceptible)](/fundamentals/accessibility-principles/#alternatives)
+-   [El contenido se puede presentar de diferentes formas (Perceptible)](/fundamentals/accessibility-principles/#adaptable)
+-   [Los usuarios tienen suficiente tiempo para leer y usar el contenido (Operable)](/fundamentals/accessibility-principles/#time)
+-   [Los usuarios pueden navegar fácilmente, encontrar contenido y determinar dónde se encuentran (Operable)](/fundamentals/accessibility-principles/#navigable)
+-   [El contenido es legible y comprensible (Comprensible)](/fundamentals/accessibility-principles/#readable)
+-   [El contenido se muestra y se opera de forma predecible (Comprensible)](/fundamentals/accessibility-principles/#predictable)
+-   [Los usuarios reciben ayuda para evitar y corregir errores (Comprensible)](/fundamentals/accessibility-principles/#tolerant)
+-   [El contenido es compatible con herramientas presentes y futuras (Robusto)](/fundamentals/accessibility-principles/#compatible)
 
 {% include_cached excol.html type="end" %}
 
-## Yun, retiree with low vision, hand tremor, and mild short-term memory loss {#retiree}
+## Yun, jubilado con baja visión, temblor de manos y pérdida de memoria a corto plazo leve {#retiree}
 
-Yun is an 85 year-old with reduced vision, hand-tremor, and mild memory loss; common age-related impairments for someone his age. Yun regularly browses the web reading news sites. In recent years he also started using social media to stay in touch with his family and friends. He maintains his own blog where he posts articles on art history and other topics he enjoys.
+Yun tiene 85 y padece de baja visión, temblor de manos y pérdida de memoria leve; son discapacidades comunes para alguien de su edad. Yun utiliza la web habitualmente para leer noticias. En los últimos años también ha empezado a usar redes sociales para estar en contacto con familiares y amigos. Tiene su propio blog donde publica artículos de historia del arte y otros temas que le interesan.
 
-Like many older individuals, Yun has difficulty reading small text and clicking on small links and form elements. His daughter showed him how to enlarge text in the web browser, which works well on many websites. He encounters problems when text does not reflow when it is enlarged and he is forced to scroll back and forth to read the enlarged content, which means he easily loses track of his place. He also has problems with CAPTCHA images found on many social media sites. The text is so distorted, even when he enlarges it, that he often cannot accurately enter the text. He has a better experience on sites that use alternative CAPTCHA options, unfortunately only a small number currently do.
+Como muchas otras personas, Yun tiene problemas para leer textos pequeños y clicar en enlaces o elementos de formulario pequeños. Su hija le ha enseñado cómo agrandar el texto en el navegador, lo cual funciona bien en muchos sitios web. Encuentra problemas cuando el texto no se adapta al ser agrandado y se ve obligado a desplazarse hacia adelante y hacia atrás para leer el texto grande, lo cual quiere decir que a menudo pierde la posición donde se encontraba. También tiene problemas con las imágenes CAPTCHA que se encuentran en muchos sitios de redes sociales. El texto está tan distorsionado que, incluso cuando lo agranda, no puede introducir el texto de forma correcta. Su experiencia es mejor con esos sitios que usan opciones alternativas a los CAPTCHA, pero por desgracia solamente una minoría lo hace.
 
-Yun’s daughter gave him a special mouse that is easier to control with his hand tremors. He also uses a web browser that saves thumbnail images of his frequently visited sites, which makes it easier for him to keep track of the sites he goes to most often.
+La hija de Yun le regaló un ratón especial que le resulta más fácil de usar con su temblor de manos. También utiliza un navegador que guarda imágenes en miniatura de los sitios web que visita con frecuencia, de esta forma es más fácil para el identificar los sitios a los que más acude.
 
-For more information on implementing techniques that remove barriers for Yun, see the following resources:
+Vea los siguientes recursos donde encontrará más información para implementar técnicas que eliminan las barreras que encuentra Yun:
 
 {% include_cached excol.html type="start" id="yun-sections" %}
 
-### Sections related to Yun
+### Secciones relacionadas con Yun
 
 {% include_cached excol.html type="middle" %}
 
-**Diverse Abilities and Barriers**
+**Habilidades y barreras diversas:**
 
--   [Low vision (Visual disabilities)](/people-use-web/abilities-barriers/#visual)
--   [Hand tremor (Physical disabilities)](/people-use-web/abilities-barriers/#physical)
--   [Mild short-term memory loss (Cognitive
-    disabilities)](/people-use-web/abilities-barriers/#cognitive)
+-   [Baja visión (discapacidades visuales)](/people-use-web/abilities-barriers/#visual)
+-   [Temblor de manos (discapacidades físicas)](/people-use-web/abilities-barriers/#physical)
+-   [Pérdida de memoria a corto plazo leve (discapacidades cognitivas disabilities)](/people-use-web/abilities-barriers/#cognitive)
 
-**Tools and Techniques**
+**Herramientas y técnicas:**
 
--   [Screen magnification (Presentation)](/people-use-web/tools-techniques/#presentation)
--   [Alternative keyboard and mouse (Input)](/people-use-web/tools-techniques/#input)
--   [Keyboard and mouse filters (Input)](/people-use-web/tools-techniques/#input)
--   [Mouse customization (Input)](/people-use-web/tools-techniques/#input)
--   [Bookmarks and history (Interaction)](/people-use-web/tools-techniques/#interaction)
--   [Consistency and predictability (Interaction)](/people-use-web/tools-techniques/#interaction)
--   [Descriptive titles, headings, and labels (Interaction)](/people-use-web/tools-techniques/#interaction)
--   [Helpful error and success messages (Interaction)](/people-use-web/tools-techniques/#interaction)
+-   [Magnificación de la pantalla (presentación)](/people-use-web/tools-techniques/#presentation)
+-   [Teclado y ratón alternativos (entrada)](/people-use-web/tools-techniques/#input)
+-   [Filtros de teclado y ratón (entrada)](/people-use-web/tools-techniques/#input)
+-   [Personalización del ratón (entrada)](/people-use-web/tools-techniques/#input)
+-   [Marcadores e historia (interacción)](/people-use-web/tools-techniques/#interaction)
+-   [Consistencia y predicción (interacción)](/people-use-web/tools-techniques/#interaction)
+-   [Títulos, encabezados y etiquetas descriptivos (interacción)](/people-use-web/tools-techniques/#interaction)
+-   [Mensajes de error y de éxito útiles (interacción)](/people-use-web/tools-techniques/#interaction)
 
-**Accessibility principles:**
+**Principios de accesibilidad:**
 
--   [Text alternatives for non-text content (Perceivable)](/fundamentals/accessibility-principles/#alternatives)
--   [Content can be presented in different ways (Perceivable)](/fundamentals/accessibility-principles/#adaptable)
--   [Content is easier to see and hear (Perceivable)](/fundamentals/accessibility-principles/#distinguishable)
--   [Users have enough time to read and use the content (Operable)](/fundamentals/accessibility-principles/#time)
+-   [Alternativas textuales para contenido no textual (Perceptible)](/fundamentals/accessibility-principles/#alternatives)
+-   [El contenido se puede presentar de diferentes formas (Perceptible)](/fundamentals/accessibility-principles/#adaptable)
+-   [El contenido es más fácil de ver y de oír (Perceptible)](/fundamentals/accessibility-principles/#distinguishable)
+-   [Los usuarios tienen suficiente tiempo para leer y usar el contenido (Operable)](/fundamentals/accessibility-principles/#time)
 -   [Users can easily navigate, find content, and determine where they are (Operable)](/fundamentals/accessibility-principles/#navigable)
--   [Content is readable and understandable (Understandable)](/fundamentals/accessibility-principles/#readable)
--   [Content appears and operates in predictable ways (Understandable)](/fundamentals/accessibility-principles/#predictable)
--   [Users are helped to avoid and correct mistakes (Understandable)](/fundamentals/accessibility-principles/#tolerant)
--   [Content is compatible with current and future user tools (Robust)](/fundamentals/accessibility-principles/#compatible)
+-   [El contenido es legible y comprensible (Comprensible)](/fundamentals/accessibility-principles/#readable)
+-   [El contenido se muestra y se opera de forma predecible (Comprensible)](/fundamentals/accessibility-principles/#predictable)
+-   [Los usuarios reciben ayuda para evitar y corregir errores (Comprensible)](/fundamentals/accessibility-principles/#tolerant)
+-   [El contenido es compatible con herramientas presentes y futuras (Robusto)](/fundamentals/accessibility-principles/#compatible)
 
 {% include_cached excol.html type="end" %}
 
-## Luis, supermarket assistant with Down syndrome {#supermarketassistant}
+## Luis, ayudante de supermercado con Síndrome de Down {#supermarketassistant}
 
-Luis has Down syndrome and has difficulty with abstract concepts, reading, and math calculations.
+Luis tiene Síndrome de Down y encuentra problemas con los conceptos abstractos, la lectura y los cálculos matemáticos.
 
-Luis works at a market, bagging groceries for customers. Typically he buys his groceries at the same market where he works, but he is sometimes confused by the large number of product choices and sometimes has problems finding his favorite items when the store layout is changed.
+Trabaja en un supermercado, embolsando la compra de los clientes. Normalmente hace su compra en el mismo supermercado donde trabaja, pero a veces se siente desorientado por la gran cantidad de opciones de productos y tiene problemas para encontrar sus cosas favoritas cuando cambian la distribución de la tienda.
 
-Recently, a friend showed him an app for online grocery purchases that has consistent, easy-to-use navigation with clear and direct instructions. Luis is able to add the list of his most frequently purchased items into the app and save it for additional purchases. He also likes the search functionality that makes suggestions for mistyped or misspelled words. The app also keeps a running total of the items in his virtual shopping cart which helps him keep up with how much he is spending.
+Hace poco, un amigo suyo le enseñó una aplicación para hacer la compra en línea que cuenta con una navegación consistente y fácil de usar, con instrucciones claras y directas. Así Luis puede añadir la lista de las cosas que compra con más frecuencia y guardarla en la aplicación para usos futuros. También le gusta la herramienta de búsqueda que hace sugerencias cuando se equivoca al escribir las palabras. La aplicación también calcula el precio total de las cosas en su carrito de la compra virtual, lo cual le ayuda a controlar cuánto está gastando.
 
-His friend also showed him several accessibility features in his mobile phone that he finds very helpful including word prediction which provides a selection of possible word choices based on the first characters he enters and the text-to-speech functionality which allows him to listen to reviews posted by other users on the grocery app. With the use of these tools, Luis has begun posting his own reviews of items he has purchased.
+Su amigo también le enseñó algunas características de accesibilidad de su móvil que le parecen muy útiles, como la predicción de palabras, que ofrece una selección de posibles palabras según los caracteres introducidos. y la funcionalidad de texto a voz, que le permite escuchar las reseñas que han dejado otros usuarios de la aplicación. Con la ayuda de estas herramientas, Luis ha empezado a publicar sus propias reseñas de productos que ha comprado.
 
-Luis now uses the shopping app a couple of times a month for frequently purchased items and buys a few fresh items regularly from the store where he works.
+Ahora Luis usa la aplicación para hacer la compra habitual en línea un par de veces al mes y en ocasiones compra productos nuevos en el supermercado donde trabaja.
 
-For more information on implementing techniques that remove barriers for Luis, see the following resources:
+Vea los siguientes recursos donde encontrará más información para implementar técnicas que eliminan las barreras que encuentra Luis:
 
 {% include_cached excol.html type="start" id="luis-sections" %}
 
-### Sections related to Luis
+### Secciones relacionadas con Luis
 
 {% include_cached excol.html type="middle" %}
 
-**Diverse Abilities and Barriers**
+**Habilidades y barreras diversas:**
 
--   [Down syndrome (Cognitive disabilities)](/people-use-web/abilities-barriers/#cognitive)
+-   [Síndrome de Down (discapacidades cognitivas)](/people-use-web/abilities-barriers/#cognitive)
 
-**Tools and Techniques**
+**Herramientas y técnicas:**
 
--   [Easy-to-read text (Presentation)](/people-use-web/tools-techniques/#presentation)
--   [Pop-up and animations blockers (Presentation)](/people-use-web/tools-techniques/#presentation)
--   [Progressive disclosure (Presentation)](/people-use-web/tools-techniques/#presentation)
--   [Reading assistants (Presentation)](/people-use-web/tools-techniques/#presentation)
--   [Reduced interface (Presentation)](/people-use-web/tools-techniques/#presentation)
--   [Accelerators (Input)](/people-use-web/tools-techniques/#input)
--   [Spelling and grammar tools (Input)](/people-use-web/tools-techniques/#input)
--   [Consistency and predictability (Interaction)](/people-use-web/tools-techniques/#interaction)
--   [Descriptive titles, headings, and labels (Interaction)](/people-use-web/tools-techniques/#interaction)
--   [Helpful error and success messages (Interaction)](/people-use-web/tools-techniques/#interaction)
--   [Multiple navigation mechanisms (Interaction)](/people-use-web/tools-techniques/#interaction)
+-   [Texto fácil de leer (presentación)](/people-use-web/tools-techniques/#presentation)
+-   [Bloqueadores de pop-up y animaciones (presentación)](/people-use-web/tools-techniques/#presentation)
+-   [Presentación progresiva (presentación)](/people-use-web/tools-techniques/#presentation)
+-   [Ayuda para la lectura (presentación)](/people-use-web/tools-techniques/#presentation)
+-   [Interfaz simplificada (presentación)](/people-use-web/tools-techniques/#presentation)
+-   [Aceleradores (Entrada)](/people-use-web/tools-techniques/#input)
+-   [Herramientas de corrección sintáctica y gramática (entrada)](/people-use-web/tools-techniques/#input)
+-   [Consistencia y predicción (interacción)](/people-use-web/tools-techniques/#interaction)
+-   [Títulos, encabezados y etiquetas descriptivos (interacción)](/people-use-web/tools-techniques/#interaction)
+-   [Mensajes de error y de éxito útiles (interacción)](/people-use-web/tools-techniques/#interaction)
+-   [Mecanismos de navegación múltiple (interacción)](/people-use-web/tools-techniques/#interaction)
 
-**Accessibility principles:**
+**Principios de accesibilidad:**
 
--   [Content can be presented in different ways (Perceivable)](/fundamentals/accessibility-principles/#adaptable)
--   [Users have enough time to read and use the content (Operable)](/fundamentals/accessibility-principles/#time)
--   [Users can easily navigate, find content, and determine where they are (Operable)](/fundamentals/accessibility-principles/#navigable)
--   [Content is readable and understandable (Understandable)](/fundamentals/accessibility-principles/#readable)
--   [Content appears and operates in predictable ways (Understandable)](/fundamentals/accessibility-principles/#predictable)
--   [Users are helped to avoid and correct mistakes (Understandable)](/fundamentals/accessibility-principles/#tolerant)
--   [Content is compatible with current and future user tools (Robust)](/fundamentals/accessibility-principles/#compatible)
+-   [El contenido se puede presentar de diferentes formas (Perceptible)](/fundamentals/accessibility-principles/#adaptable)
+-   [Los usuarios tienen suficiente tiempo para leer y usar el contenido (Operable)](/fundamentals/accessibility-principles/#time)
+-   [Los usuarios pueden navegar fácilmente, encontrar contenido y determinar dónde se encuentran (Operable)](/fundamentals/accessibility-principles/#navigable)
+-   [El contenido es legible y comprensible (Comprensible)](/fundamentals/accessibility-principles/#readable)
+-   [El contenido se muestra y se opera de forma predecible (Comprensible)](/fundamentals/accessibility-principles/#predictable)
+-   [Los usuarios reciben ayuda para evitar y corregir errores (Comprensible)](/fundamentals/accessibility-principles/#tolerant)
+-   [El contenido es compatible con herramientas presentes y futuras (Robusto)](/fundamentals/accessibility-principles/#compatible)
 
 {% include_cached excol.html type="end" %}
 
-## Kaseem, teenager who is deaf and blind {#teenager}
+## Kaseem, adolescente sorda y ciega {#teenager}
 
-Kaseem is a teenager who is deaf and recently became legally blind too, which means she can see only small portions of a screen and read text when it is significantly enlarged.
+Kaseem es una adolescente sorda y desde hace poco también es oficialmente ciega, lo cual significa que solo puede ver porciones pequeñas de la pantalla y leer el texto cuando es considerablemente grande.
 
-Kaseem uses:
+Kaseem usa:
 
-* screen magnification software to enlarge the text on websites to a suitable font size;
-* screen reader software that displays text on a refreshable Braille device;
-* large computer screen with high resolution and high luminosity (brightness).
+* Un programa de magnificación de pantalla para agrandar el texto de los sitios web hasta un tamaño conveniente;
+* Un lector de pantalla que presenta el texto en un dispositivo de lectura de braille;
+* Una pantalla de ordenador grande de alta resolución y alta luminosidad (brillo).
 
-Kaseem’s portable electronic Braille notetaker includes a calendar, e-mail, web browsing, and note-taking functionality. Her mobile device includes GPS which helps her orient herself and navigate around the city. Kaseem uses the public transportation online site to plan her trips and view bus schedules, but encounters problems when she enlarges the text and it does not reflow or wrap properly, making the maps very difficult to use. She has a better experience viewing the train schedules that are properly marked up and allow text reflow. Kaseem found the web team contact information listed at the public transportation website and sent a message to the team informing them of the problems she encountered using their site. She also sent them the link to the train website and described how that site works better for her. She recently received an email message thanking her for her information and informing her that the public transportation web team plans to implement accessibility improvements in the launch of their new website.
+El anotador de braille electrónico y portátil de Kassem viene con calendario, correo electrónico, navegación web y funcionalidad para tomar notas. Su dispositivo móvil incluye GPS, lo cual le ayuda a orientarse y moverse en la ciudad. Kaseem usa el sitio web del transporte público para organizar sus viajes y comprobar los horarios de autobús, pero tiene problemas cuando agranda el texto y éste no se adapta adecuadamente, haciendo que los mapas sean muy difíciles de usar. Su experiencia es mejor con los horarios de los trenes porque están adecuadamente codificados y el texto se adapta. Kaseem encontró los datos para contactar con los responsables de la web de transporte público y les envió un mensaje para informarles sobre los problemas que encontró en su sitio. También les envió un enlace al sitio web de ferrocarriles y explicó por qué ese sitio funciona mejor para ella. Recibió un mensaje de agradecimiento por la información facilitada y le hicieron saber que el equipo responsable de la web de transporte público planea implementar mejoras de accesibilidad en el lanzamiento de su nuevo sitio web.
 
-For more information on implementing techniques that remove barriers for Kaseem, see the following resources:
+Vea los siguientes recursos donde encontrará más información para implementar técnicas que eliminan las barreras que encuentra Kaseem:
 
 {% include_cached excol.html type="start" id="kaseem-sections" %}
 
-### Sections related to Kaseem
+### Secciones relacionadas con Kaseem
 
 {% include_cached excol.html type="middle" %}
 
-**Diverse Abilities and Barriers**
+**Habilidades y barreras diversas:**
 
--   [Deaf-blindness (Auditory disabilities)](/people-use-web/abilities-barriers/#auditory)
--   [Deaf-blindness (Visual disabilities)](/people-use-web/abilities-barriers/#visual)
+-   [Sordoceguera (discapacidades auditivas)](/people-use-web/abilities-barriers/#auditory)
+-   [Sordoceguera (discapacidades visuales)](/people-use-web/abilities-barriers/#visual)
 
-**Tools and Techniques**
+**Herramientas y técnicas:**
 
--   [Braille (Perception)](/people-use-web/tools-techniques/#perception)
--   [Refreshable Braille display (Perception)](/people-use-web/tools-techniques/#perception)
--   [Screen reader (Perception)](/people-use-web/tools-techniques/#perception)
--   [Text-to-speech (Perception)](/people-use-web/tools-techniques/#perception)
--   [Transcripts (Perception)](/people-use-web/tools-techniques/#perception)
--   [Customized fonts and colors (Presentation)](/people-use-web/tools-techniques/#presentation)
--   [Screen magnification (Presentation)](/people-use-web/tools-techniques/#presentation)
--   [Screen magnifier (Presentation)](/people-use-web/tools-techniques/#presentation)
--   [Descriptive titles, headings, and labels (Interaction)](/people-use-web/tools-techniques/#interaction)
--   [Helpful error and success messages (Interaction)](/people-use-web/tools-techniques/#interaction)
--   [Keyboard navigation (Interaction)](/people-use-web/tools-techniques/#interaction)
--   [Skip links (Interaction)](/people-use-web/tools-techniques/#interaction)
+-   [Braille (percepción)](/people-use-web/tools-techniques/#perception)
+-   [Línea braille (percepción)](/people-use-web/tools-techniques/#perception)
+-   [Lector de pantalla (percepción)](/people-use-web/tools-techniques/#perception)
+-   [Texto a voz  (percepción)](/people-use-web/tools-techniques/#perception)
+-   [Transcripciones (percepción)](/people-use-web/tools-techniques/#perception)
+-   [Colores y fuentes personalizados (presentación)](/people-use-web/tools-techniques/#presentation)
+-   [Magnificación de la pantalla (presentación)](/people-use-web/tools-techniques/#presentation)
+-   [Magnificador de pantalla (presentación)](/people-use-web/tools-techniques/#presentation)
+-   [Títulos, encabezados y etiquetas descriptivos (interacción)](/people-use-web/tools-techniques/#interaction)
+-   [Mensajes de error y de éxito útiles (interacción)](/people-use-web/tools-techniques/#interaction)
+-   [Navegación con teclado (interacción)](/people-use-web/tools-techniques/#interaction)
+-   [Enlaces de salto (interacción)](/people-use-web/tools-techniques/#interaction)
 
-**Accessibility principles:**
+**Principios de accesibilidad:**
 
--   [Text alternatives for non-text content (Perceivable)](/fundamentals/accessibility-principles/#alternatives)
--   [Alternatives for audio and video content (Perceivable)](/fundamentals/accessibility-principles/#captions)
--   [Content can be presented in different ways (Perceivable)](/fundamentals/accessibility-principles/#adaptable)
--   [Content is easier to see and hear (Perceivable)](/fundamentals/accessibility-principles/#distinguishable)
--   [Users have enough time to read and use the content (Operable)](/fundamentals/accessibility-principles/#time)
--   [Users can easily navigate, find content, and determine where they are (Operable)](/fundamentals/accessibility-principles/#navigable)
--   [Content appears and operates in predictable ways (Understandable)](/fundamentals/accessibility-principles/#predictable)
--   [Content is compatible with current and future user tools (Robust)](/fundamentals/accessibility-principles/#compatible)
+-   [Alternativas textuales para contenido no textual (Perceptible)](/fundamentals/accessibility-principles/#alternatives)
+-   [Alternativas para contenido de audio y vídeo (Perceptible)](/fundamentals/accessibility-principles/#captions)
+-   [El contenido se puede presentar de diferentes formas (Perceptible)](/fundamentals/accessibility-principles/#adaptable)
+-   [El contenido es más fácil de ver y de oír (Perceptible)](/fundamentals/accessibility-principles/#distinguishable)
+-   [Los usuarios tienen suficiente tiempo para leer y usar el contenido (Operable)](/fundamentals/accessibility-principles/#time)
+-   [Los usuarios pueden navegar fácilmente, encontrar contenido y determinar dónde se encuentran (Operable)](/fundamentals/accessibility-principles/#navigable)
+-   [El contenido se muestra y se opera de forma predecible (Comprensible)](/fundamentals/accessibility-principles/#predictable)
+-   [El contenido es compatible con herramientas presentes y futuras (Robusto)](/fundamentals/accessibility-principles/#compatible)
 
 {% include_cached excol.html type="end" %}
 
