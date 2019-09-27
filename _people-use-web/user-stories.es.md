@@ -123,7 +123,7 @@ Vea los siguientes recursos donde encontrará más información para implementar
 
 {% include_cached excol.html type="end" %}
 
-## Martine, estudiante en línea con discapacidad auditiva {#onlinestudent}
+## Martine, estudiante en línea con hipoacusia {#onlinestudent}
 
 Martine tiene 62 años y padece pérdida auditiva desde que nació. Puede oír algunos sonidos, pero no lo suficiente para entender el habla. En su infancia aprendió la lengua de signos y durante sus primeros años en el colegio aprendió a escribir. Ahora vuelve a ser estudiante en cursos universitarios en línea.
 
