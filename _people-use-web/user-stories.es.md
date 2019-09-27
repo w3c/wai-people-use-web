@@ -123,7 +123,7 @@ Vea los siguientes recursos donde encontrará más información para implementar
 
 {% include_cached excol.html type="end" %}
 
-## Martine, estudiante en línea que tiene discapacidad auditiva {#onlinestudent}
+## Martine, estudiante en línea con discapacidad auditiva {#onlinestudent}
 
 Martine tiene 62 años y padece pérdida auditiva desde que nació. Puede oír algunos sonidos, pero no lo suficiente para entender el habla. En su infancia aprendió la lengua de signos y durante sus primeros años en el colegio aprendió a escribir. Ahora vuelve a ser estudiante en cursos universitarios en línea.
 
@@ -156,7 +156,7 @@ Vea los siguientes recursos donde encontrará más información para implementar
 
 {% include_cached excol.html type="end" %}
 
-## Ilya, empleada veterana que es ciega {#accountant}
+## Ilya, empleada antigua con ceguera {#accountant}
 
 Ilya es ciega. Es la jefa de contabilidad en una empresa de seguros que utiliza documentos web y formularios en la intranet corporativa y, al igual que otras personas ciegas que usan ordenadores, no lee braille.
 
@@ -297,7 +297,7 @@ Vea los siguientes recursos donde encontrará más información para implementar
 
 {% include_cached excol.html type="end" %}
 
-## Luis, ayudante de supermercado con Síndrome de Down {#supermarketassistant}
+## Luis, ayudante de supermercado con síndrome de Down {#supermarketassistant}
 
 Luis tiene Síndrome de Down y encuentra problemas con los conceptos abstractos, la lectura y los cálculos matemáticos.
 
@@ -347,7 +347,7 @@ Vea los siguientes recursos donde encontrará más información para implementar
 
 {% include_cached excol.html type="end" %}
 
-## Kaseem, adolescente sorda y ciega {#teenager}
+## Kaseem, adolescente sordociega {#teenager}
 
 Kaseem es una adolescente sorda y desde hace poco también es oficialmente ciega, lo cual significa que solo puede ver porciones pequeñas de la pantalla y leer el texto cuando es considerablemente grande.
 
