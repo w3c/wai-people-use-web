@@ -72,7 +72,7 @@ Vea los siguientes recursos donde encontrará más información para implementar
 
 -   [El contenido se puede presentar de diferentes formas (Perceptible)](/fundamentals/accessibility-principles/#adaptable)
 -   [El contenido es más fácil de ver y oír (Perceptible)](/fundamentals/accessibility-principles/#distinguishable)
--   [El contenido es compatible con herramientas presentes y futuras (Robusto)](/fundamentals/accessibility-principles/#compatible)
+-   [El contenido es compatible con herramientas actuales y futuras (Robusto)](/fundamentals/accessibility-principles/#compatible)
 
 {% include_cached excol.html type="end" %}
 
@@ -207,7 +207,7 @@ Vea los siguientes recursos donde encontrará más información para implementar
 
 Preety es una estudiante de secundaria con trastorno por déficit de atención e hiperactividad y dislexia. Aunque tiene dificultades considerables para leer, disfruta particularmente en las clases de literatura.
 
-En la escuela de Preety se han empezado a usar libros electrónicos recientemente. Al principio, Preety estaba preocupada por el nuevo formato, pero gracias a los programas de texto a voz que resaltan el texto en la pantalla mientras lo leen en voz alta, se ha dado cuenta de que puede concentrarse en el contenido más fácilmente en lugar de tener que pelar con cada palabra. El programa de texto a voz también sirve de ayuda con otros textos en línea, pero la experiencia de Preety con los sitios web varía mucho de un sitio a otro. Algunos sitios usan gráficos e ilustraciones de forma que le ayudan a concentrarse en las secciones y en el contenido que le gustaría leer, mientras que otros sitios tienen muchos anuncios y contenido que se mueve que provocan distracciones. También encuentra problemas con el contenido en línea cuando la navegación no es muy evidente. Le parece que son más fáciles de usar los sitios web y aplicaciones que proporcionan diferentes formas de navegar, como por ejemplo barra de navegación, herramienta de búsqueda, migas de pan y un mapa del sitio.
+En la escuela de Preety se han empezado a usar libros electrónicos recientemente. Al principio, Preety estaba preocupada por el nuevo formato, pero gracias a los programas de texto a voz que resaltan el texto en la pantalla mientras lo leen en voz alta, se ha dado cuenta de que puede concentrarse en el contenido más fácilmente en lugar de tener que pelear con cada palabra. El programa de texto a voz también sirve de ayuda con otros textos en línea, pero la experiencia de Preety con los sitios web varía mucho de un sitio a otro. Algunos sitios usan gráficos e ilustraciones de forma que le ayudan a concentrarse en las secciones y en el contenido que le gustaría leer, mientras que otros sitios tienen muchos anuncios y contenido que se mueve que provocan distracciones. También encuentra problemas con el contenido en línea cuando la navegación no es muy evidente. Le parece que son más fáciles de usar los sitios web y aplicaciones que proporcionan diferentes formas de navegar, como por ejemplo barra de navegación, herramienta de búsqueda, migas de pan y un mapa del sitio.
 
 La escuela de Preety también está usando un nuevo catálogo de la biblioteca en línea con mejoras de accesibilidad. Antes de que se implementara el nuevo catálogo, Preety tenía que visitar la biblioteca físicamente para obtener ayuda en la búsqueda de materiales. Ahora puede buscar en el catálogo de forma independiente usando su teléfono móvil, tableta o portátil. Preety todavía tiene problemas para deletrear palabras, pero la funcionalidad de la herramienta de búsqueda que sugiere palabras alternativas y corrige errores es muy útil para ella y mejora enormemente su experiencia.
 
@@ -252,7 +252,7 @@ Vea los siguientes recursos donde encontrará más información para implementar
 
 ## Yun, jubilado con baja visión, temblor de manos y pérdida de memoria a corto plazo leve {#retiree}
 
-Yun tiene 85 y padece de baja visión, temblor de manos y pérdida de memoria leve; son discapacidades comunes para alguien de su edad. Yun utiliza la web habitualmente para leer noticias. En los últimos años también ha empezado a usar redes sociales para estar en contacto con familiares y amigos. Tiene su propio blog donde publica artículos de historia del arte y otros temas que le interesan.
+Yun tiene 85 años y padece de baja visión, temblor de manos y pérdida de memoria leve; son discapacidades comunes para alguien de su edad. Yun utiliza la web habitualmente para leer noticias. En los últimos años también ha empezado a usar redes sociales para estar en contacto con familiares y amigos. Tiene su propio blog donde publica artículos de historia del arte y otros temas que le interesan.
 
 Como muchas otras personas, Yun tiene problemas para leer textos pequeños y clicar en enlaces o elementos de formulario pequeños. Su hija le ha enseñado cómo agrandar el texto en el navegador, lo cual funciona bien en muchos sitios web. Encuentra problemas cuando el texto no se adapta al ser agrandado y se ve obligado a desplazarse hacia adelante y hacia atrás para leer el texto grande, lo cual quiere decir que a menudo pierde la posición donde se encontraba. También tiene problemas con las imágenes CAPTCHA que se encuentran en muchos sitios de redes sociales. El texto está tan distorsionado que, incluso cuando lo agranda, no puede introducir el texto de forma correcta. Su experiencia es mejor con esos sitios que usan opciones alternativas a los CAPTCHA, pero por desgracia solamente una minoría lo hace.
 
@@ -289,7 +289,7 @@ Vea los siguientes recursos donde encontrará más información para implementar
 -   [El contenido se puede presentar de diferentes formas (Perceptible)](/fundamentals/accessibility-principles/#adaptable)
 -   [El contenido es más fácil de ver y de oír (Perceptible)](/fundamentals/accessibility-principles/#distinguishable)
 -   [Los usuarios tienen suficiente tiempo para leer y usar el contenido (Operable)](/fundamentals/accessibility-principles/#time)
--   [Users can easily navigate, find content, and determine where they are (Operable)](/fundamentals/accessibility-principles/#navigable)
+-   [Los usuarios pueden navegar, encontrar contenido y determinar donde se encuentran de forma sencilla (Operable)](/fundamentals/accessibility-principles/#navigable)
 -   [El contenido es legible y comprensible (Comprensible)](/fundamentals/accessibility-principles/#readable)
 -   [El contenido se muestra y se opera de forma predecible (Comprensible)](/fundamentals/accessibility-principles/#predictable)
 -   [Los usuarios reciben ayuda para evitar y corregir errores (Comprensible)](/fundamentals/accessibility-principles/#tolerant)
@@ -299,7 +299,7 @@ Vea los siguientes recursos donde encontrará más información para implementar
 
 ## Luis, ayudante de supermercado con síndrome de Down {#supermarketassistant}
 
-Luis tiene Síndrome de Down y encuentra problemas con los conceptos abstractos, la lectura y los cálculos matemáticos.
+Luis tiene síndrome de Down y encuentra problemas con los conceptos abstractos, la lectura y los cálculos matemáticos.
 
 Trabaja en un supermercado, embolsando la compra de los clientes. Normalmente hace su compra en el mismo supermercado donde trabaja, pero a veces se siente desorientado por la gran cantidad de opciones de productos y tiene problemas para encontrar sus cosas favoritas cuando cambian la distribución de la tienda.
 
