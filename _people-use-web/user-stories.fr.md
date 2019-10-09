@@ -7,15 +7,15 @@ lang: fr
 description: Des personas de personnes atteintes de handicaps et utilisant le Web qui montrent l’effet des points de blocage non accessibles, et les avantages pour tous de faire des sites et des outils web accessibles.
 image: /content-images/wai-people-use-web/social.png
 last_updated: 2018-09-12
-translators: 
+translators:
 - name: "Stéphane Deschamps"
 contributors:
 - name: "Denis Boudreau"
 - name: "@code-elegant"
 footer: > # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-  <p><strong>Date:</strong> Updated 15 May 2017.</p>
-  <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a> and Norah Sinclair. Previous editor: <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">Acknowledgments</a>.</p>
-  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Previously developed with the <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE Task Force</a>, with support of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a>.</p>
+  <p><strong>Date&#8239;:</strong> Mis à jour le 15 mai 2017.</p>
+  <p><strong>Rédacteur&#8239;:</strong> <a hreflang="en" href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>. Rédactrice précédente&#8239;: <a hreflang="en" href="https://www.w3.org/People/Brewer/">Judy Brewer</a>. <a hreflang="en" href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">Remerciements</a>.</p>
+  <p>Développé par le <i lang="en">Education and Outreach Working Group</i> (<a hreflang="en" href="http://www.w3.org/WAI/EO/">EOWG</a>). Développé précédemment avec le <a hreflang="en" href="https://www.w3.org/WAI/EO/2008/wai-age-tf">Groupe de Travail WAI-AGE</a>, avec le soutien du <a hreflang="en" href="https://www.w3.org/WAI/WAI-AGE/">Projet WAI-AGE</a>.</p>
 resource:
   ref: /people-use-web/
 
@@ -76,8 +76,8 @@ Pour plus d’informations sur les techniques qui permettent d’enlever des poi
 
 **Principes d’accessibilité**
 
-- [Content can be presented in different ways (Perceivable)](/fundamentals/accessibility-principles/#adaptable) 
-- [Content is easier to see and hear (Perceivable)](/fundamentals/accessibility-principles/#distinguishable) 
+- [Content can be presented in different ways (Perceivable)](/fundamentals/accessibility-principles/#adaptable)
+- [Content is easier to see and hear (Perceivable)](/fundamentals/accessibility-principles/#distinguishable)
 - [Content is compatible with current and future user tools (Robust)](/fundamentals/accessibility-principles/#compatible)
 
 {% include_cached excol.html type="end" %}
@@ -121,13 +121,13 @@ Pour plus d’informations sur les techniques qui permettent d’enlever des poi
 
 **Principes d’accessibilité**
 
-- [Text alternatives for non-text content (Perceivable)](/fundamentals/accessibility-principles/#alternatives) 
-- [Content can be presented in different ways (Perceivable)](/fundamentals/accessibility-principles/#adaptable) 
-- [Functionality is available from a keyboard (Operable)](/fundamentals/accessibility-principles/#keyboard) 
-- [Users have enough time to read and use the content (Operable)](/fundamentals/accessibility-principles/#time) 
-- [Users can easily navigate, find content, and determine where they are (Operable)](/fundamentals/accessibility-principles/#navigable) 
-- [Content appears and operates in predictable ways (Understandable)](/fundamentals/accessibility-principles/#predictable) 
-- [Users are helped to avoid and correct mistakes (Understandable)](/fundamentals/accessibility-principles/#tolerant) 
+- [Text alternatives for non-text content (Perceivable)](/fundamentals/accessibility-principles/#alternatives)
+- [Content can be presented in different ways (Perceivable)](/fundamentals/accessibility-principles/#adaptable)
+- [Functionality is available from a keyboard (Operable)](/fundamentals/accessibility-principles/#keyboard)
+- [Users have enough time to read and use the content (Operable)](/fundamentals/accessibility-principles/#time)
+- [Users can easily navigate, find content, and determine where they are (Operable)](/fundamentals/accessibility-principles/#navigable)
+- [Content appears and operates in predictable ways (Understandable)](/fundamentals/accessibility-principles/#predictable)
+- [Users are helped to avoid and correct mistakes (Understandable)](/fundamentals/accessibility-principles/#tolerant)
 - [Content is compatible with current and future user tools (Robust)](/fundamentals/accessibility-principles/#compatible)
 
 {% include_cached excol.html type="end" %}
@@ -161,9 +161,9 @@ Pour plus d’informations sur les techniques qui permettent d’enlever des poi
 
 **Principes d’accessibilité**
 
-- [Text alternatives for non-text content (Perceivable)](/fundamentals/accessibility-principles/#alternatives) 
-- [Captions and other alternatives for multimedia (Perceivable)](/fundamentals/accessibility-principles/#captions) 
-- [Content is easier to see and hear (Perceivable)](/fundamentals/accessibility-principles/#distinguishable) 
+- [Text alternatives for non-text content (Perceivable)](/fundamentals/accessibility-principles/#alternatives)
+- [Captions and other alternatives for multimedia (Perceivable)](/fundamentals/accessibility-principles/#captions)
+- [Content is easier to see and hear (Perceivable)](/fundamentals/accessibility-principles/#distinguishable)
 - [Content is readable and understandable (Understandable)](/fundamentals/accessibility-principles/#readable)
 
 {% include_cached excol.html type="end" %}
@@ -205,14 +205,14 @@ Pour plus d’informations sur les techniques qui permettent d’enlever des poi
 
 **Principes d’accessibilité**
 
-- [Text alternatives for non-text content (Perceivable)](/fundamentals/accessibility-principles/#alternatives) 
-- [Captions and other alternatives for multimedia (Perceivable)](/fundamentals/accessibility-principles/#captions) 
-- [Content can be presented in different ways (Perceivable)](/fundamentals/accessibility-principles/#adaptable) 
-- [Content is easier to see and hear (Perceivable)](/fundamentals/accessibility-principles/#distinguishable) 
-- [Functionality is available from a keyboard (Operable)](/fundamentals/accessibility-principles/#keyboard) 
-- [Users can easily navigate, find content, and determine where they are (Operable)](/fundamentals/accessibility-principles/#navigable) 
-- [Content is readable and understandable (Understandable)](/fundamentals/accessibility-principles/#readable) 
-- [Content appears and operates in predictable ways (Understandable)](/fundamentals/accessibility-principles/#predictable) 
+- [Text alternatives for non-text content (Perceivable)](/fundamentals/accessibility-principles/#alternatives)
+- [Captions and other alternatives for multimedia (Perceivable)](/fundamentals/accessibility-principles/#captions)
+- [Content can be presented in different ways (Perceivable)](/fundamentals/accessibility-principles/#adaptable)
+- [Content is easier to see and hear (Perceivable)](/fundamentals/accessibility-principles/#distinguishable)
+- [Functionality is available from a keyboard (Operable)](/fundamentals/accessibility-principles/#keyboard)
+- [Users can easily navigate, find content, and determine where they are (Operable)](/fundamentals/accessibility-principles/#navigable)
+- [Content is readable and understandable (Understandable)](/fundamentals/accessibility-principles/#readable)
+- [Content appears and operates in predictable ways (Understandable)](/fundamentals/accessibility-principles/#predictable)
 - [Content is compatible with current and future user tools (Robust)](/fundamentals/accessibility-principles/#compatible)
 
 {% include_cached excol.html type="end" %}
