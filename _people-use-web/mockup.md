@@ -75,7 +75,7 @@ Lee sometimes has difficulty with error messages and required fields. When red i
 
 ### Related resources
 
-* [Perspectives: Colors with Good Contrast](Colors with Good Contrast)
+* [Perspectives: Colors with Good Contrast](https://www.w3.org/WAI/perspective-videos/contrast/)
 * [Perspectives: Customizable Text](https://www.w3.org/WAI/perspective-videos/customizable/)
 * [Tips: Provide sufficient contrast between background and foreground](https://www.w3.org/WAI/tips/designing/#provide-sufficient-contrast-between-foreground-and-background)
 * [Tips: Don't use color alone to convey meaning](https://www.w3.org/WAI/tips/designing/#dont-use-color-alone-to-convey-information)
