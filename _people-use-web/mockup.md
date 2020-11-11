@@ -1,5 +1,5 @@
 ---
-title: "[Draft mock-up] Stories of Web Users"
+title: "[Draft Mockup] Stories of Web Users"
 permalink: /people-use-web/mockup/
 ref: /people-use-web/mockup/
 lang: en
