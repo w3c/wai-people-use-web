@@ -53,9 +53,11 @@ Lee loves his clothes and his football. He uses loads of apps to help him indulg
 
 * **Customized fonts and colors** – changing the font types, sizes, colors, and spacing to make text easier to read. Customization involves browser settings and, for more advanced users, cascading style sheets (CSS) to override the default appearance of web content.
 
+{% include_cached excol.html type="start" id="lee-stories" %}
+
 ### User stories
 
-{% include_cached excol.html type="start" id="lee-stories" %}
+{% include_cached excol.html type="middle" id="lee2" %}
 
 Lee has one of the most common visual disabilities that affect men: red and green colour blindness. This makes it harder for Lee to distinguish between these two colours since they both look brown to him.
 
@@ -82,8 +84,6 @@ Lee sometimes has difficulty with error messages and required fields. When red i
 * [Easy Checks: Contrast ratio ("color contrast")](https://www.w3.org/WAI/test-evaluate/preliminary/#contrast)
 
 ### Related principles
-
-{% include_cached excol.html type="middle" id="lee-principles" %}
 
 * [Content can be presented in different ways (Perceivable)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#adaptable)
 * [Content is easier to see and hear (Perceivable)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#distinguishable)
