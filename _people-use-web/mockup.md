@@ -47,7 +47,7 @@ The following stories of people with disabilities using the Web highlight the ef
 
 Lee loves his clothes and his football. He uses loads of apps to help him indulge in both interests. Being red/green colour blind Lee faces problems when online shops don’t describe colours well enough. Depending on who his team are playing he might have difficulty watching a game or following highlights because it is hard to tell the players apart based on strip.
 
-### Assistive technologies used
+### Assistive technologies and adaptive strategies used
 
 * **Customized fonts and colors** – changing the font types, sizes, colors, and spacing to make text easier to read. Customization involves browser settings and, for more advanced users, cascading style sheets (CSS) to override the default appearance of web content.
 
