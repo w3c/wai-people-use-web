@@ -74,9 +74,11 @@ When shopping online it is difficult for Lee to make product choices when color 
 
 Lee sometimes has difficulty with error messages and required fields. When red is used to indicate an error or Mark required field it is difficult for him to notice this. Thankfully many sites use a marker like an asterisk to show what is required. Some also use icons beside the field to show where an error is.
 
-{% include_cached excol.html type="middle" id="lee-related-resources" %}
+{% include_cached excol.html type="end" %}
 
 ### Related resources
+
+{% include_cached excol.html type="middle" id="lee-related-resources" %}
 
 * [Perspectives: Colors with Good Contrast](https://www.w3.org/WAI/perspective-videos/contrast/)
 * [Perspectives: Customizable Text](https://www.w3.org/WAI/perspective-videos/customizable/)
@@ -84,9 +86,11 @@ Lee sometimes has difficulty with error messages and required fields. When red i
 * [Tips: Don't use color alone to convey meaning](https://www.w3.org/WAI/tips/designing/#dont-use-color-alone-to-convey-information)
 * [Easy Checks: Contrast ratio ("color contrast")](https://www.w3.org/WAI/test-evaluate/preliminary/#contrast)
 
-{% include_cached excol.html type="middle" id="lee-related-principles" %}
+{% include_cached excol.html type="end" %}
 
 ### Related principles
+
+{% include_cached excol.html type="middle" id="lee-related-principles" %}
 
 * [Content can be presented in different ways (Perceivable)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#adaptable)
 * [Content is easier to see and hear (Perceivable)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#distinguishable)
