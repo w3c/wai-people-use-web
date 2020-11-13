@@ -62,9 +62,9 @@ Lee loves his clothes and his football. He uses loads of apps to help him indulg
 
 {% include_cached excol.html type="start" id="lee-stories" %}
 
-### User stories
+### More about Lee
 
-{% include_cached excol.html type="middle" id="lee-about" %}
+{% include_cached excol.html type="middle" %}
 
 Lee has one of the most common visual disabilities that affect men: red and green colour blindness. This makes it harder for Lee to distinguish between these two colours since they both look brown to him.
 
@@ -76,9 +76,11 @@ Lee sometimes has difficulty with error messages and required fields. When red i
 
 {% include_cached excol.html type="end" %}
 
+{% include_cached excol.html type="start" id="lee-related-resources" %}
+
 ### Related resources
 
-{% include_cached excol.html type="middle" id="lee-related-resources" %}
+{% include_cached excol.html type="middle" %}
 
 * [Perspectives: Colors with Good Contrast](https://www.w3.org/WAI/perspective-videos/contrast/)
 * [Perspectives: Customizable Text](https://www.w3.org/WAI/perspective-videos/customizable/)
@@ -88,9 +90,11 @@ Lee sometimes has difficulty with error messages and required fields. When red i
 
 {% include_cached excol.html type="end" %}
 
+{% include_cached excol.html type="start" id="lee-related-principles" %}
+
 ### Related principles
 
-{% include_cached excol.html type="middle" id="lee-related-principles" %}
+{% include_cached excol.html type="middle" %}
 
 * [Content can be presented in different ways (Perceivable)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#adaptable)
 * [Content is easier to see and hear (Perceivable)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#distinguishable)
