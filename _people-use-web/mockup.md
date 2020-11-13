@@ -74,8 +74,6 @@ When shopping online it is difficult for Lee to make product choices when color 
 
 Lee sometimes has difficulty with error messages and required fields. When red is used to indicate an error or Mark required field it is difficult for him to notice this. Thankfully many sites use a marker like an asterisk to show what is required. Some also use icons beside the field to show where an error is.
 
-{% include_cached excol.html type="end" %}
-
 {% include_cached excol.html type="middle" id="lee-related-resources" %}
 
 ### Related resources
@@ -85,8 +83,6 @@ Lee sometimes has difficulty with error messages and required fields. When red i
 * [Tips: Provide sufficient contrast between background and foreground](https://www.w3.org/WAI/tips/designing/#provide-sufficient-contrast-between-foreground-and-background)
 * [Tips: Don't use color alone to convey meaning](https://www.w3.org/WAI/tips/designing/#dont-use-color-alone-to-convey-information)
 * [Easy Checks: Contrast ratio ("color contrast")](https://www.w3.org/WAI/test-evaluate/preliminary/#contrast)
-
-{% include_cached excol.html type="end" %}
 
 {% include_cached excol.html type="middle" id="lee-related-principles" %}
 
