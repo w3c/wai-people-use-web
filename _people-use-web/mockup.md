@@ -47,6 +47,20 @@ The following stories of people with disabilities using the Web highlight the ef
 
 Lee loves his clothes and his football. He uses loads of apps to help him indulge in both interests. Being red/green colour blind Lee faces problems when online shops don’t describe colours well enough. Depending on who his team are playing he might have difficulty watching a game or following highlights because it is hard to tell the players apart based on strip.
 
+{% include_cached excol.html type="start" id="lee-stories" %}
+
+### More about Lee
+
+{% include_cached excol.html type="middle" %}
+
+Lee works in the financial industry. Generally he has no difficulty in his work but when data is presented in charts or graphs he is often unable to interpret the information as colleagues often only use colour to identify graph lines or bars in charts. Ellen, his co-worker, had put red and green sectors adjacent to each other. Lee mixed them up because the data were described by colour only. As a result, the presentation he prepared based on the data drew incorrect conclusions. He was lucky that Ellen had another look at the slides. But it took some time to rewrite the whole thing.
+
+When shopping online it is difficult for Lee to make product choices when color swatches are not labeled with the name of the color. This can be frustrating as he sometimes takes a chance only to face confused looks at his style choices and having to send items back. Having colour names on swatches help but it is good when it is also included in product selection.
+
+Lee sometimes has difficulty with error messages and required fields. When red is used to indicate an error or Mark required field it is difficult for him to notice this. Thankfully many sites use a marker like an asterisk to show what is required. Some also use icons beside the field to show where an error is.
+
+{% include_cached excol.html type="end" %}
+
 ### Top barriers
 
 * Color is used to signify meaning
@@ -59,22 +73,6 @@ Lee loves his clothes and his football. He uses loads of apps to help him indulg
 ### Assistive technologies used
 
 * **Customized fonts and colors** – changing the font types, sizes, colors, and spacing to make text easier to read. Customization involves browser settings and, for more advanced users, cascading style sheets (CSS) to override the default appearance of web content.
-
-{% include_cached excol.html type="start" id="lee-stories" %}
-
-### More about Lee
-
-{% include_cached excol.html type="middle" %}
-
-Lee has one of the most common visual disabilities that affect men: red and green colour blindness. This makes it harder for Lee to distinguish between these two colours since they both look brown to him.
-
-Lee works in the financial industry. Generally he has no difficulty in his work but when data is presented in charts or graphs he is often unable to interpret the information as colleagues often only use colour to identify graph lines or bars in charts. Ellen, his co-worker, had put red and green sectors adjacent to each other. Lee mixed them up because the data were described by colour only. As a result, the presentation he prepared based on the data drew incorrect conclusions. He was lucky that Ellen had another look at the slides. But it took some time to rewrite the whole thing.
-
-When shopping online it is difficult for Lee to make product choices when color swatches are not labeled with the name of the color. This can be frustrating as he sometimes takes a chance only to face confused looks at his style choices and having to send items back. Having colour names on swatches help but it is good when it is also included in product selection.
-
-Lee sometimes has difficulty with error messages and required fields. When red is used to indicate an error or Mark required field it is difficult for him to notice this. Thankfully many sites use a marker like an asterisk to show what is required. Some also use icons beside the field to show where an error is.
-
-{% include_cached excol.html type="end" %}
 
 {% include_cached excol.html type="start" id="lee-related-resources" %}
 
