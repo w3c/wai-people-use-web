@@ -7,7 +7,7 @@ ID = "wai-people-use-web"
 command = "bundle exec jekyll build --config '_config.yml,_config_staging.yml'"
 
 [build.environment]
-RUBY_VERSION = "2.6.2" 
+#RUBY_VERSION = "2.6.2" 
 
 [[redirects]]
   from = "/"
