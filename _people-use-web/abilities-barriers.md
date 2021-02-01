@@ -221,7 +221,8 @@ People with physical disabilities may have trouble clicking small areas and are 
 - **Reduced dexterity**{:#dexterity} – is a functional term (rather than a medical condition) that describes the ability to control the hand, such as hand-eye coordination of people with cognitive and neurological disabilities. 
 - **Muscular dystrophy**{:#md} – progressive weakness and degeneration of muscles, sometimes including in arms and hands. 
 - **Repetitive stress injury (RSI)**{:#rsi} (also called "repetitive motion disorder" (RMD) and "cumulative trauma disorder" (CT)) - involves injuries to the musculoskeletal system (bones, joints, tendons, and other connective tissues) and the nervous system from repetitive tasks and damage.
-- **Tremor and spasms**{:#tremor} – involuntary movement or muscle contraction, including short twitches, and continual or rhythmic muscle contractions. - **Quadriplegia**{:#quadriplegia} (sometimes called "tetraplegia") - partial or total paralysis (includes motor control and sensation) to all four body limbs (legs and arms) and the torso.
+- **Tremor and spasms**{:#tremor} – involuntary movement or muscle contraction, including short twitches, and continual or rhythmic muscle contractions. 
+- **Quadriplegia**{:#quadriplegia} (sometimes called "tetraplegia") - partial or total paralysis (includes motor control and sensation) to all four body limbs (legs and arms) and the torso.
 
 {% include excol.html type="end" %}{% include excol.html type="start" id="" %}
 
