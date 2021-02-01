@@ -3,8 +3,7 @@ title: "[Draft Mockup] Stories of Web Users"
 permalink: /people-use-web/mockup/
 ref: /people-use-web/mockup/
 lang: en
-last_updated: 2021-01-23
-order: 1
+last_updated: 2021-02-01
 description: Personas of people with disabilities using the Web that highlight the effect of accessibility barriers and the broader benefits of accessible websites and web tools.
 image: /content-images/wai-people-use-web/social.png
 footer: >
@@ -70,7 +69,7 @@ Lee sometimes has difficulty with error messages and required fields. When red i
 * Sufficient contrast used for text and background colors
 * Sufficient contrast used for adjacent colors
 
-### Assistive technologies used
+### Assistive technologies and adaptive strategies used
 
 * **Customized fonts and colors** – changing the font types, sizes, colors, and spacing to make text easier to read. Customization involves browser settings and, for more advanced users, cascading style sheets (CSS) to override the default appearance of web content.
 
