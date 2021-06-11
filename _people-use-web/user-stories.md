@@ -1,7 +1,7 @@
 ---
 title: "[Draft Mockup] Stories of Web Users"
-permalink: /people-use-web/mockup/
-ref: /people-use-web/mockup/
+permalink: /people-use-web/user-stories/
+ref: /people-use-web/user-stories/
 lang: en
 last_updated: 2021-02-01
 description: Personas of people with disabilities using the Web that highlight the effect of accessibility barriers and the broader benefits of accessible websites and web tools.
