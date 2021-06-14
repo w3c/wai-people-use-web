@@ -50,17 +50,20 @@ Lee discovered that shopping for clothes online is actually an advantage over go
 
 Lee plays in a various fantasy football leagues with his friends and workmates. Sometimes there can be problems with the way these sites use color to differentiate between teams, player positions and whether or not players are selected for his team. As a result, he tends to prefer certain Fantasy Football apps over others which means he has to try and convince friends to play using the same app.
 
-{% include_cached excol.html type="start" id="lee-stories" %}
+{% include_cached excol.html type="start" id="lee-technology-adapatations" %}
 
 ### Assistive technologies and adaptive strategies used
+
+{% include_cached excol.html type="middle" %}
 
 There are several accessibility settings on both his computer and mobile that Lee has found can help in different situations. For example, sometimes reducing transparency, increasing contrast, and inverting the colors on the display make subtle color differences stand out more.
 
 * High contrast mode/Dark mode
 * Zoom
 * Color filters
-
 * **Customized fonts and colors** – changing the font types, sizes, colors, and spacing to make text easier to read. Customization involves browser settings and, for more advanced users, cascading style sheets (CSS) to override the default appearance of web content.
+
+{% include_cached excol.html type="end" %}
 
 {% include_cached excol.html type="start" id="lee-barrier-examples" %}
 
