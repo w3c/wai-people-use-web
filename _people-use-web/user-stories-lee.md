@@ -26,7 +26,7 @@ github:
 permalink: /people-use-web/user-stories-lee/   # Add the language shortcode to the end, with no slash at end, for example: /people-use-web/user-stories-lee/fr
 
 navigation:
-  previous: /people-use-web/
+  previous: /people-use-web/user-stories/
   next: /people-use-web/user-stories-alex/
 
 ref: /people-use-web/user-stories-lee/      # Translators, do not change this
