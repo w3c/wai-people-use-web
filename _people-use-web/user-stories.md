@@ -25,7 +25,7 @@ permalink: /people-use-web/user-stories/   # Add the language shortcode to the e
 
 navigation:
  previous: /people-use-web/
- next: /people-use-web/user-stories/persona1
+ next: /people-use-web/persona1
 
 ref: /people-use-web/user-stories/      # Translators, do not change this
 changelog: /people-use-web/changelog/
@@ -49,9 +49,9 @@ footer: >
 
 List like on the Media first page:
 
-* {:.left} [{% include image.html src="eye.svg" alt="" %} Lee, online shopper with color blindness](/people-use-web/user-stories/persona1):<br> Lee was born with deuteranopia and protanopia, commonly referred to as red/green color blindness. He has difficulty distinguishing among items that are red, green, orange, and brown, all of which appear kind of a murky brown.
+* {:.left} [{% include image.html src="eye.svg" alt="" %} Lee, online shopper with color blindness](/people-use-web/persona1):<br> Lee was born with deuteranopia and protanopia, commonly referred to as red/green color blindness. He has difficulty distinguishing among items that are red, green, orange, and brown, all of which appear kind of a murky brown.
 
-* {:.left} [{% include image.html src="hand.svg" alt="" %} Alex, reporter with repetative stress injury]( /people-use-web/user-stories/persona2):<br> Alex has worked as a reporter for more than 20 years. A few years ago he developed a repetitive strain injury that makes it painful to use a mouse and to type for extended periods of time.
+* {:.left} [{% include image.html src="hand.svg" alt="" %} Alex, reporter with repetative stress injury]( /people-use-web/persona2):<br> Alex has worked as a reporter for more than 20 years. A few years ago he developed a repetitive strain injury that makes it painful to use a mouse and to type for extended periods of time.
 {:.nolist.withicons.mini}
 
 {::nomarkdown}
