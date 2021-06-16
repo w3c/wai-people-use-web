@@ -4,6 +4,9 @@
 
 title: "[Draft Update] User Stories, Personas"
 nav_title: "User Stories"
+parent_in_h1:
+  - ref: /people-use-web/
+    name: nav_title
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2021-@@-@@   # Put the date of this translation YYYY-MM-DD (with month in the middle)
