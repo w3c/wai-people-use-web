@@ -49,7 +49,7 @@ footer: >
 
 List like on the Media first page:
 
-* {:.left} [{% include image.html src="eye.svg" alt="" %} Lee, online shopper with color blindness](/people-use-web/user-stories-lee):<br> Lee was born with deuteranopia and protanopia, commonly referred to as red/green color blindness. He has difficulty distinguishing among items that are red, green, orange, and brown, all of which appear kind of a murky brown.
+* {:.left} [{% include image.html src="eye.svg" alt="" %} Lee, online shopper with color blindness](/people-use-web/user-stories-lee)<br> Lee was born with deuteranopia and protanopia, commonly referred to as red/green color blindness. He has difficulty distinguishing among items that are red, green, orange, and brown, all of which appear kind of a murky brown.
 
-* {:.left} [{% include image.html src="hand.svg" alt="" %} Alex, reporter with repetative stress injury]( /people-use-web/user-stories-alex):<br> Alex has worked as a reporter for more than 20 years. A few years ago he developed a repetitive strain injury that makes it painful to use a mouse and to type for extended periods of time.
+* {:.left} [{% include image.html src="hand.svg" alt="" %} Alex, reporter with repetative stress injury](/people-use-web/user-stories-alex)<br> Alex has worked as a reporter for more than 20 years. A few years ago he developed a repetitive strain injury that makes it painful to use a mouse and to type for extended periods of time.
 {:.nolist.withicons.mini}
