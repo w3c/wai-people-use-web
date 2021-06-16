@@ -27,7 +27,7 @@ permalink: /people-use-web/user-stories-lee/   # Add the language shortcode to t
 
 navigation:
   previous: /people-use-web/
-  next: /people-use-web/user-stories-alex
+  next: /people-use-web/user-stories-alex/
 
 ref: /people-use-web/user-stories-lee/      # Translators, do not change this
 changelog: /people-use-web/changelog/
