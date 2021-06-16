@@ -5,7 +5,7 @@
 title: "[Draft Update] Persona: Lee@@"
 nav_title: "Persona: Lee@@"
 parent_in_h1:
-  - ref: /people-use-web/user-stories
+  - ref: /people-use-web/user-stories/
     name: nav_title
   - ref: /people-use-web/
     name: nav_title
