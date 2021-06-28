@@ -95,21 +95,35 @@ There are several accessibility settings on both his computer and mobile that Le
 
 ### Barrier examples
 
-**Problem:** When I select a color choice there is nothing to help me differentiate between the colors.
+<dl>
+  <dt>Using colour only barrier</dt><dd>
 
-**Works well:** Color choices are shown with a descriptive name. The good sites have a link to a slightly longer description of the colour.
+  **Problem:** When I select a color choice there is nothing to help me differentiate between the colors.
 
-**Problem:** When filling out a form online, required fields and errors are marked with a red outline. 
+  **Works well:** Color choices are shown with a descriptive name. The good sites have a link to a slightly longer description of the colour.
+  </dd>
 
-**Works well:** In addition to color, an asterisk or words are used to identify required fields and errors.
+  <dt>Colour only used for errors barrier</dt><dd>
 
-**Problem:** When I play an online game, enemies are marked with a red circle and friends marked with a green circle and I can't tell the difference.
+  **Problem:** When filling out a form online, required fields and errors are marked with a red outline. 
 
-**Works well:** Enemies are also marked with a symbol/use a red triangle so I can easily identify them.
+  **Works well:** In addition to color, an asterisk or words are used to identify required fields and errors.
+  </dd>
 
-**Problem:** When I am reading news articles with data charts, I can't understand the charts as the columns aren't labelled clearly.
+  <dt>Colour only in games barrier</dt><dd>
 
-**Works well:** The columns are directly labelled or use a texture as well as colour.
+  **Problem:** When I play an online game, enemies are marked with a red circle and friends marked with a green circle and I can't tell the difference.
+
+  **Works well:** Enemies are also marked with a symbol/use a red triangle so I can easily identify them.
+  </dd>
+
+  <dt>Chart labels barrier</dt><dd>
+
+  **Problem:** When I am reading news articles with data charts, I can't understand the charts as the columns aren't labelled clearly.
+
+  **Works well:** The columns are directly labelled or use a texture as well as colour.
+  </dd>
+</dl>
 
 ### Related resources
 
