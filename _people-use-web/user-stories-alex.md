@@ -99,9 +99,9 @@ Outside of work, Alex finds his mobile device easier to use than the computer be
 <dl>
   <dt>Focus styling barrier</dt><dd>
 
-  **Problem:** When I tab through links and form fields there is no visual styling to show me which element I am on.
+**Problem:** When I tab through links and form fields there is no visual styling to show me which element I am on.
 
-  **Works well:** There is clear and strong visual styling for links and form fields when they receive focus.
+**Works well:** There is clear and strong visual styling for links and form fields when they receive focus.
   </dd>
 
   <dt>Process time outs barrier</dt><dd>
