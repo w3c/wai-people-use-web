@@ -96,6 +96,11 @@ Outside of work, Alex finds his mobile device easier to use than the computer be
 
 ### Barrier examples
 
+Testing DL
+: This is a test
+  **Test**
+: Just to see what happens
+
 <dl>
   <dt>Focus styling barrier</dt><dd>
 
