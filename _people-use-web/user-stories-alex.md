@@ -103,27 +103,21 @@ Outside of work, Alex finds his mobile device easier to use than the computer be
 
   **Works well:** There is clear and strong visual styling for links and form fields when they receive focus.
   </dd>
-</dl>
 
-<dl>
   <dt>Process time outs barrier</dt><dd>
 
   **Problem:** I usually take much longer to complete long forms or processes and often get timed out.
 
   **Works well:** At the start of a long form or process, I am told that there is a time out and given the option to set it to be slightly longer.
   </dd>
-</dl>
 
-<dl>
   <dt>Saving progress barrier</dt><dd>
 
   **Problem:** Completing a long forms with no way to save progress and take a break can be painful and tiring.
 
   **Words well:** I have an option to save progress and take a break when completing long, multi-step forms.
   </dd>
-</dl>
 
-<dl>
   <dt>Popup windows barrier</dt><dd>
 
   **Problem:** When a window opens and I can't close it using only the keyboard it can be difficult.
