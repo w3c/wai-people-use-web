@@ -96,42 +96,21 @@ Outside of work, Alex finds his mobile device easier to use than the computer be
 
 ### Barrier examples
 
-Testing DL
-: **This** is a **test**
+Focus styling barrier
+: **Problem:** When I tab through links and form fields there is no visual styling to show me which element I am on.
+: **Works well:** There is clear and strong visual styling for links and form fields when they receive focus.
 
-  Test
+Process time outs barrier
+: **Problem:** I usually take much longer to complete long forms or processes and often get timed out.
+: **Works well:** At the start of a long form or process, I am told that there is a time out and given the option to set it to be slightly longer.
 
-: **Just** to see what happens
+Saving progress barrier
+: **Problem:** Completing a long forms with no way to save progress and take a break can be painful and tiring.
+: **Words well:** I have an option to save progress and take a break when completing long, multi-step forms.
 
-<dl>
-  <dt>Focus styling barrier</dt><dd>
-
-**Problem:** When I tab through links and form fields there is no visual styling to show me which element I am on.
-
-**Works well:** There is clear and strong visual styling for links and form fields when they receive focus.
-  </dd>
-
-  <dt>Process time outs barrier</dt><dd>
-
-  **Problem:** I usually take much longer to complete long forms or processes and often get timed out.
-
-  **Works well:** At the start of a long form or process, I am told that there is a time out and given the option to set it to be slightly longer.
-  </dd>
-
-  <dt>Saving progress barrier</dt><dd>
-
-  **Problem:** Completing a long forms with no way to save progress and take a break can be painful and tiring.
-
-  **Words well:** I have an option to save progress and take a break when completing long, multi-step forms.
-  </dd>
-
-  <dt>Popup windows barrier</dt><dd>
-
-  **Problem:** When a window opens and I can't close it using only the keyboard it can be difficult.
-
-  **Works well:** New windows have a close icon that I can access using the keyboard and some include the option to press the escape key to close them.
-  </dd>
-</dl>
+Popup windows barrier
+: **Problem:** When a window opens and I can't close it using only the keyboard it can be difficult.
+: **Works well:** New windows have a close icon that I can access using the keyboard and some include the option to press the escape key to close them.
 
 ### Related resources
 
