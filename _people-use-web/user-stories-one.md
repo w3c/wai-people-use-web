@@ -2,8 +2,8 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "Persona: Alex"
-nav_title: "Persona: Alex"
+title: "Alex | How People with Disabilities Use the Web"
+nav_title: "Alex"
 parent_in_h1:
   - ref: /people-use-web/user-stories/
     name: nav_title
@@ -22,13 +22,13 @@ last_updated: 2021-@@-@@   # Put the date of this translation YYYY-MM-DD (with m
 
 github:
   repository: w3c/wai-people-use-web
-  path: people-use-web/user-stories-alex.md    # Add the language shortcode to the middle of the filename, for example: people-use-web/user-stories-alex.fr.md
-permalink: /people-use-web/user-stories-alex/   # Add the language shortcode to the end, with no slash at end, for example: /people-use-web/user-stories-alex/fr
+  path: people-use-web/user-stories-one.md    # Add the language shortcode to the middle of the filename, for example: people-use-web/user-stories-alex.fr.md
+permalink: /people-use-web/user-stories-one/   # Add the language shortcode to the end, with no slash at end, for example: /people-use-web/user-stories-alex/fr
 
 navigation:
-  previous: /people-use-web/user-stories-lee/
+  previous: /people-use-web/user-stories-two/
 
-ref: /people-use-web/user-stories-alex/      # Translators, do not change this
+ref: /people-use-web/user-stories-one/      # Translators, do not change this
 changelog: /people-use-web/changelog/
 acknowledgements: /people-use-web/user-stories/acknowledgements/
 
