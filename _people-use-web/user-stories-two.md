@@ -2,8 +2,8 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "Persona: Lee"
-nav_title: "Persona: Lee"
+title: "Lee | How People with Disabilities Use the Web"
+nav_title: "Lee"
 parent_in_h1:
   - ref: /people-use-web/user-stories/
     name: nav_title
@@ -22,14 +22,14 @@ last_updated: 2021-@@-@@   # Put the date of this translation YYYY-MM-DD (with m
 
 github:
   repository: w3c/wai-people-use-web
-  path: people-use-web/user-stories-lee.md    # Add the language shortcode to the middle of the filename, for example: people-use-web/user-stories-lee.fr.md
-permalink: /people-use-web/user-stories-lee/   # Add the language shortcode to the end, with no slash at end, for example: /people-use-web/user-stories-lee/fr
+  path: people-use-web/user-stories-two.md    # Add the language shortcode to the middle of the filename, for example: people-use-web/user-stories-lee.fr.md
+permalink: /people-use-web/user-stories-two/   # Add the language shortcode to the end, with no slash at end, for example: /people-use-web/user-stories-lee/fr
 
 navigation:
   previous: /people-use-web/user-stories/
-  next: /people-use-web/user-stories-alex/
+  next: /people-use-web/user-stories-one/
 
-ref: /people-use-web/user-stories-lee/      # Translators, do not change this
+ref: /people-use-web/user-stories-two/      # Translators, do not change this
 changelog: /people-use-web/changelog/
 acknowledgements: /people-use-web/user-stories/acknowledgements/
 
@@ -95,35 +95,21 @@ There are several accessibility settings on both his computer and mobile that Le
 
 ### Barrier examples
 
-<dl>
-  <dt>Using colour only barrier</dt><dd>
+Using colour only barrier
+: **Problem:** When I select a color choice there is nothing to help me differentiate between the colors.
+: **Works well:** Color choices are shown with a descriptive name. The good sites have a link to a slightly longer description of the colour.
 
-  **Problem:** When I select a color choice there is nothing to help me differentiate between the colors.
+Colour only used for errors barrier
+: **Problem:** When filling out a form online, required fields and errors are marked with a red outline. 
+: **Works well:** In addition to color, an asterisk or words are used to identify required fields and errors.
 
-  **Works well:** Color choices are shown with a descriptive name. The good sites have a link to a slightly longer description of the colour.
-  </dd>
+Colour only in games barrier
+: **Problem:** When I play an online game, enemies are marked with a red circle and friends marked with a green circle and I can't tell the difference.
+: **Works well:** Enemies are also marked with a symbol/use a red triangle so I can easily identify them.
 
-  <dt>Colour only used for errors barrier</dt><dd>
-
-  **Problem:** When filling out a form online, required fields and errors are marked with a red outline. 
-
-  **Works well:** In addition to color, an asterisk or words are used to identify required fields and errors.
-  </dd>
-
-  <dt>Colour only in games barrier</dt><dd>
-
-  **Problem:** When I play an online game, enemies are marked with a red circle and friends marked with a green circle and I can't tell the difference.
-
-  **Works well:** Enemies are also marked with a symbol/use a red triangle so I can easily identify them.
-  </dd>
-
-  <dt>Chart labels barrier</dt><dd>
-
-  **Problem:** When I am reading news articles with data charts, I can't understand the charts as the columns aren't labelled clearly.
-
-  **Works well:** The columns are directly labelled or use a texture as well as colour.
-  </dd>
-</dl>
+Chart labels barrier
+: **Problem:** When I am reading news articles with data charts, I can't understand the charts as the columns aren't labelled clearly.
+: **Works well:** The columns are directly labelled or use a texture as well as colour.
 
 ### Related resources
 
