@@ -22,7 +22,7 @@ last_updated: 2021-@@-@@   # Put the date of this translation YYYY-MM-DD (with m
 
 github:
   repository: w3c/wai-people-use-web
-  path: people-use-web/user-stories-four.md    # Add the language shortcode to the middle of the filename, for example: people-use-web/user-stories-lee.fr.md
+  path: people-use-web/user-stories-four.md    # Add the language shortcode to the middle of the filename, for example: people-use-web/user-stories-four.fr.md
 permalink: /people-use-web/user-stories-four/   # Add the language shortcode to the end, with no slash at end, for example: /people-use-web/user-stories-lee/fr
 
 navigation:
@@ -87,12 +87,7 @@ Lee plays in a various fantasy football leagues with his friends and workmates. 
 
 ### Assistive technologies and adaptive strategies used
 
-There are several accessibility settings on both his computer and mobile that Lee has found can help in different situations. For example, sometimes reducing transparency, increasing contrast, and inverting the colors on the display make subtle color differences stand out more.
-
-* High contrast mode/Dark mode
-* Zoom
-* Color filters
-* **Customized fonts and colors** – changing the font types, sizes, colors, and spacing to make text easier to read. Customization involves browser settings and, for more advanced users, cascading style sheets (CSS) to override the default appearance of web content.
+TBD
 
 ### Barrier examples
 
@@ -112,13 +107,13 @@ Chart labels barrier
 : **Problem:** When I am reading news articles with data charts, I can't understand the charts as the columns aren't labelled clearly.
 : **Works well:** The columns are directly labelled or use a texture as well as colour.
 
-### Related resources
+### Related WAI resources
 
-* [Perspectives: Colors with Good Contrast](https://www.w3.org/WAI/perspective-videos/contrast/)
-* [Perspectives: Customizable Text](https://www.w3.org/WAI/perspective-videos/customizable/)
-* [Tips: Provide sufficient contrast between background and foreground](https://www.w3.org/WAI/tips/designing/#provide-sufficient-contrast-between-foreground-and-background)
-* [Tips: Don't use color alone to convey meaning](https://www.w3.org/WAI/tips/designing/#dont-use-color-alone-to-convey-information)
-* [Easy Checks: Contrast ratio ("color contrast")](https://www.w3.org/WAI/test-evaluate/preliminary/#contrast)
+* Video: [Colors with Good Contrast](https://www.w3.org/WAI/perspective-videos/contrast/)
+* Video: [Customizable Text](https://www.w3.org/WAI/perspective-videos/customizable/)
+* Tip: [Provide sufficient contrast between background and foreground](https://www.w3.org/WAI/tips/designing/#provide-sufficient-contrast-between-foreground-and-background)
+* Tip: [Don't use color alone to convey meaning](https://www.w3.org/WAI/tips/designing/#dont-use-color-alone-to-convey-information)
+* Check: [Contrast ratio ("color contrast")](https://www.w3.org/WAI/test-evaluate/preliminary/#contrast)
 
 ### Related principles
 
