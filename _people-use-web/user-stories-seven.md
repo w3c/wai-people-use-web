@@ -23,7 +23,7 @@ last_updated: 2021-@@-@@   # Put the date of this translation YYYY-MM-DD (with m
 github:
   repository: w3c/wai-people-use-web
   path: people-use-web/user-stories-seven.md    # Add the language shortcode to the middle of the filename, for example: people-use-web/user-stories-seven.fr.md
-permalink: /people-use-web/user-stories-seven/   # Add the language shortcode to the end, with no slash at end, for example: /people-use-web/user-stories-Noor/fr
+permalink: /people-use-web/user-stories-seven/   # Add the language shortcode to the end, with no slash at end, for example: /people-use-web/user-stories-seven/fr
 
 navigation:
   previous: /people-use-web/user-stories-six/
