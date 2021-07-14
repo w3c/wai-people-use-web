@@ -52,7 +52,9 @@ The following stories of people with disabilities using the Web highlight the ef
 
 **Note:** The following scenarios are not real people. They do not address every kind of disability.
 
-* {:.left} [{% include image.html src="profile.png" alt="" %} Alex, reporter with repetative stress injury](/people-use-web/user-stories-one)<br> Alex has worked as a reporter for more than 20 years. A few years ago he developed a repetitive strain injury that makes it painful to use a mouse and to type for extended periods of time.
+<mark>_**Draft reviewers:** The icons below will be replaced with photos of the users._</mark>
+
+* {:.left} [{% include image.html src="hand.svg" alt="" %} Alex, reporter with repetative stress injury](/people-use-web/user-stories-one)<br> Alex has worked as a reporter for more than 20 years. A few years ago he developed a repetitive strain injury that makes it painful to use a mouse and to type for extended periods of time.
 
 * {:.left} [{% include image.html src="profile.png" alt="" %} Blair, autistic data entry clerk injury](/people-use-web/user-stories-two)<br> TBD
 
