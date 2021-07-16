@@ -76,11 +76,11 @@ Introduction about Blair
 
 ## Blair, autistic data entry clerk
 
-**IN DEVELOPMENT**
+<mark><em><strong>Draft reviewers:</strong> This text is only rough notes for now. Your comments welome on these ideas.</em></mark>
 
-> Sometimes people use lots of words on web site links that do not seem to make sense. I think they are metaphors, but I’m not sure.
+Sometimes people use lots of words on web site links that do not seem to make sense. I think they are metaphors, but I’m not sure.
 
-> If there is a lot going on on a page I find it very hard to focus. Especially if there is noise or video that starts without me doing anything.
+If there is a lot going on on a page I find it very hard to focus. Especially if there is noise or video that starts without me doing anything.
 
 Early non-verbal autism - addressed with early childhood support, may still have some issues with communication
 
