@@ -115,14 +115,14 @@ Popup windows barrier
 
 ### Related resources
 
-* [Perspectives: Voice Recognition](https://www.w3.org/WAI/perspective-videos/voice/)
-* [Tips: Use headings to convey meaning and structure](https://www.w3.org/WAI/tips/writing/#use-headings-to-convey-meaning-and-structure)
-* [Tips: Make link text meaningful](https://www.w3.org/WAI/tips/writing/#make-link-text-meaningful)
-* [Tips: Ensure that interactive elements are easy to identify](https://www.w3.org/WAI/tips/designing/#ensure-that-interactive-elements-are-easy-to-identify)
-* [Tips: Associate a label with every form control](https://www.w3.org/WAI/tips/developing/#associate-a-label-with-every-form-control)
-* [Tips: Ensure that all interactive elements are keyboard accessible](https://www.w3.org/WAI/tips/developing/#ensure-that-all-interactive-elements-are-keyboard-accessible)
-* [Easy Checks: Keyboard access and visual focus](https://www.w3.org/WAI/test-evaluate/preliminary/#interaction)
-* [Easy Checks: Forms, labels, and errors](https://www.w3.org/WAI/test-evaluate/preliminary/#forms)
+* Video: [Voice Recognition](https://www.w3.org/WAI/perspective-videos/voice/)
+* Tip: [Use headings to convey meaning and structure](https://www.w3.org/WAI/tips/writing/#use-headings-to-convey-meaning-and-structure)
+* Tip: [Make link text meaningful](https://www.w3.org/WAI/tips/writing/#make-link-text-meaningful)
+* Tip: [Ensure that interactive elements are easy to identify](https://www.w3.org/WAI/tips/designing/#ensure-that-interactive-elements-are-easy-to-identify)
+* Tip: [Associate a label with every form control](https://www.w3.org/WAI/tips/developing/#associate-a-label-with-every-form-control)
+* Tip: [Ensure that all interactive elements are keyboard accessible](https://www.w3.org/WAI/tips/developing/#ensure-that-all-interactive-elements-are-keyboard-accessible)
+* Check: [Keyboard access and visual focus](https://www.w3.org/WAI/test-evaluate/preliminary/#interaction)
+* Check: [Forms, labels, and errors](https://www.w3.org/WAI/test-evaluate/preliminary/#forms)
 
 ### Related principles
 

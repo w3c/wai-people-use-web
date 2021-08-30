@@ -123,7 +123,16 @@ Changes elsewhere on a page
 
 ### Related resources
 
-TBD
+* Video: [Text to Speech](https://www.w3.org/WAI/perspective-videos/speech/)
+* Tip: [Write meaningful text alternatives for images](https://www.w3.org/WAI/tips/writing/#write-meaningful-text-alternatives-for-images)
+* Tip: [Associate a label with every form control](https://www.w3.org/WAI/tips/developing/#associate-a-label-with-every-form-control)
+* Tip: [Use headings to convey meaning and structure](https://www.w3.org/WAI/tips/writing/#use-headings-to-convey-meaning-and-structure)
+* Tip: [Ensure that all interactive elements are keyboard accessible](https://www.w3.org/WAI/tips/developing/#ensure-that-all-interactive-elements-are-keyboard-accessible)
+* Tip: [Make link text meaningful](https://www.w3.org/WAI/tips/writing/#make-link-text-meaningful)
+* Check: [Image text alternatives ("alt text"](https://www.w3.org/WAI/test-evaluate/preliminary/#images)
+* Check: [Forms, labels, and errors](https://www.w3.org/WAI/test-evaluate/preliminary/#forms)
+* Check: [Multimedia (video, audio) alternatives](https://www.w3.org/WAI/test-evaluate/preliminary/#media)
+* Check: [Basic Structure Check](https://www.w3.org/WAI/test-evaluate/preliminary/#structure)
 
 ### Related principles
 

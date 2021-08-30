@@ -112,7 +112,13 @@ No alternative for audio
 
 ### Related resources
 
-TBD
+
+* Video: [Video Captions](https://www.w3.org/WAI/perspective-videos/captions/)
+* Tip: [Create transcripts and captions for multimedia](https://www.w3.org/WAI/tips/writing/#create-transcripts-and-captions-for-multimedia)
+* Tip: [Include image and media alternatives in your design](https://www.w3.org/WAI/tips/designing/#include-image-and-media-alternatives-in-your-design)
+* Tip: [Provide controls for content that starts automatically](https://www.w3.org/WAI/tips/designing/#provide-controls-for-content-that-starts-automatically)
+* Tip: [Write code that adapts to the user's technology](https://www.w3.org/WAI/tips/developing/#write-code-that-adapts-to-the-users-technology)
+* Check: [Multimedia (video, audio) alternatives](https://www.w3.org/WAI/test-evaluate/preliminary/#media)
 
 ### Related principles
 
