@@ -76,7 +76,7 @@ Introduction about Ilya
 
 ## Ilya, senior staff member who is blind
 
-> My mobile phone is great - I can do so much because the accessibility and screen reader are all built in. Shame I can't access our corporate systems with it!
+> My mobile phone is so convenient - it is so easy to do things because the accessibility and screen reader are all built in. Shame I can't access our corporate systems with it!
 
 Ilya is blind. She is the chief accountant at an insurance company that uses web-based documents and forms over a corporate intranet. Like many other blind computer users, Ilya does not read Braille.
 
@@ -84,9 +84,9 @@ Ilya's work computer has a screen reader which provides her with information on 
 
 Part of Ilya's role is to provide training to employees. Most of this is conducted online as staff are spread out geographically. Ilya and her staff evaluated a number of training tools, such as video conferencing apps, before finding an effective application with accessibility features that meet the needs of a diverse staff with diverse abilities. One of the biggest challenges Ilya faced with these tools was the chat function. Many of the tools wouldn't work with Ilya's screen reader and she would miss messages during meetings.
 
-Outside of work Ilya enjoys cooking, knitting and travel. She uses the web to find recipes and patterns that she can use. She has also found online communities that she can find out new ideas from. Generally these are great although some of them do have a CAPTCHA as part of the login in process. This can make it impossible for her to access these forums without someone to assist her through the login process.
+Ilya enjoys cooking, knitting and travel. She uses the web to find recipes and patterns that she can use. She has also found online communities that she can find out new ideas from. Generally these are great although some of them do have a CAPTCHA as part of the login in process. This can make it impossible for her to access these forums without someone to assist her through the login process.
 
-Outside of work Ilya tends to use her mobile phone or tablet much more than a laptop or desktop computer. Both devices have built in screen readers and other tools, like zoom, that can really help her. Using her mobile while travelling is fantastic as she can check location details and find directions.
+Outside of work Ilya tends to use her mobile phone or tablet much more than a laptop or desktop computer. Both devices have built in screen readers and other tools, like zoom. That makes these devices much easier to use for her. Using her mobile while travelling is fantastic as she can check location details and find directions.
 
 ### Assistive technologies and adaptive strategies used
 
