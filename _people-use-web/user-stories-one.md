@@ -54,7 +54,7 @@ footer: >
 
 Introduction to Alex
 
-**Note:** The following scenario is not a real person. They do not address every kind of disability.
+**Note:** The following scenario is not a real person. It may not address every person with this disability.
 
 {::nomarkdown}
 {% include box.html type="end" %}

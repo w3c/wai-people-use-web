@@ -54,7 +54,7 @@ footer: >
 
 Introduction about Ilya
 
-**Note:** The following scenarios are not real people. They do not address every kind of disability.
+**Note:** The following scenarios are not real people. It may not address every person with this disability.
 
 {::nomarkdown}
 {% include box.html type="end" %}
