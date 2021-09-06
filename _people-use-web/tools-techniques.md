@@ -34,7 +34,10 @@ This section introduces some of the tools and techniques that people with disabi
 {% include_cached toc.html type="start" title="Section Contents" class="full" %}
 {:/}
 
-* Links to other parts of this section
+- [Perception - hearing, feeling and seeing](/people-use-web/tools-techniques-perception/)
+- [Presentation - distingushing and understanding](/people-use-web/tools-techniques-presentation/)
+- [Input - typing, writing, and clicking](/people-use-web/tools-techniques-input/)
+- [Interaction - navigating and finding](/people-use-web/tools-techniques-navigation/)
 
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
