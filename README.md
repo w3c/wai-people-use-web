@@ -4,3 +4,4 @@
 
 The title "How People with Disabilities Use the Web" is a statement. The title is **not a question**. For translation, it might help to think of the title "How People with Disabilities Use the Web" as **a shorter version of** "An Introduction to How People with Disabilities Use the Web" or "Description of How People with Disabilities Use the Web".
 
+This branch is part of the 2021 Revisio of the resource. A preivew is available at: [https://deploy-preview-113--wai-people-use-web.netlify.app/people-use-web/user-stories/](https://deploy-preview-113--wai-people-use-web.netlify.app/people-use-web/user-stories/)
