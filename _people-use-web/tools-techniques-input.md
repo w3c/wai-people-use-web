@@ -13,13 +13,22 @@ footer: >
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Previously developed with the <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE Task Force</a>, with support of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a>.</p>
 resource:
   ref: /people-use-web/
+  
+navigation:
+  previous: /people-use-web/tools-presentation/
+  next: /people-use-web/tools-techniques-navigation/
 ---
 
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-TBD
+People use different approaches to enter text and activate commands. For instance, some people do not use a mouse, keyboard, or both, while others use specific configurations for keyboard and mouse, or use alternative hardware and software altogether. Examples of input include using:
+
+- Keyboard only by people with cognitive, physical, and visual disabilities;
+- Touch screen only by people with cognitive and physical disabilities;
+- Mouse and keyboard with software that compensates for hand tremor;
+- Voice recognition (speech input) and other hands-free interaction.
 
 **Note:** This page is illustrative and is not a complete list of all the ways that people interact with the web.
 
@@ -41,16 +50,7 @@ TBD
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Input  typing, writing, and clicking {#input}
-
-People use different approaches to enter text and activate commands. For instance, some people do not use a mouse, keyboard, or both, while others use specific configurations for keyboard and mouse, or use alternative hardware and software altogether. Examples of input include using:
-
-- Keyboard only by people with cognitive, physical, and visual disabilities;
-- Touch screen only by people with cognitive and physical disabilities;
-- Mouse and keyboard with software that compensates for hand tremor;
-- Voice recognition (speech input) and other hands-free interaction.
-
-### More about input {#more-about-input}
+## Introduction
 
 Some people use software and customized settings to enhance the efficiency of typing, writing, and clicking. For example, some people assign personalized shortcut keys to functions they frequently use. Some people use word prediction software to help complete words and sentences with minimal typing, grammar and spelling tools to help correct text, and tools to help click, select text, and scroll with minimal movement.
 
@@ -58,7 +58,7 @@ Web content needs to be designed to support these different types of approaches.
 
 Accessible web content supports people who need more time typing, writing, and clicking, or are more likely to make mistakes. For instance, some people forget to select options and fill out form entries, misspell words and mistype data (such as dates), or unintentionally activate buttons and links. Accessible web content also provides enough time to complete tasks, clear and helpful error messages and options for correcting input.
 
-### Examples of assistive technologies and adaptive strategies {#examples-of-assistive-technologies-and-adaptive-strategies}
+## Examples of assistive technologies and adaptive strategies {#examples-of-assistive-technologies-and-adaptive-strategies}
 
 - **Accelerators**{:#accelerators} – software and functionality that help reduce the effort needed to type or click. For example, by providing options to create shortcuts for commands or sequences of commands, by highlighting selection choices such as menu items, links, or options, and by helping to steer the mouse.
 - **Alternative keyboard and mouse**{:#input} – hardware and software primarily used by people with cognitive and physical disabilities to help interact with the computer. Examples include:
@@ -75,7 +75,7 @@ Accessible web content supports people who need more time typing, writing, and c
 - **Voice recognition**{:#voice} (sometimes called "speech input" or "voice command") - software that recognizes the human voice and can be used to dictate text or to issue commands to operate the computer.
 - **Word prediction**{:#prediction} – software that presents selections of matching words, phrases, or sentences based on the current input (and sometimes context) to save typing.
 
-### Stories related to input {#stories-related-to-input}
+## Stories related to input {#stories-related-to-input}
 
 - [Alex, reporter with repetitive stress injury](/people-use-web/user-stories/#reporter)
 - [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories/#classroomstudent)

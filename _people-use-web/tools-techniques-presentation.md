@@ -13,13 +13,21 @@ footer: >
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Previously developed with the <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE Task Force</a>, with support of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a>.</p>
 resource:
   ref: /people-use-web/
+  
+navigation:
+  previous: /people-use-web/tools-techniques-perception/
+  next: /people-use-web/tools-techniques-input/
 ---
 
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-TBD
+People adjust the presentation of content to make it easier to distinguish and understand. These adjustments include:
+
+- Making audio content easier to hear and visual content easier to see;
+- Combining audio and visual content to make information easier to understand;
+- Providing alternative presentations of the content, such as sign-language.
 
 **Note:** This page is illustrative and is not a complete list of all the ways that people interact with the web.
 
@@ -41,15 +49,7 @@ TBD
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Presentation  distinguishing and understanding {#presentation}
-
-People adjust the presentation of content to make it easier to distinguish and understand. These adjustments include:
-
-- Making audio content easier to hear and visual content easier to see;
-- Combining audio and visual content to make information easier to understand;
-- Providing alternative presentations of the content, such as sign-language.
-
-### More about presentation {#more-about-presentation}
+## Introduction
 
 Some people need larger text and image sizes or higher contrast between text and background colors to see the content better, and some people need louder audio with lower background noise to better hear the content. Some people need to turn off pop-up windows and animations that disorient or distract them. A sound that is automatically played, such as background music on a website, can also distract people or interfere with text-to-speech software. Web content, browsers, and tools need to support adjusting the presentation according to peoples' needs and preferences.
 
@@ -57,7 +57,7 @@ Making text more readable is of particular importance. This involves changing it
 
 Also, people process information differently. This aspect is particularly relevant for learning environments but also applies to many other situations. In some cases, authors can provide different representations of the same information to address the widest audience possible, such as graphical and tabular representations of data for people with different learning styles, or [sign language](#sign){:.termref} videos for sign language users.
 
-### Examples of accessibility features {#examples-of-accessibility-features}
+## Examples of accessibility features {#examples-of-accessibility-features}
 
 - **Customized fonts and colors**{:#style} – changing the font types, sizes, colors, and spacing to make text easier to read. Customization involves browser settings and, for more advanced users, cascading style sheets (CSS) to override the default appearance of web content.
 - **Document outline**{:#outline} – representation of the content that only shows the headings and relevant structures (such as headings nesting and hierarchy) to help provide orientation and an overview of the contents.
@@ -68,7 +68,7 @@ Also, people process information differently. This aspect is particularly releva
 - **Sign language**{:#sign} – a visual form of communication that is primarily used by people who are deaf. It involves hand, body, and facial expressions to transmit words, phrase, and tone. For instance, the intensity of a gesture could indicate the mood or emphasis of particular information. As in written languages, there are many sign languages and dialects, some of which are recognized as official languages in some countries. Not all people who have auditory disabilities or who are deaf know sign language.
 - **Symbols**{:#symbols} – icons that represent words or concepts used instead of text by some people with impaired communication, including people with difficulties to read or write.
 
-### Examples of assistive technologies and adaptive strategies {#examples-of-assistive-technologies-and-adaptive-strategies}
+## Examples of assistive technologies and adaptive strategies {#examples-of-assistive-technologies-and-adaptive-strategies}
 
 - **Pop-up and animations blockers**{:#blockers} – web browser plug-ins or other software tools that stop automatic pop-up windows and redirection, and options to stop, pause, and hide animations.
 - **Reading assistants**{:#reading} – software that changes the presentation of content and provides other functionality to make it more readable. Examples include:
@@ -80,7 +80,7 @@ Also, people process information differently. This aspect is particularly releva
 - **Screen magnifier**{:#magnifiers} – software used primarily by people with partial sight to enlarge the content to make it easier to see. Some screen magnifiers provide [text-to-speech](#tts){:.termref} and other functionality.
 - **Volume control**{:#volume} – options to adjust the volume of audio content being played, including options to turn off the sound altogether, that are separate from the overall system settings.
 
-### Stories related to presentation {#stories-related-to-presentation}
+## Stories related to presentation {#stories-related-to-presentation}
 
 - [Lee, online shopper with color blindness](/people-use-web/user-stories/#shopper)
 - [Martine, online student who is hard of hearing](/people-use-web/user-stories/#onlinestudent)

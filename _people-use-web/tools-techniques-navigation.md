@@ -13,6 +13,10 @@ footer: >
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Previously developed with the <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE Task Force</a>, with support of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a>.</p>
 resource:
   ref: /people-use-web/
+  
+navigation:
+  previous: /people-use-web/tools-input/
+  next: /people-use-web/tools-techniques/
 ---
 
 {::nomarkdown}
@@ -41,11 +45,9 @@ TBD
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Interaction  navigating and finding {#interaction}
+## Introduction
 
 People navigate and find content using different strategies and approaches depending on their preferences, skills, and abilities. For instance, someone using a website for the first time may need clearer guidance than someone who has more experience with the particular site, and someone using the Web on a mobile device with a small screen may require more orientational cues than someone using a desktop computer. While these are typically usability aspects that affect people with and without disabilities, some situations affect people with disabilities to a greater extent.
-
-### More about interaction {#more-about-interaction}
 
 Examples of such situations include:
 
@@ -57,7 +59,7 @@ Examples of such situations include:
 
 Many functions to support different styles of navigation are built directly into web browsers and assistive technologies. For example, most commonly available browsers provide bookmark functionality, and screen readers provide functions to list headings, links, and other structures on a web page. However, the design of the content is also an essential factor to support different styles of navigation.
 
-### Examples of accessibility features {#examples-of-accessibility-features}
+## Examples of accessibility features {#examples-of-accessibility-features}
 
 - **Consistency and predictability**{:#consistency} – labeling of functions such as links, buttons, and controls should be consistent, and the expected function should be predictable from the label.
 - **Descriptive titles, headings, and labels**{:#labels} – page titles, section headings, and labels for forms, links, and controls are sometimes read on their own or out of context and need to be descriptive.
@@ -66,7 +68,7 @@ Many functions to support different styles of navigation are built directly into
 - **Skip links**{:#skip} – mechanisms to allow keyboard users to skip over repetitive blocks of content such as page headings, navigation bars, or menus. Note: too many skip links are counterproductive to this purpose.
 - **Visual orientation cues**{:#cues} – examples include using background colors to indicate different parts of the content, using unique headings, and placing relevant information in prominent areas of a web page.
 
-### Examples of assistive technologies and adaptive strategies {#examples-of-assistive-technologies-and-adaptive-strategies}
+## Examples of assistive technologies and adaptive strategies {#examples-of-assistive-technologies-and-adaptive-strategies}
 
 - **Bookmarks and history**{:#bookmarks} – using web browser functions to help remember pages, find previously visited pages, or quickly go to pages without needing to type a web address.
 - **Keyword search**{:#search} – using web browser functions to find text within a web page, and website functionality to search for web pages by keyword. Search engines that are maintained and optimized for a particular website can provide more precise search results.
@@ -74,7 +76,7 @@ Many functions to support different styles of navigation are built directly into
 - **Page maps**{:#maps} – displaying a small image of the entire web page with an indicator highlighting the portion within the web page that is being currently viewed.
 - **Pictorial links**{:#pictorial} – some web browsers, plug-ins, and websites show small images of the link targets (sometimes called "screen shots") rather than the addresses or names; for example in combination with [bookmarks and history](#bookmarks){:.termref} listings, back and forward buttons in web browsers, or links on web pages.
 
-### Stories related to interaction {#stories-related-to-interaction}
+## Stories related to interaction {#stories-related-to-interaction}
 
 - [Alex, reporter with repetitive stress injury](/people-use-web/user-stories/#reporter)
 - [Ilya, senior staff member who is blind](/people-use-web/user-stories/#accountant)
