@@ -19,7 +19,11 @@ resource:
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-TBD
+People perceive content through different senses depending on their needs and preferences. For example, some people are not seeing the screen or hearing the audio. Examples of perception include:
+
+-   **Auditory** - such as speech, music, and sound that can be *heard*.
+-   **Tactile** - such as dots, bars, and vibration that can be *felt*.
+-   **Visual** - such as images, text, and video that can be *seen*.
 
 **Note:** This page is illustrative and is not a complete list of all the ways that people interact with the web.
 
@@ -28,7 +32,7 @@ TBD
 {:/}
 
 
-{::options toc_levels="2..3" /}
+{::options toc_levels="2" /}
 
 {::nomarkdown}
 {% include_cached toc.html type="start" title="Page Contents" class="full" %}
@@ -41,15 +45,7 @@ TBD
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Perception - hearing, feeling, and seeing {#perception}
-
-People perceive content through different senses depending on their needs and preferences. For example, some people are not seeing the screen or hearing the audio. Examples of perception include:
-
--   **Auditory** - such as speech, music, and sound that can be *heard*.
--   **Tactile** - such as dots, bars, and vibration that can be *felt*.
--   **Visual** - such as images, text, and video that can be *seen*.
-
-### More about perception {#more-about-perception}
+## Introduction
 
 Some people need to convert content from one form to another to perceive it. For example, someone who is deaf-blind requires audio and visual content in a tactile form (such as [Braille](#braille){:.termref}). Other people need to perceive content through multiple senses, such as someone with dyslexia who may need to hear and see the text to understand it better.
 
@@ -57,7 +53,7 @@ Content in textual form can be more easily converted into other forms and is the
 
 In some cases, content can be converted into different forms using software or hardware. For example, a text-to-speech software can convert text into speech. In other cases, content authors need to provide alternative forms of the content. For example, at least some level of human intervention is necessary to create textual descriptions for images and captions for audio content. Sometimes software tools, such as voice and picture recognition, can assist authors in providing such alternatives but the conversion is usually not fully automatable.
 
-### Examples of accessibility features {#examples-of-accessibility-features}
+## Examples of accessibility features {#examples-of-accessibility-features}
 
 - **Audio descriptions**{:#audio} – (also referred to as "video descriptions" and "described video") narrations that describe important visual details in a video. These narrations can be during natural pauses in the audio, or in separate audio files or audio tracks in multimedia.
 - **Auditory, tactile, and visual notifications**{:#notifications} - prompting or alerting the user in different ways such as by blinking or displaying visual dialogs, by using sound, or by vibration.
@@ -66,13 +62,13 @@ In some cases, content can be converted into different forms using software or h
 - **Text-to-speech**{:#tts} (sometimes called "speech synthesis" or "speech output") - automatic conversion of text into a synthesized voice reading the text aloud.
 - **Transcripts**{:#transcripts} – text manuscripts containing the correct sequence of verbatim recording of any speech, and descriptions of important auditory or visual information.
 
-### Examples of assistive technologies and adaptive strategies {#examples-of-assistive-technologies-and-adaptive-strategies}
+## Examples of assistive technologies and adaptive strategies {#examples-of-assistive-technologies-and-adaptive-strategies}
 
 - **Refreshable Braille display**{:#braille_display} – a mechanical terminal that displays a line of [Braille](#braille){:.termref} characters (usually 40-80) by raising and lowering the dots (pins) dynamically. Braille devices with capabilities of small computers incorporate Braille displays. These devices can be used to take notes, calculate numbers, or to interface with other devices such as public information kiosks.
 - **Screen reader**{:#sr} – software that processes content on the desktop and in web browsers, and converts it to others forms such as [text-to-speech](#tts){:.termref} and [Braille](#braille){:.termref}. Screen readers typically provide other functions such as shortcut keys, different modes for processing content and interacting with it, and the ability to highlight the text that is being read aloud.
 - **Voice browser**{:#vb} – similar to [screen reader](#sr){:.termref} but usually only processes web content. Voice browsers are typically not developed as assistive tools but as alternative web browsers for mobile devices or similar.
 
-### Stories related to perception {#stories-related-to-perception}
+## Stories related to perception {#stories-related-to-perception}
 
 - [Martine, online student who is hard of hearing](/people-use-web/user-stories/#onlinestudent)
 - [Ilya, senior staff member who is blind](/people-use-web/user-stories/#accountant)
