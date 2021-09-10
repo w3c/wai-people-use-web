@@ -14,6 +14,9 @@ footer: >
 resource:
   ref: /people-use-web/
   
+navigation:
+ previous: /people-use-web/
+ next: /people-use-web/abilities-barriers-auditory/
 ---
 
 {::nomarkdown}
