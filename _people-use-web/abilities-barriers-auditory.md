@@ -15,8 +15,8 @@ resource:
   ref: /people-use-web/
   
 navigation:
-  previous: /people-use-web/abilities-barriers-cognitive/
-  next: /people-use-web/abilities-barriers/
+  previous: /people-use-web/abilities-barriers/
+  next: /people-use-web/abilities-barriers-cognitive/
 ---
 
 {::nomarkdown}

@@ -1,5 +1,5 @@
 ---
-title: "Diverse Abilities and Barriers"
+title: "Speech"
 order: 2
 permalink: /people-use-web/abilities-barriers-speech/
 ref: /people-use-web/abilities-barriers-speech/
