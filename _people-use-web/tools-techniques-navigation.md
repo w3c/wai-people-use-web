@@ -15,7 +15,7 @@ resource:
   ref: /people-use-web/
   
 navigation:
-  previous: /people-use-web/tools-input/
+  previous: /people-use-web/tools-techniques-input/
   next: /people-use-web/tools-techniques/
 ---
 
