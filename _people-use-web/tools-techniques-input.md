@@ -77,7 +77,7 @@ Accessible web content supports people who need more time typing, writing, and c
 
 ## Stories related to input {#stories-related-to-input}
 
-- [Alex, reporter with repetitive stress injury](/people-use-web/user-stories/#reporter)
-- [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories/#classroomstudent)
-- [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories/#retiree)
-- [Luis, supermarket assistant with Down syndrome](/people-use-web/user-stories/#supermarketassistant)
+- [Alex, reporter with repetitive stress injury](/people-use-web/user-stories-one/)
+- [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories-eight/)
+- [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories-nine/)
+- [Luis, basketball fan with Down syndrome](/people-use-web/user-stories-five/)
