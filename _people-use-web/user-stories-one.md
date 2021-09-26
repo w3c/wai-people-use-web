@@ -106,7 +106,7 @@ Process time outs barrier
 : **Works well:** At the start of a long form or process, I am told that there is a time out and given the option to set it to be slightly longer.
 
 Saving progress barrier
-: **Problem:** Completing a long forms with no way to save progress and take a break can be painful and tiring.
+: **Problem:** Completing long forms with no way to save progress and take a break can be painful and tiring.
 : **Words well:** I have an option to save progress and take a break when completing long, multi-step forms.
 
 Popup windows barrier
