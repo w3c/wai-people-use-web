@@ -127,23 +127,16 @@ TBD
 ### Related resources
 
 * Video: [Understandable Content](https://www.w3.org/WAI/perspective-videos/understandable/)
-* Tip: [Provide informative, unique page titles](https://www.w3.org/WAI/tips/writing/#provide-informative-unique-page-titles)
 * Tip: [Use headings to convey meaning and structure](https://www.w3.org/WAI/tips/writing/#use-headings-to-convey-meaning-and-structure)
 * Tip: [Make link text meaningful](https://www.w3.org/WAI/tips/writing/#make-link-text-meaningful)
 * Tip: [Provide clear instructions](https://www.w3.org/WAI/tips/writing/#provide-clear-instructions)
 * Tip: [Keep content clear and concise](https://www.w3.org/WAI/tips/writing/#keep-content-clear-and-concise)
 * Tip: [Ensure that interactive elements are easy to identify](https://www.w3.org/WAI/tips/designing/#ensure-that-interactive-elements-are-easy-to-identify)
 * Tip: [Provide clear and consistent navigation options](https://www.w3.org/WAI/tips/designing/#provide-clear-and-consistent-navigation-options)
-* Tip: [Ensure that form elements include clearly associated labels](https://www.w3.org/WAI/tips/designing/#ensure-that-form-elements-include-clearly-associated-labels)
 * Tip: [Provide easily identifiable feedback](https://www.w3.org/WAI/tips/designing/#provide-easily-identifiable-feedback)
-* Tip: [Use heading and spacing to group related content](https://www.w3.org/WAI/tips/designing/#use-headings-and-spacing-to-group-related-content)
-* Tip: [Associate a label with every form control](https://www.w3.org/WAI/tips/developing/#associate-a-label-with-every-form-control)
 * Tip: [Help users avoid and correct mistakes](https://www.w3.org/WAI/tips/developing/#help-users-avoid-and-correct-mistakes)
-* Tip: [Provide meaning for non-standard interactive elements](https://www.w3.org/WAI/tips/developing/#provide-meaning-for-non-standard-interactive-elements)
-* Tip: [Avoid CAPTCHA where possible](https://www.w3.org/WAI/tips/developing/#avoid-captcha-where-possible)
 * Check: [Headings](https://www.w3.org/WAI/test-evaluate/preliminary/#headings)
 * Check: [Forms, labels, and errors](https://www.w3.org/WAI/test-evaluate/preliminary/#forms)
-* Check: [Moving, Flashing, or Blinking Content](https://www.w3.org/WAI/test-evaluate/preliminary/#moving)
 
 ### Related principles
 
