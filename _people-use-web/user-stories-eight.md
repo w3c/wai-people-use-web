@@ -101,7 +101,6 @@ Preety experiences problems with sites where the navigation of the site is uncle
 
 ### Barrier examples
 
-
 Spelling suggestions
 : **Problem:** I have difficulty with spelling and sometimes misspell words. Sometimes I don't get the search results I'm looking for.
 : **Works well:** I like when search tools offer alternative spellings or alternative search suggestions instead of just returning no results.
@@ -113,25 +112,17 @@ Distracting pop-ups
 ### Related resources
 
 * Video: [Clear Layout and Design](https://www.w3.org/WAI/perspective-videos/layout/)
-* Tip: [Provide informative, unique page titles](https://www.w3.org/WAI/tips/writing/#provide-informative-unique-page-titles)
 * Tip: [Use headings to convey meaning and structure](https://www.w3.org/WAI/tips/writing/#use-headings-to-convey-meaning-and-structure)
 * Tip: [Make link text meaningful](https://www.w3.org/WAI/tips/writing/#make-link-text-meaningful)
-* Tip: [Write meaningful text alternatives for images ](https://www.w3.org/WAI/tips/writing/#write-meaningful-text-alternatives-for-images
 * Tip: [Provide clear instructions](https://www.w3.org/WAI/tips/writing/#provide-clear-instructions)
 * Tip: [Keep content clear and concise](https://www.w3.org/WAI/tips/writing/#keep-content-clear-and-concise)
 * Tip: [Include alternative text for images](https://www.w3.org/WAI/tips/developing/#include-alternative-text-for-images)
 * Tip: [Help users avoid and correct mistakes](https://www.w3.org/WAI/tips/developing/#help-users-avoid-and-correct-mistakes)
-* Tip: [Reflect the reading order in the code order](https://www.w3.org/WAI/tips/developing/#reflect-the-reading-order-in-the-code-order)
-* Tip: [Provide meaning for non-standard interactive elements](https://www.w3.org/WAI/tips/developing/#provide-meaning-for-non-standard-interactive-elements)
-* Tip: [Avoid CAPTCHA where possible](https://www.w3.org/WAI/tips/developing/#avoid-captcha-where-possible)
 * Tip: [Ensure that interactive elements are easy to identify](https://www.w3.org/WAI/tips/designing/#ensure-that-interactive-elements-are-easy-to-identify)
-* Tip: [Provide clear and consistent navigation options](https://www.w3.org/WAI/tips/designing/#provide-clear-and-consistent-navigation-options)
-* Tip: [Ensure that form elements include clearly associated labels](https://www.w3.org/WAI/tips/designing/#ensure-that-form-elements-include-clearly-associated-labels)
 * Tip: [Provide easily identifiable feedback](https://www.w3.org/WAI/tips/designing/#provide-easily-identifiable-feedback)
 * Tip: [Use headings and spacing to group related content](https://www.w3.org/WAI/tips/designing/#use-headings-and-spacing-to-group-related-content)
 * Check: [Image text alternatives ("alt text")](https://www.w3.org/WAI/test-evaluate/preliminary/#images)
 * Check: [Headings](https://www.w3.org/WAI/test-evaluate/preliminary/#headings)
-* Check: [Keyboard access and visual focus](https://www.w3.org/WAI/test-evaluate/preliminary/#interaction)
 * Check: [Forms, labels, and errors](https://www.w3.org/WAI/test-evaluate/preliminary/#forms)
 * Check: [Moving, Flashing, or Blinking Content](https://www.w3.org/WAI/test-evaluate/preliminary/#moving)
 * Check: [Basic structure check](https://www.w3.org/WAI/test-evaluate/preliminary/#structure)
