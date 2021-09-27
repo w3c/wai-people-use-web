@@ -76,7 +76,7 @@ Introduction about Preety
 
 ## Preety, middle school student with attention deficit hyperactivity disorder and dyslexia
 
-> My screen reader helps me focus on what I am reading. I don't use it all the time but for long text it is super helpful
+> My text reader helps me focus on what I am reading. I don't use it all the time but for long text it is super helpful
 
 Preety is a middle school student who has dyslexia and attention deficit hyperactivity disorder (ADHD). The ADHD makes it hard for her to pay attention and focus on her schoolwork, something she really needs to do to keep up with her classmates. Reading is especially difficult. Preety often has to read the same passage 2 or 3 times to fully comprehend its meaning but sometimes she is so fidgety.
 
@@ -88,16 +88,16 @@ Preety experiences problems with sites where the navigation of the site is uncle
 
 ### Assistive technologies and adaptive strategies used
 
-* [Captions (Perception)](https://www.w3.org/WAI/people-use-web/tools-techniques/#perception)
-* [Screen reader (Perception)](https://www.w3.org/WAI/people-use-web/tools-techniques/#perception)
-* [Text-to-speech (Perception)](https://www.w3.org/WAI/people-use-web/tools-techniques/#perception)
-* [Pop-up and animations blockers (Presentation)](https://www.w3.org/WAI/people-use-web/tools-techniques/#presentation)
-* [Reading assistants (Presentation)](https://www.w3.org/WAI/people-use-web/tools-techniques/#presentation)
-* [Spelling and grammar tools (input)](https://www.w3.org/WAI/people-use-web/tools-techniques/#input)
-* [Consistency and predictability (Interaction)](https://www.w3.org/WAI/people-use-web/tools-techniques/#interaction)
-* [Helpful error and success messages (Interaction)](https://www.w3.org/WAI/people-use-web/tools-techniques/#interaction)
-* [Keyword search (Interaction)](https://www.w3.org/WAI/people-use-web/tools-techniques/#interaction)
-* [Multiple navigation mechanisms (Interaction)](https://www.w3.org/WAI/people-use-web/tools-techniques/#interaction)
+* [Captions (Perception)](/people-use-web/tools-techniques-perception/#captions)
+* [Screen reader (Perception)](/people-use-web/tools-techniques-perception/#sr)
+* [Text-to-speech (Perception)](/people-use-web/tools-techniques-perception/#tts)
+* [Pop-up and animations blockers (Presentation)](/people-use-web/tools-techniques-presentation/#blockers)
+* [Reading assistants (Presentation)](/people-use-web/tools-techniques-presentation/#reading)
+* [Spelling and grammar tools (input)](/people-use-web/tools-techniques-input/#lexical)
+* [Consistency and predictability (Interaction)](/people-use-web/tools-techniques-navigation/#consistency)
+* [Helpful error and success messages (Interaction)](/people-use-web/tools-techniques-navigation/#messages)
+* [Keyword search (Interaction)](/people-use-web/tools-techniques-navigation/#search)
+* [Multiple navigation mechanisms (Interaction)](/people-use-web/tools-techniques-navigation/#navigating)
 
 ### Barrier examples
 
