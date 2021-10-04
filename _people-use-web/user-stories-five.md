@@ -88,17 +88,17 @@ Getting a mobile phone was a huge deal for Luis. He finds apps that have fewer o
 
 ### Assistive technologies and adaptive strategies used
 
-* [Easy-to-read text (Presentation)](https://www.w3.org/WAI/people-use-web/tools-techniques/#presentation)
-* [Pop-up and animations blockers (Presentation)](https://www.w3.org/WAI/people-use-web/tools-techniques/#presentation)
-* [Progressive disclosure (Presentation)](https://www.w3.org/WAI/people-use-web/tools-techniques/#presentation)
-* [Reading assistants (Presentation)](https://www.w3.org/WAI/people-use-web/tools-techniques/#presentation)
-* [Reduced interface (Presentation)](https://www.w3.org/WAI/people-use-web/tools-techniques/#presentation)
-* [Accelerators (Input)](https://www.w3.org/WAI/people-use-web/tools-techniques/#input)
-* [Spelling and grammar tools (Input)](https://www.w3.org/WAI/people-use-web/tools-techniques/#input)
-* [Consistency and predictability (Interaction)](https://www.w3.org/WAI/people-use-web/tools-techniques/#interaction)
-* [Descriptive titles, headings, and labels (Interaction)](https://www.w3.org/WAI/people-use-web/tools-techniques/#interaction)
-* [Helpful error and success messages (Interaction)](https://www.w3.org/WAI/people-use-web/tools-techniques/#interaction)
-* [Multiple navigation mechanisms (Interaction)](https://www.w3.org/WAI/people-use-web/tools-techniques/#interaction)
+* [Easy-to-read text (Presentation)](/people-use-web/tools-techniques-perception/#etr)
+* [Pop-up and animations blockers (Presentation)](/people-use-web/tools-techniques-perception/#blockers)
+* [Progressive disclosure (Presentation)](/people-use-web/tools-techniques-perception/#progressive)
+* [Reading assistants (Presentation)](/people-use-web/tools-techniques-perception/#reading)
+* [Reduced interface (Presentation)](/people-use-web/tools-techniques-perception/#reduced)
+* [Accelerators (Input)](/people-use-web/tools-techniques-input/#accelerators)
+* [Spelling and grammar tools (Input)](/people-use-web/tools-techniques-input/#lexical)
+* [Consistency and predictability (Interaction)](/people-use-web/tools-techniques-navigation/#consistency)
+* [Descriptive titles, headings, and labels (Interaction)](/people-use-web/tools-techniques-navigation/#labels)
+* [Helpful error and success messages (Interaction)](/people-use-web/tools-techniques-navigation/#messages)
+* [Multiple navigation mechanisms (Interaction)](/people-use-web/tools-techniques-navigation/#navigating)
 
 ### Barrier examples
 

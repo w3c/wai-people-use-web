@@ -90,14 +90,14 @@ Outside of work Ilya tends to use her mobile phone or tablet much more than a la
 
 ### Assistive technologies and adaptive strategies used
 
-* [Screen reader (Perception)](https://www.w3.org/WAI/people-use-web/tools-techniques/#perception)
-* [Text-to-speech (Perception)](https://www.w3.org/WAI/people-use-web/tools-techniques/#perception)
-* [Transcripts (Perception)](https://www.w3.org/WAI/people-use-web/tools-techniques/#perception)
-* [Consistency and predictability (Interaction)](https://www.w3.org/WAI/people-use-web/tools-techniques/#interaction)
-* [Descriptive titles, headings, and labels (Interaction)](https://www.w3.org/WAI/people-use-web/tools-techniques/#interaction)
-* [Helpful error and success messages (Interaction)](https://www.w3.org/WAI/people-use-web/tools-techniques/#interaction)
-* [Keyboard navigation (Interaction)](https://www.w3.org/WAI/people-use-web/tools-techniques/#interaction)
-* [Skip links (Interaction)](https://www.w3.org/WAI/people-use-web/tools-techniques/#interaction)
+* [Screen reader (Perception)](/people-use-web/tools-techniques-perception/#sr)
+* [Text-to-speech (Perception)](/people-use-web/tools-techniques-perception/#tts)
+* [Transcripts (Perception)](/people-use-web/tools-techniques-perception/#transcripts)
+* [Consistency and predictability (Interaction)](/people-use-web/tools-techniques-navigation/#consistency)
+* [Descriptive titles, headings, and labels (Interaction)](/people-use-web/tools-techniques-navigation/#labels)
+* [Helpful error and success messages (Interaction)](/people-use-web/tools-techniques-navigation/#messages)
+* [Keyboard navigation (Interaction)](/people-use-web/tools-techniques-navigation/#keyboard)
+* [Skip links (Interaction)](http/people-use-web/tools-techniques-navigation/#skip)
 
 ### Barrier examples
 

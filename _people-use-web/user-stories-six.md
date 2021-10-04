@@ -88,9 +88,9 @@ Martine prefers written content to have good structure and headings with minimal
 
 ### Assistive technologies and adaptive strategies used
 
-* [Captions (Perception)](https://www.w3.org/WAI/people-use-web/tools-techniques/#perception)
-* [Transcripts (Perception)](https://www.w3.org/WAI/people-use-web/tools-techniques/#perception)
-* [Sign language (Presentation)](https://www.w3.org/WAI/people-use-web/tools-techniques/#presentation)
+* [Captions (Perception)](/people-use-web/tools-techniques-perception/#captions)
+* [Transcripts (Perception)](/people-use-web/tools-techniques-perception/#transcripts)
+* [Sign language (Presentation)](/people-use-web/tools-techniques-presentation/#sign)
 
 ### Barrier examples
 

@@ -88,14 +88,14 @@ For all of the benefits of using the computer to read the news and stay active i
 
 ### Assistive technologies and adaptive strategies used
 
-* [Screen magnification (Presentation)](https://www.w3.org/WAI/people-use-web/tools-techniques/#presentation)
-* [Alternative keyboard and mouse (Input)](https://www.w3.org/WAI/people-use-web/tools-techniques/#input)
-* [Keyboard and mouse filters (Input)](https://www.w3.org/WAI/people-use-web/tools-techniques/#input)
-* [Mouse customization (Input)](https://www.w3.org/WAI/people-use-web/tools-techniques/#input)
-* [Bookmarks and history (Interaction)](https://www.w3.org/WAI/people-use-web/tools-techniques/#interaction)
-* [Consistency and predictability (Interaction)](https://www.w3.org/WAI/people-use-web/tools-techniques/#interaction)
-* [Descriptive titles, headings, and labels (Interaction)](https://www.w3.org/WAI/people-use-web/tools-techniques/#interaction)
-* [Helpful error and success messages (Interaction)](https://www.w3.org/WAI/people-use-web/tools-techniques/#interaction)
+* [Screen magnification (Presentation)](/people-use-web/tools-techniques-presentation/#display)
+* [Alternative keyboard and mouse (Input)](/people-use-web/tools-techniques-input/#input)
+* [Keyboard and mouse filters (Input)](/people-use-web/tools-techniques-input/#filters)
+* [Mouse customization (Input)](/people-use-web/tools-techniques-input/#mouse)
+* [Bookmarks and history (Interaction)](/people-use-web/tools-techniques-navigation/#bookmarks)
+* [Consistency and predictability (Interaction)](/people-use-web/tools-techniques-navigation/#consistency)
+* [Descriptive titles, headings, and labels (Interaction)](/people-use-web/tools-techniques-navigation/#labels)
+* [Helpful error and success messages (Interaction)](/people-use-web/tools-techniques-navigation/#messages)
 
 ### Barrier examples
 

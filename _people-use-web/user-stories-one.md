@@ -88,12 +88,12 @@ Outside of work, Alex finds his mobile device easier to use than the computer be
 
 ### Assistive technologies and adaptive strategies used
 
-* [Accelerators (Input)](https://www.w3.org/WAI/people-use-web/tools-techniques/#input)
-* [Alternative keyboard and mouse (Input)](https://www.w3.org/WAI/people-use-web/tools-techniques/#input)
-* [Speech recognition (Input)](https://www.w3.org/WAI/people-use-web/tools-techniques/#input)
-* [Word prediction (Input)](https://www.w3.org/WAI/people-use-web/tools-techniques/#input)
-* [Keyboard navigation (Interaction)](https://www.w3.org/WAI/people-use-web/tools-techniques/#interaction)
-* [Skip links (Interation)](https://www.w3.org/WAI/people-use-web/tools-techniques/#interaction)
+* [Accelerators (Input)](/people-use-web/tools-techniques-input/#accelerators)
+* [Alternative keyboard and mouse (Input)](/people-use-web/tools-techniques-input/#input)
+* [Speech recognition (Input)](/people-use-web/tools-techniques-input/#speech)
+* [Word prediction (Input)](/people-use-web/tools-techniques-input/#prediction)
+* [Keyboard navigation (Interaction)](/people-use-web/tools-techniques-navigation/#keyboard)
+* [Skip links (Interation)](/people-use-web/tools-techniques-navigation/#skip)
 
 ### Barrier examples
 

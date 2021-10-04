@@ -88,18 +88,18 @@ Some of the places, particularly galleries, that Noor visits have started implem
 
 ### Assistive technologies and adaptive strategies used
 
-* [Braille (Perception)](https://www.w3.org/WAI/people-use-web/tools-techniques/#perception)
-* [Refreshable Braille display (Perception)](https://www.w3.org/WAI/people-use-web/tools-techniques/#perception)
-* [Screen reader (Perception)](https://www.w3.org/WAI/people-use-web/tools-techniques/#perception)
-* [Text-to-speech (Perception)](https://www.w3.org/WAI/people-use-web/tools-techniques/#perception)
-* [Transcripts (Perception)](https://www.w3.org/WAI/people-use-web/tools-techniques/#perception)
-* [Customized fonts and colors (Presentation)](https://www.w3.org/WAI/people-use-web/tools-techniques/#presentation)
-* [Screen magnification (Presentation)](https://www.w3.org/WAI/people-use-web/tools-techniques/#presentation)
-* [Screen magnifier (Presentation)](https://www.w3.org/WAI/people-use-web/tools-techniques/#presentation)
-* [Descriptive titles, headings, and labels (Interaction)](https://www.w3.org/WAI/people-use-web/tools-techniques/#interaction)
-* [Helpful error and success messages (Interaction)](https://www.w3.org/WAI/people-use-web/tools-techniques/#interaction)
-* [Keyboard navigation (Interaction)](https://www.w3.org/WAI/people-use-web/tools-techniques/#interaction)
-* [Skip links (Interaction)](https://www.w3.org/WAI/people-use-web/tools-techniques/#interaction)
+* [Braille (Perception)](/people-use-web/tools-techniques-perception/#braille)
+* [Refreshable Braille display (Perception)](/people-use-web/tools-techniques-perception/#braille_display)
+* [Screen reader (Perception)](/people-use-web/tools-techniques-perception/#sr)
+* [Text-to-speech (Perception)](/people-use-web/tools-techniques-perception/#tts)
+* [Transcripts (Perception)](/people-use-web/tools-techniques-perception/#transcripts)
+* [Customized fonts and colors (Presentation)](/people-use-web/tools-techniques-presentation/#style)
+* [Screen magnification (Presentation)](/people-use-web/tools-techniques-presentation/#display)
+* [Screen magnifier (Presentation)](/people-use-web/tools-techniques-presentation/#magnifiers)
+* [Descriptive titles, headings, and labels (Interaction)](/people-use-web/tools-techniques-navigation/#labels)
+* [Helpful error and success messages (Interaction)](/people-use-web/tools-techniques-navigation/#messages)
+* [Keyboard navigation (Interaction)](/people-use-web/tools-techniques-navigation/#keyboard)
+* [Skip links (Interaction)](/people-use-web/tools-techniques-navigation/#skip)
 
 ### Barrier examples
 
