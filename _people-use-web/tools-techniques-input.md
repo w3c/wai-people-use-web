@@ -71,8 +71,8 @@ Accessible web content supports people who need more time typing, writing, and c
 - **Keyboard and mouse filters**{:#filters} – functions of the operating system or software tools that recognize and compensate for involuntary movements such as tremor and spasms.
 - **Mouse customization**{:#mouse} – includes changing the mapping of buttons, changing the sensitivity of the mouse towards movement, setting [filters](#filters){:.termref}, and changing the size and appearance of the mouse pointer.
 - **On-screen keyboard**{:#screenkbd} – virtual keyboard displayed on a screen so that it can be used with a touchscreen, mouse, trackball, joystick, or other pointing devices.
+- **Speech recognition**{:#speech} (sometimes called "speech input" or "voice command") - software that recognizes the human voice and can be used to dictate text or to issue commands to operate the computer.
 - **Spelling and grammar tools**{:#lexical} – web browser functions, plug-ins, or other software tools to help users write.
-- **Voice recognition**{:#voice} (sometimes called "speech input" or "voice command") - software that recognizes the human voice and can be used to dictate text or to issue commands to operate the computer.
 - **Word prediction**{:#prediction} – software that presents selections of matching words, phrases, or sentences based on the current input (and sometimes context) to save typing.
 
 ## Stories related to input {#stories-related-to-input}
