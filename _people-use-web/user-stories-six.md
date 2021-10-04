@@ -76,9 +76,9 @@ Introduction about Martine
 
 ## Martine, older adult student who is hard of hearing
 
-> Most people don't realise that sign language is a completely different language. I can read text but it is hard as I am always translating from my native language. While she can hear some sounds, she does not hear enough to understand speech.
+> Most people don't realise that sign language is a completely different language. I can read text but it is hard as I am always translating from my native language.
 
-Martine is 62 years old and is a mature student, taking online courses. She has been hard of hearing since birth. She learned to lip read as a young child. The university where Martine studies provides sign language interpreters and Communication Access Realtime Translation (CART); however, this captioning is not always present on video and other media content. When someone is speaking on screen, she can lip read, however a lot of the content has audio tracks over imagery, making it hard for her to follow without captions.
+Martine is 62 years old and is a mature student, taking online courses. She has been hard of hearing since birth. She learned to lip read and sign as a young child. While she can hear some sounds, she does not hear enough to understand speech. The university where Martine studies provides sign language interpreters and Communication Access Realtime Translation (CART); however, this captioning is not always present on video and other media content. When someone is speaking on screen, she can lip read, however a lot of the content has audio tracks over imagery, making it hard for her to follow without captions.
 
 The university is now working to caption all content across their curriculum, however it is a lengthy process. As more and more content is captioned, Martine is finding it easier to complete her studies remotely.
 
