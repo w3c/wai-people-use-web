@@ -113,7 +113,7 @@ Distracting animations
 
 Tables don't zoom well
 : **Problem:** Online tables sometimes have a lot of space between the columns and when I'm zoomed it, I have scroll from left to right to see all of the content and I often miss the association from one column to the next.
-: **Works well:** Make tables to be compact so I can see the information in multiple columns at once without have to scroll horizontally.
+: **Works well:** When I zoom the tables change from lots of columns to being presented more like a list with each row being shown as a list item.
 
 ### Related resources
 
