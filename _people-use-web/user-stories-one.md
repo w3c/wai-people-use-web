@@ -74,11 +74,11 @@ Introduction to Alex
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Alex, reporter with repetative stress injury
+## Alex, reporter with repetative strain injury
 
 > It's not like I can't use a keyboard or mouse, I just can't use it for long periods and really like to keep my use to a minimum. I don't want my condition to get worse.
 
-Alex has worked as a reporter for more than 20 years. A few years ago he developed a repetitive stress injury that makes it painful to use a mouse and to type for extended periods of time.
+Alex has worked as a reporter for more than 20 years. A few years ago he developed a repetitive strain injury that makes it painful to use a mouse and to type for extended periods of time.
 
 Alex can still do his job but sometimes he finds it tiring and painful when he uses the mouse for long periods of time. He uses an ergonomic keyboard to navigate around web pages and has found that this helps alleviate the pain associated with using the mouse. This works well when he can see which field or link has focus and when they are in a logical order. Sites often include good visual styling when you hover over a link but not when it has keyboard focus. When this happens he loses his place on the page.
 
