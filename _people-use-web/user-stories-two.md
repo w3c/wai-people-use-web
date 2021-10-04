@@ -76,7 +76,7 @@ Introduction about Blair
 
 ## Blair, autistic data entry clerk
 
-<mark><em><strong>Draft reviewers:</strong> This text is only rough notes for now. Your comments welome on these ideas.</em></mark>
+<mark><em><strong>Draft reviewers:</strong> This text is only rough notes for now. Your comments are welome on these ideas.</em></mark>
 
 Sometimes people use lots of words on web site links that do not seem to make sense. I think they are metaphors, but I’m not sure.
 
@@ -101,7 +101,7 @@ TBD
 ### Barrier examples
 
 Non-literal text barrier
-: **Problem:** I have difficulty understanding acronyms, abbreviations, and words that aren't literal.
+: **Problem:** I have difficulty understanding metaphors, acronyms, abbreviations, and words that aren't used in their literal sense.
 : **Works well:** Websites that spell everything out and don't use metaphors are easier to understand.
 
 Plain language barrier
