@@ -78,7 +78,7 @@ Introduction about Preety
 
 > My text reader helps me focus on what I am reading. I don't use it all the time but for long text it is super helpful
 
-Preety is a middle school student who has dyslexia and attention deficit hyperactivity disorder (ADHD). The ADHD makes it hard for her to pay attention and focus on her schoolwork, something she really needs to do to keep up with her classmates. Reading is especially difficult. Preety often has to read the same passage 2 or 3 times to fully comprehend its meaning but sometimes she is so fidgety.
+Preety is a middle school student who has dyslexia and attention deficit hyperactivity disorder (ADHD). As someone with ADHD, Preety can be easily distracted from tasks when something else captures her interest, making it difficult for her to maintain focus on her work. Preety finds visual supports and whitespace helpful for her dyslexia. She gets lost in dense text and is unable to find the meaning. She often gives up because it takes too long and ends up behind in school.
 
 Preety's school has recently transitioned to using digital textbooks. This has been a huge improvement for Preety who can now use her text-to-speech software to aid her understanding of what are sometimes complex texts. Preety also uses the web for research. Unfortunately, her experience on the web can be varied. Often sites contain distracting content such as animated advertisments and graphics which she can find distracting.
  
