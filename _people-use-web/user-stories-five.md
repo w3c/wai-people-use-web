@@ -76,7 +76,7 @@ Introduction about Luis
 
 ## Luis, basketball fan with Down syndrome
 
-> I love to do my shopping. It is good to go into my shop but there are too many choices. Using my phone means I only see what I like.
+> I like when I buy tickets for home games because I know the site. When I have to buy away game tickets it is hard. All the different sites do things in different ways.
 
 Luis was born with Down syndrome and has mild to moderate cognitive delay. Due to his distinct facial appearance and difficulties with speech, many people underestimate Luis' intelligence and capabilities. Even though he has difficulty expressing himself, Luis understands a great deal. He learned basic computer skills in vocational school and since then, he has taught himself how to use websites to order groceries and maintain his bank account, among other things.
 
