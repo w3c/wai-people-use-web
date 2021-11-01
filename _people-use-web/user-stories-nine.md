@@ -115,6 +115,10 @@ Tables don't zoom well
 : **Problem:** Online tables sometimes have a lot of space between the columns and when I'm zoomed it, I have scroll from left to right to see all of the content and I often miss the association from one column to the next.
 : **Works well:** When I zoom the tables change from lots of columns to being presented more like a list with each row being shown as a list item.
 
+Breadcrumb
+: **Problem:** I often lose my place on websites. Sometimes I follow several links and it's not what I'm looking for. I can use the back button to go back page by page but I still get lost.
+: **Works well:** A breadcrumb at the top of each page that shows my path through the site keeps me on track, plus it helps me get back to the home page really quickly.
+
 ### Related resources
 
 * Use case: [Gopal: A Retired Lawyer with Dementia](https://www.w3.org/TR/coga-usable/#gopal-a-retired-lawyer-with-dementia)
