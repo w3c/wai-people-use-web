@@ -114,6 +114,22 @@ Clear link styling
 : **Problem:** Designers like to get fancy with links and sometimes it's hard to figure out the difference between the links and highlighted text or headings.
 : **Works well:** Use blue underlined text for unvisited links and purple for visited links.
 
+Forms
+: **Problem:** When I'm filling out forms, it's sometimes hard to know what they want in each field.
+: **Works well:** Tell me what fields are required, put a simple and clear label on each form field, and give me an example of the format they want, especially for dates.
+
+Timeouts
+: **Problem:** Because I'm a slow reader, it's frustrating when the website times out and I need to start all over.
+: **Works well:** Give a warning before the website times out and offer an option to stay online.
+
+Headings and Links
+: **Problem:** I get confused and overwhelmed when I'm on a page that has a lot of text.
+: **Works well:** It helps when pages are broken up into sections with clear headings. Also, pictures or images that show what is being said help my understanding and they break up the page so it's not so overwhelming. In-page links, like a table of contents, can help me to know what is on the page so I can quickly get to the information I'm looking for.
+
+Animation
+: **Problem:** Moving or animated text or pictures is really distracting. It keeps pulling my attention away from what I'm trying to do.
+: **Works well:** If there has to be moving or animated content, let me stop it.
+
 ### Related resources
 
 * Video: [Understandable Content](https://www.w3.org/WAI/perspective-videos/understandable/)
