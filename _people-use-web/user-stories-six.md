@@ -2,7 +2,7 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "Martine | How People with Disabilities Use the Web"
+title: "Martine, older adult student who is hard of hearing"
 nav_title: "Martine"
 parent_in_h1:
   - ref: /people-use-web/user-stories/
@@ -61,7 +61,7 @@ Introduction about Martine
 {:/}
 
 
-{::options toc_levels="2..3" /}
+{::options toc_levels="2..2" /}
 
 {::nomarkdown}
 {% include_cached toc.html type="start" title="Page Contents" class="full" %}
@@ -74,7 +74,7 @@ Introduction about Martine
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Martine, older adult student who is hard of hearing
+## About Martine
 
 > Most people don't realise that sign language is a completely different language. I can read text but it is hard as I am always translating from my native language.
 
@@ -86,13 +86,13 @@ Martine spends a lot of her free time watching streamed content on video streami
 
 Martine prefers written content to have good structure and headings with minimal jargon.
 
-### Assistive technologies and adaptive strategies used
+## Assistive technologies and adaptive strategies used
 
 * [Captions (Perception)](/people-use-web/tools-techniques-perception/#captions)
 * [Transcripts (Perception)](/people-use-web/tools-techniques-perception/#transcripts)
 * [Sign language (Presentation)](/people-use-web/tools-techniques-presentation/#sign)
 
-### Barrier examples
+## Barrier examples
 
 Inaccurate captions
 : **Problem:** I love that my classes are recorded and available online but sometimes the captions don't convey the exact words that the instructor is saying, especially in some of my more technical classes.
@@ -110,7 +110,7 @@ No alternative for audio
 : **Problem:** When watching a news program online, there isn't an option for me to understand what the speaker is saying.
 : **Works well:** Provide audio alternatives such as sign language, captions or transcript. If there is a speaker in camera, focus in on the speaker.
 
-### Related resources
+## Related resources
 
 
 * Video: [Video Captions](https://www.w3.org/WAI/perspective-videos/captions/)
@@ -120,7 +120,7 @@ No alternative for audio
 * Tip: [Write code that adapts to the user's technology](https://www.w3.org/WAI/tips/developing/#write-code-that-adapts-to-the-users-technology)
 * Check: [Multimedia (video, audio) alternatives](https://www.w3.org/WAI/test-evaluate/preliminary/#media)
 
-### Related principles
+## Related principles
 
 * [Text alternatives for non-text content (Perceivable)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#alternatives)
 * [Captions and other alternatives for multimedia (Perceivable)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#captions)

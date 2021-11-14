@@ -85,6 +85,7 @@ People with cognitive, learning, and neurological disabilities use different typ
 
 ## Stories related to cognitive, learning, and neurological disabilities {#stories-related-to-cognitive-learning-and-neurological-disabilities}
 
+- [Luis, basketball fan with Down syndrome](/people-use-web/user-stories-five/)
+- [Blair, autistic data entry clerk](/people-use-web/user-stories-two/) 
 - [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories-eight/) 
 - [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories-nine/) 
-- [Luis, basketball fan with Down syndrome](/people-use-web/user-stories-five/)

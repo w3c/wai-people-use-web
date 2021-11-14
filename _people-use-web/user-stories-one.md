@@ -2,7 +2,7 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "Alex | How People with Disabilities Use the Web"
+title: "Alex, reporter with repetative strain injury"
 nav_title: "Alex"
 parent_in_h1:
   - ref: /people-use-web/user-stories/
@@ -61,7 +61,7 @@ Introduction to Alex
 {:/}
 
 
-{::options toc_levels="2..3" /}
+{::options toc_levels="2..2" /}
 
 {::nomarkdown}
 {% include_cached toc.html type="start" title="Page Contents" class="full" %}
@@ -74,7 +74,7 @@ Introduction to Alex
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Alex, reporter with repetative strain injury
+## About Alex
 
 > It's not like I can't use a keyboard or mouse, I just can't use it for long periods and really like to keep my use to a minimum. I don't want my condition to get worse.
 
@@ -86,7 +86,7 @@ Using the keyboard does help but Alex tries to limit that as much as possible. I
 
 Outside of work, Alex finds his mobile device easier to use than the computer because there is limited navigation, no pointer device, and because it is hand-held, he can usually find a comfortable position. He wishes his employer would create a mobile-friendly/responsive site that he could use for his job.
 
-### Assistive technologies and adaptive strategies used
+## Assistive technologies and adaptive strategies used
 
 * [Accelerators (Input)](/people-use-web/tools-techniques-input/#accelerators)
 * [Alternative keyboard and mouse (Input)](/people-use-web/tools-techniques-input/#input)
@@ -95,7 +95,7 @@ Outside of work, Alex finds his mobile device easier to use than the computer be
 * [Keyboard navigation (Interaction)](/people-use-web/tools-techniques-navigation/#keyboard)
 * [Skip links (Interation)](/people-use-web/tools-techniques-navigation/#skip)
 
-### Barrier examples
+## Barrier examples
 
 Focus styling barrier
 : **Problem:** When I tab through links and form fields there is no visual styling to show me which element I am on.
@@ -113,7 +113,7 @@ Popup windows barrier
 : **Problem:** When a window opens and I can't close it using only the keyboard it can be difficult.
 : **Works well:** New windows have a close icon that I can access using the keyboard and some include the option to press the escape key to close them.
 
-### Related resources
+## Related resources
 
 * Video: [Speech Recognition](https://www.w3.org/WAI/perspective-videos/voice/)
 * Tip: [Use headings to convey meaning and structure](https://www.w3.org/WAI/tips/writing/#use-headings-to-convey-meaning-and-structure)
@@ -124,7 +124,7 @@ Popup windows barrier
 * Check: [Keyboard access and visual focus](https://www.w3.org/WAI/test-evaluate/preliminary/#interaction)
 * Check: [Forms, labels, and errors](https://www.w3.org/WAI/test-evaluate/preliminary/#forms)
 
-### Related principles
+## Related principles
 
 * [Text alternatives for non-text content (Perceivable)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#alternatives)
 * [Content can be presented in different ways (Perceivable)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#adaptable)

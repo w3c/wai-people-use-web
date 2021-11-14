@@ -2,7 +2,7 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "Ilya | How People with Disabilities Use the Web"
+title: "Ilya, senior staff member who is blind"
 nav_title: "Ilya"
 parent_in_h1:
   - ref: /people-use-web/user-stories/
@@ -61,7 +61,7 @@ Introduction about Ilya
 {:/}
 
 
-{::options toc_levels="2..3" /}
+{::options toc_levels="2..2" /}
 
 {::nomarkdown}
 {% include_cached toc.html type="start" title="Page Contents" class="full" %}
@@ -74,7 +74,7 @@ Introduction about Ilya
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Ilya, senior staff member who is blind
+## About Ilya
 
 > My mobile phone is so convenient - it is so easy to do things because the accessibility and screen reader are all built in. Shame I can't access our corporate systems with it!
 
@@ -88,7 +88,7 @@ Ilya enjoys cooking, knitting and travel. She uses the web to find recipes and p
 
 Outside of work Ilya tends to use her mobile phone or tablet much more than a laptop or desktop computer. Both devices have built in screen readers and other tools, like zoom. That makes these devices much easier to use for her. Using her mobile while travelling is fantastic as she can check location details and find directions.
 
-### Assistive technologies and adaptive strategies used
+## Assistive technologies and adaptive strategies used
 
 * [Screen reader (Perception)](/people-use-web/tools-techniques-perception/#sr)
 * [Text-to-speech (Perception)](/people-use-web/tools-techniques-perception/#tts)
@@ -99,7 +99,7 @@ Outside of work Ilya tends to use her mobile phone or tablet much more than a la
 * [Keyboard navigation (Interaction)](/people-use-web/tools-techniques-navigation/#keyboard)
 * [Skip links (Interaction)](/people-use-web/tools-techniques-navigation/#skip)
 
-### Barrier examples
+## Barrier examples
 
 Good use of headings
 : **Problem:** I can't easily scan a page to find things that might be of interest to me.
@@ -121,7 +121,7 @@ Changes elsewhere on a page
 : **Problem:** There are times when content on a website changes but I don't always know about it.
 : **Works well:** It's great when my screen reader alerts me to changes on the page that I'm visiting.
 
-### Related resources
+## Related resources
 
 * Video: [Text to Speech](https://www.w3.org/WAI/perspective-videos/speech/)
 * Tip: [Write meaningful text alternatives for images](https://www.w3.org/WAI/tips/writing/#write-meaningful-text-alternatives-for-images)
@@ -134,7 +134,7 @@ Changes elsewhere on a page
 * Check: [Multimedia (video, audio) alternatives](https://www.w3.org/WAI/test-evaluate/preliminary/#media)
 * Check: [Basic Structure Check](https://www.w3.org/WAI/test-evaluate/preliminary/#structure)
 
-### Related principles
+## Related principles
 
 * [Text alternatives for non-text content (Perceivable)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#alternatives)
 * [Captions and other alternatives for multimedia (Perceivable)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#captions)

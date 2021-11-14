@@ -2,7 +2,7 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "Yun | How People with Disabilities Use the Web"
+title: "Yun, retiree with low vision, hand tremor, and mild short-term memory loss"
 nav_title: "Yun"
 parent_in_h1:
   - ref: /people-use-web/user-stories/
@@ -61,7 +61,7 @@ Introduction about Yun
 {:/}
 
 
-{::options toc_levels="2..3" /}
+{::options toc_levels="2..2" /}
 
 {::nomarkdown}
 {% include_cached toc.html type="start" title="Page Contents" class="full" %}
@@ -74,7 +74,7 @@ Introduction about Yun
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Yun, retiree with low vision, hand tremor, and mild short-term memory loss
+## About Yun
 
 > I love all this new technology. It is great to be see my grandchildren. It takes me a bit to find all the controls and sometimes they are a bit of the small side, but I get there in the end
 
@@ -86,7 +86,7 @@ Like many older people, Yun has difficulty reading small text. He stopped buying
 
 For all of the benefits of using the computer to read the news and stay active in his field, Yun finds CAPTCHAs particularly difficult. These are common when he is signing up to new websites. If the CAPTCHA uses distorted text, he has trouble making it out and if it requires him to select certain images, the pictures are usually not clearly rendered. He's tried using the sound CAPTCHAs but finds them even more difficult even though he has no hearing loss. Yun prefers sites that send him a code that he needs to enter.
 
-### Assistive technologies and adaptive strategies used
+## Assistive technologies and adaptive strategies used
 
 * [Screen magnification (Presentation)](/people-use-web/tools-techniques-presentation/#display)
 * [Alternative keyboard and mouse (Input)](/people-use-web/tools-techniques-input/#input)
@@ -97,7 +97,7 @@ For all of the benefits of using the computer to read the news and stay active i
 * [Descriptive titles, headings, and labels (Interaction)](/people-use-web/tools-techniques-navigation/#labels)
 * [Helpful error and success messages (Interaction)](/people-use-web/tools-techniques-navigation/#messages)
 
-### Barrier examples
+## Barrier examples
 
 Inaccessible CAPTCHA
 : **Problem**: When I login to my online banking I need to complete a CAPTCHA but I can't really read it well.
@@ -119,7 +119,7 @@ Breadcrumb
 : **Problem:** I often lose my place on websites. Sometimes I follow several links and it's not what I'm looking for. I can use the back button to go back page by page but I still get lost.
 : **Works well:** A breadcrumb at the top of each page that shows my path through the site keeps me on track, plus it helps me get back to the home page really quickly.
 
-### Related resources
+## Related resources
 
 * Use case: [Gopal: A Retired Lawyer with Dementia](https://www.w3.org/TR/coga-usable/#gopal-a-retired-lawyer-with-dementia)
 * Video: [Large Links, Buttons, and Controls](https://www.w3.org/WAI/perspective-videos/controls/)
@@ -140,7 +140,7 @@ Breadcrumb
 * Check: [Keyboard access and visual focus](https://www.w3.org/WAI/test-evaluate/preliminary/#interaction)
 * Check: [Forms, labels, and errors](https://www.w3.org/WAI/test-evaluate/preliminary/#forms)
 
-### Related principles
+## Related principles
 
 * [Text alternatives for non-text content (Perceivable)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#alternatives)
 * [Content can be presented in different ways (Perceivable)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#adaptable)

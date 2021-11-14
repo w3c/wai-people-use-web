@@ -2,7 +2,7 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "Luis | How People with Disabilities Use the Web"
+title: "Luis, basketball fan with Down syndrome"
 nav_title: "Luis"
 parent_in_h1:
   - ref: /people-use-web/user-stories/
@@ -61,7 +61,7 @@ Introduction about Luis
 {:/}
 
 
-{::options toc_levels="2..3" /}
+{::options toc_levels="2..2" /}
 
 {::nomarkdown}
 {% include_cached toc.html type="start" title="Page Contents" class="full" %}
@@ -74,7 +74,7 @@ Introduction about Luis
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Luis, basketball fan with Down syndrome
+## About Luis
 
 > I like when I buy tickets for home games because I know the site. When I have to buy away game tickets it is hard. All the different sites do things in different ways.
 
@@ -86,7 +86,7 @@ Luis is keen to get a job but worries that the jargon will make this initially d
 
 Getting a mobile phone was a huge deal for Luis. He finds apps that have fewer options and fewer decisions are clearer for him and easier to use. Using the phone for shopping is really easy for Luis. Being able to find the things he usually buys is a huge help.
 
-### Assistive technologies and adaptive strategies used
+## Assistive technologies and adaptive strategies used
 
 * [Easy-to-read text (Presentation)](/people-use-web/tools-techniques-presentation/#etr)
 * [Pop-up and animations blockers (Presentation)](/people-use-web/tools-techniques-presentation/#blockers)
@@ -100,7 +100,7 @@ Getting a mobile phone was a huge deal for Luis. He finds apps that have fewer o
 * [Helpful error and success messages (Interaction)](/people-use-web/tools-techniques-navigation/#messages)
 * [Multiple navigation mechanisms (Interaction)](/people-use-web/tools-techniques-navigation/#navigating)
 
-### Barrier examples
+## Barrier examples
 
 Breadcrumb trail
 : **Problem:** When I follow several links, sometimes I feel lost and I just want to get back to where I started.
@@ -130,7 +130,7 @@ Animation
 : **Problem:** Moving or animated text or pictures is really distracting. It keeps pulling my attention away from what I'm trying to do.
 : **Works well:** If there has to be moving or animated content, let me stop it.
 
-### Related resources
+## Related resources
 
 * Video: [Understandable Content](https://www.w3.org/WAI/perspective-videos/understandable/)
 * Tip: [Keep content clear and concise](https://www.w3.org/WAI/tips/writing/#keep-content-clear-and-concise)
@@ -141,7 +141,7 @@ Animation
 * Check: [Forms, labels, and errors](https://www.w3.org/WAI/test-evaluate/preliminary/#forms)
 * Check: [Moving, Flashing, or Blinking Content](https://www.w3.org/WAI/test-evaluate/preliminary/#moving)
 
-### Related principles
+## Related principles
 
 * [Content can be presented in different ways (Perceivable)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#adaptable)
 * [Users have enough time to read and use the content (Operable)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#time)

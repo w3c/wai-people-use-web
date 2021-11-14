@@ -2,7 +2,7 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "Preety | How People with Disabilities Use the Web"
+title: "Preety, middle school student with attention deficit hyperactivity disorder and dyslexia"
 nav_title: "Preety"
 parent_in_h1:
   - ref: /people-use-web/user-stories/
@@ -61,7 +61,7 @@ Introduction about Preety
 {:/}
 
 
-{::options toc_levels="2..3" /}
+{::options toc_levels="2..2" /}
 
 {::nomarkdown}
 {% include_cached toc.html type="start" title="Page Contents" class="full" %}
@@ -74,7 +74,7 @@ Introduction about Preety
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Preety, middle school student with attention deficit hyperactivity disorder and dyslexia
+## About Preety
 
 > My text reader helps me focus on what I am reading. I don't use it all the time but for long text it is super helpful
 
@@ -86,7 +86,7 @@ Preety finds it easier to read content which is written in plain language, with 
 
 Preety experiences problems with sites where the navigation of the site is unclear. She finds it much easier to use sites which include functions such as a sitemap, breadcrumb trails or a search function. Preety has difficulty with spelling so benefits from search functionality which suggests alternative spellings and error corrections.
 
-### Assistive technologies and adaptive strategies used
+## Assistive technologies and adaptive strategies used
 
 * [Captions (Perception)](/people-use-web/tools-techniques-perception/#captions)
 * [Screen reader (Perception)](/people-use-web/tools-techniques-perception/#sr)
@@ -99,7 +99,7 @@ Preety experiences problems with sites where the navigation of the site is uncle
 * [Keyword search (Interaction)](/people-use-web/tools-techniques-navigation/#search)
 * [Multiple navigation mechanisms (Interaction)](/people-use-web/tools-techniques-navigation/#navigating)
 
-### Barrier examples
+## Barrier examples
 
 Spelling suggestions
 : **Problem:** I have difficulty with spelling and sometimes misspell words. Sometimes I don't get the search results I'm looking for.
@@ -109,7 +109,7 @@ Distracting pop-ups
 : **Problem:** Banner ads and popups can be distracting for me, especially if they contain moving text or images.
 : **Works well:** It's great when I can turn off these images and also any background audio. If the site includes controls to allow me to do that then that's great. Even better if I can turn these off using an ad blocker in my browser.
 
-### Related resources
+## Related resources
 
 * Video: [Clear Layout and Design](https://www.w3.org/WAI/perspective-videos/layout/)
 * Tip: [Use headings to convey meaning and structure](https://www.w3.org/WAI/tips/writing/#use-headings-to-convey-meaning-and-structure)
@@ -127,7 +127,7 @@ Distracting pop-ups
 * Check: [Moving, Flashing, or Blinking Content](https://www.w3.org/WAI/test-evaluate/preliminary/#moving)
 * Check: [Basic structure check](https://www.w3.org/WAI/test-evaluate/preliminary/#structure)
 
-### Related principles
+## Related principles
 
 * [Text alternatives for non-text content (Perceivable)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#alternatives)
 * [Content can be presented in different ways (Perceivable)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#adaptable)

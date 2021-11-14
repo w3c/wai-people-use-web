@@ -2,7 +2,7 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "Noor | How People with Disabilities Use the Web"
+title: "Noor, teenager who is deaf and blind"
 nav_title: "Noor"
 parent_in_h1:
   - ref: /people-use-web/user-stories/
@@ -61,7 +61,7 @@ Introduction about Noor
 {:/}
 
 
-{::options toc_levels="2..3" /}
+{::options toc_levels="2..2" /}
 
 {::nomarkdown}
 {% include_cached toc.html type="start" title="Page Contents" class="full" %}
@@ -74,7 +74,7 @@ Introduction about Noor
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Noor, teenager who is deaf and blind
+## About Noor
 
 > I love watching videos and when they have captions that I can make large, I can follow the dialogue.
 
@@ -86,7 +86,7 @@ Noor enjoys getting out and about with her friends and uses public transport a l
 
 Some of the places, particularly galleries, that Noor visits have started implementing beacons that her mobile can pick up. These are fantastic as they help Noor know where she is but also provide information about the displays that are more useful for her. She has emailed her local transport providers to suggest that these would make life easier for her if they were included in stations and at stops.
 
-### Assistive technologies and adaptive strategies used
+## Assistive technologies and adaptive strategies used
 
 * [Braille (Perception)](/people-use-web/tools-techniques-perception/#braille)
 * [Refreshable Braille display (Perception)](/people-use-web/tools-techniques-perception/#braille_display)
@@ -101,7 +101,7 @@ Some of the places, particularly galleries, that Noor visits have started implem
 * [Keyboard navigation (Interaction)](/people-use-web/tools-techniques-navigation/#keyboard)
 * [Skip links (Interaction)](/people-use-web/tools-techniques-navigation/#skip)
 
-### Barrier examples
+## Barrier examples
 
 Consistent layout
 : **Problem:** Some shopping sites I visit have completely different styles for different sections. It takes me a while to work out where everything is in each section which is really frustrating.
@@ -123,7 +123,7 @@ Changes elsewhere on a page
 : **Problem:** I needed to add my previous address into an application form, but nothing happened when I pressed the 'Add new address' button. I don't know where the new address fields might have been added to the page.
 : **Works well:** When I press the 'Add new address' button, I am taken to the form fields that have just been added above the button.
 
-### Related resources
+## Related resources
 
 * Video: [Video Captions](https://www.w3.org/WAI/perspective-videos/captions/)
 * Tip: [Create transcripts and captions for multimedia](https://www.w3.org/WAI/tips/writing/#create-transcripts-and-captions-for-multimedia)
@@ -135,7 +135,7 @@ Changes elsewhere on a page
 * Check: [Multimedia (video, audio) alternatives](https://www.w3.org/WAI/test-evaluate/preliminary/#media)
 * Check: [Basic Structure Check](https://www.w3.org/WAI/test-evaluate/preliminary/#structure)
 
-### Related principles
+## Related principles
 
 * [Text alternatives for non-text content (Perceivable)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#alternatives)
 * [Alternatives for audio and video content (Perceivable)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#captions)

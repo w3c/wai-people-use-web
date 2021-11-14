@@ -79,7 +79,7 @@ Some people are only seeing small portions of the content at a time or are perce
 
 ## Stories related to visual disabilities {#stories-related-to-visual-disabilities}
 
-- [Lee, online shopper with color blindness](/people-use-web/user-stories-four/)
 - [Ilya, senior staff member who is blind](/people-use-web/user-stories-three/) 
-- [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories-nine/) 
+- [Lee, online shopper with color blindness](/people-use-web/user-stories-four/)
 - [Noor, teenager who is deaf and blind](/people-use-web/user-stories-seven/)
+- [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories-nine/) 

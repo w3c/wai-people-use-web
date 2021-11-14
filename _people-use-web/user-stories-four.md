@@ -2,7 +2,7 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "Lee | How People with Disabilities Use the Web"
+title: "Lee, online shopper with color blindness"
 nav_title: "Lee"
 parent_in_h1:
   - ref: /people-use-web/user-stories/
@@ -61,7 +61,7 @@ Introduction about Lee
 {:/}
 
 
-{::options toc_levels="2..3" /}
+{::options toc_levels="2..2" /}
 
 {::nomarkdown}
 {% include_cached toc.html type="start" title="Page Contents" class="full" %}
@@ -74,7 +74,7 @@ Introduction about Lee
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Lee, online shopper with color blindness
+## About Lee
 
 > I often miss items on sale because it is hard for me to spot the red labels used to show those things. Sometimes filling out the shopping cart forms is tricky because if I leave something out they show it in red and it's hard for me to see it.
 
@@ -84,11 +84,11 @@ Lee discovered that shopping for clothes online is actually an advantage over go
 
 Lee plays in a various fantasy football leagues with his friends and workmates. Sometimes there can be problems with the way these sites use color to differentiate between teams, player positions and whether or not players are selected for his team. As a result, he tends to prefer certain Fantasy Football apps over others which means he has to try and convince friends to play using the same app.
 
-### Assistive technologies and adaptive strategies used
+## Assistive technologies and adaptive strategies used
 
 * [Customized fonts and colors (Presentation)](/people-use-web/tools-techniques-presentation/#style)
 
-### Barrier examples
+## Barrier examples
 
 Using colour only barrier
 : **Problem:** When I select a color choice there is nothing to help me differentiate between the colors.
@@ -106,7 +106,7 @@ Chart labels barrier
 : **Problem:** When I am reading news articles with data charts, I can't understand the charts as the columns aren't labelled clearly.
 : **Works well:** The columns are directly labelled or use a texture as well as colour.
 
-### Related WAI resources
+## Related WAI resources
 
 * Video: [Colors with Good Contrast](https://www.w3.org/WAI/perspective-videos/contrast/)
 * Video: [Customizable Text](https://www.w3.org/WAI/perspective-videos/customizable/)
@@ -117,7 +117,7 @@ Chart labels barrier
 * Check: [Forms, labels, and errors](https://www.w3.org/WAI/test-evaluate/preliminary/#forms)
 
 
-### Related principles
+## Related principles
 
 * [Content can be presented in different ways (Perceivable)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#adaptable)
 * [Content is easier to see and hear (Perceivable)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#distinguishable)

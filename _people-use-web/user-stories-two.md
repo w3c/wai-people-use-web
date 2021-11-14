@@ -2,7 +2,7 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "Blair | How People with Disabilities Use the Web"
+title: "Blair, autistic data entry clerk"
 nav_title: "Blair"
 parent_in_h1:
   - ref: /people-use-web/user-stories/
@@ -61,7 +61,7 @@ Introduction about Blair
 {:/}
 
 
-{::options toc_levels="2..3" /}
+{::options toc_levels="2..2" /}
 
 {::nomarkdown}
 {% include_cached toc.html type="start" title="Page Contents" class="full" %}
@@ -74,7 +74,7 @@ Introduction about Blair
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Blair, autistic data entry clerk
+## About Blair
 
 <mark><em><strong>Draft reviewers:</strong> This text is only rough notes for now. Your comments are welome on these ideas.</em></mark>
 
@@ -94,11 +94,21 @@ Experiences anxiety when faced with significant changes
 
 Lives with parents in a separate space, parents help daily with cooking and cleaning. Have been learning how to cook more things - uses videos that show simple straight forward steps. Finds websites that have unclear instructions or descriptions difficult.
 
-### Assistive technologies and adaptive strategies used
+
+> I often miss items on sale because it is hard for me to spot the red labels used to show those things. Sometimes filling out the shopping cart forms is tricky because if I leave something out they show it in red and it's hard for me to see it.
+
+Lee was born with deuteranopia and protanopia, commonly referred to as red/green color blindness. He has difficulty distinguishing among items that are red, green, orange, and brown, all of which appear kind of a murky brown.
+
+Lee discovered that shopping for clothes online is actually an advantage over going to physical stores. In addition to just showing pictures of items in the various colors offered, his favorite sites include color labels making coordinating what goes together much easier. Sometimes when checking out though, the required fields and error messages are notated with a red outline and Lee has to pay special attention to identify them. He's noticed lately, however, that a lot of sites are getting better about using a secondary notation like an asterisk for required fields and bold text or an arrow pointing to errors. This really helps a lot.
+
+Lee plays in a various fantasy football leagues with his friends and workmates. Sometimes there can be problems with the way these sites use color to differentiate between teams, player positions and whether or not players are selected for his team. As a result, he tends to prefer certain Fantasy Football apps over others which means he has to try and convince friends to play using the same app.
+
+
+## Assistive technologies and adaptive strategies used
 
 TBD
 
-### Barrier examples
+## Barrier examples
 
 Non-literal text barrier
 : **Problem:** I have difficulty understanding metaphors, acronyms, abbreviations, and words that aren't used in their literal sense.
@@ -132,7 +142,7 @@ Moving or blinking content barrier
 
 * Use succinct sentences and bullets
 
-### Related resources
+## Related resources
 
 * Video: [Understandable Content](https://www.w3.org/WAI/perspective-videos/understandable/)
 * Tip: [Use headings to convey meaning and structure](https://www.w3.org/WAI/tips/writing/#use-headings-to-convey-meaning-and-structure)
@@ -146,6 +156,6 @@ Moving or blinking content barrier
 * Check: [Headings](https://www.w3.org/WAI/test-evaluate/preliminary/#headings)
 * Check: [Forms, labels, and errors](https://www.w3.org/WAI/test-evaluate/preliminary/#forms)
 
-### Related principles
+## Related principles
 
 TBD
