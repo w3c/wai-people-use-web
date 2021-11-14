@@ -97,7 +97,7 @@ Outside of work Ilya tends to use her mobile phone or tablet much more than a la
 * [Descriptive titles, headings, and labels (Interaction)](/people-use-web/tools-techniques-navigation/#labels)
 * [Helpful error and success messages (Interaction)](/people-use-web/tools-techniques-navigation/#messages)
 * [Keyboard navigation (Interaction)](/people-use-web/tools-techniques-navigation/#keyboard)
-* [Skip links (Interaction)](http/people-use-web/tools-techniques-navigation/#skip)
+* [Skip links (Interaction)](/people-use-web/tools-techniques-navigation/#skip)
 
 ### Barrier examples
 
@@ -129,7 +129,7 @@ Changes elsewhere on a page
 * Tip: [Use headings to convey meaning and structure](https://www.w3.org/WAI/tips/writing/#use-headings-to-convey-meaning-and-structure)
 * Tip: [Ensure that all interactive elements are keyboard accessible](https://www.w3.org/WAI/tips/developing/#ensure-that-all-interactive-elements-are-keyboard-accessible)
 * Tip: [Make link text meaningful](https://www.w3.org/WAI/tips/writing/#make-link-text-meaningful)
-* Check: [Image text alternatives ("alt text"](https://www.w3.org/WAI/test-evaluate/preliminary/#images)
+* Check: [Image text alternatives ("alt text")](https://www.w3.org/WAI/test-evaluate/preliminary/#images)
 * Check: [Forms, labels, and errors](https://www.w3.org/WAI/test-evaluate/preliminary/#forms)
 * Check: [Multimedia (video, audio) alternatives](https://www.w3.org/WAI/test-evaluate/preliminary/#media)
 * Check: [Basic Structure Check](https://www.w3.org/WAI/test-evaluate/preliminary/#structure)

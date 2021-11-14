@@ -86,7 +86,7 @@ Lee plays in a various fantasy football leagues with his friends and workmates. 
 
 ### Assistive technologies and adaptive strategies used
 
-* [Customized fonts and colors (Presentation)](/people-use-web/tools-techniques-perception/#style)
+* [Customized fonts and colors (Presentation)](/people-use-web/tools-techniques-presentation/#style)
 
 ### Barrier examples
 

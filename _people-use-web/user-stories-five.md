@@ -88,11 +88,11 @@ Getting a mobile phone was a huge deal for Luis. He finds apps that have fewer o
 
 ### Assistive technologies and adaptive strategies used
 
-* [Easy-to-read text (Presentation)](/people-use-web/tools-techniques-perception/#etr)
-* [Pop-up and animations blockers (Presentation)](/people-use-web/tools-techniques-perception/#blockers)
-* [Progressive disclosure (Presentation)](/people-use-web/tools-techniques-perception/#progressive)
-* [Reading assistants (Presentation)](/people-use-web/tools-techniques-perception/#reading)
-* [Reduced interface (Presentation)](/people-use-web/tools-techniques-perception/#reduced)
+* [Easy-to-read text (Presentation)](/people-use-web/tools-techniques-presentation/#etr)
+* [Pop-up and animations blockers (Presentation)](/people-use-web/tools-techniques-presentation/#blockers)
+* [Progressive disclosure (Presentation)](/people-use-web/tools-techniques-presentation/#progressive)
+* [Reading assistants (Presentation)](/people-use-web/tools-techniques-presentation/#reading)
+* [Reduced interface (Presentation)](/people-use-web/tools-techniques-presentation/#reduced)
 * [Accelerators (Input)](/people-use-web/tools-techniques-input/#accelerators)
 * [Spelling and grammar tools (Input)](/people-use-web/tools-techniques-input/#lexical)
 * [Consistency and predictability (Interaction)](/people-use-web/tools-techniques-navigation/#consistency)

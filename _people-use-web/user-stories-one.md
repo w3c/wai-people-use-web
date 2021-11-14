@@ -115,7 +115,7 @@ Popup windows barrier
 
 ### Related resources
 
-* Video: [Voice Recognition](https://www.w3.org/WAI/perspective-videos/voice/)
+* Video: [Speech Recognition](https://www.w3.org/WAI/perspective-videos/voice/)
 * Tip: [Use headings to convey meaning and structure](https://www.w3.org/WAI/tips/writing/#use-headings-to-convey-meaning-and-structure)
 * Tip: [Make link text meaningful](https://www.w3.org/WAI/tips/writing/#make-link-text-meaningful)
 * Tip: [Ensure that interactive elements are easy to identify](https://www.w3.org/WAI/tips/designing/#ensure-that-interactive-elements-are-easy-to-identify)
