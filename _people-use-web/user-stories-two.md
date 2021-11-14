@@ -78,31 +78,13 @@ Introduction about Blair
 
 <mark><em><strong>Draft reviewers:</strong> This text is only rough notes for now. Your comments are welome on these ideas.</em></mark>
 
-Sometimes people use lots of words on web site links that do not seem to make sense. I think they are metaphors, but I’m not sure.
+> If there is a lot going on on a page I find it very hard to focus. Especially if there is audio or video that starts without me doing anything.
 
-If there is a lot going on on a page I find it very hard to focus. Especially if there is noise or video that starts without me doing anything.
+Blair's autism was diagnosed early because of delays in speech development, sometimes called non-speaking autism. They received a lot of early childhood support which helped Blair develop language and social skills. Blair still has some problems with language, especially when experiencing anxiety.
 
-Early non-verbal autism - addressed with early childhood support, may still have some issues with communication
+Blair works part-time as a data entry clerk. Working with a computer is easy for Blair although updates to the data entry application can cause Blair problems if there are significant changes to the interface. This can cause feelings of axiety for Blair if they don't know the change is coming and are given time to adapt. It can also be difficult for Blair if someone asks for some work that means Blair has to use less commonly used tools or parts of the system.
 
-Works part-time as a data entry clerk - struggles if the interface changes, or if asked to do tasks that use parts of the system that haven't been used much
-
-Visits a drop in centre to attend a number of groups including peer support, relaxation and film/tv chat
-
-Prefers text based messaging apps - uses them to talk in online games
-
-Experiences anxiety when faced with significant changes
-
-Lives with parents in a separate space, parents help daily with cooking and cleaning. Have been learning how to cook more things - uses videos that show simple straight forward steps. Finds websites that have unclear instructions or descriptions difficult.
-
-
-> I often miss items on sale because it is hard for me to spot the red labels used to show those things. Sometimes filling out the shopping cart forms is tricky because if I leave something out they show it in red and it's hard for me to see it.
-
-Lee was born with deuteranopia and protanopia, commonly referred to as red/green color blindness. He has difficulty distinguishing among items that are red, green, orange, and brown, all of which appear kind of a murky brown.
-
-Lee discovered that shopping for clothes online is actually an advantage over going to physical stores. In addition to just showing pictures of items in the various colors offered, his favorite sites include color labels making coordinating what goes together much easier. Sometimes when checking out though, the required fields and error messages are notated with a red outline and Lee has to pay special attention to identify them. He's noticed lately, however, that a lot of sites are getting better about using a secondary notation like an asterisk for required fields and bold text or an arrow pointing to errors. This really helps a lot.
-
-Lee plays in a various fantasy football leagues with his friends and workmates. Sometimes there can be problems with the way these sites use color to differentiate between teams, player positions and whether or not players are selected for his team. As a result, he tends to prefer certain Fantasy Football apps over others which means he has to try and convince friends to play using the same app.
-
+Blair has his own living space in his parent's house. They help with cooking and cleaning but Blair has been learning how to cook more things using online videos. Blair finds the straight forward, practical step-by-step videos really helpful. If the video is full of metaphors, vague language or implied content it can be more difficult to understand. Online written content that is full of metaphors or sarcasm can be similarly difficult because the meaning is not clear.
 
 ## Assistive technologies and adaptive strategies used
 
