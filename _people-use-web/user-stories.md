@@ -60,7 +60,7 @@ The following stories of people with disabilities using the Web highlight the ef
 
 * {:.left} [{% include image.html src="profile.png" alt="" %} Ilya, senior staff member who is blind](/people-use-web/user-stories-three)<br> Ilya is blind. She is the chief accountant at an insurance company that uses web-based documents and forms over a corporate intranet. Like many other blind computer users, Ilya does not read Braille.
 
-* {:.left} [{% include image.html src="profile.png" alt="" %} Lee, online shopper with color blindness](/people-use-web/user-stories-four)<br> Lee was born with deuteranopia and protanopia, commonly referred to as red/green color blindness. He has difficulty distinguishing among items that are red, green, orange, and brown, all of which appear kind of a murky brown.
+* {:.left} [{% include image.html src="profile.png" alt="" %} Lee, online shopper with color vision deficiency](/people-use-web/user-stories-four)<br> Lee was born with deuteranopia and protanopia (often called "color blindness"). He has difficulty distinguishing among items that are red, green, orange, and brown, all of which appear kind of a murky brown.
 
 * {:.left} [{% include image.html src="profile.png" alt="" %} Luis, basketball fan with Down syndrome](/people-use-web/user-stories-five)<br> Luis was born with Down syndrome and has mild to moderate cognitive delay. Due to his distinct facial appearance and difficulties with speech, many people underestimate Luis' intelligence and capabilities.
 

@@ -23,7 +23,7 @@ navigation:
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-Visual disabilities range from mild or moderate vision loss in one or both eyes ("low vision") to substantial and uncorrectable vision loss in both eyes ("blindness"). Some people have reduced or lack of sensitivity to certain colors ("color blindness"), or increased sensitivity to bright colors. These variations in perception of colors and brightness can be independent of the visual acuity.
+Visual disabilities range from mild or moderate vision loss in one or both eyes ("low vision") to substantial and uncorrectable vision loss in both eyes ("blindness"). Some people have reduced or lack of sensitivity to certain colors (often called "color blindness"), or increased sensitivity to bright colors. These variations in perception of colors and brightness can be independent of the visual acuity.
 
 **Note:** This page is illustrative and is not a complete list of all disabilities and barriers.
 
@@ -61,7 +61,7 @@ Some people are only seeing small portions of the content at a time or are perce
 
 ## Examples of visual disabilities {#examples-of-visual-disabilities}
 
-- **Color blindness**{:#colorblindness} – includes difficulty distinguishing between colors such as between red and green, or between yellow and blue, and sometimes inability to perceive any color. 
+- **Color vision deficiency**{:#colorblindness} – includes difficulty distinguishing between colors such as between red and green, or between yellow and blue, and sometimes inability to perceive any color (often called "color blindness"). 
 - **Low vision**{:#lowvision} – (in some regions also called "partial sight") includes poor acuity (vision that is not sharp), tunnel vision (seeing only the middle of the visual field), central field loss (seeing only the edges of the visual field), and clouded vision. 
 - **Blindness**{:#blindness} – substantial, uncorrectable loss of vision in both eyes. 
 - **Deaf-blindness**{:#deafblind} – substantial, uncorrectable visual and hearing impairments.
@@ -80,6 +80,6 @@ Some people are only seeing small portions of the content at a time or are perce
 ## Stories related to visual disabilities {#stories-related-to-visual-disabilities}
 
 - [Ilya, senior staff member who is blind](/people-use-web/user-stories-three/) 
-- [Lee, online shopper with color blindness](/people-use-web/user-stories-four/)
+- [Lee, online shopper with color vision deficiency](/people-use-web/user-stories-four/)
 - [Noor, teenager who is deaf and blind](/people-use-web/user-stories-seven/)
 - [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories-nine/) 

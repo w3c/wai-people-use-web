@@ -2,7 +2,7 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "Lee, online shopper with color blindness"
+title: "Lee, online shopper with color vision deficiency"
 nav_title: "Lee"
 parent_in_h1:
   - ref: /people-use-web/user-stories/
@@ -78,7 +78,7 @@ Introduction about Lee
 
 > I often miss items on sale because it is hard for me to spot the red labels used to show those things. Sometimes filling out the shopping cart forms is tricky because if I leave something out they show it in red and it's hard for me to see it.
 
-Lee was born with deuteranopia and protanopia, commonly referred to as red/green color blindness. He has difficulty distinguishing among items that are red, green, orange, and brown, all of which appear kind of a murky brown.
+Lee was born with deuteranopia and protanopia (often called "color blindness"). He has difficulty distinguishing among items that are red, green, orange, and brown, all of which appear kind of a murky brown.
 
 Lee discovered that shopping for clothes online is actually an advantage over going to physical stores. In addition to just showing pictures of items in the various colors offered, his favorite sites include color labels making coordinating what goes together much easier. Sometimes when checking out though, the required fields and error messages are notated with a red outline and Lee has to pay special attention to identify them. He's noticed lately, however, that a lot of sites are getting better about using a secondary notation like an asterisk for required fields and bold text or an arrow pointing to errors. This really helps a lot.
 

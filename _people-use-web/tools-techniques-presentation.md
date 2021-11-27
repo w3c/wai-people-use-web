@@ -82,7 +82,7 @@ Also, people process information differently. This aspect is particularly releva
 
 ## Stories related to presentation {#stories-related-to-presentation}
 
-- [Lee, online shopper with color blindness](/people-use-web/user-stories-four/)
+- [Lee, online shopper with color vision deficiency](/people-use-web/user-stories-four/)
 - [Martine, older adult student who is hard of hearing](/people-use-web/user-stories-six/)
 - [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories-eight/)
 - [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories-nine/)
