@@ -121,6 +121,10 @@ Changes elsewhere on a page
 : **Problem:** There are times when content on a website changes but I don't always know about it.
 : **Works well:** It's great when my screen reader alerts me to changes on the page that I'm visiting.
 
+Keyboard trap
+: **Problem:** Some sites have modal windows that I can get stuck in because I can't seem to find anyway to close it.
+: **Works well:** Modal windows include a close and/or cancel button that can be accessed with the keyboard. 
+
 ## Related resources
 
 * Video: [Text to Speech](https://www.w3.org/WAI/perspective-videos/speech/)
