@@ -125,7 +125,7 @@ Keyboard trap
 : **Problem:** Some sites have modal windows that I can get stuck in because I can't seem to find anyway to close it.
 : **Works well:** Modal windows include a close and/or cancel button that can be accessed with the keyboard. 
 
-## Related resources
+## Related WAI resources
 
 * Video: [Text to Speech](https://www.w3.org/WAI/perspective-videos/speech/)
 * Tip: [Write meaningful text alternatives for images](https://www.w3.org/WAI/tips/writing/#write-meaningful-text-alternatives-for-images)
