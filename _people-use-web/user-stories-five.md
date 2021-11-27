@@ -130,7 +130,7 @@ Animation
 : **Problem:** Moving or animated text or pictures is really distracting. It keeps pulling my attention away from what I'm trying to do.
 : **Works well:** If there has to be moving or animated content, let me stop it.
 
-## Related resources
+## Related WAI resources
 
 * Video: [Understandable Content](https://www.w3.org/WAI/perspective-videos/understandable/)
 * Tip: [Keep content clear and concise](https://www.w3.org/WAI/tips/writing/#keep-content-clear-and-concise)

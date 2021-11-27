@@ -109,7 +109,7 @@ Distracting pop-ups
 : **Problem:** Banner ads and popups can be distracting for me, especially if they contain moving text or images.
 : **Works well:** It's great when I can turn off these images and also any background audio. If the site includes controls to allow me to do that then that's great. Even better if I can turn these off using an ad blocker in my browser.
 
-## Related resources
+## Related WAI resources
 
 * Video: [Clear Layout and Design](https://www.w3.org/WAI/perspective-videos/layout/)
 * Tip: [Use headings to convey meaning and structure](https://www.w3.org/WAI/tips/writing/#use-headings-to-convey-meaning-and-structure)

@@ -113,7 +113,7 @@ Popup windows barrier
 : **Problem:** When a window opens and I can't close it using only the keyboard it can be difficult.
 : **Works well:** New windows have a close icon that I can access using the keyboard and some include the option to press the escape key to close them.
 
-## Related resources
+## Related WAI resources
 
 * Video: [Speech Recognition](https://www.w3.org/WAI/perspective-videos/voice/)
 * Tip: [Use headings to convey meaning and structure](https://www.w3.org/WAI/tips/writing/#use-headings-to-convey-meaning-and-structure)

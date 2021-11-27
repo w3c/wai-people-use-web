@@ -119,7 +119,7 @@ Breadcrumb
 : **Problem:** I often lose my place on websites. Sometimes I follow several links and it's not what I'm looking for. I can use the back button to go back page by page but I still get lost.
 : **Works well:** A breadcrumb at the top of each page that shows my path through the site keeps me on track, plus it helps me get back to the home page really quickly.
 
-## Related resources
+## Related WAI resources
 
 * Use case: [Gopal: A Retired Lawyer with Dementia](https://www.w3.org/TR/coga-usable/#gopal-a-retired-lawyer-with-dementia)
 * Video: [Large Links, Buttons, and Controls](https://www.w3.org/WAI/perspective-videos/controls/)

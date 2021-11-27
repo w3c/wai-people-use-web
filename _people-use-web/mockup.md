@@ -75,7 +75,7 @@ Lee sometimes has difficulty with error messages and required fields. When red i
 
 {% include_cached excol.html type="start" id="lee-related-resources" %}
 
-### Related resources
+### Related WAI resources
 
 {% include_cached excol.html type="middle" %}
 

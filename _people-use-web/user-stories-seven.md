@@ -123,7 +123,7 @@ Changes elsewhere on a page
 : **Problem:** I needed to add my previous address into an application form, but nothing happened when I pressed the 'Add new address' button. I don't know where the new address fields might have been added to the page.
 : **Works well:** When I press the 'Add new address' button, I am taken to the form fields that have just been added above the button.
 
-## Related resources
+## Related WAI resources
 
 * Video: [Video Captions](https://www.w3.org/WAI/perspective-videos/captions/)
 * Tip: [Create transcripts and captions for multimedia](https://www.w3.org/WAI/tips/writing/#create-transcripts-and-captions-for-multimedia)

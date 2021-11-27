@@ -124,7 +124,7 @@ Moving or blinking content barrier
 
 * Use succinct sentences and bullets
 
-## Related resources
+## Related WAI resources
 
 * Video: [Understandable Content](https://www.w3.org/WAI/perspective-videos/understandable/)
 * Tip: [Use headings to convey meaning and structure](https://www.w3.org/WAI/tips/writing/#use-headings-to-convey-meaning-and-structure)

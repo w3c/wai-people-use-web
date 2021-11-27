@@ -110,7 +110,7 @@ No alternative for audio
 : **Problem:** When watching a news program online, there isn't an option for me to understand what the speaker is saying.
 : **Works well:** Provide audio alternatives such as sign language, captions or transcript. If there is a speaker in camera, focus in on the speaker.
 
-## Related resources
+## Related WAI resources
 
 
 * Video: [Video Captions](https://www.w3.org/WAI/perspective-videos/captions/)
