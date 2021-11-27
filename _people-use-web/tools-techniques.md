@@ -5,7 +5,7 @@ permalink: /people-use-web/tools-techniques/
 ref: /people-use-web/tools-techniques/
 lang: en
 last_updated: 2017-05-15
-description: Introduces some of the techniques and tools that people with disabilities use to interact with the web — web browser settings, text-to-speech, voice recognition, and many more.
+description: Introduces some of the techniques and tools that people with disabilities use to interact with the web — web browser settings, text-to-speech, speech recognition, and many more.
 image: /content-images/wai-people-use-web/social.png
 footer: >
    <p><strong>Date: Draft in progress.</strong> Updated @@ Month 2021. First published Month 20@@. CHANGELOG.</p>
@@ -23,7 +23,7 @@ navigation:
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This section introduces some of the tools and techniques that people with disabilities use to interact with the web &mdash; web browser settings, text-to-speech, voice recognition, and many more.
+This section introduces some of the tools and techniques that people with disabilities use to interact with the web &mdash; web browser settings, text-to-speech, speech recognition, and many more.
 
 **Note:** This page is illustrative and is not a complete list of all the ways that people interact with the web.
 
@@ -55,7 +55,7 @@ People with disabilities access and navigate the Web in different ways, dependin
 
 Some common approaches for interacting with the Web include:
 
--   **Assistive Technologies**{:#at} – software and hardware that people with disabilities use to improve interaction with the web. These include screen readers that read aloud web pages for people who cannot read the text, screen magnifiers for people with some types of low vision, and voice recognition software and selection switches for people who cannot use a keyboard or mouse.
+-   **Assistive Technologies**{:#at} – software and hardware that people with disabilities use to improve interaction with the web. These include screen readers that read aloud web pages for people who cannot read the text, screen magnifiers for people with some types of low vision, and speech recognition software and selection switches for people who cannot use a keyboard or mouse.
 -   **Adaptive Strategies**{:#as} – techniques that people with disabilities use to improve interaction with the Web, such as increasing text size, reducing mouse speed, and turning on captions. Adaptive strategies include techniques with standard software, with mainstream web browsers, and with assistive technologies.
 
 Accessibility benefits people with and without disabilities. Features that support accessibility are becoming increasingly available in standard computer hardware, mobile devices, operating systems, web browsers, and other tools. [Better Web Browsing: Tips for Customizing Your Computer](http://www.w3.org/WAI/users/browsing) provides information about customizing your computer to take advantage of such accessibility features and solutions.

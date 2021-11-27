@@ -5,7 +5,7 @@ permalink: /people-use-web/tools-techniques-input/
 ref: /people-use-web/tools-techniques-input/
 lang: en
 last_updated: 2017-05-15
-description: Introduces some of the techniques and tools that people with disabilities use to interact with the web — web browser settings, text-to-speech, voice recognition, and many more.
+description: Introduces some of the techniques and tools that people with disabilities use to interact with the web — web browser settings, text-to-speech, speech recognition, and many more.
 image: /content-images/wai-people-use-web/social.png
 footer: >
    <p><strong>Date: Draft in progress.</strong> Updated @@ Month 2021. First published Month 20@@. CHANGELOG.</p>
@@ -28,7 +28,7 @@ People use different approaches to enter text and activate commands. For instanc
 - Keyboard only by people with cognitive, physical, and visual disabilities;
 - Touch screen only by people with cognitive and physical disabilities;
 - Mouse and keyboard with software that compensates for hand tremor;
-- Voice recognition (speech input) and other hands-free interaction.
+- Speech recognition and other hands-free interaction.
 
 **Note:** This page is illustrative and is not a complete list of all the ways that people interact with the web.
 
@@ -65,7 +65,7 @@ Accessible web content supports people who need more time typing, writing, and c
   - Keyboards with larger keys, key labels, key spacing, illuminated keys, or custom layouts;
   - On-screen keyboards, touch-screens, sip-and-puff switches, and single-key switches;
   - Trackballs, joysticks, touchpads, specially designed mice, and other pointing devices;
-  - [Voice recognition](#voice){:.termref}, [eye tracking](#gaze){:.termref}, and other approaches for hands-free interaction.
+  - [Speech recognition](#speech){:.termref}, [eye tracking](#gaze){:.termref}, and other approaches for hands-free interaction.
 - **Eye tracking**{:#gaze} (sometimes called "eye-gaze") - a system that monitors eye movement to control the mouse pointer and detects blinking to initiate mouse clicks.
 - **Keyboard customization**{:#kbd} – includes changing the mapping of keys, assigning shortcut keys to functions, setting [filters](#filters){:.termref}, and setting "sticky keys" to support single-handed typing.
 - **Keyboard and mouse filters**{:#filters} – functions of the operating system or software tools that recognize and compensate for involuntary movements such as tremor and spasms.

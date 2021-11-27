@@ -53,7 +53,7 @@ To use the Web, people with physical disabilities often use specialized hardware
 - Head pointer, mouth stick, and other aids to help with typing; 
 - On-screen keyboard with trackball, joysticks, or other pointing devices; 
 - Switches operated by foot, shoulder, sip-and-puff, or other movements; 
-- Voice recognition, eye tracking, and other approaches for hands-free interaction.
+- Speech recognition, eye tracking, and other approaches for hands-free interaction.
 
 People with physical disabilities may be using a mouse or mouse-like device only, or keyboard or keyboard-like device only to operate the computer. People with physical disabilities rely on keyboard support to activate functionality provided on web pages. They may need more time to type, click, or carry out other interaction, and they may type single keystrokes in sequence rather than typing simultaneous keystrokes ("chording") to activate commands. Such keystrokes include commands for special characters, shortcut keys, and to active menu items.
 
