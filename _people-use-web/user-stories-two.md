@@ -88,7 +88,11 @@ Blair has his own living space in his parent's house. They help with cooking and
 
 ## Assistive technologies and adaptive strategies used
 
-*
+* Pop-up and animation blockers
+* Reading assistant
+* Volume control
+* Spelling and grammar tools
+* Word prediction
 
 ## Barrier examples
 
