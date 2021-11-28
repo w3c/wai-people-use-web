@@ -80,11 +80,11 @@ Introduction about Blair
 
 > If there is a lot going on on a page I find it very hard to focus. Especially if there is audio or video that starts without me doing anything.
 
-Blair's autism was diagnosed early because of delays in speech development, sometimes called non-speaking autism. They received a lot of early childhood support which helped Blair develop language and social skills. Blair still has some problems with language, especially when experiencing anxiety.
+Blair's autism was diagnosed at an early age because of delays in speech development, sometimes called non-speaking autism. Blair received a lot of early childhood support, which helped him develop language and social skills. He still has some problems with language, however, especially when experiencing anxiety.
 
-Blair works part-time as a data entry clerk. Working with a computer is easy for Blair although updates to the data entry application can cause Blair problems if there are significant changes to the interface. This can cause feelings of axiety for Blair if they don't know the change is coming and are given time to adapt. It can also be difficult for Blair if someone asks for some work that means Blair has to use less commonly used tools or parts of the system.
+Blair works part-time as a data entry clerk. Working with a computer is easy for Blair, although updates to the data entry application can cause him problems if there are significant changes to the interface. This can cause feelings of axiety for Blair if he doesn't know the change is coming and given time to adapt. It can also be difficult for Blair if someone asks for some work that means Blair has to use less commonly used tools or parts of the system.
 
-Blair has his own living space in his parent's house. They help with cooking and cleaning but Blair has been learning how to cook more things using online videos. Blair finds the straight forward, practical step-by-step videos really helpful. If the video is full of metaphors, vague language or implied content it can be more difficult to understand. Online written content that is full of metaphors or sarcasm can be similarly difficult because the meaning is not clear.
+Blair has his own living space in his parent's house. They help with cooking and cleaning but Blair has been learning how to cook more things using online videos. Blair finds straightforward, practical step-by-step videos really helpful. However, if the video is full of metaphors, vague language or implied content it can be more difficult to understand. Online written content that is full of metaphors or sarcasm can be similarly difficult because the meaning is not clear.
 
 ## Assistive technologies and adaptive strategies used
 
