@@ -89,15 +89,10 @@ Blair has his own living space in his parent's house. They help with cooking and
 ## Assistive technologies and adaptive strategies used
 
 * Icons with associated text
-
 * Present information in different ways
-
 * Saving during long processes
-
 * Simple design
-
 * Use simple colours
-
 * Use succinct sentences and bullets
 
 ## Barrier examples
