@@ -88,7 +88,17 @@ Blair has his own living space in his parent's house. They help with cooking and
 
 ## Assistive technologies and adaptive strategies used
 
-TBD
+* Icons with associated text
+
+* Present information in different ways
+
+* Saving during long processes
+
+* Simple design
+
+* Use simple colours
+
+* Use succinct sentences and bullets
 
 ## Barrier examples
 
@@ -111,18 +121,6 @@ Heading structure barrier
 Moving or blinking content barrier
 : **Problem:** Moving or blinking content is very distracting and I can't remember what I wanted to do.
 : **Works well:** It's best when sites don't use moving or blinking content but if they do, let me turn it off.
-
-* Icons with associated text
-
-* Present information in different ways
-
-* Saving during long processes
-
-* Simple design
-
-* Use simple colours
-
-* Use succinct sentences and bullets
 
 ## Related WAI resources
 
