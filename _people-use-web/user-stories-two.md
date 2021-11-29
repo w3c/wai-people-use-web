@@ -84,7 +84,7 @@ Blair's autism was diagnosed at an early age because of delays in speech develop
 
 Blair works part-time as a data entry clerk. Working with a computer is easy for Blair, although updates to the data entry application can cause them problems if there are significant changes to the interface. This can cause feelings of axiety for Blair if they don't know the change is coming and given time to adapt. It can also be difficult for Blair if someone asks for some work that means Blair has to use less commonly used tools or parts of the system.
 
-Blair has their own living space in their parent's house. They help with cooking and cleaning but Blair has been learning how to cook more things using online videos. Blair finds straightforward, practical step-by-step videos really helpful. However, if the video is full of metaphors, vague language or implied content it can be more difficult to understand. Online written content that is full of metaphors or sarcasm can be similarly difficult because the meaning is not clear.
+Blair has their own living space in their parent's house. Blair's parents help with cooking and cleaning but Blair has been learning how to cook more things using online videos. Blair finds straightforward, practical step-by-step videos really helpful. However, if the video is full of metaphors, vague language or implied content it can be more difficult to understand. Online written content that is full of metaphors or sarcasm can be similarly difficult because the meaning is not clear.
 
 ## Assistive technologies and adaptive strategies used
 
