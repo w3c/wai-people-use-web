@@ -132,6 +132,7 @@ Animation
 
 ## Related WAI resources
 
+* Use case: [George: A User who Works in a Supermarket and has Down Syndrome](https://www.w3.org/TR/coga-usable/#george-a-user-who-works-in-a-supermarket-and-has-down-syndrome)
 * Video: [Understandable Content](https://www.w3.org/WAI/perspective-videos/understandable/)
 * Tip: [Keep content clear and concise](https://www.w3.org/WAI/tips/writing/#keep-content-clear-and-concise)
 * Tip: [Ensure that interactive elements are easy to identify](https://www.w3.org/WAI/tips/designing/#ensure-that-interactive-elements-are-easy-to-identify)
