@@ -72,3 +72,11 @@ The following stories of people with disabilities using the Web highlight the ef
 
 * {:.left} [{% include image.html src="profile.png" alt="" %} Yun, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories-nine)<br> Yun had a long and successful career as an architect. He delayed retirement until he was in his 70's. Yun always wore glasses but over time, the demands of the close-up work necessary to render architectural drawings strained his eyes to the point that he could only work a couple of hours at a time. The final straw was when he developed a mild hand tremor and found it difficult to maintain the precision required in his line of work.
 {:.nolist.withicons.mini}
+
+## Related WAI resources
+
+These other resources provide additional more detailed information regarding user needs within specific contexts or disability areas.
+
+* [Accessibility Requirements for People with Low Vision - User Needs](https://www.w3.org/TR/low-vision-needs/#user-needs)
+* [Making Content Usable for People with Cognitive and Learning Disabilities - Use Cases/Personas](https://www.w3.org/TR/coga-usable/#persona)
+* [Media Accessibility User Requirements](http://w3c.github.io/apa/media-accessibility-reqs/) - includes a summary of media requirements by type of disability and assistive technologies to support media access.
