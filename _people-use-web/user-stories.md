@@ -54,7 +54,7 @@ The following stories of people with disabilities using the Web highlight the ef
 
 <mark><em><strong>Draft reviewers:</strong> The placeholder images below will be replaced with photos of the users.</em></mark>
 
-* {:.left} [{% include image.html src="profile.png" alt="" %} Alex, reporter with repetative strain injury](/people-use-web/user-stories-one)<br> Alex has worked as a reporter for more than 20 years. A few years ago he developed a repetitive strain injury that makes it painful to use a mouse and to type for extended periods of time.
+* {:.left} [{% include image.html src="profile.png" alt="" %} Alex, reporter with repetitive strain injury](/people-use-web/user-stories-one)<br> Alex has worked as a reporter for more than 20 years. A few years ago he developed a repetitive strain injury that makes it painful to use a mouse and to type for extended periods of time.
 
 * {:.left} [{% include image.html src="profile.png" alt="" %} Blair, autistic data entry clerk injury](/people-use-web/user-stories-two)<br> In progress
 
