@@ -130,6 +130,7 @@ Moving or blinking content barrier
 
 ## Related WAI resources
 
+* Use case: [Amy: An Autistic Computer Scientist](https://www.w3.org/TR/coga-usable/#amy-an-autistic-computer-scientist)
 * Video: [Understandable Content](https://www.w3.org/WAI/perspective-videos/understandable/)
 * Tip: [Use headings to convey meaning and structure](https://www.w3.org/WAI/tips/writing/#use-headings-to-convey-meaning-and-structure)
 * Tip: [Make link text meaningful](https://www.w3.org/WAI/tips/writing/#make-link-text-meaningful)
