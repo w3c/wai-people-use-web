@@ -2,7 +2,7 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "Alex, reporter with repetative strain injury"
+title: "Alex, reporter with repetitive strain injury"
 nav_title: "Alex"
 parent_in_h1:
   - ref: /people-use-web/user-stories/
