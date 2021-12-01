@@ -111,6 +111,8 @@ Distracting pop-ups
 
 ## Related WAI resources
 
+* Use case: [Tal: A Student who has Dyslexia and Impaired Eye Hand Coordination](https://www.w3.org/TR/coga-usable/#tal-a-student-who-has-dyslexia-and-impaired-eye-hand-coordination)
+* Use case: [Yuki: A Yoga Teacher who has AD(H)D](https://www.w3.org/TR/coga-usable/#yuki-a-yoga-teacher-who-has-ad-h-d)
 * Video: [Clear Layout and Design](https://www.w3.org/WAI/perspective-videos/layout/)
 * Tip: [Use headings to convey meaning and structure](https://www.w3.org/WAI/tips/writing/#use-headings-to-convey-meaning-and-structure)
 * Tip: [Make link text meaningful](https://www.w3.org/WAI/tips/writing/#make-link-text-meaningful)
