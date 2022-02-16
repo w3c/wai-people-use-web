@@ -119,6 +119,10 @@ Breadcrumb
 : **Problem:** I often lose my place on websites. Sometimes I follow several links and it's not what I'm looking for. I can use the back button to go back page by page but I still get lost.
 : **Works well:** A breadcrumb at the top of each page that shows my path through the site keeps me on track, plus it helps me get back to the home page really quickly.
 
+Login page
+: **Problem:** I have accounts with so many different websites that sometimes I forget my password.
+: **Works well:** An option to remember my password for this site and a means of resetting my password if I need to.
+
 ## Related WAI resources
 
 * Use case: [Gopal: A Retired Lawyer with Dementia](https://www.w3.org/TR/coga-usable/#gopal-a-retired-lawyer-with-dementia)
