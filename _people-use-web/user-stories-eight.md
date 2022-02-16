@@ -78,11 +78,11 @@ Introduction about Preety
 
 > My text reader helps me focus on what I am reading. I don't use it all the time but for long text it is super helpful
 
-Preety is a middle school student who has dyslexia and attention deficit hyperactivity disorder (ADHD). As someone with ADHD, Preety can be easily distracted from tasks when something else captures her interest, making it difficult for her to maintain focus on her work. Preety finds visual supports and whitespace helpful for her dyslexia. She gets lost in dense text and is unable to find the meaning. She often gives up because it takes too long and ends up behind in school.
+Preety is a 12-year-old with dyslexia and attention deficit hyperactivity disorder (ADHD). As a person with ADHD, Preety has difficulty following multi-step tasks, which makes it hard to maintain focus on her schoolwork. She finds that visual supports, such as icons and images, as well as sufficient whitespace around what she is looking at, help her to focus. She often gets lost in dense text and is unable to find the meaning. When this happens, she gives up because it takes too long, resulting in falling behind other students.
 
 Preety's school has recently transitioned to using digital textbooks. This has been a huge improvement for Preety who can now use her text-to-speech software to aid her understanding of what are sometimes complex texts. Preety also uses the web for research. Unfortunately, her experience on the web can be varied. Often sites contain content such as animated advertisments and graphics, which she can find distracting.
  
-Preety finds it easier to read content on sites that use a simple and consistent layout, and that is written in plain language. Images or icons also help to reinforce the meaning of the text. Sometimes when she is really tired she uses functionality in her text-to-speech software that allows her to change the page background color. Preety is a fan of old science fiction movies and spends a lot of time on fan made sites and forums. Sometimes the design of these sites is quite busy, however she can access them on her mobile phone and switch reading mode on in her browser to remove a lot of the background clutter. 
+Preety finds it easier to websites that use a simple and consistent layout, and with content that is written in plain language. Images or icons also help to reinforce the meaning of the text. Sometimes she uses functionality in her text-to-speech software that allows her to change the page background color. This is especially helpful when she is tired. Pretty also uses captions when watching videos because both hearing and seeing the words reinforces their meaning. Preety is a fan of old science fiction movies and spends a lot of time on fan made sites and forums. Sometimes the design of these sites is quite busy, however she can access them on her mobile phone and switch reading mode on in her browser to remove a lot of the background clutter. 
 
 Preety experiences problems with sites where the navigation of the site is unclear. She finds it much easier to use sites which include functions such as a sitemap, breadcrumb trails or a search function. Preety has difficulty with spelling so benefits from search functionality which suggests alternative spellings and error corrections.
 
@@ -108,6 +108,10 @@ Spelling suggestions
 Distracting pop-ups
 : **Problem:** Banner ads and popups can be distracting for me, especially if they contain moving text or images.
 : **Works well:** It's great when I can turn off these images and also any background audio. If the site includes controls to allow me to do that then that's great. Even better if I can turn these off using an ad blocker in my browser.
+
+Complex language
+: **Problem:** Complex language and sentence structure are confusing to me and hard to read and retain. Excessive use of acronyms and abbreviations is distracting and I often must reread several times or sometimes just get stuck and give up.
+: **Works well:** Use short sentences and plain language as much as possible. Spell out the complete words of an acronym at least the first time it is used. Avoid or explain abbreviations.
 
 ## Related WAI resources
 
