@@ -76,13 +76,13 @@ Introduction about Luis
 
 ## About Luis
 
-> I like when I buy tickets for home games because I know the site. When I have to buy away game tickets it is hard. All the different sites do things in different ways.
+> I like to buy tickets for home games because I know the site well. When I have to buy "away game" tickets it is hard for me. All the different sites do things in different ways.
 
 Luis was born with Down syndrome and has mild to moderate cognitive delay. Due to his distinct facial appearance and difficulties with speech, many people underestimate Luis' intelligence and capabilities. Even though he has difficulty expressing himself, Luis understands a great deal. He learned basic computer skills in vocational school and since then, he has taught himself how to use websites to order groceries and maintain his bank account, among other things.
 
 Luis loves basketball. He played in his school team and now in a local club. He is also an enthusiastic fan and attends games when he can. Buying tickets online can be difficult sometimes for Luis. Venues all seem to have different ways to buy tickets and it can sometimes be confusing. This is particularly difficult when the venue website links off to a separate site that looks totally different. Luis likes sites that have a consistent "feel" when going from section to section or page to page. This means the overall layout maintains a similar theme and the placement of the navigation doesn't change too much. Especially confusing is when he clicks on a link and ends up in a PDF file.
 
-Luis is keen to get a job but worries that the jargon will make this initially difficulty. Writing in "plain language" is really helpful. If something can be said using simpler terminology or shorter sentences, that is a plus. Also, acronyms and abbreviations really slow him down because he has to spend time trying to figure them out or going to look them up. Headings are also a huge help as it splits up the page and he can digest information in smaller chunks, kind of like an outline of the page. When navigating a page, having good focus and link styling helps him know where he is and what he can click on.
+Luis is keen to get a job but worries that the jargon in the workplace will make this difficult at first. Writing in "plain language" is really helpful. If something can be said using simpler terminology or shorter sentences, that is a plus. Also, acronyms and abbreviations really slow him down because he has to spend time trying to figure them out or going to look them up. Headings are also a huge help as it splits up the page and he can digest information in smaller chunks, kind of like an outline of the page. When navigating a page, having good focus and link styling helps him know where he is and what he can click on.
 
 Getting a mobile phone was a huge deal for Luis. He finds apps that have fewer options and fewer decisions are clearer for him and easier to use. Using the phone for shopping is really easy for Luis. Being able to find the things he usually buys is a huge help.
 
