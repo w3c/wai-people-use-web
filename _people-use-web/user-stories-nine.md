@@ -84,7 +84,8 @@ Currently, at age 85, Yun's vision has continued to deteriorate, his hand tremor
 
 Like many older people, Yun has difficulty reading small text. He subscribes to an online rather than physical version of the newspaper because he is able to increase the size of the text, making it easier to read. On some sites this does not work as well because either the text gets cut off or the larger text doesn’t flow to the next line and he has to scroll horizontally off screen. His tremor makes it difficult to scroll across in a straight line. While this is easier than managing the large pages of a print newspaper, the best instance is when the text resizes and reflows properly.
 
-For all of the benefits of using the computer to read the news and stay active in his field, Yun finds CAPTCHAs particularly difficult. These are common when he is signing up to new websites. If the CAPTCHA uses distorted text, he has trouble making it out and if it requires him to select certain images, the pictures are usually not clearly rendered. He's tried using the sound CAPTCHAs but finds them even more difficult even though he has no hearing loss. Yun prefers sites that send him a code that he needs to enter.
+For all of the benefits of using a computer to read the news and stay active in his field, Yun often has difficulty with the security on some websites. On sites that use CAPTCHAS, it is hard for him to identify the distorted text or identify the images in photos because they are usually not clearly rendered. On sites that send a security code, Yun has to disrupt what he is doing to look on his phone and copy a code. The key for Yun is to keep it simple by using easy-to-identify CAPTCHAS or a short and easy-to-remember security code.
+
 
 ## Assistive technologies and adaptive strategies used
 
