@@ -84,7 +84,7 @@ The university is now working to caption all content across their curriculum, ho
 
 Martine spends a lot of her free time watching streamed content on video streaming services. The improvement in captioning of these services in recent years has meant she is able to watch more programmes than she was before. She can have difficulty when captions aren't clearly color coded to show who is speaking. Auto-captioning can be useful for her but it can also cause her problems if it's available but incorrect.
 
-Martine prefers written content to have good structure and headings with minimal jargon.
+Because sign language is Martine's first language, she prefers written content to have good structure and headings with minimal jargon so that it's easier to understand.
 
 ## Assistive technologies and adaptive strategies used
 
