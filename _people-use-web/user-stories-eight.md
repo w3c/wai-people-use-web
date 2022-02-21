@@ -2,7 +2,7 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "Preety, middle school student with attention deficit hyperactivity disorder and dyslexia"
+title: "Preety, young student with attention deficit hyperactivity disorder and dyslexia"
 nav_title: "Preety"
 parent_in_h1:
   - ref: /people-use-web/user-stories/
@@ -78,9 +78,9 @@ Introduction about Preety
 
 > My text reader helps me focus on what I am reading. I don't use it all the time but for long text it is super helpful
 
-Preety is a 12-year-old with dyslexia and attention deficit hyperactivity disorder (ADHD). As a person with ADHD, Preety has difficulty following multi-step tasks, which makes it hard to maintain focus on her schoolwork. She finds that visual supports, such as icons and images, as well as sufficient whitespace around what she is looking at, help her to focus. She often gets lost in dense text and is unable to find the meaning. When this happens, she gives up because it takes too long, resulting in falling behind other students.
+Preety is a 13-year-old with dyslexia and attention deficit hyperactivity disorder (ADHD). As a person with ADHD, Preety has difficulty following multi-step or long tasks. This can make it hard to maintain focus on her schoolwork. Visual supports, such as icons and images, and good use of whitespace around what she is looking at can help her to focus. She can become lost in dense text and is unable to find the meaning. When this happens she gives up because it takes too long and is tiring. This has caused her to fall behind in her work compared to other students.
 
-Preety's school has recently transitioned to using digital textbooks. This has been a huge improvement for Preety who can now use her text-to-speech software to aid her understanding of what are sometimes complex texts. Preety also uses the web for research. Unfortunately, her experience on the web can be varied. Often sites contain content such as animated advertisments and graphics, which she can find distracting.
+Preety's school has recently transitioned to using digital textbooks. This has been a huge improvement for Preety who can now use her text-to-speech software to aid her understanding of what are sometimes complex texts. Preety also uses the web for research. Unfortunately, her experience on the web can be varied. Often sites contain content such as animated advertisments and graphics which she can find distracting.
  
 Preety finds it easier to use websites that have a simple and consistent layout with content written in plain language. Images or icons can also help to reinforce the meaning of the text. Sometimes she uses functionality in her text-to-speech software that allows her to change the page background color. This is especially helpful when she is tired. Pretty also uses captions when watching videos because both hearing and seeing the words reinforces their meaning. Preety is a fan of old science fiction movies and spends a lot of time on fan made sites and forums. Sometimes the design of these sites is quite busy, however she can access them on her mobile phone and switch reading mode on in her browser to remove a lot of the background clutter. 
 
