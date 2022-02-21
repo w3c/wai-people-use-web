@@ -76,7 +76,7 @@ Introduction about Lee
 
 ## About Lee
 
-> I often miss items on sale because it is hard for me to spot the red labels used to show those things. Sometimes filling out the shopping cart forms is tricky because if I leave something out they show it in red and it's hard for me to see it.
+> I often miss items on sale because it is hard for me to spot the red labels used to indicate them. Sometimes filling out a shopping cart form is tricky because if I overlook a mandatory field, I get an error or warning message in red and it’s hard for me to see the message".
 
 Lee was born with deuteranopia and protanopia (often called "color blindness"). He has difficulty distinguishing among items that are red, green, orange, and brown, all of which appear kind of a murky brown.
 
