@@ -110,8 +110,12 @@ Distracting pop-ups
 : **Works well:** It's great when I can turn off these images and also any background audio. If the site includes controls to allow me to do that then that's great. Even better if I can turn these off using an ad blocker in my browser.
 
 Complex language
-: **Problem:** Complex language and sentence structure are confusing to me and hard to read and retain. Excessive use of acronyms and abbreviations is distracting and I often must reread several times or sometimes just get stuck and give up.
-: **Works well:** Use short sentences and plain language as much as possible. Spell out the complete words of an acronym at least the first time it is used. Avoid or explain abbreviations.
+: **Problem:** Complex language and sentence structure are confusing to me and hard to read and retain. 
+: **Works well:** Use short sentences and plain language as much as possible.
+
+Excessive acronyms and abbreviations
+: **Problem:** Excessive use of acronyms and abbreviations is distracting and I often must reread several times or sometimes just get stuck and give up.
+: **Works well:** Spell out the complete words of an acronym at least the first time it is used. Avoid or explain abbreviations.
 
 ## Related WAI resources
 
