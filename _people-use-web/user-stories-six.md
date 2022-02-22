@@ -76,15 +76,15 @@ Introduction about Martine
 
 ## About Martine
 
-> Most people don't realise that sign language is a completely different language. I can read text but it is hard as I am always translating into my native language. Captions and signing aren't interchangeable. Providing both is more helpful.
+> Most people don't realise that sign language is a completely different language. I can read text captions but it takes me longer as they are not in my first language. Captions and signing aren't interchangeable. Providing both is more helpful.
 
-Martine is 62 years old and is a mature student, taking online courses. She has been hard of hearing since birth. She learned to lip read and sign as a young child. While she can hear some sounds, she does not hear enough to understand speech. The university where Martine studies provides sign language interpreters and Communication Access Realtime Translation (CART); however, this captioning is not always present on video and other media content. When someone is speaking on screen, she can lip read, however a lot of the content uses an off-screen narrator, making it hard for her to follow without captions.
+Martine is 62 years old and is a mature student, taking online courses. She has been hard of hearing since birth. While she can hear some sounds, she does not hear enough to understand speech. She learned to sign as a young child. Because sign language is Martine's first language, she prefers written content to have good structure and headings with minimal jargon so that it's easier to understand.
 
-The university is now working to caption all content across their curriculum, however it is a lengthy process. As more and more content is captioned, Martine is finding it easier to complete her studies remotely.
+Martine can lip read but can only do so effectively when she can see the full face of the person who is speaking. Even then, she can only do it well enough to pick up a few words here and there and can't rely on lip reading alone to understand content. 
+
+The university where Martine studies provides sign language interpreters and Communication Access Realtime Translation (CART); however, this captioning is not always present on video and other media content. The university is now working to caption all content across their curriculum, however it is a lengthy process. As more and more content is captioned, Martine is finding it easier to complete her studies remotely.
 
 Martine spends a lot of her free time watching streamed content on video streaming services. The improvement in captioning of these services in recent years has meant she is able to watch more programmes than she was before. She can have difficulty when captions aren't clearly color coded to show who is speaking. Auto-captioning can be useful for her but it can also cause her problems if it's available but incorrect.
-
-Because sign language is Martine's first language, she prefers written content to have good structure and headings with minimal jargon so that it's easier to understand.
 
 ## Assistive technologies and adaptive strategies used
 
