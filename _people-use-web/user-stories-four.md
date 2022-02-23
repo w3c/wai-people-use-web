@@ -90,21 +90,21 @@ Lee plays in a various fantasy football leagues with his friends and workmates. 
 
 ## Barrier examples
 
-Using colour only barrier
+Using color only barrier
 : **Problem:** When I select a color choice there is nothing to help me differentiate between the colors.
-: **Works well:** Color choices are shown with a descriptive name. The good sites have a link to a slightly longer description of the colour.
+: **Works well:** Color choices are shown with a descriptive name. The good sites have a link to a slightly longer description of the color.
 
-Colour only used for errors barrier
+Color only used for errors barrier
 : **Problem:** When filling out a form online, required fields and errors are marked with a red outline. 
 : **Works well:** In addition to color, an asterisk or words are used to identify required fields and errors.
 
-Colour only in games barrier
+Color only in games barrier
 : **Problem:** When I play an online game, enemies are marked with a red circle and friends marked with a green circle and I can't tell the difference.
 : **Works well:** Enemies are also marked with a symbol/use a red triangle so I can easily identify them.
 
 Chart labels barrier
 : **Problem:** When I am reading news articles with data charts, I can't understand the charts as the columns aren't labelled clearly.
-: **Works well:** The columns are directly labelled or use a texture as well as colour.
+: **Works well:** The columns are directly labelled or use a texture as well as color.
 
 ## Related WAI resources
 
