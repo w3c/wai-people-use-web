@@ -76,7 +76,7 @@ Introduction about Ilya
 
 ## About Ilya
 
-> My mobile phone is so convenient - it is so easy to do things because the accessibility and screen reader are all built in. Shame I can't access our corporate systems with it!
+> My mobile phone is so convenient - the accessibility features on it are so easy to use. Shame I can't access our corporate systems with it!
 
 Ilya is blind. She is the chief accountant at an insurance company that uses web-based documents and forms over a corporate intranet. Ilya's work computer has a screen reader which provides her with information on the state and content of applications on her computer in a speech output form. Because of her job, Ilya spends a lot of time working with spreadsheets, presentations and documents. Her company moved from using desktop applications to everything being stored online. Ilya was concerned that the change would make things worse for her.
 
