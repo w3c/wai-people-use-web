@@ -86,7 +86,7 @@ Part of Ilya's role is to provide training to employees. Most of this is conduct
 
 Ilya enjoys cooking, knitting and travel. She uses the web to find recipes and patterns that she can use. She has also found online communities that she can find out new ideas from. Generally these are great although some of them do have a CAPTCHA as part of the login in process. This can make it impossible for her to access these forums without someone to assist her through the login process.
 
-Outside of work Ilya tends to use her mobile phone or tablet much more than a laptop or desktop computer. Both devices have built in screen readers and other tools, like zoom. That makes these devices much easier to use for her. Using her mobile while travelling is fantastic as she can check location details and find directions.
+Outside of work Ilya tends to use her mobile phone or tablet much more than a laptop or desktop computer. Both devices have built in screen readers that make them much easier for her to use. Using her mobile while travelling is fantastic as she can check location details and find directions.
 
 ## Assistive technologies and adaptive strategies used
 
