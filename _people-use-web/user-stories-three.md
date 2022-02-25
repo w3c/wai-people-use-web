@@ -2,7 +2,7 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "Ilya, senior staff member who is blind"
+title: "Ilya, senior accountant who is blind"
 nav_title: "Ilya"
 parent_in_h1:
   - ref: /people-use-web/user-stories/
@@ -78,7 +78,7 @@ Introduction about Ilya
 
 > My mobile phone is so convenient - the accessibility features on it are so easy to use. Shame I can't access our corporate systems with it!
 
-Ilya is blind. She is the chief accountant at an insurance company that uses web-based documents and forms over a corporate intranet. Ilya's work computer has a screen reader which provides her with information on the state and content of applications on her computer in a speech output form. Because of her job, Ilya spends a lot of time working with spreadsheets, presentations and documents. Her company moved from using desktop applications to everything being stored online. Ilya was concerned that the change would make things worse for her.
+Ilya is blind. She is a senior accountant at an insurance company that uses web-based documents and forms over a corporate intranet. Ilya's work computer has a screen reader which provides her with information on the state and content of applications on her computer in a speech output form. Because of her job, Ilya spends a lot of time working with spreadsheets, presentations and documents. Her company moved from using desktop applications to everything being stored online. Ilya was concerned that the change would make things worse for her.
 
 Complex web applications often don't work well with her screen reader particularly when there are a lot of short-cut keys in the app as they can sometimes be the same as quick keys for her screen reader software. So far everything seems to work well though, and it is the usual problems of colleagues not creating their documents with accessibility in mind. This is particularly bad for presentations as they are often filed with images that colleagues don't include alternative text for.
 
