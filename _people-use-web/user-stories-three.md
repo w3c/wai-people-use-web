@@ -84,9 +84,9 @@ Complex web applications often don't work well with Ilya's screen reader, partic
 
 Part of Ilya's role is to provide training to employees. Most of this is conducted online as staff are spread out geographically. Ilya and her staff evaluated a number of training tools, such as video conferencing apps, before finding an effective application with accessibility features that meet the needs of a diverse staff with diverse abilities. One of the biggest challenges Ilya faced with these tools was the chat function. Many of the tools wouldn't work with Ilya's screen reader and she would miss messages during meetings.
 
-Ilya enjoys cooking, knitting, and travel, and she uses the web to find recipes, knitting patterns, and to book travel. She has found that online communities help her generate ideas that support all of her hobbies. Generally these are great but some of them use a visual CAPTCHA as part of the login process, making it impossible for her to access the forums without someone to assist her.
+Outside of work, Ilya enjoys cooking, knitting, and travel, and she uses the web to find recipes, knitting patterns, and to book travel. She has found that online communities help her generate ideas that support all of her hobbies. Generally these are great but some of them use a visual CAPTCHA as part of the login process, making it impossible for her to access the forums without someone to assist her.
 
-Outside of work Ilya tends to use her mobile phone or tablet much more than a laptop or desktop computer. Both devices have built in screen readers that make them much easier for her to use. Using her mobile while travelling is fantastic as she can check location details and find directions.
+When she can, Ilya uses her mobile phone or tablet more than she uses her laptop or desktop computer. The phone and tablet have built-in screen readers that make them much easier for her to use. Using her mobile while travelling is fantastic as she can check location details and find directions.
 
 ## Assistive technologies and adaptive strategies used
 
