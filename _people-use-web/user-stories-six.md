@@ -2,7 +2,7 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "Martine, older adult student who is hard of hearing"
+title: "Martine, older adult student who is deaf"
 nav_title: "Martine"
 parent_in_h1:
   - ref: /people-use-web/user-stories/
@@ -78,7 +78,7 @@ Introduction about Martine
 
 > Most people don't realise that sign language is a completely different language. I can read text captions but it takes me longer as they are not in my first language. Captions and signing aren't interchangeable.
 
-Martine is 62 years old and is a mature student, taking online courses. She has been hard of hearing since birth. While she can hear some sounds, she does not hear enough to understand speech. She learned to sign as a young child. Because sign language is Martine's first language, she prefers written content to have good structure and headings with minimal jargon so that it's easier to understand.
+Martine is 62 years old and is a mature student, taking online courses. She has been deaf since birth. While she can hear some sounds, she does not hear enough to understand speech. She learned to sign as a young child. Because sign language is Martine's first language, she prefers written content to have good structure and headings with minimal jargon so that it's easier to understand.
 
 Martine can lip read but can only do so effectively when she can see the full face of the person who is speaking. Even then, she can only do it well enough to pick up a few words here and there and can't rely on lip reading alone to understand content. 
 
