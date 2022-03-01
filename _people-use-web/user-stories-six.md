@@ -76,7 +76,7 @@ Introduction about Martine
 
 ## About Martine
 
-> Most people don't realise that sign language is a completely different language. I can read text captions but it takes me longer as they are not in my first language. Captions and signing aren't interchangeable. Providing both is more helpful.
+> Most people don't realise that sign language is a completely different language. I can read text captions but it takes me longer as they are not in my first language. Captions and signing aren't interchangeable.
 
 Martine is 62 years old and is a mature student, taking online courses. She has been hard of hearing since birth. While she can hear some sounds, she does not hear enough to understand speech. She learned to sign as a young child. Because sign language is Martine's first language, she prefers written content to have good structure and headings with minimal jargon so that it's easier to understand.
 
