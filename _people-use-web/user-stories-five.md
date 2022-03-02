@@ -76,7 +76,7 @@ Introduction about Luis
 
 ## About Luis
 
-> I like to buy tickets for home games because I know the site well. When I have to buy "away game" tickets it is hard for me. All the different sites do things in different ways.
+> I like to buy tickets for home games because I know the site well. When I have to buy tickets for away games it is hard for me. All the different sites do things in different ways.
 
 Luis was born with Down syndrome and has mild to moderate cognitive delay. Due to his distinct facial appearance and difficulties with speech, many people underestimate Luis' intelligence and capabilities. Even though he has difficulty expressing himself, Luis understands a great deal. He learned basic computer skills in vocational school and since then, he has taught himself how to use websites to order groceries and maintain his bank account, among other things.
 
