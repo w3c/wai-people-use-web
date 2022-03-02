@@ -23,7 +23,7 @@ navigation:
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-Cognitive, learning, and neurological disabilities involve the brain and nervous system. They include mental health disorders and neurodiversity. They can impact a wide range of activities, including how people hear, move, see, speak, read, write, do math, pay attention, understand and remember information. Cognitive, learning, and neurological disabilities do not necessarily affect intelligence.
+Cognitive, learning, and neurological disabilities involve the brain and nervous system. They include mental health conditions and neurodiversity. They can impact a wide range of activities, including how people hear, move, see, speak, read, write, do math, pay attention, understand and remember information. Cognitive, learning, and neurological disabilities do not necessarily affect intelligence.
 
 **Note:** This page is illustrative and is not a complete list of all disabilities and barriers.
 
