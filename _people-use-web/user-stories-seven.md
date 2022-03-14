@@ -76,15 +76,15 @@ Introduction about Noor
 
 ## About Noor
 
-> I love watching videos and when they have captions that I can make large, I can follow the dialogue.
+> I love watching videos and when they have captions that I can make large, I can then follow the dialogue.
 
-Noor is a teenager who was born deaf and with typical vision. She recently became legally blind too. Noor has some residual vision and can see small portions of a computer screen when it is significantly enlarged. She communicates using sign language and a portable electronic Braille device.
+Noor is a teenager who was born profoundly deaf. She communicates using sign language and attends a school for the deaf. Recently Noor learned she has a degenerative condition that results in progressive vision loss. This will impact on her communication since her cultural language is visual. Noor's deteriorating eyesight means that she can only see portions of her computer screen and relies heavily on zoom functions. 
 
-As a high school senior, Noor is thinking about what she wants to do in the future. She is considering different colleges in the hopes of studying the history of fashion. She is trying to find out about how the college presents teaching material for students and is in contact with a few colleges to discuss captions and transcripts of audio-visual content. She is also keen to understand whether the college websites will work with her Braille display. She has had problems in the past being able to submit coursework because the form buttons weren't recognized by her device. Noor has her Braille device paired with her computer and her mobile phone and she uses it both as input and output device. The Braille device also includes a calendar, e-mail, web browsing, and note-taking functionality which she wants to make sure can be integrated with the college systems.
+Preparing for her senior year, Noor is thinking about how this will impact her transition to college. Noor was accepted into a fashion program. She has always been interested in clothes and her decreasing vision only fueled her passion more for vibrant colors, exaggerated shapes, and distinctive textures. She is excited to learn the history of fashion and hopes to one day have a small boutique of her own. Noor has always relied on captioning or speech-to-text applications when communicating with her hearing peers and her local community. She knows she has to connect with the disability office to request a sign interpreter. However, she is unsure about what additional resources she may now need due to her recent diagnosis. She is hoping to discuss how much of the course material is presented with captions and transcripts.
 
-Noor enjoys getting out and about with her friends and uses public transport a lot. She will plan out her route before heading out and then use her mobile device to track where she is and where she needs to be. The biggest problem she has with this is that the bus schedules don't respond well to being zoomed. When she enlarges the text it doesn't reflow or wrap properly. This means some of the text gets hidden and she has to scroll a lot around the page. Using visual map apps can be challenging for her and she prefers to use apps which provide route instructions in text as well as displaying the route on a map.
+Noor is currently learning braille and is being exposed to using a braille display to access her current technology. She was excited to learn that the braille display includes calendar, e-mail, web browsing, and note-taking features so she can have an all-in-one device. This will reduce the amount of devices Noor will have to travel with so she can navigate the campus safely. She wants to be able to independently navigate the college platforms to access course materials, communicate with her professors and submit assignments without having to rely on someone else if she can’t visually access the information. She has had mixed success so far with the display. In one case she couldn't submit a form as the button wasn't coded correctly and not recognised by the device. 
 
-Some of the places, particularly galleries, that Noor visits have started implementing beacons that her mobile can pick up. These are fantastic as they help Noor know where she is but also provide information about the displays that are more useful for her. She has emailed her local transport providers to suggest that these would make life easier for her if they were included in stations and at stops.
+Socially Noor loves being out and about with her friends. She will not be able to drive so will need to rely on public transportation. This is not new to her since she lives in an urban area. However, she knows there are always last minute changes to platforms and times. She is worried about being alerted to this information. She is already experiencing difficulty reading times and the website is not mobile optimized and doesn't work well when zoomed. She is interested in customizing her devices so she can utilize tactile features for notifications and alerts for all aspects of her life. Noor is eager to learn about the accessible technology that is available so she can continue her path to becoming a successful fashion designer. 
 
 ## Assistive technologies and adaptive strategies used
 
@@ -105,15 +105,15 @@ Some of the places, particularly galleries, that Noor visits have started implem
 
 Consistent layout
 : **Problem:** Some shopping sites I visit have completely different styles for different sections. It takes me a while to work out where everything is in each section which is really frustrating.
-: **Works well:** The shopping website I use has the same layout on all of it's sections which makes it easy to work my way around pages
+: **Works well:** The shopping website I use has the same layout on all of it's sections which makes it easy to work my way around pages.
 
 No transcript
-: **Problem:** Some videos only have embedded captions which I can't access easily
-: **Works well:** Having a transcript is a big help. It is much easier for me to read with my Braille device
+: **Problem:** Some videos only have embedded captions which I can't access easily.
+: **Works well:** Having a transcript is a big help. It is much easier for me to read with my Braille device.
 
 Inaccessible CAPTCHA
-: **Problem:** If a site has a CAPTCHA that uses images or audio then I just can't use it - it can take me ages to work out the image and I can't hear the audio alternative
-: **Works well:** No CAPTCHA is best but sometimes there are simple things that ask a really easy question
+: **Problem:** If a site has a CAPTCHA that uses images or audio then I just can't use it - it can take me ages to work out the image and I can't hear the audio alternative.
+: **Works well:** No CAPTCHA is best but sometimes there are simple things that ask a really easy question.
 
 Keyboard navigation
 : **Problem:** A date picker that pops up when I tab to a date entry field but I can't use the date picker as it doesn't work with the keyboard.
