@@ -2,8 +2,8 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "Blair, autistic data entry clerk"
-nav_title: "Blair"
+title: "Ian, autistic data entry clerk"
+nav_title: "Ian"
 parent_in_h1:
   - ref: /people-use-web/user-stories/
     name: nav_title
@@ -52,7 +52,7 @@ footer: >
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-Introduction about Blair
+Introduction about Ian
 
 **Note:** The following scenarios are not real people. It may not address every person with this disability.
 
@@ -74,17 +74,17 @@ Introduction about Blair
 {% include_cached toc.html type="end" %}
 {:/}
 
-## About Blair
+## About Ian
 
 <mark><em><strong>Draft reviewers:</strong> This text is only rough notes for now. Your comments are welome on these ideas.</em></mark>
 
 > If there is a lot going on on a page I find it very hard to focus. Especially if there is audio or video that starts without me doing anything.
 
-Blair is a non-binary autistic. Their autism was diagnosed at an early age because of delays in speech development, sometimes called non-speaking autism. Blair received a lot of early childhood support, which helped them develop language and social skills. They still have some problems with language, however, especially when experiencing anxiety.
+Ian is autistic. His autism was diagnosed at an early age because of delays in speech development, sometimes called non-speaking autism. Ian received a lot of early childhood support, which helped him develop language and social skills. However, he still has some problems with language, especially when experiencing anxiety.
 
-Blair works part-time as a data entry clerk. Working with a computer is easy for Blair, although updates to the data entry application can cause them problems if there are significant changes to the interface. This can cause feelings of axiety for Blair if they don't know the change is coming and given time to adapt. It can also be difficult for Blair if someone asks for some work that means Blair has to use less commonly used tools or parts of the system.
+Ian works part-time as a data entry clerk. Working with a computer is easy for Ian, although updates to the data entry application can cause him problems if there are significant changes to the interface. This can cause feelings of axiety for Ian if he doesn't't know the change is coming and given time to adapt. It can also be difficult for Ian if someone asks for some work that means he has to use parts of the system that he is not as familiar with.
 
-Blair has their own living space in their parent's house. Blair's parents help with cooking and cleaning but Blair has been learning how to cook more things using online videos. Blair finds straightforward, practical step-by-step videos really helpful. However, if the video is full of metaphors, vague language or implied content it can be more difficult to understand. Online written content that is full of metaphors or sarcasm can be similarly difficult because the meaning is not clear.
+Ian has his own living space in his parent's home. His parents help with cooking and cleaning but Ian has been learning how to cook using online videos. He finds straightforward, practical step-by-step videos really helpful. However, if the video is full of metaphors, vague language, or implied content, it can be more difficult to understand. Online written content that is full of metaphors or sarcasm can be similarly difficult because the meaning is not clear.
 
 ## Assistive technologies and adaptive strategies used
 
