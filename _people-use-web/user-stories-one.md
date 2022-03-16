@@ -78,7 +78,7 @@ Introduction to Alex
 
 > It's not like I can't use a keyboard or mouse, I just can't use it for long periods and really like to keep my use to a minimum. I don't want my condition to get worse.
 
-Alex has worked as a reporter for more than 20 years.  He recently developed a repetitive strain injury that makes it painful to use a mouse and to type for extended periods of time. 
+Alex has worked as a reporter for more than 20 years. He recently developed a repetitive strain injury that makes it painful to use a mouse and to type for extended periods of time. 
 
 Alex has changed how he works to use the mouse less. He uses an ergonomic keyboard to navigate around web pages and has found that this helps alleviate the pain associated with using the mouse. He can do his job but still finds it tiring and painful when performing repeated or prolonged activity. He also found that when he couldn't see which field or link had focus or when they weren't in a logical order he had to use his mouse again making things worse. Sites often include good visual styling when you hover over a link but not when it has keyboard focus.
 
@@ -109,7 +109,7 @@ Process time outs barrier
 
 Saving progress barrier
 : **Problem:** Completing long forms with no way to save progress and take a break can be painful and tiring.
-: **Words well:** I have an option to save progress and take a break when completing long, multi-step forms.
+: **Words well:** I have an option to save progress and take a break when completing long, multi-step forms like when I have to get a code in email or text and type it in.
 
 Popup windows barrier
 : **Problem:** When a window opens and I can't close it using only the keyboard it can be difficult.
