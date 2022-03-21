@@ -100,20 +100,20 @@ Outside of work, Alex finds his mobile device easier to use than the computer be
 ## Barrier examples
 
 Focus styling barrier
-: **Problem:** When I tab through links and form fields there is no visual styling to show me which element I am on.
-: **Works well:** There is clear and strong visual styling for links and form fields when they receive focus.
+: **Problem:** "When I tab through links and form fields there is no visual styling to show me which element I am on."
+: **Works well:** "There is clear and strong visual styling for links and form fields when they receive focus."
 
 Process time outs barrier
-: **Problem:** I usually take much longer to complete long forms or processes and often get timed out.
-: **Works well:** At the start of a long form or process, I am told that there is a time out and given the option to set it to be slightly longer.
+: **Problem:** "I usually take much longer to complete long forms or processes and often get timed out."
+: **Works well:** "At the start of a long form or process, I am told that there is a time out and given the option to set it to be slightly longer."
 
 Saving progress barrier
-: **Problem:** Completing long forms with no way to save progress and take a break can be painful and tiring.
-: **Words well:** I have an option to save progress and take a break when completing long, multi-step forms like when I have to get a code in email or text and type it in.
+: **Problem:** "Completing long forms with no way to save progress and take a break can be painful and tiring."
+: **Words well:** "I have an option to save progress and take a break when completing long, multi-step forms like when I have to get a code in email or text and type it in."
 
 Popup windows barrier
-: **Problem:** When a window opens and I can't close it using only the keyboard it can be difficult.
-: **Works well:** New windows have a close icon that I can access using the keyboard and some include the option to press the escape key to close them.
+: **Problem:** "When a window opens and I can't close it using only the keyboard it can be difficult."
+: **Works well:** "New windows have a close icon that I can access using the keyboard and some include the option to press the escape key to close them."
 
 ## Related WAI resources
 

@@ -95,20 +95,20 @@ Martine spends a lot of her free time watching streamed content on video streami
 ## Barrier examples
 
 Inaccurate captions
-: **Problem:** I love that my classes are recorded and available online but sometimes the captions don't convey the exact words that the instructor is saying, especially in some of my more technical classes.
-: **Works well:** When the captioner gets to know the material so they don't miss words or make mistakes.
+: **Problem:** "I love that my classes are recorded and available online but sometimes the captions don't convey the exact words that the instructor is saying, especially in some of my more technical classes."
+: **Works well:** "When the captioner gets to know the material so they don't miss words or make mistakes."
 
 Design of captions
-: **Problem:** When watching movies online, the captions often appear on top of the video. This obscures the video and makes the captions hard to read over a background that is constantly changing.
-: **Works well:** Captions appear at the bottom of the screen against a solid color background that offers good contrast between the captions and background.
+: **Problem:** "When watching movies online, the captions often appear on top of the video. This obscures the video and makes the captions hard to read over a background that is constantly changing."
+: **Works well:** "Captions appear at the bottom of the screen against a solid color background that offers good contrast between the captions and background."
 
 Good camera position for speaker
-: **Problem:** Some classes record the instructor speaking. This is great because I am good at lip reading but the camera is often too far away.
-: **Works well:** The camera is positioned to focus in on the instructor's face.
+: **Problem:** "Some classes record the instructor speaking. This is great because I am good at lip reading but the camera is often too far away."
+: **Works well:** "The camera is positioned to focus in on the instructor's face."
 
 No alternative for audio
-: **Problem:** When watching a news program online, there isn't an option for me to understand what the speaker is saying.
-: **Works well:** Provide audio alternatives such as sign language, captions or transcript. If there is a speaker in camera, focus in on the speaker.
+: **Problem:** "When watching a news program online, there isn't an option for me to understand what the speaker is saying."
+: **Works well:** "Provide audio alternatives such as sign language, captions or transcript. If there is a speaker in camera, focus in on the speaker."
 
 ## Related WAI resources
 

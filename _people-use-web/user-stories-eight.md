@@ -104,20 +104,20 @@ Preety experiences problems with sites where the navigation of the site is uncle
 ## Barrier examples
 
 Spelling suggestions
-: **Problem:** I have difficulty with spelling and sometimes misspell words. Sometimes I don't get the search results I'm looking for.
-: **Works well:** I like when search tools offer alternative spellings or alternative search suggestions instead of just returning no results.
+: **Problem:** "I have difficulty with spelling and sometimes misspell words. Sometimes I don't get the search results I'm looking for."
+: **Works well:** "I like when search tools offer alternative spellings or alternative search suggestions instead of just returning no results."
 
 Distracting pop-ups
-: **Problem:** Banner ads and popups can be distracting for me, especially if they contain moving text or images.
-: **Works well:** It's great when I can turn off these images and also any background audio. If the site includes controls to allow me to do that then that's great. Even better if I can turn these off using an ad blocker in my browser.
+: **Problem:** "Banner ads and popups can be distracting for me, especially if they contain moving text or images."
+: **Works well:** "It's great when I can turn off these images and also any background audio. If the site includes controls to allow me to do that then that's great. Even better if I can turn these off using an ad blocker in my browser."
 
 Complex language
-: **Problem:** Complex language and sentence structure are confusing to me and hard to read and retain. 
-: **Works well:** Use short sentences and plain language as much as possible.
+: **Problem:** "Complex language and sentence structure are confusing to me and hard to read and retain. 
+: **Works well:** Use short sentences and plain language as much as possible."
 
 Excessive acronyms and abbreviations
-: **Problem:** Excessive use of acronyms and abbreviations is distracting and I often must reread several times or sometimes just get stuck and give up.
-: **Works well:** Spell out the complete words of an acronym at least the first time it is used. Avoid or explain abbreviations.
+: **Problem:** "Excessive use of acronyms and abbreviations is distracting and I often must reread several times or sometimes just get stuck and give up."
+: **Works well:** "Spell out the complete words of an acronym at least the first time it is used. Avoid or explain abbreviations."
 
 ## Related WAI resources
 

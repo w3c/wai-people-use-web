@@ -95,24 +95,24 @@ Ian has his own living space in his parent's home. His parents help with cooking
 ## Barrier examples
 
 Non-literal text barrier
-: **Problem:** I have difficulty understanding metaphors, acronyms, abbreviations, and words that aren't used in their literal sense.
-: **Works well:** Websites that spell everything out and don't use metaphors are easier for me to understand.
+: **Problem:** "I have difficulty understanding metaphors, acronyms, abbreviations, and words that aren't used in their literal sense."
+: **Works well:** "Websites that spell everything out and don't use metaphors are easier for me to understand."
 
 Plain language barrier
-: **Problem:** Sites that use "fancy" language or long sentences to describe a simple concept are hard to understand.
-: **Works well:** I'm better at understanding the content when the authors just use plain language and simple sentences.
+: **Problem:** "Sites that use "fancy" language or long sentences to describe a simple concept are hard to understand."
+: **Works well:** "I'm better at understanding the content when the authors just use plain language and simple sentences."
 
 Consistent layout and navigation barrier
-: **Problem:** I get confused when I go to a different page on a website and the layout and navigation aren't the same.
-: **Works well:** When there is a consistent "look" to the pages on a site, I can learn where things are.
+: **Problem:** "I get confused when I go to a different page on a website and the layout and navigation aren't the same."
+: **Works well:** "When there is a consistent "look" to the pages on a site, I can learn where things are."
 
 Heading structure barrier
-: **Problem:** Long pages that are not broken up into sections are hard to read and understand.
-: **Works well:** Descriptive headings that are styled like an outline help me to find what I want and better understand the content.
+: **Problem:** "Long pages that are not broken up into sections are hard to read and understand."
+: **Works well:** "Descriptive headings that are styled like an outline help me to find what I want and better understand the content."
 
 Moving or blinking content barrier
-: **Problem:** Moving or blinking content is distracting and I can't remember what I wanted to do.
-: **Works well:** It's best when sites don't use moving or blinking content but if they do, let me turn it off.
+: **Problem:** "Moving or blinking content is distracting and I can't remember what I wanted to do.
+: **Works well:** It's best when sites don't use moving or blinking content but if they do, let me turn it off."
 
 ## Related WAI resources
 

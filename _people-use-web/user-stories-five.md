@@ -103,32 +103,32 @@ Getting a mobile phone was a huge deal for Luis. He finds apps that have fewer o
 ## Barrier examples
 
 Breadcrumb trail
-: **Problem:** When I follow several links, sometimes I feel lost and I just want to get back to where I started.
-: **Works well:** A breadcrumb at the top of the page that shows all of the pages I was on helps me feel oriented and lets me go back to a familiar page.
+: **Problem:** ""When I follow several links, sometimes I feel lost and I just want to get back to where I started."
+: **Works well:** "A breadcrumb at the top of the page that shows all of the pages I was on helps me feel oriented and lets me go back to a familiar page."
 
 Plain language
-: **Problem:** Sometimes when I'm looking something up, I don't understand the words they use.
-: **Works well:** If simpler words can be used, use them. If there aren't simpler words, give me a definition or point me to a glossary. Avoid the use of acronyms and abbreviations.
+: **Problem:** "Sometimes when I'm looking something up, I don't understand the words they use."
+: **Works well:** "If simpler words can be used, use them. If there aren't simpler words, give me a definition or point me to a glossary. Avoid the use of acronyms and abbreviations."
 
 Clear link styling
-: **Problem:** Designers like to get fancy with links and sometimes it's hard to figure out the difference between the links and highlighted text or headings.
-: **Works well:** Use blue underlined text for unvisited links and purple for visited links.
+: **Problem:** "Designers like to get fancy with links and sometimes it's hard to figure out the difference between the links and highlighted text or headings."
+: **Works well:** "Use blue underlined text for unvisited links and purple for visited links."
 
 Forms
-: **Problem:** When I'm filling out forms, it's sometimes hard to know what they want in each field.
-: **Works well:** Tell me what fields are required, put a simple and clear label on each form field, and give me an example of the format they want, especially for dates.
+: **Problem:** "When I'm filling out forms, it's sometimes hard to know what they want in each field."
+: **Works well:** "Tell me what fields are required, put a simple and clear label on each form field, and give me an example of the format they want, especially for dates."
 
 Timeouts
-: **Problem:** Because I'm a slow reader, it's frustrating when the website times out and I need to start all over.
-: **Works well:** Give a warning before the website times out and offer an option to stay online.
+: **Problem:** "Because I'm a slow reader, it's frustrating when the website times out and I need to start all over."
+: **Works well:** "Give a warning before the website times out and offer an option to stay online."
 
 Headings and Links
-: **Problem:** I get confused and overwhelmed when I'm on a page that has a lot of text.
-: **Works well:** It helps when pages are broken up into sections with clear headings. Also, pictures or images that show what is being said help my understanding and they break up the page so it's not so overwhelming. In-page links, like a table of contents, can help me to know what is on the page so I can quickly get to the information I'm looking for.
+: **Problem:** "I get confused and overwhelmed when I'm on a page that has a lot of text."
+: **Works well:** "It helps when pages are broken up into sections with clear headings. Also, pictures or images that show what is being said help my understanding and they break up the page so it's not so overwhelming. In-page links, like a table of contents, can help me to know what is on the page so I can quickly get to the information I'm looking for."
 
 Animation
-: **Problem:** Moving or animated text or pictures is really distracting. It keeps pulling my attention away from what I'm trying to do.
-: **Works well:** If there has to be moving or animated content, let me stop it.
+: **Problem:** "Moving or animated text or pictures is really distracting. It keeps pulling my attention away from what I'm trying to do."
+: **Works well:** "If there has to be moving or animated content, let me stop it."
 
 ## Related WAI resources
 

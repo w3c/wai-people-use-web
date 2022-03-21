@@ -104,24 +104,24 @@ Socially Noor loves being out and about with her friends. She will not be able t
 ## Barrier examples
 
 Consistent layout
-: **Problem:** Some shopping sites I visit have completely different styles for different sections. It takes me a while to work out where everything is in each section which is really frustrating.
-: **Works well:** The shopping website I use has the same layout on all of it's sections which makes it easy to work my way around pages.
+: **Problem:** "Some shopping sites I visit have completely different styles for different sections. It takes me a while to work out where everything is in each section which is really frustrating."
+: **Works well:** "The shopping website I use has the same layout on all of it's sections which makes it easy to work my way around pages."
 
 No transcript
-: **Problem:** Some videos only have embedded captions which I can't access easily.
-: **Works well:** Having a transcript is a big help. It is much easier for me to read with my Braille device.
+: **Problem:** "Some videos only have embedded captions which I can't access easily."
+: **Works well:** "Having a transcript is a big help. It is much easier for me to read with my Braille device."
 
 Inaccessible CAPTCHA
-: **Problem:** If a site has a CAPTCHA that uses images or audio then I just can't use it - it can take me ages to work out the image and I can't hear the audio alternative.
-: **Works well:** No CAPTCHA is best but sometimes there are simple things that ask a really easy question.
+: **Problem:** "If a site has a CAPTCHA that uses images or audio then I just can't use it - it can take me ages to work out the image and I can't hear the audio alternative."
+: **Works well:** "No CAPTCHA is best but sometimes there are simple things that ask a really easy question."
 
 Keyboard navigation
-: **Problem:** A date picker that pops up when I tab to a date entry field but I can't use the date picker as it doesn't work with the keyboard.
-: **Works well:** I can tab through dates in a date picker using my keyboard or I can just enter the date without the date picker.
+: **Problem:** "A date picker that pops up when I tab to a date entry field but I can't use the date picker as it doesn't work with the keyboard."
+: **Works well:** "I can tab through dates in a date picker using my keyboard or I can just enter the date without the date picker."
 
 Changes elsewhere on a page
-: **Problem:** I needed to add my previous address into an application form, but nothing happened when I pressed the 'Add new address' button. I don't know where the new address fields might have been added to the page.
-: **Works well:** When I press the 'Add new address' button, I am taken to the form fields that have just been added above the button.
+: **Problem:** "I needed to add my previous address into an application form, but nothing happened when I pressed the 'Add new address' button. I don't know where the new address fields might have been added to the page."
+: **Works well:** "When I press the 'Add new address' button, I am taken to the form fields that have just been added above the button."
 
 ## Related WAI resources
 

@@ -102,28 +102,28 @@ When she can, Ilya uses her mobile phone or tablet more than she uses her laptop
 ## Barrier examples
 
 Good use of headings
-: **Problem:** I can't easily scan a page to find things that might be of interest to me.
-: **Works well:** When sites are laid out using properly marked up headings and paragraphs, I can use hot keys in my screen reader to quickly jump from one heading or paragraph to another, stopping at anything that sounds interesting.
+: **Problem:** "I can't easily scan a page to find things that might be of interest to me."
+: **Works well:** "When sites are laid out using properly marked up headings and paragraphs, I can use hot keys in my screen reader to quickly jump from one heading or paragraph to another, stopping at anything that sounds interesting."
 
 Keyboard navigation
-: **Problem:** Sometimes I can't control things on websites such as buttons and links. I can hear they are there but I can't press them.
-: **Works well:** When I can use the keyboard to navigate to things and press return to select them without having to get someone to help me.
+: **Problem:** "Sometimes I can't control things on websites such as buttons and links. I can hear they are there but I can't press them."
+: **Works well:** "When I can use the keyboard to navigate to things and press return to select them without having to get someone to help me."
 
 Consistent layout
-: **Problem:** I need to create a mental image of how a website is laid out. If that changes from page to page then it really slows me down.
-: **Works well:** When website pages are consistent. The links are all in the same place and things that sound the same in my screen reader behave the same on different pages.
+: **Problem:** "I need to create a mental image of how a website is laid out. If that changes from page to page then it really slows me down."
+: **Works well:** "When website pages are consistent. The links are all in the same place and things that sound the same in my screen reader behave the same on different pages."
 
 Clear error messages
-: **Problem:** Sometimes when I fill in a form on a website it won't let me submit it and it isn't clear why not.
-: **Works well:** Sites which have clear error messages and instructions on how to correct my mistake.
+: **Problem:** "Sometimes when I fill in a form on a website it won't let me submit it and it isn't clear why not."
+: **Works well:** "Sites which have clear error messages and instructions on how to correct my mistake."
 
 Changes elsewhere on a page
-: **Problem:** There are times when content on a website changes but I don't always know about it.
-: **Works well:** It's great when my screen reader alerts me to changes on the page that I'm visiting.
+: **Problem:** "There are times when content on a website changes but I don't always know about it."
+: **Works well:** "It's great when my screen reader alerts me to changes on the page that I'm visiting."
 
 Keyboard trap
-: **Problem:** Some sites have modal windows that I can get stuck in because I can't seem to find anyway to close it.
-: **Works well:** Modal windows include a close and/or cancel button that can be accessed with the keyboard. 
+: **Problem:** "Some sites have modal windows that I can get stuck in because I can't seem to find anyway to close it."
+: **Works well:** "Modal windows include a close and/or cancel button that can be accessed with the keyboard." 
 
 ## Related WAI resources
 
