@@ -2,8 +2,8 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "Blair, autistic data entry clerk"
-nav_title: "Blair"
+title: "Ian, autistic data entry clerk"
+nav_title: "Ian"
 parent_in_h1:
   - ref: /people-use-web/user-stories/
     name: nav_title
@@ -22,14 +22,14 @@ last_updated: 2021-@@-@@   # Put the date of this translation YYYY-MM-DD (with m
 
 github:
   repository: w3c/wai-people-use-web
-  path: people-use-web/user-stories-two.md    # Add the language shortcode to the middle of the filename, for example: people-use-web/user-stories-two.fr.md
-permalink: /people-use-web/user-stories-two/   # Add the language shortcode to the end, with no slash at end, for example: /people-use-web/user-stories-two/fr
+  path: people-use-web/user-stories-two-alt.md    # Add the language shortcode to the middle of the filename, for example: people-use-web/user-stories-two.fr.md
+permalink: /people-use-web/user-stories-two-alt/   # Add the language shortcode to the end, with no slash at end, for example: /people-use-web/user-stories-two/fr
 
 navigation:
   previous: /people-use-web/user-stories-one/
   next: /people-use-web/user-stories-three/
 
-ref: /people-use-web/user-stories-two/      # Translators, do not change this
+ref: /people-use-web/user-stories-two-alt/      # Translators, do not change this
 changelog: /people-use-web/changelog/
 acknowledgements: /people-use-web/user-stories/acknowledgements/
 
@@ -52,7 +52,7 @@ footer: >
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-Introduction about Blair
+Introduction about Ian
 
 **Note:** The following scenarios are not real people. It may not address every person with this disability.
 
@@ -74,17 +74,17 @@ Introduction about Blair
 {% include_cached toc.html type="end" %}
 {:/}
 
-## About Blair
+## About Ian
 
 <mark><em><strong>Draft reviewers:</strong> This text is only rough notes for now. Your comments are welome on these ideas.</em></mark>
 
-> If there is a lot going on on a page I find it very hard to focus. Especially if there is audio or video that starts without me doing anything.
+> I find it hard to focus on pages that have a lot going on, such as animations and videos that start without me doing anything.
 
-Blair's autism was diagnosed at an early age because of delays in speech development, sometimes called non-speaking autism. Blair received a lot of early childhood support, which helped them develop language and social skills. They still have some problems with language, however, especially when experiencing anxiety.
+Ian is autistic. His autism was diagnosed at an early age because of delays in speech development, sometimes called non-speaking autism. Ian received a lot of early childhood support, which helped him develop language and social skills. However, he still has some problems with language, especially when experiencing anxiety.
 
-Blair works part-time as a data entry clerk. Working with a computer is easy for Blair, although updates to the data entry application can cause them problems if there are significant changes to the interface. This can cause feelings of axiety for Blair if they don't know the change is coming and given time to adapt. It can also be difficult for Blair if someone asks for some work that means Blair has to use less commonly used tools or parts of the system.
+Ian works part-time as a data entry clerk. Working with a computer is easy for Ian, although updates to the data entry application can cause him problems if there are significant changes to the interface. This can cause feelings of axiety for Ian if he doesn't't know the change is coming and given time to adapt. It can also be difficult for Ian if someone asks for some work that means he has to use parts of the system that he is not as familiar with.
 
-Blair has their own living space in their parent's house. Blair's parents help with cooking and cleaning but Blair has been learning how to cook more things using online videos. Blair finds straightforward, practical step-by-step videos really helpful. However, if the video is full of metaphors, vague language or implied content it can be more difficult to understand. Online written content that is full of metaphors or sarcasm can be similarly difficult because the meaning is not clear.
+Ian has his own living space in his parent's home. His parents help with cooking and cleaning but Ian has been learning how to cook using online videos. He finds straightforward, practical step-by-step videos really helpful. However, if the video is full of metaphors, vague language, or implied content, it can be more difficult to understand. Online written content that is full of metaphors or sarcasm can be similarly difficult because the meaning is not clear.
 
 ## Assistive technologies and adaptive strategies used
 
@@ -98,14 +98,14 @@ Blair has their own living space in their parent's house. Blair's parents help w
 
 Non-literal text barrier
 : **Problem:** I have difficulty understanding metaphors, acronyms, abbreviations, and words that aren't used in their literal sense.
-: **Works well:** Websites that spell everything out and don't use metaphors are easier to understand.
+: **Works well:** Websites that spell everything out and don't use metaphors are easier for me to understand.
 
 Plain language barrier
 : **Problem:** Sites that use "fancy" language or long sentences to describe a simple concept are hard to understand.
 : **Works well:** I'm better at understanding the content when the authors just use plain language and simple sentences.
 
 Consistent layout and navigation barrier
-: **Problem:** I get confused when I go to a new page and the layout and navigation are different.
+: **Problem:** I get confused when I go to a different page on a website and the layout and navigation aren't the same.
 : **Works well:** When there is a consistent "look" to the pages on a site, I can learn where things are.
 
 Heading structure barrier
@@ -113,7 +113,7 @@ Heading structure barrier
 : **Works well:** Descriptive headings that are styled like an outline help me to find what I want and better understand the content.
 
 Moving or blinking content barrier
-: **Problem:** Moving or blinking content is very distracting and I can't remember what I wanted to do.
+: **Problem:** Moving or blinking content is distracting and I can't remember what I wanted to do.
 : **Works well:** It's best when sites don't use moving or blinking content but if they do, let me turn it off.
 
 ## Related WAI resources
