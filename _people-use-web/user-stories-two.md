@@ -84,14 +84,6 @@ Ian works part-time as a data entry clerk. Working with a computer is easy for I
 
 Ian has his own living space in his parent's home. His parents help with cooking and cleaning but Ian has been learning how to cook using online videos. He finds straightforward, practical step-by-step videos really helpful. However, if the video is full of metaphors, vague language, or implied content, it can be more difficult to understand. Online written content that is full of metaphors or sarcasm can be similarly difficult because the meaning is not clear.
 
-## Assistive technologies and adaptive strategies used
-
-* [Pop-up and animation blockers (Presentation)](/people-use-web/tools-techniques-presentation/#blockers)
-* [Reading assistants (Presentation)](/people-use-web/tools-techniques-presentation/#reading)
-* [Volume control (Presentation)](/people-use-web/tools-techniques-presentation/#volume)
-* [Spelling and grammar tools (Input)](/people-use-web/tools-techniques-input/#lexical)
-* [Word prediction (Input)](/people-use-web/tools-techniques-input/#prediction)
-
 ## Barrier examples
 
 Non-literal text barrier
@@ -113,6 +105,14 @@ Heading structure barrier
 Moving or blinking content barrier
 : **Problem:** "Moving or blinking content is distracting and I can't remember what I wanted to do.
 : **Works well:** It's best when sites don't use moving or blinking content but if they do, let me turn it off."
+
+## Assistive technologies and adaptive strategies used
+
+* [Pop-up and animation blockers (Presentation)](/people-use-web/tools-techniques-presentation/#blockers)
+* [Reading assistants (Presentation)](/people-use-web/tools-techniques-presentation/#reading)
+* [Volume control (Presentation)](/people-use-web/tools-techniques-presentation/#volume)
+* [Spelling and grammar tools (Input)](/people-use-web/tools-techniques-input/#lexical)
+* [Word prediction (Input)](/people-use-web/tools-techniques-input/#prediction)
 
 ## Related WAI resources
 

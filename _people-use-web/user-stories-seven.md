@@ -86,21 +86,6 @@ Noor is currently learning braille and is being exposed to using a braille displ
 
 Socially Noor loves being out and about with her friends. She will not be able to drive so will need to rely on public transportation. This is not new to her since she lives in an urban area. However, she knows there are always last minute changes to platforms and times. She is worried about being alerted to this information. She is already experiencing difficulty reading times and the website is not mobile optimized and doesn't work well when zoomed. She is interested in customizing her devices so she can utilize tactile features for notifications and alerts for all aspects of her life. Noor is eager to learn about the accessible technology that is available so she can continue her path to becoming a successful fashion designer. 
 
-## Assistive technologies and adaptive strategies used
-
-* [Braille (Perception)](/people-use-web/tools-techniques-perception/#braille)
-* [Refreshable Braille display (Perception)](/people-use-web/tools-techniques-perception/#braille_display)
-* [Screen reader (Perception)](/people-use-web/tools-techniques-perception/#sr)
-* [Text-to-speech (Perception)](/people-use-web/tools-techniques-perception/#tts)
-* [Transcripts (Perception)](/people-use-web/tools-techniques-perception/#transcripts)
-* [Customized fonts and colors (Presentation)](/people-use-web/tools-techniques-presentation/#style)
-* [Screen magnification (Presentation)](/people-use-web/tools-techniques-presentation/#display)
-* [Screen magnifier (Presentation)](/people-use-web/tools-techniques-presentation/#magnifiers)
-* [Descriptive titles, headings, and labels (Interaction)](/people-use-web/tools-techniques-navigation/#labels)
-* [Helpful error and success messages (Interaction)](/people-use-web/tools-techniques-navigation/#messages)
-* [Keyboard navigation (Interaction)](/people-use-web/tools-techniques-navigation/#keyboard)
-* [Skip links (Interaction)](/people-use-web/tools-techniques-navigation/#skip)
-
 ## Barrier examples
 
 Consistent layout
@@ -122,6 +107,21 @@ Keyboard navigation
 Changes elsewhere on a page
 : **Problem:** "I needed to add my previous address into an application form, but nothing happened when I pressed the 'Add new address' button. I don't know where the new address fields might have been added to the page."
 : **Works well:** "When I press the 'Add new address' button, I am taken to the form fields that have just been added above the button."
+
+## Assistive technologies and adaptive strategies used
+
+* [Braille (Perception)](/people-use-web/tools-techniques-perception/#braille)
+* [Refreshable Braille display (Perception)](/people-use-web/tools-techniques-perception/#braille_display)
+* [Screen reader (Perception)](/people-use-web/tools-techniques-perception/#sr)
+* [Text-to-speech (Perception)](/people-use-web/tools-techniques-perception/#tts)
+* [Transcripts (Perception)](/people-use-web/tools-techniques-perception/#transcripts)
+* [Customized fonts and colors (Presentation)](/people-use-web/tools-techniques-presentation/#style)
+* [Screen magnification (Presentation)](/people-use-web/tools-techniques-presentation/#display)
+* [Screen magnifier (Presentation)](/people-use-web/tools-techniques-presentation/#magnifiers)
+* [Descriptive titles, headings, and labels (Interaction)](/people-use-web/tools-techniques-navigation/#labels)
+* [Helpful error and success messages (Interaction)](/people-use-web/tools-techniques-navigation/#messages)
+* [Keyboard navigation (Interaction)](/people-use-web/tools-techniques-navigation/#keyboard)
+* [Skip links (Interaction)](/people-use-web/tools-techniques-navigation/#skip)
 
 ## Related WAI resources
 

@@ -88,17 +88,6 @@ Outside of work, Ilya enjoys cooking, knitting, and travel, and she uses the web
 
 When she can, Ilya uses her mobile phone or tablet more than she uses her laptop or desktop computer. The phone and tablet have built-in screen readers that make them much easier for her to use. Using her mobile while travelling is fantastic as she can check location details and find directions.
 
-## Assistive technologies and adaptive strategies used
-
-* [Screen reader (Perception)](/people-use-web/tools-techniques-perception/#sr)
-* [Text-to-speech (Perception)](/people-use-web/tools-techniques-perception/#tts)
-* [Transcripts (Perception)](/people-use-web/tools-techniques-perception/#transcripts)
-* [Consistency and predictability (Interaction)](/people-use-web/tools-techniques-navigation/#consistency)
-* [Descriptive titles, headings, and labels (Interaction)](/people-use-web/tools-techniques-navigation/#labels)
-* [Helpful error and success messages (Interaction)](/people-use-web/tools-techniques-navigation/#messages)
-* [Keyboard navigation (Interaction)](/people-use-web/tools-techniques-navigation/#keyboard)
-* [Skip links (Interaction)](/people-use-web/tools-techniques-navigation/#skip)
-
 ## Barrier examples
 
 Good use of headings
@@ -124,6 +113,17 @@ Changes elsewhere on a page
 Keyboard trap
 : **Problem:** "Some sites have modal windows that I can get stuck in because I can't seem to find anyway to close it."
 : **Works well:** "Modal windows include a close and/or cancel button that can be accessed with the keyboard." 
+
+## Assistive technologies and adaptive strategies used
+
+* [Screen reader (Perception)](/people-use-web/tools-techniques-perception/#sr)
+* [Text-to-speech (Perception)](/people-use-web/tools-techniques-perception/#tts)
+* [Transcripts (Perception)](/people-use-web/tools-techniques-perception/#transcripts)
+* [Consistency and predictability (Interaction)](/people-use-web/tools-techniques-navigation/#consistency)
+* [Descriptive titles, headings, and labels (Interaction)](/people-use-web/tools-techniques-navigation/#labels)
+* [Helpful error and success messages (Interaction)](/people-use-web/tools-techniques-navigation/#messages)
+* [Keyboard navigation (Interaction)](/people-use-web/tools-techniques-navigation/#keyboard)
+* [Skip links (Interaction)](/people-use-web/tools-techniques-navigation/#skip)
 
 ## Related WAI resources
 

@@ -88,14 +88,6 @@ Alex has started using speech control software which helps him to avoid using th
 
 Outside of work, Alex finds his mobile device easier to use than the computer because there is limited navigation, no pointer device, and because it is hand-held, he can usually find a comfortable position. He wishes his employer would create a mobile-friendly/responsive site that he could use for his job.
 
-## Assistive technologies and adaptive strategies used
-
-* [Accelerators (Input)](/people-use-web/tools-techniques-input/#accelerators)
-* [Alternative keyboard and mouse (Input)](/people-use-web/tools-techniques-input/#input)
-* [Speech recognition (Input)](/people-use-web/tools-techniques-input/#speech)
-* [Word prediction (Input)](/people-use-web/tools-techniques-input/#prediction)
-* [Keyboard navigation (Interaction)](/people-use-web/tools-techniques-navigation/#keyboard)
-* [Skip links (Interation)](/people-use-web/tools-techniques-navigation/#skip)
 
 ## Barrier examples
 
@@ -114,6 +106,15 @@ Saving progress barrier
 Popup windows barrier
 : **Problem:** "When a window opens and I can't close it using only the keyboard it can be difficult."
 : **Works well:** "New windows have a close icon that I can access using the keyboard and some include the option to press the escape key to close them."
+
+## Assistive technologies and adaptive strategies used
+
+* [Accelerators (Input)](/people-use-web/tools-techniques-input/#accelerators)
+* [Alternative keyboard and mouse (Input)](/people-use-web/tools-techniques-input/#input)
+* [Speech recognition (Input)](/people-use-web/tools-techniques-input/#speech)
+* [Word prediction (Input)](/people-use-web/tools-techniques-input/#prediction)
+* [Keyboard navigation (Interaction)](/people-use-web/tools-techniques-navigation/#keyboard)
+* [Skip links (Interation)](/people-use-web/tools-techniques-navigation/#skip)
 
 ## Related WAI resources
 

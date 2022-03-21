@@ -88,19 +88,6 @@ Preety is a fan of old science fiction movies and spends a lot of time on fan ma
 
 Preety experiences problems with sites where the navigation of the site is unclear. She finds it much easier to use sites which include functions such as a sitemap, breadcrumb trails or a search function. Preety has difficulty with spelling so benefits from search functionality which suggests alternative spellings and error corrections.
 
-## Assistive technologies and adaptive strategies used
-
-* [Captions (Perception)](/people-use-web/tools-techniques-perception/#captions)
-* [Screen reader (Perception)](/people-use-web/tools-techniques-perception/#sr)
-* [Text-to-speech (Perception)](/people-use-web/tools-techniques-perception/#tts)
-* [Pop-up and animations blockers (Presentation)](/people-use-web/tools-techniques-presentation/#blockers)
-* [Reading assistants (Presentation)](/people-use-web/tools-techniques-presentation/#reading)
-* [Spelling and grammar tools (input)](/people-use-web/tools-techniques-input/#lexical)
-* [Consistency and predictability (Interaction)](/people-use-web/tools-techniques-navigation/#consistency)
-* [Helpful error and success messages (Interaction)](/people-use-web/tools-techniques-navigation/#messages)
-* [Keyword search (Interaction)](/people-use-web/tools-techniques-navigation/#search)
-* [Multiple navigation mechanisms (Interaction)](/people-use-web/tools-techniques-navigation/#navigating)
-
 ## Barrier examples
 
 Spelling suggestions
@@ -118,6 +105,19 @@ Complex language
 Excessive acronyms and abbreviations
 : **Problem:** "Excessive use of acronyms and abbreviations is distracting and I often must reread several times or sometimes just get stuck and give up."
 : **Works well:** "Spell out the complete words of an acronym at least the first time it is used. Avoid or explain abbreviations."
+
+## Assistive technologies and adaptive strategies used
+
+* [Captions (Perception)](/people-use-web/tools-techniques-perception/#captions)
+* [Screen reader (Perception)](/people-use-web/tools-techniques-perception/#sr)
+* [Text-to-speech (Perception)](/people-use-web/tools-techniques-perception/#tts)
+* [Pop-up and animations blockers (Presentation)](/people-use-web/tools-techniques-presentation/#blockers)
+* [Reading assistants (Presentation)](/people-use-web/tools-techniques-presentation/#reading)
+* [Spelling and grammar tools (input)](/people-use-web/tools-techniques-input/#lexical)
+* [Consistency and predictability (Interaction)](/people-use-web/tools-techniques-navigation/#consistency)
+* [Helpful error and success messages (Interaction)](/people-use-web/tools-techniques-navigation/#messages)
+* [Keyword search (Interaction)](/people-use-web/tools-techniques-navigation/#search)
+* [Multiple navigation mechanisms (Interaction)](/people-use-web/tools-techniques-navigation/#navigating)
 
 ## Related WAI resources
 

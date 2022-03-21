@@ -84,10 +84,6 @@ Lee discovered that shopping for clothes online is actually an advantage over go
 
 Lee plays in various fantasy football leagues with his friends and workmates. Sometimes there can be problems with the way these sites use color to differentiate between teams, player positions and whether or not players are selected for his team. As a result, he tends to prefer certain Fantasy Football apps over others which means he has to try and convince friends to play using the same app.
 
-## Assistive technologies and adaptive strategies used
-
-* [Customized fonts and colors (Presentation)](/people-use-web/tools-techniques-presentation/#style)
-
 ## Barrier examples
 
 Using color only barrier
@@ -105,6 +101,10 @@ Color only in games barrier
 Chart labels barrier
 : **Problem:** "When I am reading news articles with data charts, I can't understand the charts as the columns aren't labelled clearly."
 : **Works well:** "The columns are directly labelled or use a texture as well as color."
+
+## Assistive technologies and adaptive strategies used
+
+* [Customized fonts and colors (Presentation)](/people-use-web/tools-techniques-presentation/#style)
 
 ## Related WAI resources
 

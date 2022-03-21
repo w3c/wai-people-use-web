@@ -87,17 +87,6 @@ Like many older people, Yun has difficulty reading small text. He subscribes to 
 For all of the benefits of using a computer to read the news and stay active in his field, Yun often has difficulty with the security on some websites. On sites that use CAPTCHAS, it is hard for him to identify the distorted text or identify the images in photos because they are usually not clearly rendered. On sites that send a security code, Yun has to interrupt what he is doing to look on his phone and copy a code, and sometimes the codes are long and hard to transcribe correctly. Yun finds it much simpler when using easily identified CAPTCHAs and security codes that are easy to scan and transcribe, such as short groups of numbers.
 
 
-## Assistive technologies and adaptive strategies used
-
-* [Screen magnification (Presentation)](/people-use-web/tools-techniques-presentation/#display)
-* [Alternative keyboard and mouse (Input)](/people-use-web/tools-techniques-input/#input)
-* [Keyboard and mouse filters (Input)](/people-use-web/tools-techniques-input/#filters)
-* [Mouse customization (Input)](/people-use-web/tools-techniques-input/#mouse)
-* [Bookmarks and history (Interaction)](/people-use-web/tools-techniques-navigation/#bookmarks)
-* [Consistency and predictability (Interaction)](/people-use-web/tools-techniques-navigation/#consistency)
-* [Descriptive titles, headings, and labels (Interaction)](/people-use-web/tools-techniques-navigation/#labels)
-* [Helpful error and success messages (Interaction)](/people-use-web/tools-techniques-navigation/#messages)
-
 ## Barrier examples
 
 Inaccessible CAPTCHA
@@ -123,6 +112,17 @@ Breadcrumb
 Login page
 : **Problem:** "I have accounts with so many different websites that sometimes I forget my password."
 : **Works well:** "An option to remember my password for this site and a means of resetting my password if I need to."
+
+## Assistive technologies and adaptive strategies used
+
+* [Screen magnification (Presentation)](/people-use-web/tools-techniques-presentation/#display)
+* [Alternative keyboard and mouse (Input)](/people-use-web/tools-techniques-input/#input)
+* [Keyboard and mouse filters (Input)](/people-use-web/tools-techniques-input/#filters)
+* [Mouse customization (Input)](/people-use-web/tools-techniques-input/#mouse)
+* [Bookmarks and history (Interaction)](/people-use-web/tools-techniques-navigation/#bookmarks)
+* [Consistency and predictability (Interaction)](/people-use-web/tools-techniques-navigation/#consistency)
+* [Descriptive titles, headings, and labels (Interaction)](/people-use-web/tools-techniques-navigation/#labels)
+* [Helpful error and success messages (Interaction)](/people-use-web/tools-techniques-navigation/#messages)
 
 ## Related WAI resources
 

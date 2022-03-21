@@ -86,20 +86,6 @@ Luis is keen to get a job but worries that the jargon in the workplace will make
 
 Getting a mobile phone was a huge deal for Luis. He finds apps that have fewer options and fewer decisions are clearer for him and easier to use. Using the phone for shopping is really easy for Luis. Being able to find the things he usually buys is a huge help.
 
-## Assistive technologies and adaptive strategies used
-
-* [Easy-to-read text (Presentation)](/people-use-web/tools-techniques-presentation/#etr)
-* [Pop-up and animations blockers (Presentation)](/people-use-web/tools-techniques-presentation/#blockers)
-* [Progressive disclosure (Presentation)](/people-use-web/tools-techniques-presentation/#progressive)
-* [Reading assistants (Presentation)](/people-use-web/tools-techniques-presentation/#reading)
-* [Reduced interface (Presentation)](/people-use-web/tools-techniques-presentation/#reduced)
-* [Accelerators (Input)](/people-use-web/tools-techniques-input/#accelerators)
-* [Spelling and grammar tools (Input)](/people-use-web/tools-techniques-input/#lexical)
-* [Consistency and predictability (Interaction)](/people-use-web/tools-techniques-navigation/#consistency)
-* [Descriptive titles, headings, and labels (Interaction)](/people-use-web/tools-techniques-navigation/#labels)
-* [Helpful error and success messages (Interaction)](/people-use-web/tools-techniques-navigation/#messages)
-* [Multiple navigation mechanisms (Interaction)](/people-use-web/tools-techniques-navigation/#navigating)
-
 ## Barrier examples
 
 Breadcrumb trail
@@ -129,6 +115,20 @@ Headings and Links
 Animation
 : **Problem:** "Moving or animated text or pictures is really distracting. It keeps pulling my attention away from what I'm trying to do."
 : **Works well:** "If there has to be moving or animated content, let me stop it."
+
+## Assistive technologies and adaptive strategies used
+
+* [Easy-to-read text (Presentation)](/people-use-web/tools-techniques-presentation/#etr)
+* [Pop-up and animations blockers (Presentation)](/people-use-web/tools-techniques-presentation/#blockers)
+* [Progressive disclosure (Presentation)](/people-use-web/tools-techniques-presentation/#progressive)
+* [Reading assistants (Presentation)](/people-use-web/tools-techniques-presentation/#reading)
+* [Reduced interface (Presentation)](/people-use-web/tools-techniques-presentation/#reduced)
+* [Accelerators (Input)](/people-use-web/tools-techniques-input/#accelerators)
+* [Spelling and grammar tools (Input)](/people-use-web/tools-techniques-input/#lexical)
+* [Consistency and predictability (Interaction)](/people-use-web/tools-techniques-navigation/#consistency)
+* [Descriptive titles, headings, and labels (Interaction)](/people-use-web/tools-techniques-navigation/#labels)
+* [Helpful error and success messages (Interaction)](/people-use-web/tools-techniques-navigation/#messages)
+* [Multiple navigation mechanisms (Interaction)](/people-use-web/tools-techniques-navigation/#navigating)
 
 ## Related WAI resources
 

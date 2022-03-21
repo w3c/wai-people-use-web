@@ -86,12 +86,6 @@ The university where Martine studies provides sign language interpreters and Com
 
 Martine spends a lot of her free time watching streamed content on video streaming services. The improvement in captioning of these services in recent years has meant she is able to watch more programmes than she was before. She can have difficulty when captions aren't clearly color coded to show who is speaking. Auto-captioning can be useful for her but it can also cause her problems if it's available but incorrect.
 
-## Assistive technologies and adaptive strategies used
-
-* [Captions (Perception)](/people-use-web/tools-techniques-perception/#captions)
-* [Transcripts (Perception)](/people-use-web/tools-techniques-perception/#transcripts)
-* [Sign language (Presentation)](/people-use-web/tools-techniques-presentation/#sign)
-
 ## Barrier examples
 
 Inaccurate captions
@@ -109,6 +103,12 @@ Good camera position for speaker
 No alternative for audio
 : **Problem:** "When watching a news program online, there isn't an option for me to understand what the speaker is saying."
 : **Works well:** "Provide audio alternatives such as sign language, captions or transcript. If there is a speaker in camera, focus in on the speaker."
+
+## Assistive technologies and adaptive strategies used
+
+* [Captions (Perception)](/people-use-web/tools-techniques-perception/#captions)
+* [Transcripts (Perception)](/people-use-web/tools-techniques-perception/#transcripts)
+* [Sign language (Presentation)](/people-use-web/tools-techniques-presentation/#sign)
 
 ## Related WAI resources
 
