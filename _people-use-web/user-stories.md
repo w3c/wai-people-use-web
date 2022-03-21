@@ -75,7 +75,7 @@ The following stories of people with disabilities using the Web highlight the ef
 
 ## Related WAI resources
 
-These other resources provide additional more detailed information regarding user needs within specific contexts or disability areas.
+These other resources provide more detailed information regarding user needs within specific contexts or disability areas.
 
 * [Accessibility Requirements for People with Low Vision - User Needs](https://www.w3.org/TR/low-vision-needs/#user-needs)
 * [Making Content Usable for People with Cognitive and Learning Disabilities - Use Cases/Personas](https://www.w3.org/TR/coga-usable/#persona)
