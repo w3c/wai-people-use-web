@@ -48,9 +48,7 @@ footer: >
 ---
 
 
-The following stories of people with disabilities using the Web highlight the effect of accessibility barriers and the broader benefits of accessible websites and web tools.
-
-**Note:** The following scenarios are not real people. They do not address every kind of disability.
+The following stories are not of real people, but represent real experiences of people with the disabilities. They do not address every kind of disability or all impacts of a certain disability
 
 <mark><em><strong>Draft reviewers:</strong> The placeholder images below will be replaced with photos of the users.</em></mark>
 
