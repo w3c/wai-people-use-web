@@ -88,6 +88,7 @@ Alex has started using speech control software which helps him to avoid using th
 
 Outside of work, Alex finds his mobile device easier to use than the computer because there is limited navigation, no pointer device, and because it is hand-held, he can usually find a comfortable position. He wishes his employer would create a mobile-friendly/responsive site that he could use for his job.
 
+2. Dragon out of the box will have better ways to support navigation. Speech is much faster
 
 ## Barrier examples
 
