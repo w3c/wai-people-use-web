@@ -48,7 +48,7 @@ footer: >
 ---
 
 
-The following are not real people, but represent real experiences of people with disabilities. They do not address every kind of disability or all impacts of any disability.
+The following are not real people, but represent real experiences of people with disabilities. They do not address every kind of disability or all impacts faced by disabled people.
 
 <mark><em><strong>Draft reviewers:</strong> The placeholder images below will be replaced with photos of the users.</em></mark>
 
