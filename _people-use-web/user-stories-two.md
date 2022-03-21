@@ -76,8 +76,6 @@ Introduction about Ian
 
 ## About Ian
 
-<mark><em><strong>Draft reviewers:</strong> This text is only rough notes for now. Your comments are welome on these ideas.</em></mark>
-
 > I find it hard to focus on pages that have a lot going on, such as animations and videos that start without me doing anything.
 
 Ian is autistic. His autism was diagnosed at an early age because of delays in speech development, sometimes called non-speaking autism. Ian received a lot of early childhood support, which helped him develop language and social skills. However, he still has some problems with language, especially when experiencing anxiety.
