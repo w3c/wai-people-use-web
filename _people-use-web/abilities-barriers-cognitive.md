@@ -71,7 +71,6 @@ People with cognitive, learning, and neurological disabilities use different typ
 -   **Memory impairments**{:#memory} – involves limited short-term memory, missing long-term memory, or limited ability to recall language. Dementia is one among many different examples of memory impairments.
 -   **Multiple sclerosis**{:#ms} – causes damage to nerve cells in the brain and spinal cord, and can affect auditory, cognitive, physical, or visual abilities, in particular during relapses.
 -   **Neurodiversity**{:#nd} – is a societal rather than medical term to describe the diversity in neurocognitive functioning, much like the diversity in gender, ethnicity, sexual orientation, and disability.
--   **Perceptual disabilities**{:#perceptual} (sometimes called "[learning disabilities](#learning){:.termref}" in Australia, Canada, the U.S., and some other countries) – involves difficulty processing auditory, tactile, visual, or other sensory information. This can impact reading (dyslexia), writing (dysgraphia), processing numbers (dyscalculia), or spatial and temporal orientation.
 -   **Seizure disorders**{:#seizure} – includes different types of epilepsy and migraines, which may be in reaction to visual flickering or audio signals at certain frequencies or patterns.
 
 ## Examples of barriers for people with cognitive, learning, and neurological disabilities {#examples-of-barriers-for-people-with-cognitive-learning-and-neurological-disabilities}
