@@ -78,11 +78,13 @@ Introduction about Ian
 
 > I find it hard to focus on busy pages. For example, lots of animations and videos, particarly ones that start without me doing anything.
 
-Ian is autistic. His autism was diagnosed at an early age because of delays in speech development, sometimes called non-speaking autism. Ian received a lot of early childhood support, which helped him develop language and social skills. However, he still has some problems with language, especially when experiencing anxiety.
+Ian is autistic. His autism was identified at an early age because of delays in speech development. Ian received a lot of early childhood support, which helped him develop language and social skills. However, he still has some problems with language, especially when experiencing anxiety.
 
-Ian works part-time as a data entry clerk. Working with a computer is easy for Ian, although updates to the data entry application can cause him problems if there are significant changes to the interface. This can cause feelings of axiety for Ian if he doesn't't know the change is coming and given time to adapt. It can also be difficult for Ian if someone asks for some work that means he has to use parts of the system that he is not as familiar with.
+Ian works part-time as a data entry clerk. Working with a computer is easy for Ian, although updates to the data entry application can cause him problems if there are significant changes to the interface. This can cause feelings of axiety for Ian if he doesn't know the change is coming and given time to adapt. It can also be difficult for Ian if someone asks for some work that means he has to use parts of the system that he is not as familiar with. Most of the systems have a consistent layout and navigation but some are completely different and this can confuse Ian a bit.  
 
-Ian has his own living space in his parent's home. His parents help with cooking and cleaning but Ian has been learning how to cook using online videos. He finds straightforward, practical step-by-step videos really helpful. However, if the video is full of metaphors, vague language, or implied content, it can be more difficult to understand. Online written content that is full of metaphors or sarcasm can be similarly difficult because the meaning is not clear.
+Ian finds interacting with colleagues via email easy. He has worked with his team to help them appreciate how using plain language and avoiding too many metaphors can help him. Many have said they also prefer less corporate jargon as well. 
+
+Ian has his own living space in his parent's home including his own kitchen. He has been learning how to cook using online videos. He finds straightforward, practical, step-by-step videos really helpful. However, if the video is full of metaphors, vague language, or implied content, it can be more difficult to understand. Some of the cooking sites he uses have a lot of adverts on them with banners and video which can be distracting. This is particularly bad if there is audio as well, especially if Ian can't control it easily.
 
 ## Barrier examples
 
