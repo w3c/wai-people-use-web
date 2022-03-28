@@ -54,7 +54,7 @@ The following are not real people, but represent real experiences of people with
 
 * {:.left} [{% include image.html src="profile.png" alt="" %} Alex, reporter with repetitive strain injury](/people-use-web/user-stories-one)<br> Alex has worked as a reporter for more than 20 years. A few years ago he developed a repetitive strain injury that makes it painful to use a mouse and to type for extended periods of time.
 
-* {:.left} [{% include image.html src="profile.png" alt="" %} Ian, autistic data entry clerk](/people-use-web/user-stories-two)<br> Ian is autistic. His autism was diagnosed at an early age because of delays in speech development, sometimes called non-speaking autism. Ian received a lot of early childhood support, which helped him develop language and social skills. However, he still has some problems with language, especially when experiencing anxiety.
+* {:.left} [{% include image.html src="profile.png" alt="" %} Ian, data entry clerk with autism](/people-use-web/user-stories-two)<br> Ian is autistic. His autism was diagnosed at an early age because of delays in speech development, sometimes called non-speaking autism. Ian received a lot of early childhood support, which helped him develop language and social skills. However, he still has some problems with language, especially when experiencing anxiety.
 
 
 * {:.left} [{% include image.html src="profile.png" alt="" %} Ilya, senior accountant who is blind](/people-use-web/user-stories-three)<br> Ilya is blind. She is the chief accountant at an insurance company that uses web-based documents and forms over a corporate intranet. Like many other blind computer users, Ilya does not read Braille.
