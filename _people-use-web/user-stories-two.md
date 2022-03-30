@@ -54,7 +54,7 @@ footer: >
 
 Introduction about Ian
 
-**Note:** The following scenarios are not real people. It may not address every person with this disability.
+**Note:** The following scenario is not about a real person. It may not address every person with this disability.
 
 {::nomarkdown}
 {% include box.html type="end" %}
