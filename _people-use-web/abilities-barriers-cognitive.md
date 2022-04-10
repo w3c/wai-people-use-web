@@ -23,7 +23,7 @@ navigation:
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-Cognitive, learning, and neurological disabilities involve the brain and nervous system. They include mental health conditions and neurodiversity. They can impact a wide range of activities, including how people hear, move, see, speak, read, write, do math, pay attention, understand and remember information. Cognitive, learning, and neurological disabilities do not necessarily affect intelligence.
+Cognitive and learning disabilities affect how people store, retrieve, or use information. Often, only some functions are impaired while others are unaffected. Many of these disabilities do not affect overall intelligence. Cognitive and learning disabilities are usually invisible and can be age-related. Many users may not have a formal diagnosis or disclose having a disability due to social stigma, vocational concerns and prejudices.
 
 **Note:** This page is illustrative and is not a complete list of all disabilities and barriers.
 
@@ -48,6 +48,14 @@ Cognitive, learning, and neurological disabilities involve the brain and nervous
 
 ## Introduction
 
+Cognitive and learning disabilities is an umbrella term for a large spectrum of differences and disabilities. They may affect the ability to:
+
+* Learn, communicate, read, write, do math, or process sensory input;
+* Understand or process new or complex information and learn new skills;
+* Use memory and attention or visual, language, or numerical thinking.
+
+Often, only some functions are impaired while other cognitive functions are unaffected. For example, someone with dyslexia may be a fantastic engineer. Sometimes, cognitive and learning disabilities may include intellectual impairments that affect comprehension, alongside written and spoken expression. People may also experience more than one type of cognitive and learning disability. Note that the terminology and definitions used for cognitive and learning disabilities varies between countries.
+
 Computer technologies and the Web provide many opportunities for people with cognitive, learning, and neurological disabilities to interact with content and to process information in ways that are more usable to them. For example, people can navigate web content using different strategies, access information in text, audio, or other formats, and change the presentation of the content according to their individual needs or preferences.
 
 Depending on the individual needs, people with cognitive, learning, and neurological disabilities often rely on:
@@ -63,10 +71,14 @@ People with cognitive, learning, and neurological disabilities use different typ
 
 ## Examples of cognitive, learning, and neurological disabilities {#examples-of-cognitive-learning-and-neurological-disabilities}
 
+-   **Age-related forgetfulness**{#ageforgetful} (sometimes called "age-appropriate forgetfulness" or "age-related memory loss") —  impaired memory that can be a normal part of healthy aging, such as taking longer to learn new things and occasionally forget particular words.
 -   **Attention deficit hyperactivity disorder (ADHD)**{:#adhd} (formerly "attention deficit disorder (ADD)") – involves difficulty focusing on a single task, focusing for longer periods, or being easily distracted.
 -   **Autism spectrum disorder (ASD)**{:#asd} (includes “autism,” “Asperger syndrome,” and “pervasive developmental disorder” (PDD)) - involves impairments of social communication and interaction abilities, and sometimes restricted habits and interests.
+-   **Brain Injury**{:injury} (traumatic or acquired) — damage that can happen at any stage in life and can lead to long-term impairment of executive function, memory, learning, coordination, speech, an emotions as well as other physical and sensory impairments.
+-   **Dementia** — includes memory loss and trouble concentrating, following a conversation, and finding the right word.
 -   **Intellectual disabilities**{:#intellectual} (sometimes called "[learning disabilities](#learning){:.termref}" in Europe and some other countries, and "developmental disabilities" in other regions) – involves impairments of intelligence, learning more slowly, or difficulty understanding complex concepts. Down syndrome is one of many different kinds of intellectual disability.
 -   **Learning disabilities**{:#learning} – is a functional term rather than a medical condition, and is not uniformly defined. In Europe and some other countries, it refers to [intellectual disabilities](#intellectual){:.termref}, while in Australia, Canada, the U.S., and some other countries it refers to [perceptual disabilities](#perceptual){:.termref}.
+-   **Mild cognitive impairment (MCI)**{:mci} — sometimes considered the stage between age-related forgetfulness and the more serious decline of dementia.
 -   **Mental health disabilities**{:#mhealth} – includes anxiety, delirium, depression, paranoia, schizophrenia, and many other disorders. These conditions may cause difficulty focusing on information, processing information, or understanding it. In particular medication for these disorders may have side effects including blurred vision, hand tremors, and other impairments.
 -   **Memory impairments**{:#memory} – involves limited short-term memory, missing long-term memory, or limited ability to recall language. Dementia is one among many different examples of memory impairments.
 -   **Multiple sclerosis**{:#ms} – causes damage to nerve cells in the brain and spinal cord, and can affect auditory, cognitive, physical, or visual abilities, in particular during relapses.
@@ -75,16 +87,20 @@ People with cognitive, learning, and neurological disabilities use different typ
 
 ## Examples of barriers for people with cognitive, learning, and neurological disabilities {#examples-of-barriers-for-people-with-cognitive-learning-and-neurological-disabilities}
 
+-   Complex, multi-stage process such as forms.
 -   Complex navigation mechanisms and page layouts that are difficult to understand and use. 
--   Complex sentences that are difficult to read and unusual words that are difficult to understand. 
+-   Complex sentences that are difficult to read and unusual words or metaphors that are difficult to understand. 
 -   Long passages of text without images, graphs, or other illustrations to highlight the context. 
 -   Moving, blinking, or flickering content, and background audio that cannot be turned off. 
+-   Numerical references such as percentages.
+-   Passwords and access codes that rely on memory.
+-   Time-outs on activities
 -   Web browsers and media players that do not provide mechanisms to suppress animations and audio. 
 -   Visual page designs that cannot be adapted using web browser controls or custom style sheets.
 
 ## Stories related to cognitive, learning, and neurological disabilities {#stories-related-to-cognitive-learning-and-neurological-disabilities}
 
 - [Luis, basketball fan with Down syndrome](/people-use-web/user-stories-five/)
-- [Blair, autistic data entry clerk](/people-use-web/user-stories-two/) 
+- [Ian, autistic data entry clerk](/people-use-web/user-stories-two/) 
 - [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories-eight/) 
 - [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories-nine/) 
