@@ -2,8 +2,8 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "Alex, reporter with repetitive strain injury"
-nav_title: "Alex"
+title: "Allen, reporter with repetitive strain injury"
+nav_title: "Allen"
 parent_in_h1:
   - ref: /people-use-web/user-stories/
     name: nav_title
@@ -52,7 +52,7 @@ footer: >
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-Introduction to Alex
+Introduction to Allen
 
 **Note:** The following scenario is not about a real person. It may not address every person with this disability.
 
@@ -74,19 +74,19 @@ Introduction to Alex
 {% include_cached toc.html type="end" %}
 {:/}
 
-## About Alex
+## About Allen
 
 > It's not like I can't use a keyboard or mouse, I just can't use it for long periods and really like to keep my use to a minimum. I don't want my condition to get worse.
 
-Alex has worked as a reporter for more than 20 years. He recently developed a repetitive strain injury that makes it painful to use a mouse and to type for extended periods of time. 
+Allen has worked as a reporter for more than 20 years. He recently developed a repetitive strain injury that makes it painful to use a mouse and to type for extended periods of time. 
 
-Alex has changed how he works to use the mouse less. He uses an ergonomic keyboard to navigate around web pages and has found that this helps alleviate the pain associated with using the mouse. He can do his job but still finds it tiring and painful when performing repeated or prolonged activity. He also found that when he couldn't see which field or link had focus or when they weren't in a logical order he had to use his mouse again making things worse. Sites often include good visual styling when you hover over a link but not when it has keyboard focus.
+Allen has changed how he works to use the mouse less. He uses an ergonomic keyboard to navigate around web pages and has found that this helps alleviate the pain associated with using the mouse. He can do his job but still finds it tiring and painful when performing repeated or prolonged activity. He also found that when he couldn't see which field or link had focus or when they weren't in a logical order he had to use his mouse again making things worse. Sites often include good visual styling when you hover over a link but not when it has keyboard focus.
 
-Since moving to using a keyboard more Alex has found some features which really help. For example, a skip link that moves focus past all the navigation is a big help. Alex is beginning to avoid sites that don't have this feature which is limiting some of research sources.
+Since moving to using a keyboard more Allen has found some features which really help. For example, a skip link that moves focus past all the navigation is a big help. Allen is beginning to avoid sites that don't have this feature which is limiting some of research sources.
 
-Alex has started using speech control software which helps him to avoid using the mouse and keyboard but it is early days and he is not sure of how to use all the features. The software allows him to select and 'click' on links by speaking but only when the links are clear and coded correctly. The software also has a speech-to-text dictation feature. As someone who has spent years typing out his articles Alex is having to train himself in a new way of working. He would still prefer to type as he thinks he is much slower with dictation but is hopeful that his speed will improve.
+Allen has started using speech control software which helps him to avoid using the mouse and keyboard but it is early days and he is not sure of how to use all the features. The software allows him to select and 'click' on links by speaking but only when the links are clear and coded correctly. The software also has a speech-to-text dictation feature. As someone who has spent years typing out his articles Allen is having to train himself in a new way of working. He would still prefer to type as he thinks he is much slower with dictation but is hopeful that his speed will improve.
 
-Outside of work, Alex finds his mobile device easier to use than the computer because there is limited navigation, no pointer device, and because it is hand-held, he can usually find a comfortable position. He wishes his employer would create a mobile-friendly/responsive site that he could use for his job.
+Outside of work, Allen finds his mobile device easier to use than the computer because there is limited navigation, no pointer device, and because it is hand-held, he can usually find a comfortable position. He wishes his employer would create a mobile-friendly/responsive site that he could use for his job.
 
 2. Dragon out of the box will have better ways to support navigation. Speech is much faster
 
