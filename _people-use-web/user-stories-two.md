@@ -82,7 +82,7 @@ Ian is autistic. His autism was identified at an early age because of delays in 
 
 Ian works part-time as a data entry clerk. Working with a computer is easy for Ian, although updates to the data entry application can cause him problems if there are significant changes to the interface. This can cause feelings of axiety for Ian if he doesn't know the change is coming and given time to adapt. It can also be difficult for Ian if someone asks for some work that means he has to use parts of the system that he is not as familiar with. Most of the systems have a consistent layout and navigation but some are completely different and this can confuse Ian a bit.  
 
-Ian finds interacting with colleagues via email easy. He has worked with his team to help them appreciate how using plain language and avoiding too many metaphors can help him. Many have said they also prefer less corporate jargon as well. 
+Ian finds interacting with colleagues via email easy. He has worked with his team to help them appreciate how using plain language and not introducing new metaphors can help him. Many have said they also prefer less corporate jargon as well. 
 
 Ian has his own living space in his parent's home including his own kitchen. He has been learning how to cook using online videos. He finds straightforward, practical, step-by-step videos really helpful. However, if the video is full of metaphors, vague language, or implied content, it can be more difficult to understand. Some of the cooking sites he uses have a lot of adverts on them with banners and video which can be distracting. This is particularly bad if there is audio as well, especially if Ian can't control it easily.
 
