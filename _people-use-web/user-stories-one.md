@@ -2,7 +2,7 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "Alan, reporter with paraplegia"
+title: "Alan, reporter with limited use of his arms"
 nav_title: "Alan"
 parent_in_h1:
   - ref: /people-use-web/user-stories/
@@ -78,15 +78,15 @@ Introduction to Alan
 
 > It's not like I can't use a keyboard or mouse, I just can't use it for long periods because it is tiring.
 
-Alan has worked as a reporter for more than 20 years. He was involved in a accident which caused a spinal cord injury. This left him with what is called incomplete tetraplegia. He has some function and sensation in his upper limbs but no movement or sensation in his legs. Alan uses a keyboard with larger keys to help him more easily hit the correct key and a joystck instead of a mouse. Use these for extended periods can be tiring so he has started using speech recognition software for some tasks, such as dictating long pieces. 
+Alan has worked as a reporter for more than 20 years. He was involved in a accident which caused a spinal cord injury. This left him with limited use of his arms and no movement or sensation in his legs. Alan uses a keyboard with larger keys to help him more easily hit the correct key and a joystck instead of a mouse. Use these for extended periods can be tiring so he has started using speech recognition software for some tasks, such as dictating long pieces. 
 
-Alan finds the joystick really handy but he will also sometimes just use they keyboard for navigation. He has found this to be a bit easier. He can do his job but still finds it tiring and painful when performing repeated or prolonged activity. When using they keyboard he did find that on some sites he couldn't see which field or link had focus. He also found that sometimes they weren't in a logical order which made it hard to find the element he was interested in. He could always use his joystick but that just introduced frustrations. Sites often include good visual styling when you hover over a link but not when it has keyboard focus.
+Alan uses a joystick with an enlarged lever with the palm of his hands rather than his fingers. This can be inaccurate to use particularly when pointing to and clicking on small areas. When this happens he will sometimes switch to using the keyboard for navigation. He can use the tab key to move through links and form elements. When using they keyboard he did find that on some sites he couldn't see which field or link had focus. He also found that sometimes they weren't in a logical order which made it hard to find the element he was interested in. He could always use his joystick but that can interrupt his flow and slow him down. Sites often include good visual styling when you hover over a link but sometimes don't include this when the link has keyboard focus.
 
-When using a keyboard Alan has found some features which really help. For example, a skip link that moves focus past all the navigation is a big help. Alan is beginning to dread sites that don't have this feature which is limiting some of research sources.
+When using a keyboard Alan has found some features which really help. For example, a skip link that moves focus past all the navigation is a big help. Alan does avoid some sites that don't have this feature. This does limit his research sources a bit.
 
 Alan has started using speech control software which helps him to avoid using the mouse and keyboard. It is early days and he is not sure of how to use all the features. The software allows him to select and 'click' on links by speaking but only when the links are clear and coded correctly. The software also has a speech-to-text dictation feature. As someone who has spent years typing out his articles Alan is having to train himself in a new way of working. He would still prefer to type as he thinks he is much slower with dictation but is hopeful that his speed will improve.
 
-Outside of work, Alan finds his mobile device easier to use than the computer because there is limited navigation, no pointer device, and because it is hand-held, he can usually find a comfortable position. He wishes his employer would create a mobile-friendly/responsive site that he could use for his job.
+Outside of work, Alan finds his mobile device easier to use than the computer because there is limited navigation and no pointer device. Since it is hand-held, he has more options to place it in a position that he is comfortable with. He wishes his employer would create a mobile-friendly or responsive site that he could use for his job.
 
 ## Barrier examples
 
@@ -99,7 +99,7 @@ Process time outs barrier
 : **Works well:** "At the start of a long form or process, I am told that there is a time out and given the option to set it to be slightly longer."
 
 Saving progress barrier
-: **Problem:** "Completing long forms with no way to save progress and take a break can be painful and tiring."
+: **Problem:** "Completing long forms with no way to save progress and take a break can be tiring."
 : **Words well:** "I have an option to save progress and take a break when completing long, multi-step forms like when I have to get a code in email or text and type it in."
 
 Popup windows barrier
