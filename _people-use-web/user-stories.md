@@ -62,7 +62,7 @@ The following are not real people, but represent real experiences of people with
 
 * {:.left} [{% include image.html src="profile.png" alt="" %} Luis, basketball fan with Down syndrome](/people-use-web/user-stories-five)<br> Luis was born with Down syndrome and has mild to moderate cognitive delay. Due to his distinct facial appearance and difficulties with speech, many people underestimate Luis' intelligence and capabilities.
 
-* {:.left} [{% include image.html src="profile.png" alt="" %} Martine, older adult student who is deaf](/people-use-web/user-stories-six)<br> Martine is a mature student, taking online courses. She has been deaf since birth.
+* {:.left} [{% include image.html src="profile.png" alt="" %} Martine, older adult student who is deaf](/people-use-web/user-stories-six)<br> Martine is a mature student, taking online courses. She has been deaf since birth. While she can hear some sounds, she does not hear enough to understand speech.
 
 * {:.left} [{% include image.html src="profile.png" alt="" %} Noor, teenager who is deaf and blind](/people-use-web/user-stories-seven)<br> Noor is a teenager who was born deaf and with typical vision. She recently became legally blind too. Noor has some residual vision and can see small portions of a computer screen when it is significantly enlarged. She communicates using sign language and a portable electronic Braille device.
 
