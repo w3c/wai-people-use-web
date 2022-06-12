@@ -82,7 +82,7 @@ Lee was born with deuteranopia and protanopia (often called "color blindness"). 
 
 Lee discovered that shopping for clothes online is actually an advantage over going to physical stores. In addition to just showing pictures of items in the various colors offered, his favorite sites include color labels making coordinating what goes together much easier. Sometimes when checking out though, the required fields and error messages are notated with a red outline and Lee has to pay special attention to identify them. He noticed lately, however, that a lot of sites are getting better about using a secondary notation like an asterisk for required fields and bold text or an arrow pointing to errors. This really helps a lot.
 
-Lee plays in various fantasy football leagues with his friends and workmates. Sometimes there can be problems with the way these sites use color to differentiate between teams, player positions and whether or not players are selected for his team. As a result, he tends to prefer certain Fantasy Football apps over others which means he has to try and convince friends to play using the same app.
+Lee plays in various fantasy football leagues with his friends and workmates. Sometimes there can be problems with the way these sites use color to differentiate between teams, player positions, and whether or not players are selected for his team. As a result, he tends to prefer certain Fantasy Football apps that don't use color as the only way to indicate information that is important to playing. This means he has to try and convince friends to play using the same app.
 
 ## Barrier examples
 
