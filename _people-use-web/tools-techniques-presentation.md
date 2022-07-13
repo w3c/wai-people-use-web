@@ -1,5 +1,5 @@
 ---
-title: "Presentation distingushing and understanding"
+title: "Presentation distinguishing and understanding"
 order: 3
 permalink: /people-use-web/tools-techniques-presentation/
 ref: /people-use-web/tools-techniques-presentation/
