@@ -34,7 +34,7 @@ This section explores the wide diversity of abilities. It highlights some web ac
 {::options toc_levels="2" /}
 
 {::nomarkdown}
-{% include_cached toc.html type="start" title="Page Content" class="full" %}
+{% include_cached toc.html type="start" title="Page Contents" class="full" %}
 {:/}
 
 - TOC is created automatically
@@ -43,16 +43,6 @@ This section explores the wide diversity of abilities. It highlights some web ac
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
 {:/}
-
-## Diversity by group {#diversity-groups}
-
-LoremLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-- [Auditory](/people-use-web/abilities-barriers-auditory/)
-- [Cognitive, learning, and neurological](/people-use-web/abilities-barriers-cognitive/)
-- [Physical](/people-use-web/abilities-barriers-physical/)
-- [Speech](/people-use-web/abilities-barriers-speech/)
-- [Visual](/people-use-web/abilities-barriers-visual/)
 
 ## Diversity of abilities {#diversity}
 
@@ -67,4 +57,14 @@ Each individual is unique. People have diverse abilities, skills, tools, prefere
 -   **Temporary impairments:**{:#temporary} Some people may be experiencing temporary impairments such as those that may occur due to an accident, surgery, or medication. They may not know about accessibility solutions, may not know how to use accessibility features, and may be unaware of their needs.
 -   **Situational limitations:**{:#situational} Some people may be experiencing constraints due to their surrounding or due to other situational aspects. For example, they may be in a loud environment and unable to hear audio, in bright sunlight and unable to see a screen, or they may not be able to afford some technologies.
 
-Websites and web tools designed for people with a broad range of abilities benefit everyone, including people without disabilities. It is, therefore, important to consider the broad diversity of functional needs rather than to categorize people according to medical classifications. 
+Websites and web tools designed for people with a broad range of abilities benefit everyone, including people without disabilities. It is, therefore, important to consider the broad diversity of functional needs rather than to categorize people according to medical classifications.
+
+## Diversity by group {#diversity-groups}
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+- [Auditory](/people-use-web/abilities-barriers-auditory/)<br>Auditory disabilities range from mild or moderate hearing loss in one or both ears (“hard of hearing”) to substantial and uncorrectable hearing loss in both ears (“deafness”). Some people with auditory disabilities can hear sounds but sometimes not sufficiently to understand all speech, especially when there is background noise. This can include people using hearing aids.
+- [Cognitive, learning, and neurological](/people-use-web/abilities-barriers-cognitive/)<br>Cognitive and learning disabilities affect how people store, retrieve, or use information. Often, only some functions are impaired while others are unaffected. Many of these disabilities do not affect overall intelligence. Cognitive and learning disabilities are usually invisible and can be age-related. Many users may not have a formal diagnosis or disclose having a disability due to social stigma, vocational concerns and prejudices.
+- [Physical](/people-use-web/abilities-barriers-physical/)<br>Physical disabilities (sometimes called “motor disabilities”) include weakness and limitations of muscular control (such as involuntary movements including tremors, lack of coordination, or paralysis), limitations of sensation, joint disorders (such as arthritis), pain that impedes movement, and missing limbs.
+- [Speech](/people-use-web/abilities-barriers-speech/)<br>Speech disabilities include difficulty producing speech that is recognizable by others or by speech recognition software. For example, the loudness or clarity of someone’s voice might be difficult to understand.
+- [Visual](/people-use-web/abilities-barriers-visual/)<br>Visual disabilities range from mild or moderate vision loss in one or both eyes (“low vision”) to substantial and uncorrectable vision loss in both eyes (“blindness”). Some people have reduced or lack of sensitivity to certain colors (often called “color blindness”), or increased sensitivity to bright colors. These variations in perception of colors and brightness can be independent of the visual acuity.
