@@ -55,7 +55,7 @@ Some people need larger text and image sizes or higher contrast between text and
 
 Making text more readable is of particular importance. This involves changing its visual appearance, using additional text-to-speech, and adapting the content. For example, changing the font type, colors, spacing, and line width makes texts more readable for many people. Sometimes text-to-speech is used to assist reading further. Adapting the content involves rearranging sections of web pages, adding functionality such as dictionaries and glossaries, and hiding less used functionality. While these changes are often managed using specialized web browsers and tools, website authors need to provide adequate coding to support such adjustments and adaptations.
 
-Also, people process information differently. This aspect is particularly relevant for learning environments but also applies to many other situations. In some cases, authors can provide different representations of the same information to address the widest audience possible, such as graphical and tabular representations of data for people with different learning styles, or [sign language](#sign){:.termref} videos for sign language users.
+Also, people process information differently. This aspect is particularly relevant for learning environments but also applies to many other situations. In some cases, authors can provide different representations of the same information to address the widest audience possible, such as graphical and tabular representations of data for people with different learning styles.
 
 ## Examples of accessibility features {#examples-of-accessibility-features}
 
@@ -65,7 +65,6 @@ Also, people process information differently. This aspect is particularly releva
 - **Progressive disclosure**{:#progressive} – design technique that involves showing only the least amount of information or functions necessary for a given task or purpose, to avoid overloading the user with information.
 - **Reduced interface**{:#reduced} – representation of the content that only shows most relevant information or more frequently used functions; for example, by hiding other parts of the content that can distract users.
 - **Screen magnification**{:#display} – changing the settings of the web browser, operating system, or screen to enlarge or reduce text size and images. Some people use magnification lenses, binoculars, or other visual aids, and software such as [screen magnifiers](#magnifiers){:.termref} to better see the content.
-- **Sign language**{:#sign} – a visual form of communication that is primarily used by people who are deaf. It involves hand, body, and facial expressions to transmit words, phrase, and tone. For instance, the intensity of a gesture could indicate the mood or emphasis of particular information. As in written languages, there are many sign languages and dialects, some of which are recognized as official languages in some countries. Not all people who have auditory disabilities or who are deaf know sign language.
 - **Symbols**{:#symbols} – icons that represent words or concepts used instead of text by some people with impaired communication, including people with difficulties to read or write.
 
 ## Examples of assistive technologies and adaptive strategies {#examples-of-assistive-technologies-and-adaptive-strategies}

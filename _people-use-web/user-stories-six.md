@@ -108,7 +108,7 @@ No alternative for audio
 
 * [Captions (Perception)](/people-use-web/tools-techniques-perception/#captions)
 * [Transcripts (Perception)](/people-use-web/tools-techniques-perception/#transcripts)
-* [Sign language (Presentation)](/people-use-web/tools-techniques-presentation/#sign)
+* [Sign language (Perception)](/people-use-web/tools-techniques-perception/#sign)
 
 ## Related WAI resources
 
