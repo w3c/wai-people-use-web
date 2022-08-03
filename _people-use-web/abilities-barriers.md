@@ -44,7 +44,7 @@ This section explores the wide diversity of abilities. It highlights some web ac
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Diversity of abilities {#diversity}
+## Diverse abilities {#diverse}
 
 There are many reasons why people may be experiencing varying degrees of auditory, cognitive, physical, speech, and visual disabilities. For instance, some may have disabilities from birth, an illness, disease, or accident, or they may develop impairments with age. Some may not consider themselves to have disabilities even if they do experience such functional limitations.
 
@@ -61,7 +61,7 @@ Websites and web tools designed for people with a broad range of abilities benef
 
 ## Diversity by group {#diversity-groups}
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Learn about common types of disability and web accessibility barriers.
 
 - [Auditory](/people-use-web/abilities-barriers-auditory/)<br>Auditory disabilities range from mild or moderate hearing loss in one or both ears (“hard of hearing”) to substantial and uncorrectable hearing loss in both ears (“deafness”). Some people with auditory disabilities can hear sounds but sometimes not sufficiently to understand all speech, especially when there is background noise. This can include people using hearing aids.
 - [Cognitive, learning, and neurological](/people-use-web/abilities-barriers-cognitive/)<br>Cognitive and learning disabilities affect how people store, retrieve, or use information. Often, only some functions are impaired while others are unaffected. Many of these disabilities do not affect overall intelligence. Cognitive and learning disabilities are usually invisible and can be age-related. Many users may not have a formal diagnosis or disclose having a disability due to social stigma, vocational concerns and prejudices.
