@@ -93,8 +93,8 @@ Inaccurate captions
 : **Works well:** "When the captioner gets to know the material so they don't miss words or make mistakes."
 
 Design of captions
-: **Problem:** "When watching movies online, the captions often appear on top of the video. This obscures the video and makes the captions hard to read over a background that is constantly changing."
-: **Works well:** "Captions appear at the bottom of the screen against a solid color background that offers good contrast between the captions and background."
+: **Problem:** "When watching movies online, the captions often cover parts of the video. Sometimes I miss things in the video and it makes the captions hard to read depending on the background."
+: **Works well:** "Captions appear at the bottom of the screen but I can also move them if necessary. They are shown against a solid color background that offers good contrast between the captions and background."
 
 Good camera position for speaker
 : **Problem:** "Some classes record the instructor speaking. This is great because I am good at lip reading but the camera is often too far away."
