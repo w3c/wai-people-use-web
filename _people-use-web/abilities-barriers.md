@@ -19,9 +19,38 @@ navigation:
  next: /people-use-web/abilities-barriers-auditory/
 ---
 
-This page explores the wide diversity of people and abilities. It highlights some web accessibility barriers that people commonly experience because of inaccessible websites and web tools.
+{::nomarkdown}
+{% include box.html type="start" h="2" title="Summary" class="full" %}
+{:/}
 
-**Note:** This page is illustrative and is not a complete list of all disabilities and barriers.
+This section explores the wide diversity of abilities. It highlights some web accessibility barriers that people commonly experience because of inaccessible websites and web tools.
+
+**Note:** This is illustrative and is not a complete list of all disabilities or barriers.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+
+{::options toc_levels="2" /}
+
+{::nomarkdown}
+{% include_cached toc.html type="start" title="Page Contents" class="full" %}
+{:/}
+
+{::nomarkdown}
+{% include_cached toc.html type="end" %}
+{:/}
+
+## Diversity by group
+
+LoremLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+- [Auditory](/people-use-web/abilities-barriers-auditory/)
+- [Cognitive, learning, and neurological](/people-use-web/abilities-barriers-cognitive/)
+- [Physical](/people-use-web/abilities-barriers-physical/)
+- [Speech](/people-use-web/abilities-barriers-speech/)
+- [Visual](/people-use-web/abilities-barriers-visual/)
 
 ## Diversity of abilities {#diversity}
 
@@ -37,11 +66,3 @@ Each individual is unique. People have diverse abilities, skills, tools, prefere
 -   **Situational limitations:**{:#situational} Some people may be experiencing constraints due to their surrounding or due to other situational aspects. For example, they may be in a loud environment and unable to hear audio, in bright sunlight and unable to see a screen, or they may not be able to afford some technologies.
 
 Websites and web tools designed for people with a broad range of abilities benefit everyone, including people without disabilities. It is, therefore, important to consider the broad diversity of functional needs rather than to categorize people according to medical classifications. 
-
-## TBC Title
-
-- [Auditory](/people-use-web/abilities-barriers-auditory/)
-- [Cognitive, learning, and neurological](/people-use-web/abilities-barriers-cognitive/)
-- [Physical](/people-use-web/abilities-barriers-physical/)
-- [Speech](/people-use-web/abilities-barriers-speech/)
-- [Visual](/people-use-web/abilities-barriers-visual/)
