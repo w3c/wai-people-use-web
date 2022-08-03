@@ -38,6 +38,8 @@ This section explores the wide diversity of abilities. It highlights some web ac
 {% include_cached toc.html type="start" title="Page Contents" class="full" %}
 {:/}
 
+{:toc}
+
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
 {:/}
