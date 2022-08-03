@@ -1,5 +1,5 @@
 ---
-title: "Input typing, writing, and clicking"
+title: "Input - typing, writing, and clicking"
 order: 3
 permalink: /people-use-web/tools-techniques-input/
 ref: /people-use-web/tools-techniques-input/

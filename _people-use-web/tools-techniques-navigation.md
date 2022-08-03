@@ -1,5 +1,5 @@
 ---
-title: "Interaction navigating and finding"
+title: "Interaction - navigating and finding"
 order: 3
 permalink: /people-use-web/tools-techniques-navigation/
 ref: /people-use-web/tools-techniques-navigation/
