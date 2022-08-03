@@ -65,7 +65,7 @@ Also, people process information differently. This aspect is particularly releva
 - **Progressive disclosure**{:#progressive} – design technique that involves showing only the least amount of information or functions necessary for a given task or purpose, to avoid overloading the user with information.
 - **Reduced interface**{:#reduced} – representation of the content that only shows most relevant information or more frequently used functions; for example, by hiding other parts of the content that can distract users.
 - **Screen magnification**{:#display} – changing the settings of the web browser, operating system, or screen to enlarge or reduce text size and images. Some people use magnification lenses, binoculars, or other visual aids, and software such as [screen magnifiers](#magnifiers){:.termref} to better see the content.
-- **Symbols**{:#symbols} – icons that represent words or concepts used instead of text by some people with impaired communication, including people with difficulties to read or write.
+- **Symbols**{:#symbols} – icons that represent words or concepts used instead of text by some people with impaired communication, including people with difficulties reading or writing.
 
 ## Examples of assistive technologies and adaptive strategies {#examples-of-assistive-technologies-and-adaptive-strategies}
 
