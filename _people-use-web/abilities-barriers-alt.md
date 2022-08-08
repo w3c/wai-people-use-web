@@ -1,8 +1,8 @@
 ---
 title: "Diverse Abilities and Barriers"
 order: 2
-permalink: /people-use-web/abilities-barriers/
-ref: /people-use-web/abilities-barriers/
+permalink: /people-use-web/abilities-barriers-alt/
+ref: /people-use-web/abilities-barriers-alt/
 lang: en
 last_updated: 2017-05-15
 description: Explores the wide diversity of people and abilities. Highlights some web accessibility barriers that people commonly experience because of inaccessible websites and web tools.
