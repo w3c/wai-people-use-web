@@ -71,7 +71,7 @@ People with cognitive, learning, and neurological disabilities use different typ
 
 ## Examples of cognitive, learning, and neurological disabilities {#examples-of-cognitive-learning-and-neurological-disabilities}
 
--   **Age-related forgetfulness**{#ageforgetful} (sometimes called "age-appropriate forgetfulness" or "age-related memory loss") —  impaired memory that can be a normal part of healthy aging, such as taking longer to learn new things and occasionally forget particular words.
+-   **Age-related forgetfulness**{:#ageforgetful} (sometimes called "age-appropriate forgetfulness" or "age-related memory loss") —  impaired memory that can be a normal part of healthy aging, such as taking longer to learn new things and occasionally forget particular words.
 -   **Attention deficit hyperactivity disorder (ADHD)**{:#adhd} (formerly "attention deficit disorder (ADD)") – involves difficulty focusing on a single task, focusing for longer periods, or being easily distracted.
 -   **Autism spectrum disorder (ASD)**{:#asd} (includes “autism,” “Asperger syndrome,” and “pervasive developmental disorder” (PDD)) - involves impairments of social communication and interaction abilities, and sometimes restricted habits and interests.
 -   **Brain Injury**{:injury} (traumatic or acquired) — damage that can happen at any stage in life and can lead to long-term impairment of executive function, memory, learning, coordination, speech, an emotions as well as other physical and sensory impairments.
