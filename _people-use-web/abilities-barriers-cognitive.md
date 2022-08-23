@@ -58,7 +58,7 @@ Often, only some functions are impaired while other cognitive functions are unaf
 
 Computer technologies and the Web provide many opportunities for people with cognitive and learning disabilities to interact with content and to process information in ways that are more usable to them. For example, people can navigate web content using different strategies, access information in text, audio, or other formats, and change the presentation of the content according to their individual needs or preferences.
 
-Depending on the individual needs, people with cognitive, learning, and neurological disabilities often rely on:
+To use the Web effectively, people with cognitive and learning disabilities often rely on:
 
 -   Clearly structured content that facilitates overview and orientation;
 -   Consistent labeling of forms, buttons, and other content parts;
