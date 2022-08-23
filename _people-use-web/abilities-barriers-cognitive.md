@@ -1,5 +1,5 @@
 ---
-title: "Cognitive, learning, and neurological"
+title: "Cognitive and learning"
 order: 2
 permalink: /people-use-web/abilities-barriers-cognitive/
 ref: /people-use-web/abilities-barriers-cognitive/
@@ -56,7 +56,7 @@ Cognitive and learning disabilities is an umbrella term for a large spectrum of 
 
 Often, only some functions are impaired while other cognitive functions are unaffected. For example, someone with dyslexia may be a fantastic engineer. Sometimes, cognitive and learning disabilities may include intellectual impairments that affect comprehension, alongside written and spoken expression. People may also experience more than one type of cognitive and learning disability. Note that the terminology and definitions used for cognitive and learning disabilities varies between countries.
 
-Computer technologies and the Web provide many opportunities for people with cognitive, learning, and neurological disabilities to interact with content and to process information in ways that are more usable to them. For example, people can navigate web content using different strategies, access information in text, audio, or other formats, and change the presentation of the content according to their individual needs or preferences.
+Computer technologies and the Web provide many opportunities for people with cognitive and learning disabilities to interact with content and to process information in ways that are more usable to them. For example, people can navigate web content using different strategies, access information in text, audio, or other formats, and change the presentation of the content according to their individual needs or preferences.
 
 Depending on the individual needs, people with cognitive, learning, and neurological disabilities often rely on:
 
@@ -69,7 +69,7 @@ Depending on the individual needs, people with cognitive, learning, and neurolog
 
 People with cognitive, learning, and neurological disabilities use different types of web browsing methods, depending on their particular needs. For example, some people use text-to-speech software to hear the information while reading it visually or use captions to read the information while hearing it. Some people use tools that resize text and spacing or customize colors to assist reading. Others use grammar and spelling tools to support writing. For these web browsing methods to work, developers need to consider web accessibility requirements which are often shared by people with hearing, physical, speech, and visual disabilities.
 
-## Examples of cognitive, learning, and neurological disabilities {#examples-of-cognitive-learning-and-neurological-disabilities}
+## Examples of cognitive and learning disabilities {#examples-of-cognitive-and-learning-disabilities}
 
 -   **Age-related forgetfulness**{#ageforgetful} (sometimes called "age-appropriate forgetfulness" or "age-related memory loss") —  impaired memory that can be a normal part of healthy aging, such as taking longer to learn new things and occasionally forget particular words.
 -   **Attention deficit hyperactivity disorder (ADHD)**{:#adhd} (formerly "attention deficit disorder (ADD)") – involves difficulty focusing on a single task, focusing for longer periods, or being easily distracted.
@@ -85,7 +85,7 @@ People with cognitive, learning, and neurological disabilities use different typ
 -   **Neurodiversity**{:#nd} – is a societal rather than medical term to describe the diversity in neurocognitive functioning, much like the diversity in gender, ethnicity, sexual orientation, and disability.
 -   **Seizure disorders**{:#seizure} – includes different types of epilepsy and migraines, which may be in reaction to visual flickering or audio signals at certain frequencies or patterns.
 
-## Examples of barriers for people with cognitive, learning, and neurological disabilities {#examples-of-barriers-for-people-with-cognitive-learning-and-neurological-disabilities}
+## Examples of barriers for people with cognitive and learning disabilities {#examples-of-barriers-for-people-with-cognitive-and-learning-disabilities}
 
 -   Complex, multi-stage process such as forms.
 -   Complex navigation mechanisms and page layouts that are difficult to understand and use. 
@@ -98,7 +98,7 @@ People with cognitive, learning, and neurological disabilities use different typ
 -   Web browsers and media players that do not provide mechanisms to suppress animations and audio. 
 -   Visual page designs that cannot be adapted using web browser controls or custom style sheets.
 
-## Stories related to cognitive, learning, and neurological disabilities {#stories-related-to-cognitive-learning-and-neurological-disabilities}
+## Stories related to cognitive and learning disabilities {#stories-related-to-cognitive-and-learning-disabilities}
 
 - [Luis, basketball fan with Down syndrome](/people-use-web/user-stories-five/)
 - [Ian, autistic data entry clerk](/people-use-web/user-stories-two/) 

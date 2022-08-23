@@ -38,7 +38,7 @@ This page explores the wide diversity of people and abilities. It highlights som
 {:/}
 
 - [Auditory](/people-use-web/abilities-barriers-auditory/)
-- [Cognitive, learning, and neurological](/people-use-web/abilities-barriers-cognitive/)
+- [Cognitive and learning](/people-use-web/abilities-barriers-cognitive/)
 - [Physical](/people-use-web/abilities-barriers-physical/)
 - [Speech](/people-use-web/abilities-barriers-speech/)
 - [Visual](/people-use-web/abilities-barriers-visual/)
