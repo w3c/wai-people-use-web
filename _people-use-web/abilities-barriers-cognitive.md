@@ -67,7 +67,7 @@ To use the Web effectively, people with cognitive and learning disabilities ofte
 -   Options to suppress blinking, flickering, flashing, and otherwise distracting content;
 -   Simpler text that is supplemented by images, graphs, and other illustrations;
 
-People with cognitive, learning, and neurological disabilities use different types of web browsing methods, depending on their particular needs. For example, some people use text-to-speech software to hear the information while reading it visually or use captions to read the information while hearing it. Some people use tools that resize text and spacing or customize colors to assist reading. Others use grammar and spelling tools to support writing. For these web browsing methods to work, developers need to consider web accessibility requirements which are often shared by people with hearing, physical, speech, and visual disabilities.
+People with cognitive and learning disabilities may use different types of web browsing methods or tools to support their particular needs. For example, spell checkers to help when filling in forms, passwords management tools, and text-to-speech with synchronized highlighting of the phrase being read. Some people use tools that resize text and spacing or customize colors to assist reading. Others may require alternative presentation of content, such as additional symbols or simplification. For these methods to work, developers need to make products that support adaptation and personalization.
 
 ## Examples of cognitive and learning disabilities {#examples-of-cognitive-and-learning-disabilities}
 
