@@ -74,7 +74,7 @@ People with cognitive and learning disabilities may use different types of web b
 
 -   **Age-related forgetfulness**{:#ageforgetful} (sometimes called "age-appropriate forgetfulness" or "age-related memory loss") —  impaired memory that can be a normal part of healthy aging, such as taking longer to learn new things and occasionally forget particular words. 
 -   **Attention deficit hyperactivity disorder (ADHD)**{:#adhd} (formerly "attention deficit disorder (ADD)") – involves difficulty focusing on a single task, focusing for longer periods, or being easily distracted.
--   **Autism spectrum disorder (ASD)**{:#asd} (includes “autism,” “Asperger syndrome,” and “pervasive developmental disorder” (PDD)) - involves impairments of social communication and interaction abilities, and sometimes restricted habits and interests.
+-   **Autism spectrum disorder (ASD)**{:#asd} (includes “autism,” “Asperger syndrome,” and “pervasive developmental disorder” (PDD)) - involves impairments of social communication and interaction abilities, and sometimes restricted habits and interests. 
 -   **Brain Injury**{:injury} (traumatic or acquired) — damage that can happen at any stage in life and can lead to long-term impairment of executive function, memory, learning, coordination, speech, an emotions as well as other physical and sensory impairments.
 -   **Dementia** — includes memory loss and trouble concentrating, following a conversation, and finding the right word.
 -   **Intellectual disabilities**{:#intellectual} (sometimes called "[learning disabilities](#learning){:.termref}" in Europe and some other countries, and "developmental disabilities" in other regions) – involves impairments of intelligence, learning more slowly, or difficulty understanding complex concepts. Down syndrome is one of many different kinds of intellectual disability.
@@ -82,7 +82,6 @@ People with cognitive and learning disabilities may use different types of web b
 -   **Mild cognitive impairment (MCI)**{:mci} — sometimes considered the stage between age-related forgetfulness and the more serious decline of dementia.
 -   **Mental health disabilities**{:#mhealth} – includes disabilities that interfere with daily functioning due to challenges with self-regulation of emotions and thoughts. Examples include depression, anxiety, and post-traumatic stress disorder. These conditions may cause temporary or long-term challenges with accessing information, such as difficulty focusing on information, processing information, or understanding it.
 -   **Multiple sclerosis**{:#ms} – causes damage to nerve cells in the brain and spinal cord, and can affect auditory, cognitive, physical, or visual abilities, in particular during relapses.
--   **Neurodiversity**{:#nd} – is a societal rather than medical term to describe the diversity in neurocognitive functioning, much like the diversity in gender, ethnicity, sexual orientation, and disability.
 -   **Seizure disorders**{:#seizure} – includes different types of epilepsy and migraines, which may be in reaction to visual flickering or audio signals at certain frequencies or patterns.
 
 ## Examples of barriers for people with cognitive and learning disabilities {#examples-of-barriers-for-people-with-cognitive-and-learning-disabilities}
