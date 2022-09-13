@@ -37,3 +37,4 @@ This resource introduces how people with disabilities, including people with age
 -   **[[Web Accessibility Perspectives]](/perspective-videos/)** – short videos highlighting accessibility features that are essential to people with disabilities and useful for all.
 -   **[Better Web Browsing](http://www.w3.org/WAI/users/browsing)** - tips on how to customize your particular web browser and computer setup to benefit from accessibility features.
 
+
