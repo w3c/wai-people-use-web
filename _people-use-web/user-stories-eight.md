@@ -74,7 +74,7 @@ Introduction about Preety -- change 2 --
 {% include_cached toc.html type="end" %}
 {:/}
 
-## About Preety ! Brent & Jade & everyone helping !
+## About Preety ! thanks Brent & Jade & everyone helping !
 
 > My text reader helps me focus on what I am reading. I don't use it all the time but for long text it is super helpful
 
