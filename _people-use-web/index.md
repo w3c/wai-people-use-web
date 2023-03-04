@@ -30,7 +30,7 @@ This resource introduces how people with disabilities, including people with age
 -   **[[Stories of Web Users]](/people-use-web/user-stories/)** – stories of selected scenarios of people with disabilities using the Web, to highlight the effect of barriers and the broader benefits of accessible websites and web tools.
 -   **[[Diverse Abilities and Barriers]](/people-use-web/abilities-barriers/)** – explores the wide range of diversity of people and abilities, and highlights some     of the types of barriers that people commonly encounter due to inaccessible design.
 -   **[[Tools and Techniques]](/people-use-web/tools-techniques/)** – introduces some of the techniques and tools that people with disabilities use to interact with the Web, such as browser settings, text-to-speech, voice recognition, and many more.
--   **[Videos of Web Users](/people-use-web/videos/)** – links to eighteen 2+minute videos, and 3 compliations {% include image.html src="video.svg" alt="" class="icon" %}
+-   **[Videos of Web Use](/people-use-web/videos/)** – links to eighteen 2+minute videos and 3 compliations that cover user stories, diverse abilities and barriers, and tools and techniques.
 
 ## Related resources
 
