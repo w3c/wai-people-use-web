@@ -2,8 +2,8 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "Lee, online shopper who cannot distinguish between certain colors (color blindness)"
-nav_title: "Lee"
+title: "Lexie, online shopper who cannot distinguish between certain colors (color blindness)"
+nav_title: "Lexie"
 parent_in_h1:
   - ref: /people-use-web/user-stories/
     name: nav_title
@@ -52,9 +52,9 @@ footer: >
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-Introduction about Lee
+Lexie is an older adult who loves online shopping and fantasy football. Lexie cannot see all colors equally well. Websites and apps that rely on colors alone present barriers for Lexie. Using color alone to highlight text and to indicate areas in a chart also present barriers for Lexie but fortunately her work colleagues have learned ways for using other visual markers in addition to color.
 
-**Note:** The following scenario is not about a real person. It may not address every person with this disability.
+**Note:** This is a story of one particular person -- it doesn't represent the broad diversity of people, so that generalizing this story could lead to stereotypes.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -74,15 +74,15 @@ Introduction about Lee
 {% include_cached toc.html type="end" %}
 {:/}
 
-## About Lee
+## About Lexie
 
 > Sometimes completing the check out process is tricky because if I overlook a mandatory field, I get an error or warning message in red and it’s hard for me to see the message".
 
-Lee was born with deuteranopia and protanopia (often called "color blindness"). He has difficulty distinguishing among items that are red, green, orange, and brown, all of which appear to him as kind of murky brown.
+Lexie was born with deuteranopia and protanopia (often called "color blindness"). She has difficulty distinguishing among items that are red, green, orange, and brown, all of which appear to him as kind of murky brown.
 
-Lee discovered that shopping for clothes online is actually an advantage over going to physical stores. In addition to just showing pictures of items in the various colors offered, his favorite sites include color labels making coordinating what goes together much easier. Sometimes when checking out though, the required fields and error messages are notated with a red outline and Lee has to pay special attention to identify them. He noticed lately, however, that a lot of sites are getting better about using a secondary notation like an asterisk for required fields and bold text or an arrow pointing to errors. This really helps a lot.
+Lexie discovered that shopping for clothes online is actually an advantage over going to physical stores. In addition to just showing pictures of items in the various colors offered, her favorite sites include color labels making coordinating what goes together much easier. Sometimes when checking out though, the required fields and error messages are notated with a red outline and Lexie has to pay special attention to identify them. She noticed lately, however, that a lot of sites are getting better about using a secondary notation like an asterisk for required fields and bold text or an arrow pointing to errors. This really helps a lot.
 
-Lee plays in various fantasy football leagues with his friends and workmates. Sometimes there can be problems with the way these sites use color to differentiate between teams, player positions, and whether or not players are selected for his team. As a result, he tends to prefer certain Fantasy Football apps that don't use color as the only way to indicate information that is important to playing. This means he has to try and convince friends to play using the same app.
+Lexie plays in various fantasy football leagues with her friends and former workmates. Sometimes there can be problems with the way these sites use color to differentiate between teams, player positions, and whether or not players are selected for her team. As a result, she tends to prefer certain Fantasy Football apps that don't use color as the only way to indicate information that is important to playing. This means she has to try and convince friends to play using the same app.
 
 ## Barrier examples
 
