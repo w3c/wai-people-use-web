@@ -2,8 +2,8 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "Yun, retiree with low vision, hand tremor, and mild short-term memory loss"
-nav_title: "Yun"
+title: "Elias, retiree with low vision, hand tremor, and mild short-term memory loss"
+nav_title: "Elias"
 parent_in_h1:
   - ref: /people-use-web/user-stories/
     name: nav_title
@@ -52,9 +52,9 @@ footer: >
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-Introduction about Yun
+Elias is an active 85-year old retiree. Over the years, Elias has been developing low vision, hand tremor, and mild short-term memory loss. He uses digital technologies to stay in touch with his family, read the news, follow his interests in architecture, and order groceries. However, inadequately designed websites and apps present barriers for Elias, and prevent him from these activities.
 
-**Note:** The following scenario is not about a real person. It may not address every person with this disability.
+**Note:** This is a story of one particular person -- it doesn't represent the broad diversity of people, so that generalizing this story could lead to stereotypes.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -74,17 +74,17 @@ Introduction about Yun
 {% include_cached toc.html type="end" %}
 {:/}
 
-## About Yun
+## About Elias
 
 > I love all this new technology. It is great to see my grandchildren. It takes me a bit to find all the controls and sometimes they are a bit on the small side, but I get there in the end
 
-Yun has low vision, hand tremor and short term memory loss. Yun had a long and successful career as an architect. He delayed retirement until he was in his 70's because as the senior architect in his firm, he was often sought after to mentor the new hires and guest lecture at local universities. Yun always wore glasses but over time, the demands of the close-up work necessary to render architectural drawings strained his eyes to the point that he could only work a couple of hours at a time. He finally had to stop work when he developed a mild hand tremor and found it too difficult to maintain the precision required for his work.
+Elias has low vision, hand tremor and short term memory loss. Elias had a long and successful career as an architect. He delayed retirement until he was in his 70's because as the senior architect in his firm, he was often sought after to mentor the new hires and guest lecture at local universities. Elias has macular degeneration that blurs his vision and makes reading more difficult. Over time, the demands of the close-up work necessary to render architectural drawings strained his eyes to the point that he could only work a couple of hours at a time. He finally had to stop work when he developed a mild hand tremor and found it too difficult to maintain the precision required for his work.
 
-Currently, at age 85, Yun's vision has continued to deteriorate, his hand tremors have gotten worse, and his family has started to notice some short term memory loss. Even so, Yun maintains an active interest in the history of architecture and is part of a small group of people who share his passion and write about it online. His blog has an active following and helps ensure he is still able to contribute to the field. 
+Currently, at age 85, Elias's family has started to notice some short term memory loss. Even so, Elias maintains an active interest in the history of architecture and is part of a small group of people who share his passion and write about it online. His blog has an active following and helps ensure he is still able to contribute to the field. 
 
-Like many older people, Yun has difficulty reading small text. He subscribes to an online rather than physical version of the newspaper because he is able to increase the size of the text, making it easier to read. On some sites this does not work as well because either the text gets cut off or the larger text doesn’t flow to the next line and he has to scroll horizontally off screen. His tremor makes it difficult to scroll across in a straight line. While this is easier than managing the large pages of a print newspaper, the best instance is when the text resizes and reflows properly.
+Like many older people, Elias has difficulty reading small text. He subscribes to an online rather than physical version of the newspaper because he is able to increase the size of the text, making it easier to read. On some sites this does not work as well because either the text gets cut off or the larger text doesn’t flow to the next line and he has to scroll horizontally off screen. His tremor makes it difficult to scroll across in a straight line. While this is easier than managing the large pages of a print newspaper, the best instance is when the text resizes and reflows properly.
 
-For all of the benefits of using a computer to read the news and stay active in his field, Yun often has difficulty with the security on some websites. On sites that use CAPTCHAS, it is hard for him to identify the distorted text or identify the images in photos because they are usually not clearly rendered. On sites that send a security code, Yun has to interrupt what he is doing to look on his phone and copy a code, and sometimes the codes are long and hard to transcribe correctly. Yun finds it much simpler when using easily identified CAPTCHAs and security codes that are easy to scan and transcribe, such as short groups of numbers.
+For all of the benefits of using a computer to read the news and stay active in his field, Elias often has difficulty with the security on some websites. On sites that use CAPTCHAS, it is hard for him to identify the distorted text or identify the images in photos because they are usually not clearly rendered. On sites that send a security code, Elias has to interrupt what he is doing to look on his phone and copy a code, and sometimes the codes are long and hard to transcribe correctly. Elias finds it much simpler when using easily identified CAPTCHAs and security codes that are easy to scan and transcribe, such as short groups of numbers.
 
 
 ## Barrier examples
