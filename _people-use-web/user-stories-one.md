@@ -82,7 +82,7 @@ This abuses the video-card component and tries to make it work with an embedded 
 <div class="video-card">
   {% include video-player.html
       yt-id="20SHvU2PKsM"
-      captions="/content-images/wai-eval-overview/evaluating-resources-overview-cc.vtt|en|default"
+      captions="https://raw.githubusercontent.com/w3c/wai-eval-overview/master/content-images/wai-eval-overview/evaluating-resources-overview-cc.vtt|en|default"
   %}
   <p><a href="#alternatives">Alternatives for Video Introduction - Resources Overview</a></p>
 </div>
