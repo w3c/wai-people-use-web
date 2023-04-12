@@ -1,0 +1,142 @@
+{%- assign langs = site.data.lang -%}
+<div class="video-container" data-video-type="" dir="ltr">
+  <video id="video-player" preload="metadata" data-youtube-id="{{include.yt-id}}" data-youtube-nocookie="true" data-description-audible="false" width="450">
+    {%- assign captions = include.captions | split: ',' -%}
+    {%- for caption in captions -%}
+      {%- assign c = caption | split: '|' -%}
+      {%- assign clangcode = c[1] -%}
+      {%- assign l = langs[clangcode].nativeName -%}
+      <track src="{{ include.path | append: c[0] | relative_url }}" label="{{l}}" kind="captions" srclang="{{c[1]}}" {% if c[2] == "default" %}default{% endif %}>
+    {%- endfor -%}
+    {%- assign subtitles = include.subtitles | split: ',' -%}
+      {%- for subtitle in subtitles -%}
+        {%- assign s = subtitle | split: '|' -%}
+        {%- assign slangcode = s[1] -%}
+        {%- assign l = langs[slangcode].nativeName -%}
+        <track src="{{ include.path | append: s[0] | relative_url }}" label="{{l}}" kind="subtitles" srclang="{{s[1]}}" {% if s[2] == "default" %}default{% endif %}>
+      {%- endfor -%}
+    {%- assign descriptions = include.descriptions | split: ',' -%}
+      {%- for desc in descriptions -%}
+        {%- assign d = desc | split: '|' -%}
+        {%- assign dlangcode = d[1] -%}
+        {%- assign l = langs[dlangcode].nativeName -%}
+        <track src="{{ include.path | append: d[0] | relative_url }}" label="{{l}}" kind="descriptions" srclang="{{d[1]}}" {% if d[2] == "default" %}default{% endif %}>
+      {%- endfor -%}
+  </video>
+</div>
+{% if include.yt-id-ad %}
+<div class="video-container" data-video-type="audio-described">
+  <video preload="metadata" data-youtube-id="{{include.yt-id-ad}}" data-youtube-nocookie="true" data-description-audible="false" width="450">
+    {%- assign captions = include.captions-ad | split: ',' -%}
+    {%- for caption in captions -%}
+      {%- assign c = caption | split: '|' -%}
+      {%- assign clangcode = c[1] -%}
+      {%- assign l = langs[clangcode].nativeName -%}
+      <track src="{{ include.path | append: c[0] | relative_url }}" label="{{l}}" kind="captions" srclang="{{c[1]}}" {% if c[2] == "default" %}default{% endif %}>
+    {%- endfor -%}
+    {%- assign subtitles = include.subtitles-ad | split: ',' -%}
+      {%- for subtitle in subtitles -%}
+        {%- assign s = subtitle | split: '|' -%}
+        {%- assign slangcode = s[1] -%}
+        {%- assign l = langs[slangcode].nativeName -%}
+        <track src="{{ include.path | append: s[0] | relative_url }}" label="{{l}}" kind="subtitles" srclang="{{s[1]}}"  {% if s[2] == "default" %}default{% endif %}>
+      {%- endfor -%}
+    {%- assign descriptions = include.descriptions-ad | split: ',' -%}
+      {%- for desc in descriptions -%}
+        {%- assign d = desc | split: '|' -%}
+        {%- assign dlangcode = d[1] -%}
+        {%- assign l = langs[dlangcode].nativeName -%}
+        <track src="{{ include.path | append: d[0] | relative_url }}" label="{{l}}" kind="descriptions" srclang="{{d[1]}}"  {% if d[2] == "default" %}default{% endif %}>
+      {%- endfor -%}
+  </video>
+</div>
+<p><button id="audio_description_button"><svg aria-hidden="true" class="icon-audio-description "><use xlink:href="{{ "/assets/images/icons.svg#icon-audio-description" | relative_url }}"></use></svg> <span>Enable Audio Description</span></button></p>
+{% endif %}
+
+<script src="{{ "/assets/ableplayer/thirdparty/modernizr.custom.js" | relative_url }}"></script>
+<script src="{{ "/assets/scripts/jquery.min.js" | relative_url }}"></script>
+<script src="{{ "/assets/ableplayer/thirdparty/js.cookie.js" | relative_url }}"></script>
+<script src="{{ "/assets/ableplayer/build/ableplayer.min.js" | relative_url }}"></script>
+<script>
+  var youTubeDataAPIKey = "{{site.ytkey}}";
+  var googleApiReady = false;
+  function initGoogleClientApi() {
+    googleApiReady = true;
+  }
+</script>
+<script src="//apis.google.com/js/client.js?onload=initGoogleClientApi"></script>
+
+<script>
+(function () {
+  'use strict';
+
+  var player1 = new AblePlayer($('[data-video-type=""] video'));
+  var player2 = new AblePlayer($('[data-video-type="audio-described"] video'));
+
+  function addclass(el, className) {
+    if (el.classList) {
+      el.classList.add(className);
+    } else {
+      if(! hasclass(el, className)){
+        el.className += ' ' + className;
+      }
+    }
+  }
+
+  function removeclass(el, className) {
+    if (el.classList) {
+      el.classList.remove(className);
+    } else {
+      el.className = el.className.replace(new RegExp('(^|\\b)' + className.split(' ').join('|') + '(\\b|$)', 'gi'), ' ');
+    }
+  }
+
+  function hasclass(el, className) {
+    if (el.classList) {
+      return el.classList.contains(className);
+    } else {
+      return new RegExp('(^| )' + className + '( |$)', 'gi').test(el.className);
+    }
+  }
+
+  var audiodescribed = document.querySelectorAll('[data-video-type="audio-described"]');
+
+  if (audiodescribed) {
+
+  Array.prototype.forEach.call(audiodescribed, function(el, i){
+    el.setAttribute('hidden', true);
+  });
+
+  var adbutton = document.querySelector('#audio_description_button');
+  adbutton.addEventListener('click', function(e){
+    player1.pauseMedia();
+    player2.pauseMedia();
+    if (e.target.getAttribute('data-status') == "audio-described") {
+      var videos = document.querySelectorAll('.video-container');
+      Array.prototype.forEach.call(videos, function(el, i){
+        el.removeAttribute("hidden");
+      });
+      var nonaudiodescribed = document.querySelectorAll('[data-video-type="audio-described"]');
+      Array.prototype.forEach.call(nonaudiodescribed, function(el, i){
+        el.setAttribute('hidden', true);
+      });
+      e.target.setAttribute('data-status', 'non-audio-described');
+      e.target.querySelector('span').innerHTML = 'Enable Audio Description';
+    } else {
+      var videos = document.querySelectorAll('.video-container');
+      Array.prototype.forEach.call(videos, function(el, i){
+        el.setAttribute('hidden', true);
+      });
+      var nonaudiodescribed = document.querySelectorAll('[data-video-type="audio-described"]');
+      Array.prototype.forEach.call(nonaudiodescribed, function(el, i){
+        el.removeAttribute("hidden");
+      });
+      e.target.setAttribute('data-status', 'audio-described');
+      e.target.querySelector('span').innerHTML = 'Disable Audio Description';
+    }
+  });
+
+  }
+
+}());
+</script>
