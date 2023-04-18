@@ -1,6 +1,5 @@
 ---
 title: "Videos of How People with Disabilities Use the Web"
-order: 1
 nav_title: Videos
 lang: "en"
 last_updated: 2023-04-12
@@ -15,9 +14,6 @@ footer: >
 resource:
   title: "Videos of How People with Disabilities Use the Web"
   ref: /people-use-web/videos/
-navigation:
-  previous:
-  next:  
 ---
 
 {:#film.no-display}
@@ -32,8 +28,8 @@ navigation:
 {::nomarkdown}
 <style>
   .able-playlist {
-    display: grid;
     grid-template-columns: 50% 50%;
+    background-color: transparent;
   }
   
   .able-playlist li {
@@ -42,14 +38,38 @@ navigation:
     border-radius: 0;
   }
   
+  .able-playlist li.able-current {
+    background-color: transparent;
+    border-color: transparent;
+  }
+  
+  .able-playlist li.able-current button {
+    color: #005a6a;
+    color: var(--wai-green);
+    font-weight: 700;
+    text-decoration: none;
+    outline: none;
+  }
+  
+  .able-playlist li button:active, .able-playlist li button:focus, .able-playlist li button:hover {
+    background-color: transparent;
+    text-decoration: none;
+    color: var(--wai-green) !important;
+    outline-offset: 2px;
+    outline: 2px solid;
+  }
+
   .able-playlist li button {
     width: auto;
     text-align: left;
-  }
+    color: #005a6a;
+    color: var(--wai-green);
+    font-weight: normal;
+  }  
 </style>
-<ul class="able-playlist" data-player="video-player">
+<ul class="able-playlist default-grid compact-grid" data-player="video-player">
 	<li data-youtube-id="Hui87z2Vx8o" data-youtube-desc-id="a9kNUv6N8Rk"><button type="button">Colors with good contrast</button></li>
-	<li data-youtube-id="iWO5N3n1DXU" data-youtube-desc-id="4qIordU8vT8"><button type="button">Video aptions</button></li>
+	<li data-youtube-id="iWO5N3n1DXU" data-youtube-desc-id="4qIordU8vT8"><button type="button">Video captions</button></li>
 	<li data-youtube-id="CzfKB3PuuIY" data-youtube-desc-id="65G_twR47OQ"><button type="button">Large links, buttons and controls</button></li>
 </ul>
 {:/}
