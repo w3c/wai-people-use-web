@@ -1,0 +1,166 @@
+---
+layout: default
+sidebar: true
+---
+
+<style>
+  .able-playlist {
+    grid-template-columns: 50% 50%;
+    background-color: transparent;
+  }
+  
+  .able-playlist li {
+    background-color: transparent;
+    border: 0;
+    border-radius: 0;
+  }
+  
+  .able-playlist li.able-current {
+    background-color: transparent;
+    border-color: transparent;
+  }
+  
+  .able-playlist li.able-current button {
+    color: #005a6a;
+    color: var(--wai-green);
+    font-weight: 700;
+    text-decoration: none;
+    outline: none;
+  }
+  
+  .able-playlist li button:active, .able-playlist li button:focus, .able-playlist li button:hover {
+    background-color: transparent;
+    text-decoration: none;
+    color: var(--wai-green) !important;
+    outline-offset: 2px;
+    outline: 2px solid;
+  }
+
+  .able-playlist li button {
+    width: auto;
+    text-align: left;
+    color: #005a6a;
+    color: var(--wai-green);
+    font-weight: normal;
+  }  
+</style>
+
+<div class="video-container" data-video-type="" dir="ltr">
+  <video id="video-player" preload="metadata" data-youtube-id="" data-youtube-nocookie="true" width="450"></video>
+</div>
+
+{%- assign langs = site.data.lang -%}
+
+<h2>Playlist</h2>
+
+{% if page.playlist %}
+<ul class="able-playlist default-grid compact-grid" data-player="video-player">
+    {% for video in page.playlist %}
+	<li data-youtube-id="{{video.youtube-id}}" {% if video.youtube-ad-id %}data-youtube-desc-id="{{video.youtube-ad-id}}"{% endif %}>
+      {% for caption in video.captions %}
+      {%- assign langcode = caption[0] -%}
+      <span class="able-track" data-kind="captions" data-src="{{caption[1] | relative_url}}" data-label="{{langs[langcode].nativeName}}" data-srclang="{{langcode}}" {% if langcode == video.default-lang %}data-default{% endif %}></span>
+      {% endfor %}
+      {% for subtitle in video.subtitles %}
+      {%- assign langcode = subtitle[0] -%}
+      <span class="able-track" data-kind="subtitles" data-src="{{subtitle[1] | relative_url}}" data-label="{{langs[langcode].nativeName}}" data-srclang="{{langcode}}" {% if langcode == video.default-lang %}data-default{% endif %}></span>
+      {% endfor %}
+      {% for description in video.descriptions %}
+      {%- assign langcode = description[0] -%}
+      <span class="able-track" data-kind="descriptions" data-src="{{description[1] | relative_url}}" data-label="{{langs[langcode].nativeName}}" data-srclang="{{langcode}}" {% if langcode == video.default-lang %}data-default{% endif %}></span>
+      {% endfor %}
+      <button type="button">{{ video.title }}</button>
+    </li>
+    {% endfor %}
+</ul>
+{% endif %}
+
+{{content}}
+
+<script src="{{ "/assets/ableplayer/thirdparty/modernizr.custom.js" | relative_url }}"></script>
+<script src="{{ "/assets/scripts/jquery.min.js" | relative_url }}"></script>
+<script src="{{ "/assets/ableplayer/thirdparty/js.cookie.js" | relative_url }}"></script>
+<script src="{{ "/assets/ableplayer/build/ableplayer.min.js" | relative_url }}"></script>
+<script>
+  var youTubeDataAPIKey = "{{site.ytkey}}";
+  var googleApiReady = false;
+  function initGoogleClientApi() {
+    googleApiReady = true;
+  }
+</script>
+<script src="//apis.google.com/js/client.js?onload=initGoogleClientApi"></script>
+
+<script>
+(function () {
+  'use strict';
+
+  var player1 = new AblePlayer($('[data-video-type=""] video'));
+  var player2 = new AblePlayer($('[data-video-type="audio-described"] video'));
+
+  function addclass(el, className) {
+    if (el.classList) {
+      el.classList.add(className);
+    } else {
+      if(! hasclass(el, className)){
+        el.className += ' ' + className;
+      }
+    }
+  }
+
+  function removeclass(el, className) {
+    if (el.classList) {
+      el.classList.remove(className);
+    } else {
+      el.className = el.className.replace(new RegExp('(^|\\b)' + className.split(' ').join('|') + '(\\b|$)', 'gi'), ' ');
+    }
+  }
+
+  function hasclass(el, className) {
+    if (el.classList) {
+      return el.classList.contains(className);
+    } else {
+      return new RegExp('(^| )' + className + '( |$)', 'gi').test(el.className);
+    }
+  }
+
+  var audiodescribed = document.querySelectorAll('[data-video-type="audio-described"]');
+
+  if (audiodescribed) {
+
+  Array.prototype.forEach.call(audiodescribed, function(el, i){
+    el.setAttribute('hidden', true);
+  });
+
+  var adbutton = document.querySelector('#audio_description_button');
+  adbutton.addEventListener('click', function(e){
+    player1.pauseMedia();
+    player2.pauseMedia();
+    if (e.target.getAttribute('data-status') == "audio-described") {
+      var videos = document.querySelectorAll('.video-container');
+      Array.prototype.forEach.call(videos, function(el, i){
+        el.removeAttribute("hidden");
+      });
+      var nonaudiodescribed = document.querySelectorAll('[data-video-type="audio-described"]');
+      Array.prototype.forEach.call(nonaudiodescribed, function(el, i){
+        el.setAttribute('hidden', true);
+      });
+      e.target.setAttribute('data-status', 'non-audio-described');
+      e.target.querySelector('span').innerHTML = 'Enable Audio Description';
+    } else {
+      var videos = document.querySelectorAll('.video-container');
+      Array.prototype.forEach.call(videos, function(el, i){
+        el.setAttribute('hidden', true);
+      });
+      var nonaudiodescribed = document.querySelectorAll('[data-video-type="audio-described"]');
+      Array.prototype.forEach.call(nonaudiodescribed, function(el, i){
+        el.removeAttribute("hidden");
+      });
+      e.target.setAttribute('data-status', 'audio-described');
+      e.target.querySelector('span').innerHTML = 'Disable Audio Description';
+    }
+  });
+
+  }
+
+}());
+</script>
