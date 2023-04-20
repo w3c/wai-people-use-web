@@ -76,17 +76,6 @@ Introduction to Alan
 
 ## About Alan
 
-{% comment %}
-This abuses the video-card component and tries to make it work with an embedded YouTube player that is enhanced with the AblePlayer library. Remove and replace with regular video-card component in case of bugs.
-{% endcomment %}
-<div class="video-card">
-  {% include video-player.html
-      yt-id="20SHvU2PKsM"
-      captions="https://raw.githubusercontent.com/w3c/wai-eval-overview/master/content-images/wai-eval-overview/evaluating-resources-overview-cc.vtt|en|default"
-  %}
-  <p><a href="#alternatives">Alternatives for Video Introduction - Resources Overview</a></p>
-</div>
-
 > It's not like I can't use a keyboard or mouse, I just can't use it for long periods because it is tiring.
 
 Alan was involved in a accident which caused a spinal cord injury. This left him with limited use of his arms and no movement or sensation in his legs. He has worked as a reporter for more than 20 years. Alan uses a keyboard with larger keys to help him more easily hit the correct key and a joystick instead of a mouse. However, using these for extended periods can be tiring so he has started using speech recognition software for some tasks, such as dictating long pieces. 
