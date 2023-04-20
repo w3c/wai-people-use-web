@@ -73,7 +73,7 @@ footer: >
   }
 </style>
 
-<aside class="box box-full"><div class="box-i" style="display: flex">
+<aside class="box box-simple"><div class="box-i" style="display: flex">
   <div>
     <p style="font-size:120%; margin-top: 0.5em">Alan has limited use of his arms and no movement or sensation in his legs. He has worked as a reporter for more than 20 years. Alan uses a keyboard with larger keys to help him more easily hit the correct key and a joystick instead of a mouse.</p>
     <p><strong>Note:</strong> The following scenario is not about a real person. It may not address every person with this disability.</p>
