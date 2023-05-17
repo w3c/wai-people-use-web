@@ -17,14 +17,44 @@ resource:
   ref: /people-use-web/videos/
   
 playlist:
-  - title: Video captions
-    youtube-id: iWO5N3n1DXU
+  - title: Ade, reporter with limited use of his arms
+    youtube-id: Z5dMdJzUy7w
     default-lang: en
     captions:
-      en: /people-use-web/captions/abilities-barriers_auditory.vtt
-      es: /people-use-web/captions/abilities-barriers_cognitive.vtt
-  - title: Colors with good contrast
-    youtube-id: Hui87z2Vx8o
-  - title: Large links, buttons and controls
-    youtube-id: CzfKB3PuuIY
+      en: /people-use-web/captions/user-stories_1.vtt
+  - title: Ian, data entry clerk with autism
+    youtube-id: bhV7KMfoyT4 
+    default-lang: en
+    captions:
+      en: /people-use-web/captions/user-stories_2.vtt
+  - title: Lexie, online shopper who cannot distinguish between certain colors
+    youtube-id: eh091V45uqc 
+    default-lang: en
+    captions:
+      en: /people-use-web/captions/user-stories_4.vtt
+  - title: Sophie, basketball fan with Down syndrome
+    youtube-id: gmrnVAQuSI8 
+    default-lang: en
+    captions:
+      en: /people-use-web/captions/user-stories_5.vtt
+  - title: Dhruv, older adult student who is deaf
+    youtube-id: jft__DXkPv8 
+    default-lang: en
+    captions:
+      en: /people-use-web/captions/user-stories_6.vtt
+  - title: Marta, marketing assitant who is deaf and blind
+    youtube-id: llTnoiq2Mow 
+    default-lang: en
+    captions:
+      en: /people-use-web/captions/user-stories_7.vtt
+  - title: Stefan, student with attention deficit hyperactivity disorder and dyslexia
+    youtube-id: Ie-RaV7UTCU 
+    default-lang: en
+    captions:
+      en: /people-use-web/captions/user-stories_8.vtt
+  - title: Elias, retiree with low vision, hand tremor, and mild short-term memory loss
+    youtube-id: c-IqJdL0i38 
+    default-lang: en
+    captions:
+      en: /people-use-web/captions/user-stories_9.vtt
 ---
