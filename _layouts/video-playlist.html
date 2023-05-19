@@ -49,6 +49,8 @@ sidebar: true
   <video id="video-player" preload="metadata" data-youtube-id="" data-youtube-nocookie="true" width="450"></video>
 </div>
 
+<p>This video is available as a <a href="#transcript">Text Transcript with Descriptions of Visuals</a> below.</p>
+
 {%- assign langs = site.data.lang -%}
 
 <h2>Playlist</h2>
@@ -69,7 +71,7 @@ sidebar: true
       {%- assign langcode = description[0] -%}
       <span class="able-track" data-kind="descriptions" data-src="{{description[1] | relative_url}}" data-label="{{langs[langcode].nativeName}}" data-srclang="{{langcode}}" {% if langcode == video.default-lang %}data-default{% endif %}></span>
       {% endfor %}
-      <button type="button">{{ video.title }}</button>
+      <button id="{{ video.youtube-id }}" type="button">{{ video.title }}</button>
     </li>
     {% endfor %}
 </ul>
@@ -93,6 +95,16 @@ sidebar: true
 <script>
 (function () {
   'use strict';
+
+  var activeTranscriptButtons = document.querySelectorAll('.able-playlist button');
+  var transcripts             = document.querySelectorAll('.transcript');
+  activeTranscriptButtons.forEach(function(transcriptButton) {
+    transcriptButton.addEventListener('click', function(e) {
+      // Hide all transcripts
+      transcripts.forEach(function(transcript) { transcript.style.display = 'none' });
+      document.querySelector('#' + this.id + "-transcript").style.display = 'block';
+    })
+  })
 
   var player1 = new AblePlayer($('[data-video-type=""] video'));
   var player2 = new AblePlayer($('[data-video-type="audio-described"] video'));
