@@ -49,21 +49,78 @@ footer: >
 ---
 
 {::nomarkdown}
-{% include box.html type="start" h="2" title="Summary" class="full" %}
+
+<style>
+  #introduction p {
+    font-size:120%;
+    margin: 0.5em 0 0 0;
+  }
+  #introduction .box-i {
+  }
+  #introduction nav {
+    border: 0;
+    margin-top: 0;
+  }
+  #introduction nav header {
+    padding: 8px 16px;
+  }
+  #introduction .video-card {
+    margin: 1em;
+    float: none !important;
+    max-width: inherit !important;
+    width: 100% !important;
+  }
+  #introduction .video-card p {
+    font-size: 90%;
+    margin: 0;
+  }
+  #introduction .video-card p:first-child {
+    height: 190px;
+  }
+  #introduction img.video {
+    border-radius: 5px;
+    width: 300px;
+    max-width: 300px;
+  }
+  #introduction .video-card .play-button {
+    position: relative;
+    top: -55px;
+    left: -185px;
+    width: 60px;
+    height: 60px;
+  }
+  @media all and (min-width: 576px) {
+    #introduction .box-i {
+      display: flex;
+      flex: 0 1;
+    }
+    #introduction .video-card .play-button {
+      position: relative;
+      top: -120px;
+      left: 120px;
+      width: 60px;
+      height: 60px;
+    }
+  }
+</style>
+
+<aside id="introduction" class="box"><div class="box-i">
+  <div>
 {:/}
 
 Elias is an active 85-year old retiree. Over the years, Elias has been developing low vision, hand tremor, and mild short-term memory loss. He uses digital technologies to stay in touch with his family, read the news, follow his interests in architecture, and order groceries. However, inadequately designed websites and apps present barriers for Elias, and prevent him from these activities.
 
-**Note:** This is a story of one particular person -- it doesn't represent the broad diversity of people, so that generalizing this story could lead to stereotypes.
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
-
 {::options toc_levels="2..2" /}
 
 {::nomarkdown}
+  </div>
+  <div class="video-card">
+    <p><img class="video" src="https://i9.ytimg.com/vi_webp/c-IqJdL0i38/mq2.webp?sqp=CJT7raMG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgVyglMA8=&rs=AOn4CLCAsO48BLZGbejoQDY-9QQTc9PNmw">
+    <img class="play-button" src="https://www.starpng.com/public/uploads/preview/red-play-button-png-101576847279kuxmycuxzj.png"></p>
+    <p><a href="#transcript">Text Transcript with Descriptions of Visuals</a></p>
+  </div>
+</div>
+
 {% include_cached toc.html type="start" title="Page Contents" class="full" %}
 {:/}
 
@@ -72,7 +129,11 @@ Elias is an active 85-year old retiree. Over the years, Elias has been developin
 
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
+    
+</aside>
 {:/}
+
+**Note:** This is a story of one particular person -- it doesn't represent the broad diversity of people, so that generalizing this story could lead to stereotypes.
 
 ## About Elias
 
