@@ -120,8 +120,7 @@ Lexie is an older adult who loves online shopping and fantasy football. Lexie ca
     %}
     <p><a href="#transcript">Text Transcript with Descriptions of Visuals</a></p>
   </div>
-  <div class="video-card">
-</div></div>
+</div>
 
 {% include_cached toc.html type="start" title="Page Contents" class="full" %}
 {:/}
