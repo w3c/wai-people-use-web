@@ -68,7 +68,7 @@ footer: >
     margin: 1em;
     float: none !important;
     max-width: inherit !important;
-    width: 100% !important;
+    min-width: 45% !important;
   }
   #introduction .video-card p {
     font-size: 90%;
@@ -115,11 +115,13 @@ Lexie is an older adult who loves online shopping and fantasy football. Lexie ca
 {::nomarkdown}
   </div>
   <div class="video-card">
-    <p><img class="video" src="https://i9.ytimg.com/vi_webp/eh091V45uqc/mq2.webp?sqp=COTxraMG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gVSgfMA8=&rs=AOn4CLCzbj-DN5qfXCo3D-1E4KnefOE7ng">
-    <img class="play-button" src="https://www.starpng.com/public/uploads/preview/red-play-button-png-101576847279kuxmycuxzj.png"></p>
+    {% include video-player.html
+        yt-id="eh091V45uqc"
+    %}
     <p><a href="#transcript">Text Transcript with Descriptions of Visuals</a></p>
   </div>
-</div>
+  <div class="video-card">
+</div></div>
 
 {% include_cached toc.html type="start" title="Page Contents" class="full" %}
 {:/}

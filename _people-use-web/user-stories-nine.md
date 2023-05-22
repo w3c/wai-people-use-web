@@ -68,7 +68,7 @@ footer: >
     margin: 1em;
     float: none !important;
     max-width: inherit !important;
-    width: 100% !important;
+    min-width: 45% !important;
   }
   #introduction .video-card p {
     font-size: 90%;
@@ -115,8 +115,9 @@ Elias is an active 85-year old retiree. Over the years, Elias has been developin
 {::nomarkdown}
   </div>
   <div class="video-card">
-    <p><img class="video" src="https://i9.ytimg.com/vi_webp/c-IqJdL0i38/mq2.webp?sqp=CJT7raMG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgVyglMA8=&rs=AOn4CLCAsO48BLZGbejoQDY-9QQTc9PNmw">
-    <img class="play-button" src="https://www.starpng.com/public/uploads/preview/red-play-button-png-101576847279kuxmycuxzj.png"></p>
+    {% include video-player.html
+        yt-id="c-IqJdL0i38"
+    %}
     <p><a href="#transcript">Text Transcript with Descriptions of Visuals</a></p>
   </div>
 </div>
