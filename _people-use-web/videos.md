@@ -1,7 +1,7 @@
 ---
 title: "Videos of How People with Disabilities Use the Web"
 nav_title: Videos
-layout: video-playlist
+layout: default
 lang: "en"
 last_updated: 2023-04-12
 permalink: /people-use-web/videos/
@@ -59,8 +59,7 @@ playlist:
       en: /people-use-web/captions/user-stories_9.vtt
 ---
 
-<h2 id="transcript" tabindex="-1">Text Transcript with Descriptions of Visuals</h2>
-
+{% capture transcripts %}
 <div id="Z5dMdJzUy7w-transcript" class="transcript" style="display: block">
 
 | Seq. | Time | Audio | Visual |
@@ -190,3 +189,6 @@ playlist:
 | 7 | 2:28 - 2:35 | [Elias:] You can help make technology accessible to me. [Narrator:] Accessibility: It's about people. | [New scene.] We see Elias speaking directly to us, as in the first scene [documentary style into the camera, in the same style and continuing the first scene]. |
 
 </div>
+{% endcapture %}
+
+{% include video-playlist.html transcripts=transcripts %}
