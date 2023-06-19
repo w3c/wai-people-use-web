@@ -4,17 +4,17 @@ nav_title: Videos
 layout: default
 lang: "en"
 last_updated: 2023-04-12
-permalink: /people-use-web/videos/
-ref: /people-use-web/videos/
-description: Web accessibility is all about people. Learn about the impact of accessibility and the benfits for people with disabilities.
+permalink: /people-use-web/user-stories-videos/
+ref: /people-use-web/user-stories-videos/
+description: Web accessibility is all about people. Learn about the impact of accessibility and the benefits for people with disabilities.
 image: /content-images/wai-people-use-web/social.png
 footer: >
   <p><strong>Date:</strong> Updated 12 April 2023.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">Acknowledgments</a>.</p>
-  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). With support from the European Commission <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide rroject</a>.</p>
+  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). With support from the European Commission <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a>.</p>
 resource:
   title: "Videos of How People with Disabilities Use the Web"
-  ref: /people-use-web/videos/
+  ref: /people-use-web/user-stories-videos/
   
 playlist:
   - title: Ade, reporter with limited use of his arms
@@ -60,7 +60,7 @@ playlist:
 ---
 
 {% capture transcripts %}
-<div id="Z5dMdJzUy7w-transcript" class="transcript" style="display: block">
+<div id="transcript-Z5dMdJzUy7w" class="transcript" style="display: block">
 
 | Seq. | Time | Audio | Visual |
 | --- | --- | --- | --- |
@@ -76,7 +76,7 @@ playlist:
 </div>
 
 
-<div id="bhV7KMfoyT4-transcript" class="transcript" style="display: none">
+<div id="transcript-bhV7KMfoyT4" class="transcript" style="display: none">
 
 | Seq. | Time | Audio | Visual |
 | --- | --- | --- | --- |
@@ -94,7 +94,7 @@ playlist:
 </div>
 
 
-<div id="eh091V45uqc-transcript" class="transcript" style="display: none">
+<div id="transcript-eh091V45uqc" class="transcript" style="display: none">
 
 | Seq. | Time | Audio | Visual |
 | --- | --- | --- | --- |
@@ -110,7 +110,7 @@ playlist:
 </div>
 
 
-<div id="gmrnVAQuSI8-transcript" class="transcript" style="display: none">
+<div id="transcript-gmrnVAQuSI8" class="transcript" style="display: none">
 
 | Seq. | Time | Audio | Visual |
 | --- | --- | --- | --- |
@@ -126,7 +126,7 @@ playlist:
 </div>
 
 
-<div id="jft__DXkPv8-transcript" class="transcript" style="display: none">
+<div id="transcript-jft__DXkPv8" class="transcript" style="display: none">
 
 | Seq. | Time | Audio | Visual |
 | --- | --- | --- | --- |
@@ -143,7 +143,7 @@ playlist:
 </div>
 
 
-<div id="llTnoiq2Mow-transcript" class="transcript" style="display: none">
+<div id="transcript-llTnoiq2Mow" class="transcript" style="display: none">
 
 | Seq. | Time | Audio | Visual |
 | --- | --- | --- | --- |
