@@ -19,6 +19,7 @@ resource:
   title: "How People with Disabilities Use the Web"
   ref: /people-use-web/
   
+# Read Translations Notes for this resource at https://github.com/w3c/wai-people-use-web#readme
 ---
 
 ## Introducción
