@@ -76,7 +76,7 @@ Introduction to Ade
 
 ## About Ade
 
-> It's not like I can't use a keyboard or mouse, I just can't use it for long periods because it is tiring.
+> It's not like I can't use a keyboard or pointer, I just can't use them for long periods because it is tiring.
 
 Ade was involved in a accident which caused a spinal cord injury. This left him with limited use of his arms and no movement or sensation in his legs. He has worked as a reporter for more than 20 years. Ade uses a keyboard with larger keys to help him more easily hit the correct key and a joystick instead of a mouse. However, using these for extended periods can be tiring so he has started using speech recognition software for some tasks, such as dictating long pieces. 
 
