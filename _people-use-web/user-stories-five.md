@@ -2,8 +2,8 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "Luis, basketball fan with Down syndrome"
-nav_title: "Luis"
+title: "Sophie, basketball fan with Down syndrome"
+nav_title: "Sophie"
 parent_in_h1:
   - ref: /people-use-web/user-stories/
     name: nav_title
@@ -52,7 +52,7 @@ footer: >
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-Introduction about Luis
+Introduction about Sophie
 
 **Note:** The following scenario is not about a real person. It may not address every person with this disability.
 
@@ -74,17 +74,17 @@ Introduction about Luis
 {% include_cached toc.html type="end" %}
 {:/}
 
-## About Luis
+## About Sophie
 
 > I like to buy tickets for home games because I know the site well. When I have to buy tickets for away games it is hard for me. All the different sites do things in different ways.
 
-Luis was born with Down syndrome and experiences barriers when dealing with abstract concepts, reading, and math calculations. Due to his distinct facial appearance and difficulties with speech, many people underestimate Luis' intelligence and capabilities. Even though he has difficulty expressing himself, Luis understands a great deal. He learned basic computer skills in vocational school and since then, he has taught himself how to use websites to order groceries and maintain his bank account, among other things.
+Sophie was born with Down syndrome and experiences barriers when dealing with abstract concepts, reading, and math calculations. Due to her distinct facial appearance and difficulties with speech, many people underestimate Sophie' intelligence and capabilities. Even though she has difficulty expressing herself, Sophie understands a great deal. She learned basic computer skills in vocational school and since then, she has taught herself how to use websites to order groceries and maintain her bank account, among other things.
 
-Luis loves basketball. He played on his school team and now plays in a local club. He is  an enthusiastic fan and takes his kids to games when he can. Buying tickets online can be difficult sometimes for Luis. Venues all seem to have different ways to buy tickets and it can sometimes be confusing. This is particularly difficult when the venue website links off to a separate site that looks totally different. Especially confusing is when he clicks on a link and ends up in a PDF file. Luis likes sites that have a consistent "feel" when going from section to section and page to page. This means the overall layout maintains a similar theme and the placement of the navigation doesn't change too much, and that he is warned when clicking on a link that goes to a different site.
+Sophie loves basketball. She played on her school team and now plays in a local club. She is  an enthusiastic fan and takes her kids to games when she can. Buying tickets online can be difficult sometimes for Sophie. Venues all seem to have different ways to buy tickets and it can sometimes be confusing. This is particularly difficult when the venue website links off to a separate site that looks totally different. Especially confusing is when she clicks on a link and ends up in a PDF file. Sophie likes sites that have a consistent "feel" when going from section to section and page to page. This means the overall layout maintains a similar theme and the placement of the navigation doesn't change too much, and that she is warned when clicking on a link that goes to a different site.
 
-Luis works part-time in the local library. He is keen to find a full-time office job but worries that the jargon in the workplace will make this difficult at first. Writing in "plain language" is really helpful. If something can be said using simpler terminology or shorter sentences, that makes it easier for him to understand and use the information. Also, acronyms and abbreviations really slow him down because he has to spend time trying to figure them out or going to look them up. Headings are also a huge help as it splits up the page and he can digest information in smaller chunks, kind of like an outline of the page. When navigating a page, having good focus and link styling helps him know where he is and what he can click on.
+Sophie works part-time in the local library. She is keen to find a full-time office job but worries that the jargon in the workplace will make this difficult at first. Writing in "plain language" is really helpful. If something can be said using simpler terminology or shorter sentences, that makes it easier for her to understand and use the information. Also, acronyms and abbreviations really slow her down because she has to spend time trying to figure them out or going to look them up. Headings are also a huge help as it splits up the page and she can digest information in smaller chunks, kind of like an outline of the page. When navigating a page, having good focus and link styling helps her know where she is and what she can click on.
 
-Getting a mobile phone was a huge deal for Luis. He finds apps that have fewer options and fewer decisions are clearer for him and easier to use. Using the phone for shopping is really easy for Luis. Being able to find the things he usually buys is a huge help.
+Getting a mobile phone was a huge deal for Sophie. She finds that apps that have fewer options and fewer decisions are clearer for her and easier to use. Using the phone for shopping is really easy for Sophie. Being able to find the things she usually buys is a huge help.
 
 ## Barrier examples
 
