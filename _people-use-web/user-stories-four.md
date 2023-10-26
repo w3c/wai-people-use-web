@@ -138,13 +138,13 @@ Lexie is an older adult who loves online shopping and fantasy football. Lexie ca
 
 ## About Lexie
 
-> Sometimes completing the check out process is tricky because if I overlook a mandatory field, I get an error or warning message in red and it’s hard for me to see the message".
+> Sometimes completing the check out process is tricky because if I overlook a mandatory field, I get an error or warning message in red and it’s hard for me to see the message.
 
-Lexie was born with deuteranopia and protanopia (often called "color blindness"). She has difficulty distinguishing among items that are red, green, orange, and brown, all of which appear to him as kind of murky brown.
+Lexie was born with deuteranopia and protanopia (often called "color blindness"). She has difficulty distinguishing among items that are red, green, orange, and brown, all of which appear to her as kind of murky brown.
 
-Lexie discovered that shopping for clothes online is actually an advantage over going to physical stores. In addition to just showing pictures of items in the various colors offered, her favorite sites include color labels making coordinating what goes together much easier. Sometimes when checking out though, the required fields and error messages are notated with a red outline and Lexie has to pay special attention to identify them. She noticed lately, however, that a lot of sites are getting better about using a secondary notation like an asterisk for required fields and bold text or an arrow pointing to errors. This really helps a lot.
+Lexie discovered that shopping for clothes online is actually an advantage over going to physical stores. In addition to just showing pictures of items in the various colors offered, her favorite sites include color labels, making coordinating what goes together much easier. Sometimes when checking out though, the required fields and error messages are notated with a red outline and Lexie has to pay special attention to identify them. She noticed lately, however, that a lot of sites are getting better about using a secondary notation like an asterisk for required fields and bold text or an arrow pointing to errors. This really helps a lot.
 
-Lexie plays in various fantasy football leagues with her friends and former workmates. Sometimes there can be problems with the way these sites use color to differentiate between teams, player positions, and whether or not players are selected for her team. As a result, she tends to prefer certain Fantasy Football apps that don't use color as the only way to indicate information that is important to playing. This means she has to try and convince friends to play using the same app.
+Lexie plays in various fantasy football leagues with her friends and former workmates. Sometimes there can be problems with the way these sites use color to differentiate between teams, player positions, and whether or not players are selected for her team. As a result, she tends to prefer certain fantasy football apps that don't use color as the only way to indicate information that is important to playing. This means she has to try and convince friends to play using the same app.
 
 ## Barrier examples
 
