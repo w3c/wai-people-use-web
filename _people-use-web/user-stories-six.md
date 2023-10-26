@@ -2,8 +2,8 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "Martine, older adult student who is deaf"
-nav_title: "Martine"
+title: "Dhruv, older adult student who is deaf"
+nav_title: "Dhruv"
 parent_in_h1:
   - ref: /people-use-web/user-stories/
     name: nav_title
@@ -52,7 +52,7 @@ footer: >
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-Introduction about Martine
+Introduction about Dhruv
 
 **Note:** The following scenario is not about a real person. It may not address every person with this disability.
 
@@ -74,17 +74,17 @@ Introduction about Martine
 {% include_cached toc.html type="end" %}
 {:/}
 
-## About Martine
+## About Dhruv
 
 > Most people don't realise that sign language is a completely different language. I can read text captions but it takes me longer as they are not in my first language. Captions and signing aren't interchangeable.
 
-Martine has been deaf since birth. She is a mature student, taking online courses. While she can hear some sounds, she does not hear enough to understand speech. She learned to sign as a young child. Sign language is Martine's first language. As a result, written language can be difficult. She prefers written content to have good structure and headings with minimal jargon so that it's easier to understand.
+Dhruv has been deaf since birth. He is a mature student, taking online courses. While he can hear some sounds, he does not hear enough to understand speech. Dhruv learned to sign as a young child. Sign language is his first language. As a result, written language can be difficult. He prefers written content to have good structure and headings with minimal jargon so that it's easier to understand.
 
-Martine can lip read but can only do so effectively when she can see the full face of the person who is speaking. Even then, she can only do it well enough to pick up a few words here and there and can't rely on lip reading alone to understand content. 
+Dhruv can lip read but can only do so effectively when he can see the full face of the person who is speaking. Even then, he can only do it well enough to pick up a few words here and there and can't rely on lip reading alone to understand content. 
 
-The university where Martine studies provides sign language interpreters and Communication Access Realtime Translation (CART); however, this captioning is not always present on video and other media content. The university is now working to caption all content across their curriculum, however it is a lengthy process. As more and more content is captioned, Martine is finding it easier to complete her studies remotely.
+The university where Dhruv studies provides sign language interpreters and Communication Access Realtime Translation (CART); however, this captioning is not always present on video and other media content. The university is now working to caption all content across their curriculum, however it is a lengthy process. As more and more content is captioned, Dhruv is finding it easier to complete his studies remotely.
 
-Martine spends a lot of her free time watching streamed content on video streaming services. The improvement in captioning of these services in recent years has meant she is able to watch more programmes than she was before. She can have difficulty when captions aren't clearly color coded to show who is speaking. Auto-captioning can be useful for her but it can also cause her problems if it's available but incorrect.
+Dhruv spends a lot of his free time watching streamed content on video streaming services. The improvement in captioning of these services in recent years has meant he is able to watch more programmes than he was before. He can have difficulty when captions aren't clearly color coded to show who is speaking. Auto-captioning can be useful for him but it can also cause him problems if it's available but incorrect.
 
 ## Barrier examples
 
