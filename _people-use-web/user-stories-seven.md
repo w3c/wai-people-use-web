@@ -2,8 +2,8 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "Noor, teenager who is deaf and blind"
-nav_title: "Noor"
+title: "Marta, marketing assistant who is deaf and blind"
+nav_title: "Marta"
 parent_in_h1:
   - ref: /people-use-web/user-stories/
     name: nav_title
@@ -52,7 +52,7 @@ footer: >
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-Introduction about Noor
+Introduction about Marta
 
 **Note:** The following scenario is not about a real person. It may not address every person with this disability.
 
@@ -74,17 +74,17 @@ Introduction about Noor
 {% include_cached toc.html type="end" %}
 {:/}
 
-## About Noor
+## About Marta
 
 > I love watching videos and when they have captions that I can make large, I can then follow the dialogue.
 
-Noor is a teenager who was born profoundly deaf. She communicates using sign language and attends a school for the deaf. Recently Noor learned she has a degenerative condition that results in progressive vision loss. This will impact on her communication since her cultural language is visual. Noor's deteriorating eyesight means that she can only see portions of her computer screen and relies heavily on zoom functions. 
+Marta is a marketing assistant who was born profoundly deaf. She communicates using sign language and attended a school for the deaf. Recently Marta learned she has a degenerative condition that results in progressive vision loss. This will impact her communication since her cultural language is visual. Marta's deteriorating eyesight means that she can only see portions of her computer screen and relies heavily on zoom functions. 
 
-Preparing for her senior year, Noor is thinking about how this will impact her transition to college. Noor was accepted into a fashion program. She has always been interested in clothes and her decreasing vision only fueled her passion more for vibrant colors, exaggerated shapes, and distinctive textures. She is excited to learn the history of fashion and hopes to one day have a small boutique of her own. Noor has always relied on captioning or speech-to-text applications when communicating with her hearing peers and her local community. She knows she has to connect with the disability office to request a sign interpreter. However, she is unsure about what additional resources she may now need due to her recent diagnosis. She is hoping to discuss how much of the course material is presented with captions and transcripts.
+Marta has always been interested in clothes and her decreasing vision only fueled her passion more for vibrant colors, exaggerated shapes, and distinctive textures. She has started taking classes in fashion design at her local college and is excited to learn the history of fashion. Marta has always relied on captioning or speech-to-text applications when communicating with her hearing peers and her local community. She knows she has to connect with the disability office to request a sign interpreter. However, she is unsure about what additional resources she may now need due to her recent diagnosis. She is hoping to discuss how much of the course material is presented with captions and transcripts.
 
-Noor is currently learning braille and is being exposed to using a braille display to access her current technology. She was excited to learn that the braille display includes calendar, e-mail, web browsing, and note-taking features so she can have an all-in-one device. This will reduce the amount of devices Noor will have to travel with so she can navigate the campus safely. She wants to be able to independently navigate the college platforms to access course materials, communicate with her professors and submit assignments without having to rely on someone else if she can’t visually access the information. She has had mixed success so far with the display. In one case she couldn't submit a form as the button wasn't coded correctly and not recognised by the device. 
+Marta is currently learning braille and is being exposed to using a braille display to access her current technology. She was excited to learn that the braille display includes calendar, e-mail, web browsing, and note-taking features so she can have an all-in-one device. This will reduce the number of devices Marta will have to travel with so she can navigate the campus safely. She wants to be able to independently navigate the college platforms to access course materials, communicate with her professors and submit assignments without having to rely on someone else if she can’t visually access the information. She has had mixed success so far with the display. In one case she couldn't submit a form as the button wasn't coded correctly and not recognised by the device. 
 
-Socially Noor loves being out and about with her friends. She will not be able to drive so will need to rely on public transportation. This is not new to her since she lives in an urban area. However, she knows there are always last minute changes to platforms and times. She is worried about being alerted to this information. She is already experiencing difficulty reading times and the website is not mobile optimized and doesn't work well when zoomed. She is interested in customizing her devices so she can utilize tactile features for notifications and alerts for all aspects of her life. Noor is eager to learn about the accessible technology that is available so she can continue her path to becoming a successful fashion designer. 
+Socially, Marta loves being out and about with her friends. She will not be able to drive so will need to rely on public transportation. This is not new to her since she lives in an urban area. However, she knows there are always last minute changes to platforms and times. She is worried about being alerted to this information. She is already experiencing difficulty reading times, plus the website is not mobile optimized and doesn't work well when zoomed. She is interested in customizing her devices so she can utilize tactile features for notifications and alerts for all aspects of her life. Marta is eager to learn about the accessible technology that is available so she can continue her path to becoming a successful fashion designer. 
 
 ## Barrier examples
 
