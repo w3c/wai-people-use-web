@@ -76,7 +76,7 @@ Introduction about Ian
 
 ## About Ian
 
-> I find it hard to focus on busy pages. For example, lots of animations and videos, particarly ones that start without me doing anything.
+> I find it hard to focus on busy pages. For example, lots of animations and videos, particarly ones that start without me doing anything are really frustrating.
 
 Ian is autistic. His autism was identified at an early age because of delays in speech development. Ian received a lot of early childhood support, which helped him develop language and social skills. However, he still experiences some barriers with verbal communication, especially when experiencing anxiety.
 
