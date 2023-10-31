@@ -25,7 +25,7 @@ navigation:
 
 This page explores the wide diversity of people and abilities. It highlights some web accessibility barriers that people commonly experience because of inaccessible websites and web tools.
 
-**Note:** This is illustrative and is not a complete list of all disabilities or barriers.
+**Note:** This section is meant to be descriptive and does not contain a complete list of all disabilities or barriers.
 
 {::nomarkdown}
 {% include box.html type="end" %}
