@@ -78,9 +78,9 @@ Many functions to support different styles of navigation are built directly into
 
 ## Stories related to interaction {#stories-related-to-interaction}
 
-- [Alex, reporter with repetitive stress injury](/people-use-web/user-stories-one/)
+- [Ade, reporter with repetitive stress injury](/people-use-web/user-stories-one/)
 - [Ilya, senior staff member who is blind](/people-use-web/user-stories-three/)
-- [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories-eight/)
-- [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories-nine/)
-- [Luis, basketball fan with Down syndrome](/people-use-web/user-stories-five/)
-- [Noor, teenager who is deaf and blind](/people-use-web/user-stories-seven/)
+- [Stefan, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories-eight/)
+- [Elias, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories-nine/)
+- [Sophie, basketball fan with Down syndrome](/people-use-web/user-stories-five/)
+- [Marta, marketing assistant who is deaf and blind](/people-use-web/user-stories-seven/)
