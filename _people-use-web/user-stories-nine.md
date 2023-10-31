@@ -175,6 +175,10 @@ Login page
 : **Problem:** "I have accounts with so many different websites that sometimes I forget my password."
 : **Works well:** "An option to remember my password for this site and a means of resetting my password if I need to."
 
+Saved information
+: **Problem:** "When I place an order, I have trouble remembering things, like telephone number, address, and credit card details."
+: **Works well:** "This store remembers from before, so I only need to select right address in the text field, rather than need typing each time."
+
 ## Assistive technologies and adaptive strategies used
 
 * [Screen magnification (Presentation)](/people-use-web/tools-techniques-presentation/#display)
