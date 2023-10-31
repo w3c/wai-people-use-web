@@ -54,7 +54,7 @@ Cognitive and learning disabilities is an umbrella term for a large spectrum of 
 * Understand or process new or complex information and learn new skills;
 * Use memory and attention or visual, language, or numerical thinking.
 
-Often, only some functions are impaired while other cognitive functions are unaffected. For example, someone with dyslexia may be a fantastic engineer. Sometimes, cognitive and learning disabilities may include intellectual impairments that affect comprehension, alongside written and spoken expression. People may also experience more than one type of cognitive and learning disability. Note that the terminology and definitions used for cognitive and learning disabilities varies between countries.
+Often, only some functions are impaired while other cognitive functions are unaffected. For example, someone with dyslexia may have trouble reading words but not math equations. Sometimes, cognitive and learning disabilities may include intellectual impairments that affect comprehension, alongside written and spoken expression. People may also experience more than one type of cognitive and learning disability. Note that the terminology and definitions used for cognitive and learning disabilities varies between countries.
 
 Computer technologies and the Web provide many opportunities for people with cognitive and learning disabilities to interact with content and to process information in ways that are more usable to them. For example, people can navigate web content using different strategies, access information in text, audio, or other formats, and change the presentation of the content according to their individual needs or preferences.
 
