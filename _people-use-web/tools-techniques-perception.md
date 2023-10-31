@@ -79,5 +79,5 @@ In some cases, content can be converted into different forms using software or h
 
 - [Dhruv, older adult student who is hard of hearing](/people-use-web/user-stories-six/)
 - [Ilya, senior staff member who is blind](/people-use-web/user-stories-three/)
-- [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories-eight/)
-- [Noor, teenager who is deaf and blind](/people-use-web/user-stories-seven/)
+- [Stefan, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories-eight/)
+- [Marta, marketing assistant who is deaf and blind](/people-use-web/user-stories-seven/)
