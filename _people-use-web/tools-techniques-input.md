@@ -23,7 +23,7 @@ navigation:
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-People use different approaches to enter text and activate commands. For instance, some people do not use a mouse, keyboard, or both, while others use specific configurations for keyboard and mouse, or use alternative hardware and software altogether. Examples of input include using:
+People use different approaches to enter text and activate commands, for example:
 
 - Keyboard only by people with cognitive, physical, and visual disabilities;
 - Touch screen only by people with cognitive and physical disabilities;
