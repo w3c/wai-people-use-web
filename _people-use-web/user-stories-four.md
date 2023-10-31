@@ -140,7 +140,7 @@ Lexie is an older adult who loves online shopping and fantasy football. Lexie ca
 
 > Sometimes completing the check out process is tricky because if I overlook a mandatory field, I get an error or warning message in red and it’s hard for me to see the message.
 
-Lexie is a recent retiree who has been enjoying her new leisure time. She was born with deuteranopia and protanopia (often called "color blindness") and has difficulty distinguishing among items that are red, green, orange, and brown, all of which appear to her as kind of murky brown.
+Lexie was born with deuteranopia and protanopia (often called "color blindness") and has difficulty distinguishing among items that are red, green, orange, and brown, all of which appear to her as kind of murky brown.
 
 Lexie discovered that shopping for clothes online is actually an advantage over going to physical stores. In addition to just showing pictures of items in the various colors offered, her favorite sites include color labels, making coordinating what goes together much easier. Sometimes when checking out though, the required fields and error messages are notated with a red outline and Lexie has to pay special attention to identify them. She noticed lately, however, that a lot of sites are getting better about using a secondary notation like an asterisk for required fields and bold text or an arrow pointing to errors. This really helps a lot.
 
