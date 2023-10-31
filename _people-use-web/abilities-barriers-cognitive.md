@@ -91,7 +91,6 @@ People with cognitive and learning disabilities may use different types of web b
 -   Complex sentences that are difficult to read and unusual words or metaphors that are difficult to understand. 
 -   Long passages of text without images, graphs, or other illustrations to highlight the context. 
 -   Moving, blinking, or flickering content, and background audio that cannot be turned off. 
--   Numerical references such as percentages.
 -   Passwords and access codes that rely on memory.
 -   Time-outs on activities
 -   Web browsers and media players that do not provide mechanisms to suppress animations and audio. 
