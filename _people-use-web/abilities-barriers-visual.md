@@ -16,7 +16,7 @@ resource:
   
 navigation:
   previous: /people-use-web/abilities-barriers-speech/
-  next: /people-use-web/abilities-barriers/
+  next: /people-use-web/tools-techniques/
 ---
 
 {::nomarkdown}
