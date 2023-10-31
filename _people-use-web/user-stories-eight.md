@@ -2,8 +2,8 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "Preety, young student with attention deficit hyperactivity disorder and dyslexia"
-nav_title: "Preety"
+title: "Stefan, young student with attention deficit hyperactivity disorder and dyslexia"
+nav_title: "Stefan"
 parent_in_h1:
   - ref: /people-use-web/user-stories/
     name: nav_title
@@ -52,7 +52,7 @@ footer: >
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-Introduction about Preety
+Introduction about Stefan
 
 **Note:** The following scenario is not about a real person. It may not address every person with this disability.
 
@@ -74,19 +74,19 @@ Introduction about Preety
 {% include_cached toc.html type="end" %}
 {:/}
 
-## About Preety
+## About Stefan
 
-> My text reader helps me focus on what I am reading. I don't use it all the time but for long text it is super helpful
+> My text reader helps me focus on what I am reading. I don't use it all the time but for long text it is super helpful.
 
-Preety is a 13-year-old with dyslexia and attention deficit hyperactivity disorder (ADHD). As a person with ADHD, Preety has difficulty following multi-step or long tasks. This can make it hard to maintain focus on her schoolwork. Visual supports, such as icons and images, and good use of whitespace around what she is looking at can help her to focus. She can become lost in dense text and is unable to find the meaning. When this happens she gives up because it takes too long and is tiring. This has caused her to fall behind in her work compared to other students.
+Stefan is a 13-year-old with dyslexia and attention deficit hyperactivity disorder (ADHD). As a person with ADHD, Stefan has difficulty following multi-step or long tasks. This can make it hard to maintain focus on his schoolwork. Visual supports, such as icons and images, and good use of whitespace around what he is looking at can help him to focus. He can become lost in dense text and is unable to find the meaning. When this happens he gives up because it takes too long and is tiring. This has caused him to fall behind in his work compared to other students.
 
-Preety's school has recently transitioned to using digital textbooks. This has been a huge improvement for Preety who can now use her text-to-speech software to aid her understanding of what are sometimes complex texts. Preety also uses the web for research. Unfortunately, her experience on the web can be varied. Often sites contain content such as animated advertisments and graphics which she can find distracting.
+Stefan's school has recently transitioned to using digital textbooks. This has been a huge improvement for Stefan who can now use his text-to-speech software to aid his understanding of what are sometimes complex texts. Stefan also uses the web for research. Unfortunately, his experience on the web can be varied. Often sites contain content such as animated advertisments and graphics which he can find distracting.
  
-Preety finds it easier to use websites that have a simple and consistent layout with content written in plain language. Images or icons can also help to reinforce the meaning of the text. Sometimes she uses functionality in her text-to-speech software that allows her to change the page background color. This is especially helpful when she is tired. Pretty also uses captions when watching videos because both hearing and seeing the words reinforces their meaning.
+Stefan finds it easier to use websites that have a simple and consistent layout with content written in plain language. Images or icons can also help to reinforce the meaning of the text. Sometimes he uses functionality in his text-to-speech software that allows him to change the page background color. This is especially helpful when he is tired. Stefan also uses captions when watching videos because both hearing and seeing the words reinforces their meaning.
 
-Preety is a fan of old science fiction movies and spends a lot of time on fan made sites and forums. She has spending limits on her card and she uses this to buy fan memorabilia. The design of these sites and purchasing process can make this difficult. They are often quite busy with distracting advertisements and complicated checkout forms. She has found that she can access these sites on her mobile phone where she can switch on the browser reading mode to remove a lot of the background clutter. This allows her to focus on the task and makes the steps much clearer.
+Stefan is a fan of old science fiction movies and spends a lot of time on fan made sites and forums. He has spending limits on his card and he uses this to buy fan memorabilia. The design of these sites and purchasing process can make this difficult. They are often quite busy with distracting advertisements and complicated checkout forms. He has found that he can access these sites on his mobile phone where he can switch on the browser reading mode to remove a lot of the background clutter. This allows him to focus on the task and makes the steps much clearer.
 
-Preety experiences problems with sites where the navigation of the site is unclear. She finds it much easier to use sites which include functions such as a sitemap, breadcrumb trails or a search function. Preety has difficulty with spelling so benefits from search functionality which suggests alternative spellings and error corrections.
+Stefan experiences problems with sites where the navigation of the site is unclear. He finds it much easier to use sites that include functions such as a sitemap, breadcrumb trails, or a search function. Stefan has difficulty with spelling so benefits from search functionality, which suggests alternative spellings and error corrections.
 
 ## Barrier examples
 
