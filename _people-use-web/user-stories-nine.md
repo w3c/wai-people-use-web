@@ -108,7 +108,7 @@ footer: >
   <div>
 {:/}
 
-Elias is an active 85-year-old retired architect. Over the years, Elias has experienced a decrease in vision, hearing, and short-term memory and he has a slight hand tremor. He uses digital technology for all sorts of activities including staying in touch with family, reading the news and architecture articles, and ordering groceries. However, using technology can be difficult when he can't use the adjustments he needs, like when sites and apps don't allow increased text size, require clicking small areas of the page, and make him type information with each visit rather than store it.
+Elias is an 85-year-old retired architect. Over the years, Elias has experienced a decrease in vision, hearing, and short-term memory and he has a slight hand tremor. He uses digital technology for all sorts of activities including staying in touch with family, reading the news and architecture articles, and ordering groceries. However, using technology can be difficult when he can't use the adjustments he needs, like when sites and apps don't allow increased text size, require clicking small areas of the page, and make him type information with each visit rather than store it.
 
 {::options toc_levels="2..2" /}
 
@@ -153,7 +153,7 @@ For all of the benefits of using a computer to read the news and stay active in 
 
 Inaccessible CAPTCHA
 : **Problem**: "When I login to my online banking I need to complete a CAPTCHA but I can't really read it well."
-: **Works well**: "My banking login sends me a text to with a code to confirm it is me."
+: **Works well**: "My banking login sends me a text with a simple code to confirm it is me."
 
 Text doesn't reflow
 : **Problem**: "When I resize a website using my browser some of the text disappears or is cut short and sometimes I have to scroll across the screen as well as down."
@@ -164,7 +164,7 @@ Distracting animations
 : **Works well:** "Allow me to stop any animation on the screen so I can concentrate on what I'm looking at."
 
 Tables don't zoom well
-: **Problem:** "Online tables sometimes have a lot of space between the columns and when I'm zoomed it, I have scroll from left to right to see all of the content and I often miss the association from one column to the next."
+: **Problem:** "Online tables sometimes have a lot of space between the columns and when I'm zoomed it, I have to scroll from left to right to see all of the content and I often miss the association from one column to the next."
 : **Works well:** "When I zoom the tables change from lots of columns to being presented more like a list with each row being shown as a list item."
 
 Breadcrumb
