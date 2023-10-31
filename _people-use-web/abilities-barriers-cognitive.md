@@ -99,7 +99,7 @@ People with cognitive and learning disabilities may use different types of web b
 
 ## Stories related to cognitive and learning disabilities {#stories-related-to-cognitive-and-learning-disabilities}
 
-- [Luis, basketball fan with Down syndrome](/people-use-web/user-stories-five/)
-- [Ian, autistic data entry clerk](/people-use-web/user-stories-two/) 
-- [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories-eight/) 
-- [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories-nine/) 
+- [Sophie, basketball fan with Down syndrome](/people-use-web/user-stories-five/)
+- [Ian, data entry clerk with autism](/people-use-web/user-stories-two/) 
+- [Stefan, student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories-eight/) 
+- [Elias, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories-nine/) 
