@@ -81,5 +81,5 @@ People with physical disabilities may have trouble clicking small areas and are 
 
 ## Stories related to physical disabilities {#stories-related-to-physical-disabilities}
 
-- [Alex, reporter with repetitive stress injury](/people-use-web/user-stories-one/) 
-- [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories-nine/)
+- [Ade, reporter with limited use of arms](/people-use-web/user-stories-one/) 
+- [Elias, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories-nine/)
