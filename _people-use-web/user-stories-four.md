@@ -160,7 +160,7 @@ Color only used for errors barrier
 
 Color only in games barrier
 : **Problem:** "When I play an online game, enemies are marked with a red circle and friends marked with a green circle and I can't tell the difference."
-: **Works well:** "Enemies are also marked with a symbol/use a red triangle so I can easily identify them."
+: **Works well:** "Enemies are also marked with a symbol or use a red triangle so I can easily identify them."
 
 Chart labels barrier
 : **Problem:** "When I am reading news articles with data charts, I can't understand the charts as the columns aren't labelled clearly."
