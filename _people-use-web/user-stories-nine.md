@@ -108,7 +108,7 @@ footer: >
   <div>
 {:/}
 
-Elias is an active 85-year old retiree. Over the years, Elias has been developing low vision, hand tremor, and mild short-term memory loss. He uses digital technologies to stay in touch with his family, read the news, follow his interests in architecture, and order groceries. However, inadequately designed websites and apps present barriers for Elias, and prevent him from these activities.
+Elias is an active 85-year-old retired architect. Over the years, Elias has experienced a decrease in vision, hearing, and short-term memory and he has a slight hand tremor. He uses digital technology for all sorts of activities including staying in touch with family, reading the news and architecture articles, and ordering groceries. However, using technology can be difficult when he can't use the adjustments he needs, like when sites and apps don't allow increased text size, require clicking small areas of the page, and make him type information with each visit rather than store it.
 
 {::options toc_levels="2..2" /}
 
