@@ -54,7 +54,7 @@ People with visual disabilities typically rely on changing the presentation of w
 -   Listening to audio descriptions of video in multimedia;
 -   Reading text using refreshable Braille.
 
-For these web browsing methods to work, developers need to ensure that the presentation of web content is independent of its underlying structure and that the structure is correctly coded so that it can be processed and presented in different ways by web browsers and assistive technologies. For example, some people do not see the content and rely on lists, headings, tables, and other page structures to be properly coded so that they can be identified by web browsers and assistive technologies.
+For these web browsing methods to work, developers should use style sheets to separate web content from its presentation and correctly code the structure so that it can be processed and presented in different ways by web browsers and assistive technologies. For example, some people do not see the content and rely on lists, headings, tables, and other page structures to be properly coded so that they can be identified by web browsers and assistive technologies.
 
 Some people are only seeing small portions of the content at a time or are perceiving the colors and design differently. Some people are using customized fonts, colors, and spacing to make the content more readable, or they are navigating through the content using keyboard only because they cannot see the mouse pointer. An accessible design supports different presentations of the web content and different ways of interaction.
 
