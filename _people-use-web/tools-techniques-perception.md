@@ -71,8 +71,8 @@ In some cases, content can be converted into different forms using software or h
 
 ## Examples of assistive technologies and adaptive strategies {#examples-of-assistive-technologies-and-adaptive-strategies}
 
-- **Refreshable Braille display**{:#braille_display} – a mechanical terminal that displays a line of [Braille](#braille){:.termref} characters (usually 40-80) by raising and lowering the dots (pins) dynamically. Braille devices with capabilities of small computers incorporate Braille displays. These devices can be used to take notes, calculate numbers, or to interface with other devices such as public information kiosks.
-- **Screen reader**{:#sr} – software that processes content on the desktop and in web browsers, and converts it to others forms such as [text-to-speech](#tts){:.termref} and [Braille](#braille){:.termref}. Some screen readers provide other functions such as shortcut keys, different modes for processing content and interacting with it, and the ability to highlight the text that is being read aloud.
+- **Refreshable Braille display**{:#braille_display} – a mechanical terminal that displays a line of [Braille](#braille){:.termref} characters (usually 40-80) by raising and lowering the dots (pins) dynamically. Braille displays may also be attached to standalone devices that have other functionality such as taking notes, calculating numbers, or to interface with devices such as public information kiosks.
+- **Screen reader**{:#sr} – software that processes content on the desktop and in web browsers, and converts it to [text-to-speech](#tts){:.termref} and [Braille](#braille){:.termref}. Some screen readers provide other functions such as shortcut keys, different modes for processing content and interacting with it, and the ability to highlight the text that is being read aloud.
 - **Voice browser**{:#vb} – similar to [screen reader](#sr){:.termref} but usually only processes web content. Voice browsers are typically not developed as assistive tools but as alternative web browsers for mobile devices or similar.
 
 ## Stories related to perception {#stories-related-to-perception}
