@@ -61,7 +61,11 @@ Some people are only seeing small portions of the content at a time or are perce
 ## Examples of visual disabilities {#examples-of-visual-disabilities}
 
 - **Color vision deficiency**{:#colorblindness} – includes difficulty distinguishing between colors such as between red and green, or between yellow and blue, and sometimes inability to perceive any color (often called "color blindness"). 
-- **Low vision**{:#lowvision} – (in some regions also called "partial sight") includes poor acuity (vision that is not sharp), tunnel vision (seeing only the middle of the visual field), central field loss (seeing only the edges of the visual field), and clouded vision. 
+- **Low vision**{:#lowvision} – (in some regions also called "partial sight") includes: 
+   - Poor acuity (vision that is not sharp)
+   - Contrast sensitivity (inability to distingish bright and dim areas)
+   - Field of vision loss (can be central, peripheral, or other field loss)
+   - Light sensitivity (difficulty seeing in bright light)
 - **Blindness**{:#blindness} – substantial, uncorrectable loss of vision in both eyes. 
 - **Deaf-blindness**{:#deafblind} – substantial, uncorrectable visual and hearing impairments.
 
