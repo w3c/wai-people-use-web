@@ -134,7 +134,7 @@ Elias is an 85-year-old retired architect. Over the years, Elias has experienced
 </aside>
 {:/}
 
-**Note:** This is a story of one particular person -- it doesn't represent the broad diversity of people, so that generalizing this story could lead to stereotypes.
+**Note:** The following scenario is not about a real person. It may not address every person with this disability.
 
 ## About Elias
 
