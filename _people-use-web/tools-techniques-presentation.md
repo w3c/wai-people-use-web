@@ -29,7 +29,7 @@ People adjust the presentation of content to make it easier to distinguish and u
 - Combining audio and visual content to make information easier to understand;
 - Providing alternative presentations of the content, such as sign-language.
 
-**Note:** This page is illustrative and is not a complete list of all the ways that people interact with the web.
+The examples given in this section are not a complete list of all the ways that people interact with digital content.
 
 {::nomarkdown}
 {% include box.html type="end" %}
