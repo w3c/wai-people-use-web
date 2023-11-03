@@ -30,7 +30,7 @@ People perceive content through different senses depending on their needs and pr
 -   **Tactile** - such as dots, bars, and vibration that can be *felt*.
 -   **Visual** - such as images, text, and video that can be *seen*.
 
-**Note:** This page is illustrative and is not a complete list of all the ways that people interact with the web.
+The examples given in this section are not a complete list of all the ways that people interact with digital content.
 
 {::nomarkdown}
 {% include box.html type="end" %}
