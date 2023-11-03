@@ -134,7 +134,7 @@ Lexie is an older adult who loves online shopping and fantasy football. Lexie ca
 </aside>
 {:/}
 
-**Note:** This is a story of one particular person -- it doesn't represent the broad diversity of people, so that generalizing this story could lead to stereotypes.
+**Note:** This user story is an example of a person with this type of disability. Other people with this disability may have different experiences.
 
 ## About Lexie
 
