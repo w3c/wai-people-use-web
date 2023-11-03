@@ -25,7 +25,7 @@ navigation:
 
 Speech disabilities include difficulty producing speech that is recognizable by others or by speech recognition software. For example, the loudness or clarity of someone's voice might be difficult to understand.
 
-**Note:** This section is meant to be descriptive and does not contain a complete list of all disabilities or barriers.
+The examples given in this section are not a complete list of all disabilities or barriers.
 
 {::nomarkdown}
 {% include box.html type="end" %}
