@@ -25,7 +25,7 @@ navigation:
 
 TBD
 
-The examples given in this section are not a complete list of all the ways that people interact with digital content.
+The examples given in this section are not a complete list of all the ways that people interact with digital technology.
 
 {::nomarkdown}
 {% include box.html type="end" %}
