@@ -23,9 +23,7 @@ navigation:
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This section explores the wide diversity of abilities. It highlights some web accessibility barriers that people commonly experience because of inaccessible websites and web tools.
-
-**Note:** This section is meant to be descriptive and does not contain a complete list of all disabilities or barriers.
+This section explores the wide diversity of abilities. It highlights some accessibility barriers that people commonly experience because of inaccessible websites and web tools. The examples given are not a complete list of all disabilities or barriers.
 
 {::nomarkdown}
 {% include box.html type="end" %}
