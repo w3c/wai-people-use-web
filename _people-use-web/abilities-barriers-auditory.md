@@ -25,7 +25,7 @@ navigation:
 
 Auditory disabilities range from mild or moderate hearing loss in one or both ears (“hard of hearing”) to substantial and uncorrectable hearing loss in both ears (“deafness”). Some people with auditory disabilities can hear sounds but sometimes not sufficiently to understand all speech, especially when there is background noise. This can include people using hearing aids.
 
-**Note:** This section is meant to be descriptive and does not contain a complete list of all disabilities or barriers.
+The examples given in this section are not a complete list of all disabilities or barriers.
 
 {::nomarkdown}
 {% include box.html type="end" %}
