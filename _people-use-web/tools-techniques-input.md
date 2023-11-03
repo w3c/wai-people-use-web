@@ -30,7 +30,7 @@ People use different approaches to enter text and activate commands, for example
 - Mouse and keyboard with software that compensates for hand tremor;
 - Speech recognition and other hands-free interaction.
 
-**Note:** This page is illustrative and is not a complete list of all the ways that people interact with the web.
+The examples given in this section are not a complete list of all the ways that people interact with digital content.
 
 {::nomarkdown}
 {% include box.html type="end" %}
