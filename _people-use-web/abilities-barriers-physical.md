@@ -25,7 +25,7 @@ navigation:
 
 Physical disabilities (sometimes called "motor disabilities") include weakness and limitations of muscular control (such as involuntary movements including tremors, lack of coordination, or paralysis), limitations of sensation, joint disorders (such as arthritis), pain that impedes movement, and missing limbs.
 
-**Note:** This section is meant to be descriptive and does not contain a complete list of all disabilities or barriers.
+The examples given in this section are not a complete list of all disabilities or barriers.
 
 {::nomarkdown}
 {% include box.html type="end" %}
