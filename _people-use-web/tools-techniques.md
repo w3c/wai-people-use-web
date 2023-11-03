@@ -23,9 +23,7 @@ navigation:
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This section introduces some of the tools and techniques that people with disabilities use to interact with the web &mdash; web browser settings, text-to-speech, speech recognition, and many more.
-
-**Note:** This page is illustrative and is not a complete list of all the ways that people interact with the web.
+This section introduces some of the tools and techniques that people with disabilities use to interact with the web &mdash; web browser settings, text-to-speech, speech recognition, and many more. The examples given are not a complete list of all the ways that people interact with digital content.
 
 {::nomarkdown}
 {% include box.html type="end" %}
