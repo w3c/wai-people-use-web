@@ -54,7 +54,7 @@ footer: >
 
 Introduction about Stefan
 
-**Note:** The following scenario is not about a real person. It may not address every person with this disability.
+**Note:** This user story is an example of a person with this type of disability. Other people with this disability may have different experiences.
 
 {::nomarkdown}
 {% include box.html type="end" %}
