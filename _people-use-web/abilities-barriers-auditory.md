@@ -59,7 +59,7 @@ To use multimedia, people with auditory disabilities often rely on:
 -   Options to stop, pause, and adjust the volume of audio content (independently of the system volume);
 -   High-quality foreground audio that is clearly distinguishable from any background noise.
 
-For some people with auditory disabilities, sign language is the primary language, and they may not read the written language as fluently. Providing important information in sign language and using simpler text that is supplemented by images, graphs, and other illustrations help make web content more understandable to many people. However, it is important to remember that not all people with auditory disabilities know sign language.
+For some people with auditory disabilities, sign language is the primary language, and they may not read the written language as fluently. Providing important information in sign language and using simpler text that is supplemented by images, graphs, and other illustrations help make digital content more understandable to many people. However, it is important to remember that not all people with auditory disabilities know sign language.
 
 ## Examples of auditory disabilities {#examples-of-auditory-disabilities}
 
