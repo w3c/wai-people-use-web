@@ -5,7 +5,7 @@ permalink: /people-use-web/tools-techniques-presentation/
 ref: /people-use-web/tools-techniques-presentation/
 lang: en
 last_updated: 2017-05-15
-description: Introduces some of the techniques and tools that people with disabilities use to interact with the web — web browser settings, text-to-speech, speech recognition, and many more.
+description: Introduces some of the techniques and tools that people with disabilities use to interact with digital technology — browser settings, text-to-speech, speech recognition, and many more.
 image: /content-images/wai-people-use-web/social.png
 footer: >
    <p><strong>Date: Draft in progress.</strong> Updated @@ Month 2021. First published Month 20@@. CHANGELOG.</p>
@@ -51,9 +51,9 @@ The examples given in this section are not a complete list of all the ways that 
 
 ## Introduction
 
-Some people need larger text and image sizes or higher contrast between text and background colors to see the content better, and some people need louder audio with lower background noise to better hear the content. Some people need to turn off pop-up windows and animations that disorient or distract them. A sound that is automatically played, such as background music on a website, can also distract people or interfere with text-to-speech software. Web content, browsers, and tools need to support adjusting the presentation according to peoples' needs and preferences.
+Some people need larger text and image sizes or higher contrast between text and background colors to see the content better, and some people need louder audio with lower background noise to better hear the content. Some people need to turn off pop-up windows and animations that disorient or distract them. A sound that is automatically played, such as background music on a website, can also distract people or interfere with text-to-speech software. Digital content, browsers, and tools need to support adjusting the presentation according to peoples' needs and preferences.
 
-Making text more readable is of particular importance. This involves changing its visual appearance, using additional text-to-speech, and adapting the content. For example, changing the font type, colors, spacing, and line width makes texts more readable for many people. Sometimes text-to-speech is used to assist reading further. Adapting the content involves rearranging sections of web pages, adding functionality such as dictionaries and glossaries, and hiding less used functionality. While these changes are often managed using specialized web browsers and tools, website authors need to provide adequate coding to support such adjustments and adaptations.
+Making text more readable is of particular importance. This involves changing its visual appearance, using additional text-to-speech, and adapting the content. For example, changing the font type, colors, spacing, and line width makes texts more readable for many people. Sometimes text-to-speech is used to assist reading further. Adapting the content involves rearranging sections of web pages, adding functionality such as dictionaries and glossaries, and hiding less used functionality. While these changes are often managed using specialized browsers and tools, website authors need to provide adequate coding to support such adjustments and adaptations.
 
 Also, people process information differently. This aspect is particularly relevant for learning environments but also applies to many other situations. In some cases, authors can provide different representations of the same information to address the widest audience possible, such as graphical and tabular representations of data for people with different learning styles.
 
