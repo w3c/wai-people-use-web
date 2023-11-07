@@ -46,7 +46,7 @@ This section explores the wide diversity of abilities. It highlights some access
 
 There are many reasons why people may be experiencing varying degrees of auditory, cognitive, physical, speech, and visual disabilities. For instance, some may have disabilities from birth, an illness, disease, or accident, or they may develop impairments with age. Some may not consider themselves to have disabilities even if they do experience such functional limitations.
 
-Each individual is unique. People have diverse abilities, skills, tools, preferences, and expectations that can impact how they use the Web. For instance, consider the following aspects:
+Each individual is unique. People have diverse abilities, skills, tools, preferences, and expectations that can impact how they use the digital technology. For instance, consider the following aspects:
 
 -   **Age-related impairments:**{:#ageing} Many people develop age-related impairments. While they may share the same functional requirements as others with disabilities, sometimes there may be significant differences in the use of assistive technologies, the level of computer skills, or in the use of the Web in general.
 -   **Multiple disabilities:**{:#combined} Some people have combinations of different kinds of disabilities, which may limit their approaches for interacting with the Web. For example, someone who is deaf and has low vision might benefit from captions for audio, but only if these captions have adjustable size and color.
