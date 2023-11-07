@@ -47,7 +47,7 @@ The examples given in this section are not a complete list of all disabilities o
 
 ## Introduction
 
-To use the Web, people with physical disabilities often use specialized hardware and software such as:
+To use digital technology, people with physical disabilities often use specialized hardware and software such as:
 
 - Ergonomic or specially designed keyboard or mouse; 
 - Head pointer, mouth stick, and other aids to help with typing; 
