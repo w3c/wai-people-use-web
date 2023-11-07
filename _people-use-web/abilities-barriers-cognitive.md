@@ -82,7 +82,6 @@ People with cognitive and learning disabilities may use different types of brows
 -   **Mild cognitive impairment (MCI)**{:mci} — sometimes considered the stage between age-related forgetfulness and the more serious decline of dementia.
 -   **Mental health disabilities**{:#mhealth} – includes disabilities that interfere with daily functioning due to challenges with self-regulation of emotions and thoughts. Examples include depression, anxiety, and post-traumatic stress disorder. These conditions may cause temporary or long-term challenges with accessing information, such as difficulty focusing on information, processing information, or understanding it.
 -   **Multiple sclerosis**{:#ms} – causes damage to nerve cells in the brain and spinal cord, and can affect auditory, cognitive, physical, or visual abilities, in particular during relapses.
--   **Seizure disorders**{:#seizure} – includes different types of epilepsy and migraines, which may be in reaction to visual flickering or audio signals at certain frequencies or patterns.
 
 ## Examples of barriers for people with cognitive and learning disabilities {#examples-of-barriers-for-people-with-cognitive-and-learning-disabilities}
 
