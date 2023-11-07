@@ -88,7 +88,7 @@ People with cognitive and learning disabilities may use different types of brows
 ## Examples of barriers for people with cognitive and learning disabilities {#examples-of-barriers-for-people-with-cognitive-and-learning-disabilities}
 
 -   Complex, multi-stage process such as forms.
--   Complex navigation mechanisms and page layouts that are difficult to understand and use. 
+-   Complex or inconsistent navigation mechanisms and page layouts that are difficult to understand and use.
 -   Complex sentences that are difficult to read and unusua words that are difficult to understand.
 -   Metaphors and other non-literal text whose meaning is not predictable from the usual meanings of the words.
 -   Long passages of text without images, graphs, or other illustrations to highlight the context. 
