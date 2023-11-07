@@ -56,19 +56,19 @@ Cognitive and learning disabilities is an umbrella term for a large spectrum of 
 
 Often, only some functions are impaired while other cognitive functions are unaffected. For example, someone with dyslexia may have trouble reading words but not math equations. Sometimes, cognitive and learning disabilities may include intellectual impairments that affect comprehension, alongside written and spoken expression. People may also experience more than one type of cognitive and learning disability. Note that the terminology and definitions used for cognitive and learning disabilities varies between countries.
 
-Computer technologies and the Web provide many opportunities for people with cognitive and learning disabilities to interact with content and to process information in ways that are more usable to them. For example, people can navigate web content using different strategies, access information in text, audio, or other formats, and change the presentation of the content according to their individual needs or preferences.
+Computer technologies provide many opportunities for people with cognitive and learning disabilities to interact with content and to process information in ways that are more usable to them. For example, people can navigate digital content using different strategies, access information in text, audio, or other formats, and change the presentation of the content according to their individual needs or preferences.
 
-To use the Web effectively, people with cognitive and learning disabilities often rely on:
+To use the digital technology effectively, people with cognitive and learning disabilities often rely on:
 
 * Clearly structured content that help users focus and find what they need;
 * Consistent labeling of forms, buttons, and other content parts so that users understand what they are being asked to do;
 * Predictable link targets, functionality, and overall interaction to make it clear what links and buttons do;
-* Different ways of navigating websites, such as hierarchical menu and search;
+* Different ways of navigating websites, such as hierarchical menus and search;
 * Options to suppress blinking, flickering, flashing, and otherwise distracting content;
 * Clear content with easy words, short sentences, short blocks of text that is supported by images, graphs, and other illustrations;
 * Designs that make errors less likely and that make it easy for users to correct errors.
 
-People with cognitive and learning disabilities may use different types of web browsing methods or tools to support their particular needs. For example, spell checkers to help when filling in forms, passwords management tools, and text-to-speech with synchronized highlighting of the phrase being read. Some people use tools that resize text and spacing or customize colors to assist reading. Others may require alternative presentation of content, such as additional symbols or simplification. For these methods to work, developers need to make products that support adaptation and personalization.
+People with cognitive and learning disabilities may use different types of browsing methods or tools to support their particular needs. For example, spell checkers to help when filling in forms, passwords management tools, and text-to-speech with synchronized highlighting of the phrase being read. Some people use tools that resize text and spacing or customize colors to assist reading. Others may require alternative presentation of content, such as additional symbols or simplification. For these methods to work, developers need to make products that support adaptation and personalization.
 
 ## Examples of cognitive and learning disabilities {#examples-of-cognitive-and-learning-disabilities}
 
@@ -101,5 +101,5 @@ People with cognitive and learning disabilities may use different types of web b
 
 - [Sophie, basketball fan with Down syndrome](/people-use-web/user-stories-five/)
 - [Ian, data entry clerk with autism](/people-use-web/user-stories-two/) 
-- [Stefan, student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories-eight/) 
+- [Stefan, student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-/user-stories-eight/) 
 - [Elias, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories-nine/) 
