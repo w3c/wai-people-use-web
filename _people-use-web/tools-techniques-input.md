@@ -5,7 +5,7 @@ permalink: /people-use-web/tools-techniques-input/
 ref: /people-use-web/tools-techniques-input/
 lang: en
 last_updated: 2017-05-15
-description: Introduces some of the techniques and tools that people with disabilities use to interact with the web — web browser settings, text-to-speech, speech recognition, and many more.
+description: Introduces some of the techniques and tools that people with disabilities use to interact with digital technology — browser settings, text-to-speech, speech recognition, and many more.
 image: /content-images/wai-people-use-web/social.png
 footer: >
    <p><strong>Date: Draft in progress.</strong> Updated @@ Month 2021. First published Month 20@@. CHANGELOG.</p>
@@ -54,9 +54,9 @@ The examples given in this section are not a complete list of all the ways that 
 
 Some people use software and customized settings to enhance the efficiency of typing, writing, and clicking. For example, some people assign personalized shortcut keys to functions they frequently use. Some people use word prediction software to help complete words and sentences with minimal typing, grammar and spelling tools to help correct text, and tools to help click, select text, and scroll with minimal movement.
 
-Web content needs to be designed to support these different types of approaches. For example, forms, links, and other functionality need to be usable by keyboard. In particular, web applications ("client-side scripting"), embedded media players, and other programmatic objects need to provide full keyboard support that does not trap the keyboard focus within the program and larger clickable areas for buttons and links.
+Digital content needs to be designed to support these different types of approaches. For example, forms, links, and other functionality need to be usable by keyboard. In particular, applications ("client-side scripting"), embedded media players, and other programmatic objects need to provide full keyboard support that does not trap the keyboard focus within the program and larger clickable areas for buttons and links.
 
-Accessible web content supports people who need more time typing, writing, and clicking, or are more likely to make mistakes. For instance, some people forget to select options and fill out form entries, misspell words and mistype data (such as dates), or unintentionally activate buttons and links. Accessible web content also provides enough time to complete tasks, clear and helpful error messages and options for correcting input.
+Accessible content supports people who need more time typing, writing, and clicking, or are more likely to make mistakes. For instance, some people forget to select options and fill out form entries, misspell words and mistype data (such as dates), or unintentionally activate buttons and links. Accessible content also provides enough time to complete tasks, clear and helpful error messages and options for correcting input.
 
 ## Examples of assistive technologies and adaptive strategies {#examples-of-assistive-technologies-and-adaptive-strategies}
 
