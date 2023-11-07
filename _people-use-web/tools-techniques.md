@@ -5,7 +5,7 @@ permalink: /people-use-web/tools-techniques/
 ref: /people-use-web/tools-techniques/
 lang: en
 last_updated: 2017-05-15
-description: Introduces some of the techniques and tools that people with disabilities use to interact with the web — web browser settings, text-to-speech, speech recognition, and many more.
+description: Introduces some of the techniques and tools that people with disabilities use to interact with digital technology — browser settings, text-to-speech, speech recognition, and many more.
 image: /content-images/wai-people-use-web/social.png
 footer: >
    <p><strong>Date: Draft in progress.</strong> Updated @@ Month 2021. First published Month 20@@. CHANGELOG.</p>
@@ -23,7 +23,7 @@ navigation:
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This section introduces some of the tools and techniques that people with disabilities use to interact with the web &mdash; web browser settings, text-to-speech, speech recognition, and many more. The examples given are not a complete list of all the ways that people interact with digital technology.
+This section introduces some of the tools and techniques that people with disabilities use to interact with digital technology &mdash; browser settings, text-to-speech, speech recognition, and many more. The examples given are not a complete list of all the ways that people interact with digital technology.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -47,7 +47,7 @@ This section introduces some of the tools and techniques that people with disabi
 
 ## Tools and preferences {#tools}
 
-People with disabilities access and navigate the Web in different ways, depending on their individual needs and preferences. Sometimes people configure standard software and hardware according to their needs, and sometimes people use specialized software and hardware that help them perform certain tasks.
+People with disabilities access and navigate digital technology in different ways, depending on their individual needs and preferences. Sometimes people configure standard software and hardware according to their needs, and sometimes people use specialized software and hardware that help them perform certain tasks.
 
 ### More about tools and preferences {#more-about-tools-and-preferences}
 
