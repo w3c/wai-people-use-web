@@ -77,6 +77,8 @@ People with cognitive and learning disabilities may use different types of brows
 -   **Autism spectrum disorder (ASD)**{:#asd} (includes “autism,” “Asperger syndrome,” and “pervasive developmental disorder” (PDD)) - involves impairments of social communication and interaction abilities, and sometimes restricted habits and interests. 
 -   **Brain Injury**{:injury} (traumatic or acquired) — damage that can happen at any stage in life and can lead to long-term impairment of executive function, memory, learning, coordination, speech, and emotions as well as other physical and sensory impairments.
 -   **Dementia** — includes memory loss and trouble concentrating, following a conversation, and finding the right word.
+-   **Dyslexia** - learning disorder that involves difficulty reading due to problems identifying speech sounds and learning how they relate to letters and words.
+-   **Dyscalculia** - learning disorder that affects a person's ability to undersrand number-based information, including math.
 -   **Intellectual disabilities**{:#intellectual} (sometimes called "[learning disabilities](#learning){:.termref}" in Europe and some other countries, and "developmental disabilities" in other regions) – involves impairments of intelligence, learning more slowly, or difficulty understanding complex concepts. Down syndrome is one of many different kinds of intellectual disability.
 -   **Learning disabilities**{:#learning} – a general term used to describe difficulty learning new concepts. In Europe and some other countries, it refers to [intellectual disabilities](#intellectual){:.termref}.
 -   **Mild cognitive impairment (MCI)**{:mci} — sometimes considered the stage between age-related forgetfulness and the more serious decline of dementia.
