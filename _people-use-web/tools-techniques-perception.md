@@ -5,7 +5,7 @@ permalink: /people-use-web/tools-techniques-perception/
 ref: /people-use-web/tools-techniques-perception/
 lang: en
 last_updated: 2017-05-15
-description: Introduces some of the techniques and tools that people with disabilities use to interact with the web — web browser settings, text-to-speech, speech recognition, and many more.
+description: Introduces some of the techniques and tools that people with disabilities use to interact with digital technology — browser settings, text-to-speech, speech recognition, and many more.
 image: /content-images/wai-people-use-web/social.png
 footer: >
    <p><strong>Date: Draft in progress.</strong> Updated @@ Month 2021. First published Month 20@@. CHANGELOG.</p>
@@ -54,7 +54,7 @@ The examples given in this section are not a complete list of all the ways that 
 
 Some people need to convert content from one form to another to perceive it. For example, someone who is deaf-blind requires audio and visual content in a tactile form (such as [Braille](#braille){:.termref}). Other people need to perceive content through multiple senses, such as someone with dyslexia who may need to hear and see the text to understand it better.
 
-Content in textual form can be more easily converted into other forms and is therefore particularly useful. However, text-only content poses barriers for many people who have difficulty with written language. Graphics and illustrations can be made accessible and often improve understandability, ease-of-use, and satisfaction with websites and applications for everyone.
+Content in textual form can be more easily converted into other forms and is therefore particularly useful. However, text-only content poses barriers for many people who have difficulty with written language. Graphics and illustrations can be made accessible and often improve understandability, ease-of-use, and satisfaction with digital technology for everyone.
 
 In some cases, content can be converted into different forms using software or hardware. For example, a text-to-speech software can convert text into speech. In other cases, content authors need to provide alternative forms of the content. For example, at least some level of human intervention is necessary to create textual descriptions for images and captions for audio content. Sometimes software tools, such as speech and picture recognition, can assist authors in providing such alternatives but the conversion is usually not fully automatable.
 
