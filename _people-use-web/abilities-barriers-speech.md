@@ -5,7 +5,7 @@ permalink: /people-use-web/abilities-barriers-speech/
 ref: /people-use-web/abilities-barriers-speech/
 lang: en
 last_updated: 2017-05-15
-description: Explores the wide diversity of people and abilities. Highlights some web accessibility barriers that people commonly experience because of inaccessible websites and web tools.
+description: Explores the wide diversity of people and abilities. description: Explores the wide diversity of people and abilities. Highlights accessibility barriers that people may experience because of inaccessible digital technology.
 image: /content-images/wai-people-use-web/social.png
 footer: >
    <p><strong>Date: Draft in progress.</strong> Updated @@ Month 2021. First published Month 20@@. CHANGELOG.</p>
@@ -47,7 +47,7 @@ The examples given in this section are not a complete list of all disabilities o
 
 ## Introduction
 
-People with speech disabilities encounter barriers with voice-based services, such as automated web-based hotlines and web applications that are operated using voice commands. To use services that rely on voice, people with speech disabilities need alternative modes of interaction such as a text-based chat to interact with hotline representatives and keyboard commands to operate web applications. Also, websites that provide telephone numbers as the only means of communicating with an organization pose barriers for people with speech disabilities. Alternative means of communication include e-mail and feedback forms.
+People with speech disabilities encounter barriers with voice-based services, such as automated hotlines and applications that are operated using voice commands. To use services that rely on voice, people with speech disabilities need alternative modes of interaction such as text-based chat to interact with hotline representatives. Also, when the telephone numbers is the only means of communicating with an organization, it poses barriers for people with speech disabilities. Alternative means of communication include e-mail and feedback forms.
 
 ## Examples of speech disabilities {#examples-of-speech-disabilities}
 
