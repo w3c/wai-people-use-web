@@ -5,7 +5,7 @@ permalink: /people-use-web/tools-techniques-navigation/
 ref: /people-use-web/tools-techniques-navigation/
 lang: en
 last_updated: 2017-05-15
-description: Introduces some of the techniques and tools that people with disabilities use to interact with the web — web browser settings, text-to-speech, speech recognition, and many more.
+description: Introduces some of the techniques and tools that people with disabilities use to interact with digital technology — browser settings, text-to-speech, speech recognition, and many more.
 image: /content-images/wai-people-use-web/social.png
 footer: >
    <p><strong>Date: Draft in progress.</strong> Updated @@ Month 2021. First published Month 20@@. CHANGELOG.</p>
@@ -57,7 +57,7 @@ Examples of such situations include:
 - A person who has difficulty remembering the addresses, names, or particular functionality of websites; web browsers need to provide supporting functionality that is easy to use and remember.
 - A person who may have difficulty with hierarchical menu navigation, as how most navigation menus are designed to be; websites need to provide alternative mechanisms for navigation.
 
-Many functions to support different styles of navigation are built directly into web browsers and assistive technologies. For example, most commonly available browsers provide bookmark functionality, and screen readers provide functions to list headings, links, and other structures on a web page. However, the design of the content is also an essential factor to support different styles of navigation.
+Many functions to support different styles of navigation are built directly into browsers and assistive technologies. For example, most commonly available browsers provide bookmark functionality, and screen readers provide functions to list headings, links, and other structures on a web page. However, the design of the content is also an essential factor to support different styles of navigation.
 
 ## Examples of accessibility features {#examples-of-accessibility-features}
 
