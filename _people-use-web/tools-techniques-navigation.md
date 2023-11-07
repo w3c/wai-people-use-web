@@ -23,7 +23,12 @@ navigation:
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-TBD
+People navigate digital technology differently depending on their preferences, skills, and abilities. Similar to using different strategies for entering text and activating commands, people may use:
+
+- Keyboard only by people with cognitive, physical, and visual disabilities;
+- Touch screen only by people with cognitive and physical disabilities;
+- Mouse and keyboard with software that compensates for hand tremor;
+- Speech recognition and other hands-free interaction.
 
 The examples given in this section are not a complete list of all the ways that people interact with digital technology.
 
