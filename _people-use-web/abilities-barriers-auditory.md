@@ -5,7 +5,7 @@ permalink: /people-use-web/abilities-barriers-auditory/
 ref: /people-use-web/abilities-barriers-auditory/
 lang: en
 last_updated: 2017-05-15
-description: Explores the wide diversity of people and abilities. Highlights some web accessibility barriers that people commonly experience because of inaccessible websites and web tools.
+description: Explores the wide diversity of people and abilities. Highlights accessibility barriers that people may experience because of inaccessible digital technology.
 image: /content-images/wai-people-use-web/social.png
 footer: >
    <p><strong>Date: Draft in progress.</strong> Updated @@ Month 2021. First published Month 20@@. CHANGELOG.</p>
@@ -50,9 +50,9 @@ The examples given in this section are not a complete list of all disabilities o
 
 ## Introduction
 
-While multimedia on the Web provides many opportunities for people with auditory disabilities, it also poses challenges when content is not designed to be accessible. For example, while video content can be used to communicate information visually, audio content needs to have alternatives, such as transcripts and captions, so that it is accessible for people with auditory disabilities.
+While multimedia provides many opportunities for people with auditory disabilities, it also poses challenges when content is not designed to be accessible. For example, while video content can be used to communicate information visually, audio content needs to have alternatives, such as transcripts and captions, so that it is accessible for people with auditory disabilities.
 
-To use the Web effectively, people with auditory disabilities often rely on:
+To use multimedia, people with auditory disabilities often rely on:
 
 -   Transcripts and captions of audio content, including audio-only content and audio tracks in multimedia;
 -   Media players that display captions and provide options to adjust the text size and colors of captions;
