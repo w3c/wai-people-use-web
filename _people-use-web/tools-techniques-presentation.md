@@ -49,7 +49,7 @@ The examples given in this section are not a complete list of all the ways that 
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Introduction
+## Description
 
 Some people need larger text and image sizes or higher contrast between text and background colors to see the content better, and some people need louder audio with lower background noise to better hear the content. Some people need to turn off pop-up windows and animations that disorient or distract them. A sound that is automatically played, such as background music on a website, can also distract people or interfere with text-to-speech software. Digital content, browsers, and tools need to support adjusting the presentation according to peoples' needs and preferences.
 
@@ -57,7 +57,7 @@ Making text more readable is of particular importance. This involves changing it
 
 Also, people process information differently. This aspect is particularly relevant for learning environments but also applies to many other situations. In some cases, authors can provide different representations of the same information to address the widest audience possible, such as graphical and tabular representations of data for people with different learning styles.
 
-## Examples of accessibility features {#examples-of-accessibility-features}
+## Accessibility feature examples {#examples-of-accessibility-features}
 
 - **Customized fonts and colors**{:#style} – changing the font types, sizes, colors, and spacing to make text easier to read. Customization involves browser settings and, for more advanced users, cascading style sheets (CSS) to override the default appearance of web content.
 - **Document outline**{:#outline} – representation of the content that only shows the headings and relevant structures (such as headings nesting and hierarchy) to help provide orientation and an overview of the contents.
@@ -67,7 +67,7 @@ Also, people process information differently. This aspect is particularly releva
 - **Screen magnification**{:#display} – changing the settings of the web browser, operating system, or screen to enlarge or reduce text size and images. Some people use magnification lenses, binoculars, or other visual aids, and software such as [screen magnifiers](#magnifiers){:.termref} to better see the content.
 - **Symbols**{:#symbols} – icons that represent words or concepts used instead of text by some people with impaired communication, including people with difficulties reading or writing.
 
-## Examples of assistive technologies and adaptive strategies {#examples-of-assistive-technologies-and-adaptive-strategies}
+## Assistive technology and adaptive strategy examples {#examples-of-assistive-technologies-and-adaptive-strategies}
 
 - **Pop-up and animations blockers**{:#blockers} – web browser plug-ins or other software tools that stop automatic pop-up windows and redirection, and options to stop, pause, and hide animations.
 - **Reading assistants**{:#reading} – software that changes the presentation of content and provides other functionality to make it more readable. Examples include:
