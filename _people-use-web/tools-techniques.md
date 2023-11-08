@@ -54,7 +54,7 @@ People with disabilities access and navigate digital technology in different way
 Some common approaches for interacting with the Web include:
 
 -   **Assistive Technologies**{:#at} – software and hardware that people with disabilities use to improve interaction with the web. These include screen readers that read aloud web pages for people who cannot read the text, screen magnifiers for people with some types of low vision, and speech recognition software and selection switches for people who cannot use a keyboard or mouse.
--   **Adaptive Strategies**{:#as} – techniques that people with disabilities use to improve interaction with the Web, such as increasing text size, reducing mouse speed, and turning on captions. Adaptive strategies include techniques with standard software, with mainstream web browsers, with mobile apps, and with assistive technologies.
+-   **Adaptive Strategies**{:#as} – techniques that people with disabilities use to improve interaction with the Web, such as increasing text size, reducing mouse speed, and turning on captions. Adaptive strategies include techniques with standard software, with mainstream web browsers, with mobile devices, and with assistive technologies.
 
 Accessibility benefits people with and without disabilities. Features that support accessibility are becoming increasingly available in standard computer hardware, mobile devices, operating systems, web browsers, and other tools. [Better Web Browsing: Tips for Customizing Your Computer](http://www.w3.org/WAI/users/browsing) provides information about customizing your computer to take advantage of such accessibility features and solutions.
 
