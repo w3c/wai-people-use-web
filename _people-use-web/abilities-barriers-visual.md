@@ -62,10 +62,10 @@ Some people are only seeing small portions of the content at a time or are perce
 
 - **Color vision deficiency**{:#colorblindness} – includes difficulty distinguishing between colors such as between red and green, or between yellow and blue, and sometimes inability to perceive any color (often called "color blindness"). 
 - **Low vision**{:#lowvision} – (in some regions also called "partial sight") includes: 
-   - Low visual acuity (vision that is not sharp)
-   - Light sensitivity (difficulty seeing in bright light)
-   - Contrast sensitivity (inability to distingish bright and dim areas)
-   - Field of vision loss (can be central, peripheral, or other field loss)
+   - Vision that is not sharp or clear (low visual acuity)
+   - Intolerance to light (photophobia or light sensitivity)
+   - Inability to distingish bright and dim areas of images or text against a background (contrast sensitivity)
+   - Inability to obtain information when looking straight ahead (field of vision loss; can be central, peripheral, or scattered)
 - **Blindness**{:#blindness} – substantial, uncorrectable loss of vision in both eyes. 
 - **Deaf-blindness**{:#deafblind} – substantial, uncorrectable visual and hearing impairments.
 
