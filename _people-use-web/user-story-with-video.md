@@ -2,8 +2,8 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "Alan, reporter with limited use of his arms"
-nav_title: "Alan"
+title: "Ade, reporter with limited use of his arms"
+nav_title: "Ade"
 parent_in_h1:
   - ref: /people-use-web/user-stories/
     name: nav_title
@@ -75,11 +75,11 @@ footer: >
 
 <aside class="box box-simple"><div class="box-i" style="display: flex">
   <div>
-    <p style="font-size:120%; margin-top: 0.5em">Alan has limited use of his arms and no movement or sensation in his legs. He has worked as a reporter for more than 20 years. Alan uses a keyboard with larger keys to help him more easily hit the correct key and a joystick instead of a mouse.</p>
+    <p style="font-size:120%; margin-top: 0.5em">Ade has limited use of his arms and no movement or sensation in his legs. He has worked as a reporter for more than 20 years. Ade uses a keyboard with larger keys to help him more easily hit the correct key and a joystick instead of a mouse.</p>
     <nav aria-labelledby="tocheading" id="toc">
       <header id="tocheading" class="box-h box-h-simple">Page Contents</header>
       <ul id="markdown-toc">
-        <li><a href="#about-alan" id="markdown-toc-about-alan">About Alan</a></li>
+        <li><a href="#about-Ade" id="markdown-toc-about-Ade">About Ade</a></li>
         <li><a href="#barrier-examples" id="markdown-toc-barrier-examples">Barrier examples</a></li>
         <li><a href="#assistive-technologies-and-adaptive-strategies-used" id="markdown-toc-assistive-technologies-and-adaptive-strategies-used">Assistive technologies and adaptive strategies used</a></li>
         <li><a href="#related-wai-resources" id="markdown-toc-related-wai-resources">Related WAI resources</a></li>
@@ -97,19 +97,19 @@ footer: >
 
 {:/}
 
-## About Alan
+## About Ade
 
 > It's not like I can't use a keyboard or mouse, I just can't use it for long periods because it is tiring.
 
-Alan was involved in a accident which caused a spinal cord injury. This left him with limited use of his arms and no movement or sensation in his legs. He has worked as a reporter for more than 20 years. Alan uses a keyboard with larger keys to help him more easily hit the correct key and a joystick instead of a mouse. However, using these for extended periods can be tiring so he has started using speech recognition software for some tasks, such as dictating long pieces. 
+Ade was involved in a accident which caused a spinal cord injury. This left him with limited use of his arms and no movement or sensation in his legs. He has worked as a reporter for more than 20 years. Ade uses a keyboard with larger keys to help him more easily hit the correct key and a joystick instead of a mouse. However, using these for extended periods can be tiring so he has started using speech recognition software for some tasks, such as dictating long pieces. 
 
-Rather than using his fingers, Alan uses the palm of his hand to operate a joystick that has an enlarged lever. This can be inaccurate to use, particularly when pointing to and clicking on small areas. When this happens, he sometimes switches to using the keyboard for navigation. He can use the tab key to move through links and form elements. When using the keyboard, Alan has found that on some sites he couldn't see which field or link had focus. He also found that sometimes the links weren't in a logical order, which made it hard to find the element he was interested in. He could always use his joystick but that can interrupt his flow and slow him down. Sites often include good visual styling when you hover over a link but sometimes don't include this when the link has keyboard focus. For Alan, it is important that websites clearly show which link has the current focus and to navigate through links in a logical order, that is, following the visual order of links on the page.
+Rather than using his fingers, Ade uses the palm of his hand to operate a joystick that has an enlarged lever. This can be inaccurate to use, particularly when pointing to and clicking on small areas. When this happens, he sometimes switches to using the keyboard for navigation. He can use the tab key to move through links and form elements. When using the keyboard, Ade has found that on some sites he couldn't see which field or link had focus. He also found that sometimes the links weren't in a logical order, which made it hard to find the element he was interested in. He could always use his joystick but that can interrupt his flow and slow him down. Sites often include good visual styling when you hover over a link but sometimes don't include this when the link has keyboard focus. For Ade, it is important that websites clearly show which link has the current focus and to navigate through links in a logical order, that is, following the visual order of links on the page.
 
-When using a keyboard, Alan has found some features which really help. For example, a skip link that moves focus past all the navigation on the page is a big help. Alan tries to avoid sites that don't have this feature. However, it limits his research sources a bit.
+When using a keyboard, Ade has found some features which really help. For example, a skip link that moves focus past all the navigation on the page is a big help. Ade tries to avoid sites that don't have this feature. However, it limits his research sources a bit.
 
-Alan has started using speech control software which helps him to avoid having to use the joystick and keyboard. It is early days and he is not sure of how to use all the features. The software allows him to select and 'click' on links by speaking but only when the links are clear and coded correctly. The software also has a speech-to-text dictation feature. As someone who has spent years typing out his articles, Alan is having to train himself in a new way of working. He would still prefer to type as he thinks he is much slower with dictation but is hopeful that his speed will improve.
+Ade has started using speech control software which helps him to avoid having to use the joystick and keyboard. It is early days and he is not sure of how to use all the features. The software allows him to select and 'click' on links by speaking but only when the links are clear and coded correctly. The software also has a speech-to-text dictation feature. As someone who has spent years typing out his articles, Ade is having to train himself in a new way of working. He would still prefer to type as he thinks he is much slower with dictation but is hopeful that his speed will improve.
 
-Outside of work, Alan finds his mobile device easier to use than the computer because there is limited navigation and no pointer device. Since it is hand-held, he has more options to place it in a position that he is comfortable with. He wishes his employer would create a mobile-friendly or responsive site that he could use for his job.
+Outside of work, Ade finds his mobile device easier to use than the computer because there is limited navigation and no pointer device. Since it is hand-held, he has more options to place it in a position that he is comfortable with. He wishes his employer would create a mobile-friendly or responsive site that he could use for his job.
 
 ## Barrier examples
 
