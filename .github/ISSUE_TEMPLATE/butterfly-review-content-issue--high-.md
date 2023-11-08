@@ -1,7 +1,7 @@
 ---
-name: Butterfly review content issue
-about: Submit a content issue from a Butterfly review
-title: "[ED-low]/[ED-med]/[HIGH] Content issue title"
+name: Butterfly review content issue [HIGH]
+about: Submit a high severity content issue from a Butterfly review
+title: "[HIGH] Content issue title"
 labels: ''
 assignees: ''
 
