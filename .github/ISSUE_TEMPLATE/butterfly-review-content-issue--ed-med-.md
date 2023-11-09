@@ -2,7 +2,7 @@
 name: Butterfly review content issue [ED-med]
 about: Submit a editor's discretion medium severity content issue from a Butterfly
   review
-title: "[ED-med] Content issue title"
+title: "[ED-med] @@add title here@@"
 labels: ''
 assignees: ''
 

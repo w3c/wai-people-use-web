@@ -1,7 +1,7 @@
 ---
 name: Butterfly review content issue [ED-low]
 about: Submit a editor's discretion low severity content issue from a Butterfly review
-title: "[ED-low] Content issue title"
+title: "[ED-low] @@Add title here@@"
 labels: ''
 assignees: ''
 
