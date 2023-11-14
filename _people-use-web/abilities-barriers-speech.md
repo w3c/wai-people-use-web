@@ -5,7 +5,7 @@ permalink: /people-use-web/abilities-barriers-speech/
 ref: /people-use-web/abilities-barriers-speech/
 lang: en
 last_updated: 2017-05-15
-description: Explores the wide diversity of people and abilities. description: Explores the wide diversity of people and abilities. Highlights accessibility barriers that people may experience because of inaccessible digital technology.
+description: Explores the wide diversity of people and abilities. Highlights accessibility barriers that people may experience because of inaccessible digital technology.
 image: /content-images/wai-people-use-web/social.png
 footer: >
    <p><strong>Date: Draft in progress.</strong> Updated @@ Month 2021. First published Month 20@@. CHANGELOG.</p>
