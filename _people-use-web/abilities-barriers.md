@@ -29,22 +29,6 @@ This section explores the wide diversity of abilities. It highlights some access
 {% include box.html type="end" %}
 {:/}
 
-{::options toc_levels="2" /}
-
-{::nomarkdown}
-{% include_cached toc.html type="start" title="Section Contents" class="full" %}
-{:/}
-
-- [Auditory](/people-use-web/abilities-barriers-auditory/)
-- [Cognitive and learning](/people-use-web/abilities-barriers-cognitive/)
-- [Physical](/people-use-web/abilities-barriers-physical/)
-- [Speech](/people-use-web/abilities-barriers-speech/)
-- [Visual](/people-use-web/abilities-barriers-visual/)
-
-{::nomarkdown}
-{% include_cached toc.html type="end" %}
-{:/}
-
 ## Diverse abilities {#diverse}
 
 There are many reasons why people may be experiencing varying degrees of auditory, cognitive, physical, speech, and visual disabilities. For instance, some may have disabilities from birth, an illness, disease, or accident, or they may develop impairments with age. Some may not consider themselves to have disabilities even if they do experience such functional limitations.
@@ -59,3 +43,10 @@ Each individual is unique. People have diverse abilities, skills, tools, prefere
 -   **Situational limitations:**{:#situational} Some people may be experiencing constraints due to their surrounding or due to other situational aspects. For example, they may be in a loud environment and unable to hear audio, in bright sunlight and unable to see a screen, or they may not be able to afford some technologies.
 
 Digital technology designed for people with a broad range of abilities benefits everyone, including people without disabilities. It is, therefore, important to consider the broad diversity of functional needs rather than categorize people according to medical classifications.
+
+## More on diverse abilities and barriers:
+- [Auditory](/people-use-web/abilities-barriers-auditory/)
+- [Cognitive and learning](/people-use-web/abilities-barriers-cognitive/)
+- [Physical](/people-use-web/abilities-barriers-physical/)
+- [Speech](/people-use-web/abilities-barriers-speech/)
+- [Visual](/people-use-web/abilities-barriers-visual/)
