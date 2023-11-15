@@ -50,7 +50,7 @@ The examples given in this section are not a complete list of all the ways that 
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Introduction
+## Description
 
 Some people need to convert content from one form to another to perceive it. For example, someone who is deaf-blind requires audio and visual content in a tactile form (such as [Braille](#braille){:.termref}). Other people need to perceive content through multiple senses, such as someone with dyslexia who may need to hear and see the text to understand it better.
 
@@ -58,7 +58,7 @@ Content in textual form can be more easily converted into other forms and is the
 
 In some cases, content can be converted into different forms using software or hardware. For example, a text-to-speech software can convert text into speech. In other cases, content authors need to provide alternative forms of the content. For example, at least some level of human intervention is necessary to create textual descriptions for images and captions for audio content. Sometimes software tools, such as speech and picture recognition, can assist authors in providing such alternatives but the conversion is usually not fully automatable.
 
-## Examples of accessibility features {#examples-of-accessibility-features}
+## Accessibility feature examples {#examples-of-accessibility-features}
 
 - **Audio descriptions**{:#audio} – (also referred to as "video descriptions" and "described video") narrations that describe important visual details in a video. These narrations can be during natural pauses in the audio, or in separate audio files or audio tracks in multimedia.
 - **Auditory, tactile, and visual notifications**{:#notifications} - prompting or alerting the user in different ways such as by blinking or displaying visual dialogs, by using sound, or by vibration.
@@ -69,7 +69,7 @@ In some cases, content can be converted into different forms using software or h
 - **Text-to-speech**{:#tts} (sometimes called "speech synthesis" or "speech output") - automatic conversion of text into a synthesized voice reading the text aloud.
 - **Transcripts**{:#transcripts} – text manuscripts containing the correct sequence of verbatim recording of any speech, and descriptions of important auditory or visual information.
 
-## Examples of assistive technologies and adaptive strategies {#examples-of-assistive-technologies-and-adaptive-strategies}
+## Assistive technology and adaptive strategy examples {#examples-of-assistive-technologies-and-adaptive-strategies}
 
 - **Refreshable Braille display**{:#braille_display} – a mechanical terminal that displays a line of [Braille](#braille){:.termref} characters (usually 40-80) by raising and lowering the dots (pins) dynamically. Braille displays may also be attached to standalone devices that have other functionality such as taking notes, calculating numbers, or to interface with devices such as public information kiosks.
 - **Screen reader**{:#sr} – software that processes content on the desktop and in web browsers, and converts it to [text-to-speech](#tts){:.termref} and [Braille](#braille){:.termref}. Some screen readers provide other functions such as shortcut keys, different modes for processing content and interacting with it, and the ability to highlight the text that is being read aloud.
