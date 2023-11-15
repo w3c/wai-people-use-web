@@ -32,18 +32,7 @@ This section introduces some of the tools and techniques that people with disabi
 
 {::options toc_levels="2" /}
 
-{::nomarkdown}
-{% include_cached toc.html type="start" title="Section Contents" class="full" %}
-{:/}
 
-- [Perception - hearing, feeling and seeing](/people-use-web/tools-techniques-perception/)
-- [Presentation - distingushing and understanding](/people-use-web/tools-techniques-presentation/)
-- [Input - typing, writing, and clicking](/people-use-web/tools-techniques-input/)
-- [Interaction - navigating and finding](/people-use-web/tools-techniques-navigation/)
-
-{::nomarkdown}
-{% include_cached toc.html type="end" %}
-{:/}
 
 ## Tools and preferences {#tools}
 
@@ -59,3 +48,9 @@ Some common approaches for interacting with the Web include:
 Accessibility benefits people with and without disabilities. Features that support accessibility are becoming increasingly available in standard computer hardware, mobile devices, operating systems, web browsers, and other tools. [Better Web Browsing: Tips for Customizing Your Computer](http://www.w3.org/WAI/users/browsing) provides information about customizing your computer to take advantage of such accessibility features and solutions.
 
 Sometimes hardware and software with specific accessibility features, including web browsers, media players, or assistive technologies, may not be available to an individual. For example, tools may not be affordable, not installed or not compatible with the computer, not available in some languages, or not available for other reasons. In other cases, people are unaware of accessibility solutions or how to configure and use them.
+
+Section contents:
+- [Perception - hearing, feeling and seeing](/people-use-web/tools-techniques-perception/)
+- [Presentation - distingushing and understanding](/people-use-web/tools-techniques-presentation/)
+- [Input - typing, writing, and clicking](/people-use-web/tools-techniques-input/)
+- [Interaction - navigating and finding](/people-use-web/tools-techniques-navigation/)
