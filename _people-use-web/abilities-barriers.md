@@ -35,7 +35,7 @@ There are many reasons why people may be experiencing varying degrees of auditor
 
 Each individual is unique. People have diverse abilities, skills, tools, preferences, and expectations that can impact how they use the digital technology. For instance, consider the following aspects:
 
--   **Age-related impairments:**{:#ageing} People with age-related impairments often share the same functional requirements as other people with disabilities. However, their use of digital technology and assistive technologies may differ.
+-   **Age-related impairments:**{:#ageing} People with age-related impairments often have the same functional requirements as other people with disabilities. However, their use of digital technology and adoption of assistive technologies may differ.
 -   **Multiple disabilities:**{:#combined} Some people have combinations of different kinds of disabilities, which may limit their approaches for interacting with digital technology. For example, someone who is deaf and has low vision might benefit from captions for audio, but only if these captions have adjustable size and color.
 -   **Health conditions:**{:#health} Some people have health conditions that may affect their stamina, dexterity, or concentration. For instance, some may experience fatigue, pain, or other symptoms that could have an impact on their physical use of the computer or limit the duration or extent of their use of digital technology.
 -   **Changing abilities:**{:#changing} Some people may be experiencing progressive or recurring functional limitations that impact their use of digital technology differently at different times. For example, some may need particular accessibility features on one day, and others or none on another day, depending on their condition.
