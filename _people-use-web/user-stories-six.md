@@ -49,10 +49,90 @@ footer: >
 ---
 
 {::nomarkdown}
-{% include box.html type="start" h="2" title="Summary" class="full" %}
+
+<style>
+  #introduction p {
+    font-size:120%;
+    margin: 0.5em 0 0 0;
+  }
+  #introduction .box-i {
+  }
+  #introduction nav {
+    border: 0;
+    margin-top: 0;
+  }
+  #introduction nav header {
+    padding: 8px 16px;
+  }
+  #introduction .video-card {
+    margin: 1em;
+    float: none !important;
+    max-width: inherit !important;
+    min-width: 45% !important;
+  }
+  #introduction .video-card p {
+    font-size: 90%;
+    margin: 0;
+  }
+  #introduction .video-card p:first-child {
+    height: 190px;
+  }
+  #introduction img.video {
+    border-radius: 5px;
+    width: 300px;
+    max-width: 300px;
+  }
+  #introduction .video-card .play-button {
+    position: relative;
+    top: -55px;
+    left: -185px;
+    width: 60px;
+    height: 60px;
+  }
+  @media all and (min-width: 576px) {
+    #introduction .box-i {
+      display: flex;
+      flex: 0 1;
+    }
+    #introduction .video-card .play-button {
+      position: relative;
+      top: -120px;
+      left: 120px;
+      width: 60px;
+      height: 60px;
+    }
+  }
+</style>
+
+<aside id="introduction" class="box"><div class="box-i">
+  <div>
 {:/}
 
-Introduction about Dhruv
+Dhruv is a student who is deaf. Because his first, or native, language is sign language, Dhruv has difficulty reading content that is not well structured with consistent layout and navigation. At his university, many of the lectures are being posted online. This can present a barrier to Dhruv if the videos don’t contain captions or if the captions have mistakes or lag behind what the lecturer is saying. In his free time, Dhruv likes to watch movies and TV shows on his mobile device. These must contain accurate captions and also be coded so that he knows who is speaking.
+
+{::options toc_levels="2..2" /}
+
+{::nomarkdown}
+  </div>
+  <div class="video-card">
+    {% include video-player.html
+        yt-id="eh091V45uqc"
+    %}
+    <p><a href="#transcript">Text Transcript with Descriptions of Visuals</a></p>
+  </div>
+</div>
+
+{% include_cached toc.html type="start" title="Page Contents" class="full" %}
+{:/}
+
+-   TOC is created automatically.
+{:toc}
+
+{::nomarkdown}
+{% include_cached toc.html type="end" %}
+    
+</aside>
+{:/}
 
 **Note:** This user story is an example of a person with this type of disability. Other people with this disability may have different experiences.
 
