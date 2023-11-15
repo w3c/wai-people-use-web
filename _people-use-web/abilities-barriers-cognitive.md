@@ -60,12 +60,12 @@ Computer technologies provide many opportunities for people with cognitive and l
 
 To use the digital technology effectively, people with cognitive and learning disabilities often rely on:
 
-* Clearly structured content that help users focus and find what they need;
+* Clearly structured content that helps users focus and find what they need;
 * Consistent labeling of forms, buttons, and other content parts so that users understand what they are being asked to do;
-* Predictable link targets, functionality, and overall interaction to make it clear what links and buttons do;
+* Predictable link targets, functionality, and overall interaction;
 * Different ways of navigating websites, such as hierarchical menus and search;
-* Options to suppress blinking, flickering, flashing, and otherwise distracting content;
-* Clear content with easy words, short sentences, short blocks of text that is supported by images, graphs, and other illustrations;
+* Options to suppress blinking, flickering, flashing, and continually changing content;
+* Clear content with simple words, short sentences, short blocks of text that is supported by images, graphs, and other illustrations;
 * Designs that make errors less likely and that make it easy for users to correct errors.
 
 People with cognitive and learning disabilities may use different types of browsing methods or tools to support their particular needs. For example, spell checkers to help when filling in forms, passwords management tools, and text-to-speech with synchronized highlighting of the phrase being read. Some people use tools that resize text and spacing or customize colors to assist reading. Others may require alternative presentation of content, such as additional symbols or simplification. For these methods to work, developers need to make products that support adaptation and personalization.
