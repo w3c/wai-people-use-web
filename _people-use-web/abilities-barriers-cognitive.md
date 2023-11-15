@@ -78,7 +78,7 @@ People with cognitive and learning disabilities may use different types of brows
 -   **Brain Injury**{:injury} (traumatic or acquired) — damage that can happen at any stage in life and can lead to long-term impairment of executive function, memory, learning, coordination, speech, and emotions as well as other physical and sensory impairments.
 -   **Dementia** — includes memory loss and trouble concentrating, following a conversation, and finding the right word.
 -   **Dyslexia** - learning disability that affects reading due to problems identifying speech sounds and how they relate to letters and words.
--   **Dyscalculia** - learning disability that affects a person's ability to undersrand number-based information, including math.
+-   **Dyscalculia** - learning disability that affects a person's ability to understand number-based information, including math.
 -   **Intellectual disabilities**{:#intellectual} (called "[learning disabilities](#learning){:.termref}" or "developmental disabilities" in some areas) – involves impairments of intelligence, learning more slowly, or difficulty understanding complex concepts.
 -   **Learning disabilities**{:#learning} – a general term used to describe difficulty learning new concepts. In Europe and some other countries, it refers to [intellectual disabilities](#intellectual){:.termref}.
 -   **Mild cognitive impairment (MCI)**{:mci} — sometimes considered the stage between age-related forgetfulness and the more serious decline of dementia.
