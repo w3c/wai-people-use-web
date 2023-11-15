@@ -23,7 +23,7 @@ navigation:
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-Visual disabilities range from mild or moderate vision loss in one or both eyes ("low vision") to substantial and uncorrectable vision loss in both eyes ("blindness"). Some people have reduced or lack of sensitivity to certain colors (often called "color blindness"), or increased sensitivity to bright colors. These variations in perception of colors and brightness can be independent of the visual acuity.
+Visual disabilities range from mild or moderate vision loss in one or both eyes ("low vision") to substantial vision loss in both eyes ("blindness"). Some people have reduced or lack of sensitivity to certain colors (often called "color blindness"), or increased sensitivity to bright colors. These variations in perception of colors and brightness can be independent of the visual acuity.
 
 The examples given in this section are not a complete list of all disabilities or barriers.
 {::nomarkdown}
