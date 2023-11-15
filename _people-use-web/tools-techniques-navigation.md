@@ -50,7 +50,7 @@ The examples given in this section are not a complete list of all the ways that 
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Introduction
+## Description
 
 People navigate and find content using different strategies and approaches depending on their preferences, skills, and abilities. For instance, someone using a website for the first time may need clearer guidance than someone who has more experience with the particular site, and someone using the Web on a mobile device with a small screen may require more orientational cues than someone using a desktop computer. While these are typically usability aspects that affect people with and without disabilities, some situations affect people with disabilities to a greater extent.
 
@@ -64,7 +64,7 @@ Examples of such situations include:
 
 Many functions to support different styles of navigation are built directly into browsers and assistive technologies. For example, most commonly available browsers provide bookmark functionality, and screen readers provide functions to list headings, links, and other structures on a web page. However, the design of the content is also an essential factor to support different styles of navigation.
 
-## Examples of accessibility features {#examples-of-accessibility-features}
+## Accessibility feature examples {#examples-of-accessibility-features}
 
 - **Consistency and predictability**{:#consistency} – labeling of functions such as links, buttons, and controls should be consistent, and the expected function should be predictable from the label.
 - **Descriptive titles, headings, and labels**{:#labels} – page titles, section headings, and labels for forms, links, and controls are sometimes read on their own or out of context and need to be descriptive.
@@ -73,7 +73,7 @@ Many functions to support different styles of navigation are built directly into
 - **Skip links**{:#skip} – mechanisms to allow keyboard users to skip over repetitive blocks of content such as page headings, navigation bars, or menus. Note: too many skip links are counterproductive to this purpose.
 - **Visual orientation cues**{:#cues} – examples include using background colors to indicate different parts of the content, using unique headings, and placing relevant information in prominent areas of a web page.
 
-## Examples of assistive technologies and adaptive strategies {#examples-of-assistive-technologies-and-adaptive-strategies}
+## Assistive technology and adaptive strategy examples {#examples-of-assistive-technologies-and-adaptive-strategies}
 
 - **Bookmarks and history**{:#bookmarks} – using web browser functions to help remember pages, find previously visited pages, or quickly go to pages without needing to type a web address.
 - **Keyword search**{:#search} – using web browser functions to find text within a web page, and website functionality to search for web pages by keyword. Search engines that are maintained and optimized for a particular website can provide more precise search results.
