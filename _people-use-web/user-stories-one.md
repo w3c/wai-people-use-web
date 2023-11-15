@@ -108,7 +108,7 @@ footer: >
   <div>
 {:/}
 
-Lexie is an older adult who loves online shopping and fantasy football. Lexie cannot see all colors equally well. Websites and apps that rely on colors alone present barriers for Lexie. Using color alone to highlight text and to indicate areas in a chart also present barriers for Lexie but fortunately her work colleagues have learned ways for using other visual markers in addition to color.
+Ade is a reporter who has limited use of his arms. He has several strategies for navigating websites, including using his palm to operate a joystick, using one finger to press keys on the keyboard, which allows him to move up and down the page and tab from link to link, and more recently, using speech recognition. All of these methods, however, have drawbacks. When using the joystick, it is hard to click on small targets such as placing the cursor between words or at the end of a sentence. When using the keyboard, it’s sometimes hard to know which page element has focus, plus the order of links often doesn’t match what he sees when looking at the page. Speech recognition has promise but it involves a whole new way of working to someone who is used to typing. So that Ade can switch from one method to another, it is important to make sure links and other page elements have visual focus indicators and match the order that they appear on the page and that content flows correctly when the site is zoomed to make everything appear larger.
 
 {::options toc_levels="2..2" /}
 
