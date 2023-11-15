@@ -49,10 +49,91 @@ footer: >
 ---
 
 {::nomarkdown}
-{% include box.html type="start" h="2" title="Summary" class="full" %}
+
+<style>
+  #introduction p {
+    font-size:120%;
+    margin: 0.5em 0 0 0;
+  }
+  #introduction .box-i {
+  }
+  #introduction nav {
+    border: 0;
+    margin-top: 0;
+  }
+  #introduction nav header {
+    padding: 8px 16px;
+  }
+  #introduction .video-card {
+    margin: 1em;
+    float: none !important;
+    max-width: inherit !important;
+    min-width: 45% !important;
+  }
+  #introduction .video-card p {
+    font-size: 90%;
+    margin: 0;
+  }
+  #introduction .video-card p:first-child {
+    height: 190px;
+  }
+  #introduction img.video {
+    border-radius: 5px;
+    width: 300px;
+    max-width: 300px;
+  }
+  #introduction .video-card .play-button {
+    position: relative;
+    top: -55px;
+    left: -185px;
+    width: 60px;
+    height: 60px;
+  }
+  @media all and (min-width: 576px) {
+    #introduction .box-i {
+      display: flex;
+      flex: 0 1;
+    }
+    #introduction .video-card .play-button {
+      position: relative;
+      top: -120px;
+      left: 120px;
+      width: 60px;
+      height: 60px;
+    }
+  }
+</style>
+
+<aside id="introduction" class="box"><div class="box-i">
+  <div>
 {:/}
 
-Introduction about Marta
+Marta is a marketing assistant who was born profoundly deaf and is now progressively losing her vision. For now, she can magnify her computer screen in order to see the content but as her eyesight continues to deteriorate, she will need to learn new ways of interacting with the 
+computer. Marta is learning braille and hopes to use her new braille display for reading, writing, and navigating applications. In addition, the braille display includes some often used apps such as a calendar, email, and notes. This will be handy for whenever she is away from home. Marta is taking classes in fashion design and knows she will need to discuss her unique needs with the college since she will likely need class materials to be available on her braille display.
+
+{::options toc_levels="2..2" /}
+
+{::nomarkdown}
+  </div>
+  <div class="video-card">
+    {% include video-player.html
+        yt-id="eh091V45uqc"
+    %}
+    <p><a href="#transcript">Text Transcript with Descriptions of Visuals</a></p>
+  </div>
+</div>
+
+{% include_cached toc.html type="start" title="Page Contents" class="full" %}
+{:/}
+
+-   TOC is created automatically.
+{:toc}
+
+{::nomarkdown}
+{% include_cached toc.html type="end" %}
+    
+</aside>
+{:/}
 
 **Note:** This user story is an example of a person with this type of disability. Other people with this disability may have different experiences.
 
