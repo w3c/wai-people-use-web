@@ -122,7 +122,7 @@ app is easier because there are fewer options and less clutter.
   </div>
   <div class="video-card">
     {% include video-player.html
-        yt-id="eh091V45uqc"
+        yt-id="gmrnVAQuSI8"
     %}
     <p><a href="#transcript">Text Transcript with Descriptions of Visuals</a></p>
   </div>
