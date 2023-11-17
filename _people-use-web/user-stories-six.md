@@ -116,7 +116,7 @@ Dhruv is a student who is deaf. Because his first, or native, language is sign l
   </div>
   <div class="video-card">
     {% include video-player.html
-        yt-id="eh091V45uqc"
+        yt-id="jft__DXkPv8"
     %}
     <p><a href="#transcript">Text Transcript with Descriptions of Visuals</a></p>
   </div>
