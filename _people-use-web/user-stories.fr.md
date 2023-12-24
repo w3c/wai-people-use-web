@@ -309,7 +309,7 @@ Pour plus d’informations sur les techniques qui permettent d’enlever des poi
 -   [Users have enough time to read and use the content (Operable)](/fundamentals/accessibility-principles/#time){: hreflang="en"}{: lang="en"}
 -   [Users can easily navigate, find content, and determine where they are (Operable)](/fundamentals/accessibility-principles/#navigable){: hreflang="en"}{: lang="en"}
 -   [Content is readable and understandable (Understandable)](/fundamentals/accessibility-principles/#readable){: hreflang="en"}{: lang="en"}
--   [Content appears and operates in predictable ways (Understandable)](/fundamentals/accessibility-principles/#predictable)
+-   [Content appears and operates in predictable ways (Understandable)](/fundamentals/accessibility-principles/#predictable){: hreflang="en"}{: lang="en"}
 -   [Users are helped to avoid and correct mistakes (Understandable)](/fundamentals/accessibility-principles/#tolerant){: hreflang="en"}{: lang="en"}
 -   [Content is compatible with current and future user tools (Robust)](/fundamentals/accessibility-principles/#compatible){: hreflang="en"}{: lang="en"}
 
