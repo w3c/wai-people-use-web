@@ -76,9 +76,9 @@ Pour plus d’informations sur les techniques qui permettent d’enlever des poi
 
 **Principes d’accessibilité**
 
-- [Content can be presented in different ways (Perceivable)](/fundamentals/accessibility-principles/#adaptable){: hreflang="en"}{: lang="en"}
-- [Content is easier to see and hear (Perceivable)](/fundamentals/accessibility-principles/#distinguishable){: hreflang="en"}{: lang="en"}
-- [Content is compatible with current and future user tools (Robust)](/fundamentals/accessibility-principles/#compatible){: hreflang="en"}{: lang="en"}
+-   [Du contenu qui peut être présenté de différentes façons](/fundamentals/accessibility-principles/#adaptable)
+-   [Du contenu plus facile à voir et à entendre](/fundamentals/accessibility-principles/#distinguishable)
+-   [Le contenu est compatible avec les logiciels utilisateurs actuels et futurs](/fundamentals/accessibility-principles/#compatible)
 
 {% include_cached excol.html type="end" %}
 
@@ -121,14 +121,14 @@ Pour plus d’informations sur les techniques qui permettent d’enlever des poi
 
 **Principes d’accessibilité**
 
-- [Text alternatives for non-text content (Perceivable)](/fundamentals/accessibility-principles/#alternatives){: hreflang="en"}{: lang="en"}
-- [Content can be presented in different ways (Perceivable)](/fundamentals/accessibility-principles/#adaptable){: hreflang="en"}{: lang="en"}
-- [Functionality is available from a keyboard (Operable)](/fundamentals/accessibility-principles/#keyboard){: hreflang="en"}{: lang="en"}
-- [Users have enough time to read and use the content (Operable)](/fundamentals/accessibility-principles/#time){: hreflang="en"}{: lang="en"}
-- [Users can easily navigate, find content, and determine where they are (Operable)](/fundamentals/accessibility-principles/#navigable){: hreflang="en"}{: lang="en"}
-- [Content appears and operates in predictable ways (Understandable)](/fundamentals/accessibility-principles/#predictable){: hreflang="en"}{: lang="en"}
-- [Users are helped to avoid and correct mistakes (Understandable)](/fundamentals/accessibility-principles/#tolerant){: hreflang="en"}{: lang="en"}
-- [Content is compatible with current and future user tools (Robust)](/fundamentals/accessibility-principles/#compatible){: hreflang="en"}{: lang="en"}
+-   [Alternatives textuelles pour les contenus non textuels](/fundamentals/accessibility-principles/#alternatives)
+-   [Du contenu qui peut être présenté de différentes façons](/fundamentals/accessibility-principles/#adaptable)
+-   [Des fonctionnalités disponibles au clavier](/fundamentals/accessibility-principles/#keyboard)
+-   [Donner assez de temps aux utilisateurs pour lire et utiliser le contenu](/fundamentals/accessibility-principles/#time)
+-   [Les utilisateurs peuvent facilement naviguer, trouver des contenus, et déterminer où ils sont](/fundamentals/accessibility-principles/#navigable)
+-   [Le contenu apparaît et fonctionne de façon prévisible](/fundamentals/accessibility-principles/#predictable)
+-   [Les utilisateurs sont accompagnés pour éviter et corriger les erreurs](/fundamentals/accessibility-principles/#tolerant)
+-   [Le contenu est compatible avec les logiciels utilisateurs actuels et futurs](/fundamentals/accessibility-principles/#compatible)
 
 {% include_cached excol.html type="end" %}
 
@@ -161,10 +161,10 @@ Pour plus d’informations sur les techniques qui permettent d’enlever des poi
 
 **Principes d’accessibilité**
 
-- [Text alternatives for non-text content (Perceivable)](/fundamentals/accessibility-principles/#alternatives){: hreflang="en"}{: lang="en"}
-- [Captions and other alternatives for multimedia (Perceivable)](/fundamentals/accessibility-principles/#captions){: hreflang="en"}{: lang="en"}
-- [Content is easier to see and hear (Perceivable)](/fundamentals/accessibility-principles/#distinguishable){: hreflang="en"}{: lang="en"}
-- [Content is readable and understandable (Understandable)](/fundamentals/accessibility-principles/#readable){: hreflang="en"}{: lang="en"}
+-   [Alternatives textuelles pour les contenus non textuels](/fundamentals/accessibility-principles/#alternatives)
+-   [Sous-titres et autres alternatives pour le multimédia](/fundamentals/accessibility-principles/#captions)
+-   [Du contenu plus facile à voir et à entendre](/fundamentals/accessibility-principles/#distinguishable)
+-   [Le texte est lisible et compréhensible](/fundamentals/accessibility-principles/#readable)
 
 {% include_cached excol.html type="end" %}
 
@@ -205,15 +205,15 @@ Pour plus d’informations sur les techniques qui permettent d’enlever des poi
 
 **Principes d’accessibilité**
 
-- [Text alternatives for non-text content (Perceivable)](/fundamentals/accessibility-principles/#alternatives){: hreflang="en"}{: lang="en"}
-- [Captions and other alternatives for multimedia (Perceivable)](/fundamentals/accessibility-principles/#captions){: hreflang="en"}{: lang="en"}
-- [Content can be presented in different ways (Perceivable)](/fundamentals/accessibility-principles/#adaptable){: hreflang="en"}{: lang="en"}
-- [Content is easier to see and hear (Perceivable)](/fundamentals/accessibility-principles/#distinguishable){: hreflang="en"}{: lang="en"}
-- [Functionality is available from a keyboard (Operable)](/fundamentals/accessibility-principles/#keyboard){: hreflang="en"}{: lang="en"}
-- [Users can easily navigate, find content, and determine where they are (Operable)](/fundamentals/accessibility-principles/#navigable){: hreflang="en"}{: lang="en"}
-- [Content is readable and understandable (Understandable)](/fundamentals/accessibility-principles/#readable){: hreflang="en"}{: lang="en"}
-- [Content appears and operates in predictable ways (Understandable)](/fundamentals/accessibility-principles/#predictable){: hreflang="en"}{: lang="en"}
-- [Content is compatible with current and future user tools (Robust)](/fundamentals/accessibility-principles/#compatible){: hreflang="en"}{: lang="en"}
+-   [Alternatives textuelles pour les contenus non textuels](/fundamentals/accessibility-principles/#alternatives)
+-   [Sous-titres et autres alternatives pour le multimédia](/fundamentals/accessibility-principles/#captions)
+-   [Du contenu qui peut être présenté de différentes façons](/fundamentals/accessibility-principles/#adaptable)
+-   [Du contenu plus facile à voir et à entendre](/fundamentals/accessibility-principles/#distinguishable)
+-   [Des fonctionnalités disponibles au clavier](/fundamentals/accessibility-principles/#keyboard)
+-   [Les utilisateurs peuvent facilement naviguer, trouver des contenus, et déterminer où ils sont](/fundamentals/accessibility-principles/#navigable)
+-   [Le texte est lisible et compréhensible](/fundamentals/accessibility-principles/#readable)
+-   [Le contenu apparaît et fonctionne de façon prévisible](/fundamentals/accessibility-principles/#predictable)
+-   [Le contenu est compatible avec les logiciels utilisateurs actuels et futurs](/fundamentals/accessibility-principles/#compatible)
 
 {% include_cached excol.html type="end" %}
 
@@ -255,14 +255,14 @@ Pour plus d’informations sur les techniques qui permettent d’enlever des poi
 
 **Principes d’accessibilité**
 
--   [Text alternatives for non-text content (Perceivable)](/fundamentals/accessibility-principles/#alternatives){: hreflang="en"}{: lang="en"}
--   [Content can be presented in different ways (Perceivable)](/fundamentals/accessibility-principles/#adaptable){: hreflang="en"}{: lang="en"}
--   [Users have enough time to read and use the content (Operable)](/fundamentals/accessibility-principles/#time){: hreflang="en"}{: lang="en"}
--   [Users can easily navigate, find content, and determine where they are (Operable)](/fundamentals/accessibility-principles/#navigable){: hreflang="en"}{: lang="en"}
--   [Content is readable and understandable (Understandable)](/fundamentals/accessibility-principles/#readable){: hreflang="en"}{: lang="en"}
--   [Content appears and operates in predictable ways (Understandable)](/fundamentals/accessibility-principles/#predictable){: hreflang="en"}{: lang="en"}
--   [Users are helped to avoid and correct mistakes (Understandable)](/fundamentals/accessibility-principles/#tolerant){: hreflang="en"}{: lang="en"}
--   [Content is compatible with current and future user tools (Robust)](/fundamentals/accessibility-principles/#compatible){: hreflang="en"}{: lang="en"}
+-   [Alternatives textuelles pour les contenus non textuels](/fundamentals/accessibility-principles/#alternatives)
+-   [Du contenu qui peut être présenté de différentes façons](/fundamentals/accessibility-principles/#adaptable)
+-   [Donner assez de temps aux utilisateurs pour lire et utiliser le contenu](/fundamentals/accessibility-principles/#time)
+-   [Les utilisateurs peuvent facilement naviguer, trouver des contenus, et déterminer où ils sont](/fundamentals/accessibility-principles/#navigable)
+-   [Le texte est lisible et compréhensible](/fundamentals/accessibility-principles/#readable)
+-   [Le contenu apparaît et fonctionne de façon prévisible](/fundamentals/accessibility-principles/#predictable)
+-   [Les utilisateurs sont accompagnés pour éviter et corriger les erreurs](/fundamentals/accessibility-principles/#tolerant)
+-   [Le contenu est compatible avec les logiciels utilisateurs actuels et futurs](/fundamentals/accessibility-principles/#compatible)
 
 {% include_cached excol.html type="end" %}
 
@@ -303,15 +303,15 @@ Pour plus d’informations sur les techniques qui permettent d’enlever des poi
 
 **Principes d’accessibilité**
 
--   [Text alternatives for non-text content (Perceivable)](/fundamentals/accessibility-principles/#alternatives){: hreflang="en"}{: lang="en"}
--   [Content can be presented in different ways (Perceivable)](/fundamentals/accessibility-principles/#adaptable){: hreflang="en"}{: lang="en"}
--   [Content is easier to see and hear (Perceivable)](/fundamentals/accessibility-principles/#distinguishable){: hreflang="en"}{: lang="en"}
--   [Users have enough time to read and use the content (Operable)](/fundamentals/accessibility-principles/#time){: hreflang="en"}{: lang="en"}
--   [Users can easily navigate, find content, and determine where they are (Operable)](/fundamentals/accessibility-principles/#navigable){: hreflang="en"}{: lang="en"}
--   [Content is readable and understandable (Understandable)](/fundamentals/accessibility-principles/#readable){: hreflang="en"}{: lang="en"}
--   [Content appears and operates in predictable ways (Understandable)](/fundamentals/accessibility-principles/#predictable){: hreflang="en"}{: lang="en"}
--   [Users are helped to avoid and correct mistakes (Understandable)](/fundamentals/accessibility-principles/#tolerant){: hreflang="en"}{: lang="en"}
--   [Content is compatible with current and future user tools (Robust)](/fundamentals/accessibility-principles/#compatible){: hreflang="en"}{: lang="en"}
+-   [Alternatives textuelles pour les contenus non textuels](/fundamentals/accessibility-principles/#alternatives)
+-   [Du contenu qui peut être présenté de différentes façons](/fundamentals/accessibility-principles/#adaptable)
+-   [Du contenu plus facile à voir et à entendre](/fundamentals/accessibility-principles/#distinguishable)
+-   [Donner assez de temps aux utilisateurs pour lire et utiliser le contenu](/fundamentals/accessibility-principles/#time)
+-   [Les utilisateurs peuvent facilement naviguer, trouver des contenus, et déterminer où ils sont](/fundamentals/accessibility-principles/#navigable)
+-   [Le texte est lisible et compréhensible](/fundamentals/accessibility-principles/#readable)
+-   [Le contenu apparaît et fonctionne de façon prévisible](/fundamentals/accessibility-principles/#predictable)
+-   [Les utilisateurs sont accompagnés pour éviter et corriger les erreurs](/fundamentals/accessibility-principles/#tolerant)
+-   [Le contenu est compatible avec les logiciels utilisateurs actuels et futurs](/fundamentals/accessibility-principles/#compatible)
 
 {% include_cached excol.html type="end" %}
 
@@ -356,13 +356,13 @@ Pour plus d’informations sur les techniques qui permettent d’enlever des poi
 
 **Principes d’accessibilité**
 
--   [Content can be presented in different ways (Perceivable)](/fundamentals/accessibility-principles/#adaptable){: hreflang="en"}{: lang="en"}
--   [Users have enough time to read and use the content (Operable)](/fundamentals/accessibility-principles/#time){: hreflang="en"}{: lang="en"}
--   [Users can easily navigate, find content, and determine where they are (Operable)](/fundamentals/accessibility-principles/#navigable){: hreflang="en"}{: lang="en"}
--   [Content is readable and understandable (Understandable)](/fundamentals/accessibility-principles/#readable){: hreflang="en"}{: lang="en"}
--   [Content appears and operates in predictable ways (Understandable)](/fundamentals/accessibility-principles/#predictable){: hreflang="en"}{: lang="en"}
--   [Users are helped to avoid and correct mistakes (Understandable)](/fundamentals/accessibility-principles/#tolerant){: hreflang="en"}{: lang="en"}
--   [Content is compatible with current and future user tools (Robust)](/fundamentals/accessibility-principles/#compatible){: hreflang="en"}{: lang="en"}
+-   [Du contenu qui peut être présenté de différentes façons](/fundamentals/accessibility-principles/#adaptable)
+-   [Donner assez de temps aux utilisateurs pour lire et utiliser le contenu](/fundamentals/accessibility-principles/#time)
+-   [Les utilisateurs peuvent facilement naviguer, trouver des contenus, et déterminer où ils sont](/fundamentals/accessibility-principles/#navigable)
+-   [Le texte est lisible et compréhensible](/fundamentals/accessibility-principles/#readable)
+-   [Le contenu apparaît et fonctionne de façon prévisible](/fundamentals/accessibility-principles/#predictable)
+-   [Les utilisateurs sont accompagnés pour éviter et corriger les erreurs](/fundamentals/accessibility-principles/#tolerant)
+-   [Le contenu est compatible avec les logiciels utilisateurs actuels et futurs](/fundamentals/accessibility-principles/#compatible)
 
 {% include_cached excol.html type="end" %}
 
@@ -410,14 +410,14 @@ Pour plus d’informations sur les techniques qui permettent d’enlever des poi
 
 **Principes d’accessibilité**
 
--   [Text alternatives for non-text content (Perceivable)](/fundamentals/accessibility-principles/#alternatives){: hreflang="en"}{: lang="en"}
--   [Alternatives for audio and video content (Perceivable)](/fundamentals/accessibility-principles/#captions){: hreflang="en"}{: lang="en"}
--   [Content can be presented in different ways (Perceivable)](/fundamentals/accessibility-principles/#adaptable){: hreflang="en"}{: lang="en"}
--   [Content is easier to see and hear (Perceivable)](/fundamentals/accessibility-principles/#distinguishable){: hreflang="en"}{: lang="en"}
--   [Users have enough time to read and use the content (Operable)](/fundamentals/accessibility-principles/#time){: hreflang="en"}{: lang="en"}
--   [Users can easily navigate, find content, and determine where they are (Operable)](/fundamentals/accessibility-principles/#navigable){: hreflang="en"}{: lang="en"}
--   [Content appears and operates in predictable ways (Understandable)](/fundamentals/accessibility-principles/#predictable){: hreflang="en"}{: lang="en"}
--   [Content is compatible with current and future user tools (Robust)](/fundamentals/accessibility-principles/#compatible){: hreflang="en"}{: lang="en"}
+-   [Alternatives textuelles pour les contenus non textuels](/fundamentals/accessibility-principles/#alternatives)
+-   [Sous-titres et autres alternatives pour le multimédia](/fundamentals/accessibility-principles/#captions)
+-   [Du contenu qui peut être présenté de différentes façons](/fundamentals/accessibility-principles/#adaptable)
+-   [Du contenu plus facile à voir et à entendre](/fundamentals/accessibility-principles/#distinguishable)
+-   [Donner assez de temps aux utilisateurs pour lire et utiliser le contenu](/fundamentals/accessibility-principles/#time)
+-   [Les utilisateurs peuvent facilement naviguer, trouver des contenus, et déterminer où ils sont](/fundamentals/accessibility-principles/#navigable)
+-   [Le contenu apparaît et fonctionne de façon prévisible](/fundamentals/accessibility-principles/#predictable)
+-   [Le contenu est compatible avec les logiciels utilisateurs actuels et futurs](/fundamentals/accessibility-principles/#compatible)
 
 {% include_cached excol.html type="end" %}
 
