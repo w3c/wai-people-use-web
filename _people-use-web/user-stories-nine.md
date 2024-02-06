@@ -115,7 +115,8 @@ Elias is an 85-year-old retired architect. Over the years, Elias has experienced
 {::nomarkdown}
   </div>
   <div class="video-card">
-    {% include video-player.html
+    {% include video-player-data.html
+        video-id="user-stories_9"
         yt-id="c-IqJdL0i38"
     %}
     <p><a href="#transcript">Text Transcript with Descriptions of Visuals</a></p>

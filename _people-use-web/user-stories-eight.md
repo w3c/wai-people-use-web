@@ -115,7 +115,8 @@ Stefan is a student who has dyslexia and attention deficit hyperactivity disorde
 {::nomarkdown}
   </div>
   <div class="video-card">
-    {% include video-player.html
+    {% include video-player-data.html
+        video-id="user-stories_8"
         yt-id="Ie-RaV7UTCU"
     %}
     <p><a href="#transcript">Text Transcript with Descriptions of Visuals</a></p>

@@ -115,7 +115,8 @@ Lexie is an older adult who loves online shopping and fantasy football. Lexie ca
 {::nomarkdown}
   </div>
   <div class="video-card">
-    {% include video-player.html
+    {% include video-player-data.html
+        video-id="user-stories_4"
         yt-id="eh091V45uqc"
     %}
     <p><a href="#transcript">Text Transcript with Descriptions of Visuals</a></p>

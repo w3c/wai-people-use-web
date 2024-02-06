@@ -116,7 +116,8 @@ computer. Marta is learning braille and hopes to use her new braille display for
 {::nomarkdown}
   </div>
   <div class="video-card">
-    {% include video-player.html
+    {% include video-player-data.html
+        video-id="user-stories_7"
         yt-id="llTnoiq2Mow"
     %}
     <p><a href="#transcript">Text Transcript with Descriptions of Visuals</a></p>

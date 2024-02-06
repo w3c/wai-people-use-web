@@ -115,7 +115,8 @@ Ade is a reporter who has limited use of his arms. He has several strategies for
 {::nomarkdown}
   </div>
   <div class="video-card">
-    {% include video-player.html
+    {% include video-player-data.html
+        video-id="user-stories_1"
         yt-id="Z5dMdJzUy7w"
     %}
     <p><a href="#transcript">Text Transcript with Descriptions of Visuals</a></p>

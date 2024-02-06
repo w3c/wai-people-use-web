@@ -115,7 +115,8 @@ Ilya is a senior accountant who is blind. She relies on a screen reader to annou
 {::nomarkdown}
   </div>
   <div class="video-card">
-    {% include video-player.html
+    {% include video-player-data.html
+        video-id="user-stories_3"
         yt-id="eh091V45uqc"
     %}
     <p><a href="#transcript">Text Transcript with Descriptions of Visuals</a></p>

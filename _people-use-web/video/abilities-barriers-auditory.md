@@ -18,9 +18,9 @@ resource:
   
 ---
 
-{% include video-player.html
+{% include video-player-data.html
+    video-id="abilities-barriers_auditory"
     yt-id="WZ4J8tKQ-Kw"
-    captions="/people-use-web/captions/abilities-barriers_auditory.vtt|en|Captions"
 %}
 
 ## Transcript

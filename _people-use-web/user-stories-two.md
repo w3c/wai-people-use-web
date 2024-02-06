@@ -122,7 +122,8 @@ automatically are frustrating and confusing.
 {::nomarkdown}
   </div>
   <div class="video-card">
-    {% include video-player.html
+    {% include video-player-data.html
+        video-id="user-stories_2"
         yt-id="bhV7KMfoyT4"
     %}
     <p><a href="#transcript">Text Transcript with Descriptions of Visuals</a></p>

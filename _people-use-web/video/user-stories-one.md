@@ -18,9 +18,9 @@ resource:
   
 ---
 
-{% include video-player.html
+{% include video-player-data.html
+    video-id="user-stories_1"
     yt-id="Z5dMdJzUy7w"
-    captions="/people-use-web/captions/user-stories_1.vtt|en|Captions"
 %}
 
 ## Transcript
