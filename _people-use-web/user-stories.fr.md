@@ -6,7 +6,7 @@ ref: /people-use-web/user-stories/
 lang: fr
 description: Des personas de personnes atteintes de handicaps et utilisant le Web qui montrent l’effet des points de blocage non accessibles, et les avantages pour tous de faire des sites et des outils web accessibles.
 image: /content-images/wai-people-use-web/social.png
-last_updated: 2018-09-12
+last_updated: 2024-03-11
 translators:
 - name: "Stéphane Deschamps"
 contributors:
@@ -56,7 +56,7 @@ Lee, client de site Web marchand, daltonien {#shopper}
 
 Lee est daltonien et est confronté à de nombreuses barrières quand il fait ses achats en ligne. Il a l’un des handicaps visuels les plus courants chez les hommes&#8239;: il confond le rouge et le vert. Lee achète souvent en ligne et rencontre souvent des problèmes avec des sites web ou des applications où le contraste de couleur du texte et des images n’est pas adéquat, et où la couleur seule est utilisée pour indiquer les champs obligatoires et les tarifs promotionnels. Quand des combinaisons de rouge et de vert sont utilisées, Lee ne peut pas faire la différence entre les deux, qu’il perçoit avec une apparence brune dans les deux cas. Il lui est aussi très difficile de faire des choix de produits quand les palettes de couleurs ne portent pas d’étiquettes donnant le nom de la couleur.
 
-Lee a une meilleure expérience des contenus en ligne et des applications qui utilisent des contrastes adéquats et qui lui permettent d’ajuster les réglages de contrastes dans son navigateur. Il est aussi mieux en mesure de reconnaître quand une information qu’il doit fournir est obligatoire si des astérisques sont présentes. Lee peut identifier facilement les produits qu’il veut acheter, en particulier les vêtements, quand l’intitulé de la couleur est inclus dans les options de sélection plutôt qu’une palette de couleurs sans texte.
+Lee a une meilleure expérience des contenus en ligne et des applications qui utilisent des contrastes adéquats et qui lui permettent d’ajuster les réglages de contrastes dans son navigateur. Il est aussi mieux en mesure de reconnaître quand une information qu’il doit fournir est obligatoire si des astérisques sont présents. Lee peut identifier facilement les produits qu’il veut acheter, en particulier les vêtements, quand l’intitulé de la couleur est inclus dans les options de sélection plutôt qu’une palette de couleurs sans texte.
 
 Pour plus d’informations sur les techniques qui permettent d’enlever des points bloquants pour Lee, référez-vous aux ressources suivantes&#8239;:
 
@@ -76,9 +76,9 @@ Pour plus d’informations sur les techniques qui permettent d’enlever des poi
 
 **Principes d’accessibilité**
 
-- [Content can be presented in different ways (Perceivable)](/fundamentals/accessibility-principles/#adaptable)
-- [Content is easier to see and hear (Perceivable)](/fundamentals/accessibility-principles/#distinguishable)
-- [Content is compatible with current and future user tools (Robust)](/fundamentals/accessibility-principles/#compatible)
+-   [Du contenu qui peut être présenté de différentes façons](/fundamentals/accessibility-principles/#adaptable)
+-   [Du contenu plus facile à voir et à entendre](/fundamentals/accessibility-principles/#distinguishable)
+-   [Le contenu est compatible avec les logiciels utilisateurs actuels et futurs](/fundamentals/accessibility-principles/#compatible)
 
 {% include_cached excol.html type="end" %}
 
@@ -121,14 +121,14 @@ Pour plus d’informations sur les techniques qui permettent d’enlever des poi
 
 **Principes d’accessibilité**
 
-- [Text alternatives for non-text content (Perceivable)](/fundamentals/accessibility-principles/#alternatives)
-- [Content can be presented in different ways (Perceivable)](/fundamentals/accessibility-principles/#adaptable)
-- [Functionality is available from a keyboard (Operable)](/fundamentals/accessibility-principles/#keyboard)
-- [Users have enough time to read and use the content (Operable)](/fundamentals/accessibility-principles/#time)
-- [Users can easily navigate, find content, and determine where they are (Operable)](/fundamentals/accessibility-principles/#navigable)
-- [Content appears and operates in predictable ways (Understandable)](/fundamentals/accessibility-principles/#predictable)
-- [Users are helped to avoid and correct mistakes (Understandable)](/fundamentals/accessibility-principles/#tolerant)
-- [Content is compatible with current and future user tools (Robust)](/fundamentals/accessibility-principles/#compatible)
+-   [Alternatives textuelles pour les contenus non textuels](/fundamentals/accessibility-principles/#alternatives)
+-   [Du contenu qui peut être présenté de différentes façons](/fundamentals/accessibility-principles/#adaptable)
+-   [Des fonctionnalités disponibles au clavier](/fundamentals/accessibility-principles/#keyboard)
+-   [Donner assez de temps aux utilisateurs pour lire et utiliser le contenu](/fundamentals/accessibility-principles/#time)
+-   [Les utilisateurs peuvent facilement naviguer, trouver des contenus, et déterminer où ils sont](/fundamentals/accessibility-principles/#navigable)
+-   [Le contenu apparaît et fonctionne de façon prévisible](/fundamentals/accessibility-principles/#predictable)
+-   [Les utilisateurs sont accompagnés pour éviter et corriger les erreurs](/fundamentals/accessibility-principles/#tolerant)
+-   [Le contenu est compatible avec les logiciels utilisateurs actuels et futurs](/fundamentals/accessibility-principles/#compatible)
 
 {% include_cached excol.html type="end" %}
 
@@ -161,10 +161,10 @@ Pour plus d’informations sur les techniques qui permettent d’enlever des poi
 
 **Principes d’accessibilité**
 
-- [Text alternatives for non-text content (Perceivable)](/fundamentals/accessibility-principles/#alternatives)
-- [Captions and other alternatives for multimedia (Perceivable)](/fundamentals/accessibility-principles/#captions)
-- [Content is easier to see and hear (Perceivable)](/fundamentals/accessibility-principles/#distinguishable)
-- [Content is readable and understandable (Understandable)](/fundamentals/accessibility-principles/#readable)
+-   [Alternatives textuelles pour les contenus non textuels](/fundamentals/accessibility-principles/#alternatives)
+-   [Sous-titres et autres alternatives pour le multimédia](/fundamentals/accessibility-principles/#captions)
+-   [Du contenu plus facile à voir et à entendre](/fundamentals/accessibility-principles/#distinguishable)
+-   [Le texte est lisible et compréhensible](/fundamentals/accessibility-principles/#readable)
 
 {% include_cached excol.html type="end" %}
 
@@ -205,15 +205,15 @@ Pour plus d’informations sur les techniques qui permettent d’enlever des poi
 
 **Principes d’accessibilité**
 
-- [Text alternatives for non-text content (Perceivable)](/fundamentals/accessibility-principles/#alternatives)
-- [Captions and other alternatives for multimedia (Perceivable)](/fundamentals/accessibility-principles/#captions)
-- [Content can be presented in different ways (Perceivable)](/fundamentals/accessibility-principles/#adaptable)
-- [Content is easier to see and hear (Perceivable)](/fundamentals/accessibility-principles/#distinguishable)
-- [Functionality is available from a keyboard (Operable)](/fundamentals/accessibility-principles/#keyboard)
-- [Users can easily navigate, find content, and determine where they are (Operable)](/fundamentals/accessibility-principles/#navigable)
-- [Content is readable and understandable (Understandable)](/fundamentals/accessibility-principles/#readable)
-- [Content appears and operates in predictable ways (Understandable)](/fundamentals/accessibility-principles/#predictable)
-- [Content is compatible with current and future user tools (Robust)](/fundamentals/accessibility-principles/#compatible)
+-   [Alternatives textuelles pour les contenus non textuels](/fundamentals/accessibility-principles/#alternatives)
+-   [Sous-titres et autres alternatives pour le multimédia](/fundamentals/accessibility-principles/#captions)
+-   [Du contenu qui peut être présenté de différentes façons](/fundamentals/accessibility-principles/#adaptable)
+-   [Du contenu plus facile à voir et à entendre](/fundamentals/accessibility-principles/#distinguishable)
+-   [Des fonctionnalités disponibles au clavier](/fundamentals/accessibility-principles/#keyboard)
+-   [Les utilisateurs peuvent facilement naviguer, trouver des contenus, et déterminer où ils sont](/fundamentals/accessibility-principles/#navigable)
+-   [Le texte est lisible et compréhensible](/fundamentals/accessibility-principles/#readable)
+-   [Le contenu apparaît et fonctionne de façon prévisible](/fundamentals/accessibility-principles/#predictable)
+-   [Le contenu est compatible avec les logiciels utilisateurs actuels et futurs](/fundamentals/accessibility-principles/#compatible)
 
 {% include_cached excol.html type="end" %}
 
@@ -223,7 +223,7 @@ Preety, élève de collège avec un trouble du déficit de l'attention avec hype
 Preety est une élève de collège atteinte d’un trouble du déficit de l'attention avec hyperactivité et dyslexique. Bien qu’elle ait des difficultés marquées pour lire, elle aime particulièrement sa classe de littérature.
 
 
-Le collège de Preety a commencé récemment à utiliser des cartables numériques. Preety était d’abord inquiète à l’idée d’utiliser ce nouveau format, mais avec le logiciel de synthèse vocale qui surligne le texte sur l’écran en même temps qu’il le lit, elle a découvert qu’elle peut se concentrer sur le contenu plus facilement au lieu de peiner devant chaque mot. La synthèse vocale lu est aussi utile avec les textes en ligne&#8239;; cependant l’expérience de Preety varie grandement d’un site web à l’autre. Certains sites utilisent des graphiques et des illustrations qui l’aident à se concentrer sur les sections et les contenus qu’elle souhaite lire, tandis que d’autres montrent beaucoup de publicités et de contenus qui bougent, ce qui la distrait. Elle a aussi des soucis avec les contenus en ligne où la navigation n’est pas assez claire. Elle trouve que les sites web et les applications qui fournissent plusieurs moyens de navigation, tels qu’une barre de navigation, un moteur de recherche, un fil d’Ariane, et un plan de site, sont bien plus faciles à utiliser.
+Le collège de Preety a commencé récemment à utiliser des cartables numériques. Preety était d’abord inquiète à l’idée d’utiliser ce nouveau format, mais avec le logiciel de synthèse vocale qui surligne le texte sur l’écran en même temps qu’il le lit, elle a découvert qu’elle peut se concentrer sur le contenu plus facilement au lieu de peiner devant chaque mot. La synthèse vocale lui est aussi utile avec les textes en ligne&#8239;; cependant l’expérience de Preety varie grandement d’un site web à l’autre. Certains sites utilisent des graphiques et des illustrations qui l’aident à se concentrer sur les sections et les contenus qu’elle souhaite lire, tandis que d’autres montrent beaucoup de publicités et de contenus qui bougent, ce qui la distrait. Elle a aussi des soucis avec les contenus en ligne où la navigation n’est pas assez claire. Elle trouve que les sites web et les applications qui fournissent plusieurs moyens de navigation, tels qu’une barre de navigation, un moteur de recherche, un fil d’Ariane, et un plan de site, sont bien plus faciles à utiliser.
 
 Le collège de Preety utilise aussi un nouveau logiciel pour sa bibliothèque dont l’accessibilité est meilleure. Avant cela, Preety était obligé de visiter physiquement la bibliothèque et de se faire aider pour faire ses recherches et trouver le matériel. Maintenant qu’elle fait ses recherches toute seule sur son téléphone mobile, sa tablette ou son ordinateur, Preety peine encore à orthographier correctement mais a découvert que la fonction de recherche (qui fournit des orthographes alternatives et des corrections d’erreurs) est très utile et améliore grandement son expérience.
 
@@ -255,14 +255,14 @@ Pour plus d’informations sur les techniques qui permettent d’enlever des poi
 
 **Principes d’accessibilité**
 
--   [Text alternatives for non-text content (Perceivable)](/fundamentals/accessibility-principles/#alternatives)
--   [Content can be presented in different ways (Perceivable)](/fundamentals/accessibility-principles/#adaptable)
--   [Users have enough time to read and use the content (Operable)](/fundamentals/accessibility-principles/#time)
--   [Users can easily navigate, find content, and determine where they are (Operable)](/fundamentals/accessibility-principles/#navigable)
--   [Content is readable and understandable (Understandable)](/fundamentals/accessibility-principles/#readable)
--   [Content appears and operates in predictable ways (Understandable)](/fundamentals/accessibility-principles/#predictable)
--   [Users are helped to avoid and correct mistakes (Understandable)](/fundamentals/accessibility-principles/#tolerant)
--   [Content is compatible with current and future user tools (Robust)](/fundamentals/accessibility-principles/#compatible)
+-   [Alternatives textuelles pour les contenus non textuels](/fundamentals/accessibility-principles/#alternatives)
+-   [Du contenu qui peut être présenté de différentes façons](/fundamentals/accessibility-principles/#adaptable)
+-   [Donner assez de temps aux utilisateurs pour lire et utiliser le contenu](/fundamentals/accessibility-principles/#time)
+-   [Les utilisateurs peuvent facilement naviguer, trouver des contenus, et déterminer où ils sont](/fundamentals/accessibility-principles/#navigable)
+-   [Le texte est lisible et compréhensible](/fundamentals/accessibility-principles/#readable)
+-   [Le contenu apparaît et fonctionne de façon prévisible](/fundamentals/accessibility-principles/#predictable)
+-   [Les utilisateurs sont accompagnés pour éviter et corriger les erreurs](/fundamentals/accessibility-principles/#tolerant)
+-   [Le contenu est compatible avec les logiciels utilisateurs actuels et futurs](/fundamentals/accessibility-principles/#compatible)
 
 {% include_cached excol.html type="end" %}
 
@@ -303,15 +303,15 @@ Pour plus d’informations sur les techniques qui permettent d’enlever des poi
 
 **Principes d’accessibilité**
 
--   [Text alternatives for non-text content (Perceivable)](/fundamentals/accessibility-principles/#alternatives)
--   [Content can be presented in different ways (Perceivable)](/fundamentals/accessibility-principles/#adaptable)
--   [Content is easier to see and hear (Perceivable)](/fundamentals/accessibility-principles/#distinguishable)
--   [Users have enough time to read and use the content (Operable)](/fundamentals/accessibility-principles/#time)
--   [Users can easily navigate, find content, and determine where they are (Operable)](/fundamentals/accessibility-principles/#navigable)
--   [Content is readable and understandable (Understandable)](/fundamentals/accessibility-principles/#readable)
--   [Content appears and operates in predictable ways (Understandable)](/fundamentals/accessibility-principles/#predictable)
--   [Users are helped to avoid and correct mistakes (Understandable)](/fundamentals/accessibility-principles/#tolerant)
--   [Content is compatible with current and future user tools (Robust)](/fundamentals/accessibility-principles/#compatible)
+-   [Alternatives textuelles pour les contenus non textuels](/fundamentals/accessibility-principles/#alternatives)
+-   [Du contenu qui peut être présenté de différentes façons](/fundamentals/accessibility-principles/#adaptable)
+-   [Du contenu plus facile à voir et à entendre](/fundamentals/accessibility-principles/#distinguishable)
+-   [Donner assez de temps aux utilisateurs pour lire et utiliser le contenu](/fundamentals/accessibility-principles/#time)
+-   [Les utilisateurs peuvent facilement naviguer, trouver des contenus, et déterminer où ils sont](/fundamentals/accessibility-principles/#navigable)
+-   [Le texte est lisible et compréhensible](/fundamentals/accessibility-principles/#readable)
+-   [Le contenu apparaît et fonctionne de façon prévisible](/fundamentals/accessibility-principles/#predictable)
+-   [Les utilisateurs sont accompagnés pour éviter et corriger les erreurs](/fundamentals/accessibility-principles/#tolerant)
+-   [Le contenu est compatible avec les logiciels utilisateurs actuels et futurs](/fundamentals/accessibility-principles/#compatible)
 
 {% include_cached excol.html type="end" %}
 
@@ -356,13 +356,13 @@ Pour plus d’informations sur les techniques qui permettent d’enlever des poi
 
 **Principes d’accessibilité**
 
--   [Content can be presented in different ways (Perceivable)](/fundamentals/accessibility-principles/#adaptable)
--   [Users have enough time to read and use the content (Operable)](/fundamentals/accessibility-principles/#time)
--   [Users can easily navigate, find content, and determine where they are (Operable)](/fundamentals/accessibility-principles/#navigable)
--   [Content is readable and understandable (Understandable)](/fundamentals/accessibility-principles/#readable)
--   [Content appears and operates in predictable ways (Understandable)](/fundamentals/accessibility-principles/#predictable)
--   [Users are helped to avoid and correct mistakes (Understandable)](/fundamentals/accessibility-principles/#tolerant)
--   [Content is compatible with current and future user tools (Robust)](/fundamentals/accessibility-principles/#compatible)
+-   [Du contenu qui peut être présenté de différentes façons](/fundamentals/accessibility-principles/#adaptable)
+-   [Donner assez de temps aux utilisateurs pour lire et utiliser le contenu](/fundamentals/accessibility-principles/#time)
+-   [Les utilisateurs peuvent facilement naviguer, trouver des contenus, et déterminer où ils sont](/fundamentals/accessibility-principles/#navigable)
+-   [Le texte est lisible et compréhensible](/fundamentals/accessibility-principles/#readable)
+-   [Le contenu apparaît et fonctionne de façon prévisible](/fundamentals/accessibility-principles/#predictable)
+-   [Les utilisateurs sont accompagnés pour éviter et corriger les erreurs](/fundamentals/accessibility-principles/#tolerant)
+-   [Le contenu est compatible avec les logiciels utilisateurs actuels et futurs](/fundamentals/accessibility-principles/#compatible)
 
 {% include_cached excol.html type="end" %}
 
@@ -384,7 +384,7 @@ Pour plus d’informations sur les techniques qui permettent d’enlever des poi
 
 {% include_cached excol.html type="start" id="kaseem-sections" %}
 
-### Sections related to Kaseem
+### Sections liées à Kaseem
 
 {% include_cached excol.html type="middle" %}
 
@@ -410,14 +410,14 @@ Pour plus d’informations sur les techniques qui permettent d’enlever des poi
 
 **Principes d’accessibilité**
 
--   [Text alternatives for non-text content (Perceivable)](/fundamentals/accessibility-principles/#alternatives)
--   [Alternatives for audio and video content (Perceivable)](/fundamentals/accessibility-principles/#captions)
--   [Content can be presented in different ways (Perceivable)](/fundamentals/accessibility-principles/#adaptable)
--   [Content is easier to see and hear (Perceivable)](/fundamentals/accessibility-principles/#distinguishable)
--   [Users have enough time to read and use the content (Operable)](/fundamentals/accessibility-principles/#time)
--   [Users can easily navigate, find content, and determine where they are (Operable)](/fundamentals/accessibility-principles/#navigable)
--   [Content appears and operates in predictable ways (Understandable)](/fundamentals/accessibility-principles/#predictable)
--   [Content is compatible with current and future user tools (Robust)](/fundamentals/accessibility-principles/#compatible)
+-   [Alternatives textuelles pour les contenus non textuels](/fundamentals/accessibility-principles/#alternatives)
+-   [Sous-titres et autres alternatives pour le multimédia](/fundamentals/accessibility-principles/#captions)
+-   [Du contenu qui peut être présenté de différentes façons](/fundamentals/accessibility-principles/#adaptable)
+-   [Du contenu plus facile à voir et à entendre](/fundamentals/accessibility-principles/#distinguishable)
+-   [Donner assez de temps aux utilisateurs pour lire et utiliser le contenu](/fundamentals/accessibility-principles/#time)
+-   [Les utilisateurs peuvent facilement naviguer, trouver des contenus, et déterminer où ils sont](/fundamentals/accessibility-principles/#navigable)
+-   [Le contenu apparaît et fonctionne de façon prévisible](/fundamentals/accessibility-principles/#predictable)
+-   [Le contenu est compatible avec les logiciels utilisateurs actuels et futurs](/fundamentals/accessibility-principles/#compatible)
 
 {% include_cached excol.html type="end" %}
 
