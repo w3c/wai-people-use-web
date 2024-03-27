@@ -82,31 +82,31 @@
       - name: Videos of How People Use the Web
         url: "/people-use-web/videos/"
       - name:
-          en: "User Story 1: Name"
+          en: "User Story 1: Ade"
         url: "/people-use-web/user-stories-one/"
       - name:
-          en: "User Story 2: Name"
+          en: "User Story 2: Ian"
         url: "/people-use-web/user-stories-two/"
       - name:
-          en: "User Story 3: Name"
+          en: "User Story 3: Ilya"
         url: "/people-use-web/user-stories-three/"
       - name:
-          en: "User Story 4: Name"
+          en: "User Story 4: Lexie"
         url: "/people-use-web/user-stories-four/"
       - name:
-          en: "User Story 5: Name"
+          en: "User Story 5: Sophie"
         url: "/people-use-web/user-stories-five/"
       - name:
-          en: "User Story 6: Name"
+          en: "User Story 6: Dhruv"
         url: "/people-use-web/user-stories-six/"
       - name:
-          en: "User Story 7: Name"
+          en: "User Story 7: Marta"
         url: "/people-use-web/user-stories-seven/"
       - name:
-          en: "User Story 8: Name"
+          en: "User Story 8: Stefan"
         url: "/people-use-web/user-stories-eight/"
       - name:
-          en: "User Story 9: Name"
+          en: "User Story 9: Elias"
         url: "/people-use-web/user-stories-nine/"
       - name:
           en: "Diverse Abilities and Barriers"
