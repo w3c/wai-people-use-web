@@ -76,71 +76,73 @@
         url: "/perspective-videos/acknowledgements/"
         hide: true
     - name:
-        en: "How People with Disabilities Use the Web, Videos"
+      en: "How People with Disabilities Use the Web, Videos"
       url: "/people-use-web/"
       pages:
       - name: Videos of How People Use the Web
         url: "/people-use-web/videos/"
-      - name:
+        pages:
+        - name:
           en: "User Story 1: Name"
-        url: "/people-use-web/user-stories-one/"
-      - name:
+          url: "/people-use-web/user-stories-one/"
+        - name:
           en: "User Story 2: Name"
-        url: "/people-use-web/user-stories-two/"
-      - name:
+          url: "/people-use-web/user-stories-two/"
+        - name:
           en: "User Story 3: Name"
-        url: "/people-use-web/user-stories-three/"
-      - name:
+          url: "/people-use-web/user-stories-three/"
+        - name:
           en: "User Story 4: Name"
-        url: "/people-use-web/user-stories-four/"
-      - name:
+          url: "/people-use-web/user-stories-four/"
+        - name:
           en: "User Story 5: Name"
-        url: "/people-use-web/user-stories-five/"
-      - name:
+          url: "/people-use-web/user-stories-five/"
+        - name:
           en: "User Story 6: Name"
-        url: "/people-use-web/user-stories-six/"
-      - name:
+          url: "/people-use-web/user-stories-six/"
+        - name:
           en: "User Story 7: Name"
-        url: "/people-use-web/user-stories-seven/"
-      - name:
+          url: "/people-use-web/user-stories-seven/"
+        - name:
           en: "User Story 8: Name"
-        url: "/people-use-web/user-stories-eight/"
-      - name:
+          url: "/people-use-web/user-stories-eight/"
+        - name:
           en: "User Story 9: Name"
-        url: "/people-use-web/user-stories-nine/"
+          url: "/people-use-web/user-stories-nine/"
       - name:
           en: "Diverse Abilities and Barriers"
         url: "/people-use-web/abilities-barriers/"
-      - name:
+        pages:
+        - name:
           en: "Auditory"
-        url: "/people-use-web/abilities-barriers-auditory/"
-      - name:
+          url: "/people-use-web/abilities-barriers-auditory/"
+        - name:
           en: "Cognitive and Learning"
-        url: "/people-use-web/abilities-barriers-cognitive/"
-      - name:
+          url: "/people-use-web/abilities-barriers-cognitive/"
+        - name:
           en: "Physical"
-        url: "/people-use-web/abilities-barriers-physical/"
-      - name:
+          url: "/people-use-web/abilities-barriers-physical/"
+        - name:
           en: "Speech"
-        url: "/people-use-web/abilities-barriers-speech/"
-      - name:
+          url: "/people-use-web/abilities-barriers-speech/"
+        - name:
           en: "Visual"
-        url: "/people-use-web/abilities-barriers-visual/"
-      - name:
+          url: "/people-use-web/abilities-barriers-visual/"
+        - name:
           en: "Tools and Techniques"
-        url: "/people-use-web/tools-techniques/"
-      - name:
+          url: "/people-use-web/tools-techniques/"
+        - name:
           en: "Perception"
-        url: "/people-use-web/tools-techniques-perception/"
-      - name:
+          url: "/people-use-web/tools-techniques-perception/"
+        - name:
           en: "Presentation"
-        url: "/people-use-web/tools-techniques-presentation/"
-      - name:
+          url: "/people-use-web/tools-techniques-presentation/"
+        - name:
           en: "Input"
-        url: "/people-use-web/tools-techniques-input/"
-      - name:
+          url: "/people-use-web/tools-techniques-input/"
+        - name:
           en: "Interaction"
-        url: "/people-use-web/tools-techniques-navigation/"
+          url: "/people-use-web/tools-techniques-navigation/"
     - name: Older Users and Accessibility
       url: "/older-users/"
       pages:
