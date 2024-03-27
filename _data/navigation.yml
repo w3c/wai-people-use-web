@@ -81,9 +81,10 @@
       pages:
       - name: Videos of How People Use the Web
         url: "/people-use-web/videos/"
-      - name:
-          en: "User Story 1: Ade"
-        url: "/people-use-web/user-stories-one/"
+        pages:
+        - name:
+            en: "User Story 1: Ade"
+          url: "/people-use-web/user-stories-one/"
       - name:
           en: "User Story 2: Ian"
         url: "/people-use-web/user-stories-two/"
