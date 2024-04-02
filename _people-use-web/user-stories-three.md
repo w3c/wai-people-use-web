@@ -137,24 +137,6 @@ Ilya is a senior accountant who is blind. She relies on a screen reader to annou
 
 **Note:** This user story is an example of a person with this type of disability. Other people with this disability may have different experiences.
 
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
-
-{::options toc_levels="2..2" /}
-
-{::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents" class="full" %}
-{:/}
-
--   TOC is created automatically.
-{:toc}
-
-{::nomarkdown}
-{% include_cached toc.html type="end" %}
-{:/}
-
 ## About Ilya
 
 > My mobile phone is so convenient - the accessibility features on it are so easy to use. Shame I can't access our corporate systems with it!
