@@ -138,24 +138,6 @@ computer. Marta is learning braille and hopes to use her new braille display for
 
 **Note:** This user story is an example of a person with this type of disability. Other people with this disability may have different experiences.
 
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
-
-{::options toc_levels="2..2" /}
-
-{::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents" class="full" %}
-{:/}
-
--   TOC is created automatically.
-{:toc}
-
-{::nomarkdown}
-{% include_cached toc.html type="end" %}
-{:/}
-
 ## About Marta
 
 > I love watching videos and when they have captions that I can make large, I can then follow the dialogue.
