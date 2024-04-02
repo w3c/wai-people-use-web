@@ -137,24 +137,6 @@ Dhruv is a student who is deaf. Because his first, or native, language is sign l
 
 **Note:** This user story is an example of a person with this type of disability. Other people with this disability may have different experiences.
 
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
-
-{::options toc_levels="2..2" /}
-
-{::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents" class="full" %}
-{:/}
-
--   TOC is created automatically.
-{:toc}
-
-{::nomarkdown}
-{% include_cached toc.html type="end" %}
-{:/}
-
 ## About Dhruv
 
 > Most people don't realise that sign language is a completely different language. I can read text captions but it takes me longer as they are not in my first language. Captions and signing aren't interchangeable.
