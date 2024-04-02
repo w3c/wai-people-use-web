@@ -47,8 +47,7 @@ footer: >
 
 ---
 
-
-The following are not real people, but represent real experiences of people with disabilities. They do not address every kind of disability or all impacts faced by people with disabilities.
+The following user stories represent the experiences of some people with disabilities. They do not address all disabilities or all impacts faced by people with disabilities. These and other disabilities may be present from birth or may develop as a results of an accident, illness, or aging.
 
 <mark><em><strong>Draft reviewers:</strong> The placeholder images below will be replaced with photos of the users.</em></mark>
 
