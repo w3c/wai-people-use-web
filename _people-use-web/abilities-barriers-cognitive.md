@@ -102,5 +102,5 @@ People with cognitive and learning disabilities may use different types of brows
 
 - [Sophie, basketball fan with Down syndrome](/people-use-web/user-stories-five/)
 - [Ian, data entry clerk with autism](/people-use-web/user-stories-two/) 
-- [Stefan, student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-/user-stories-eight/) 
+- [Stefan, student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories-eight/) 
 - [Elias, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories-nine/) 
