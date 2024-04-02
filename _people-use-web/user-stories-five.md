@@ -143,24 +143,6 @@ app is easier because there are fewer options and less clutter.
 
 **Note:** This user story is an example of a person with this type of disability. Other people with this disability may have different experiences.
 
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
-
-{::options toc_levels="2..2" /}
-
-{::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents" class="full" %}
-{:/}
-
--   TOC is created automatically.
-{:toc}
-
-{::nomarkdown}
-{% include_cached toc.html type="end" %}
-{:/}
-
 ## About Sophie
 
 > I like to buy tickets for home games because I know the site well. When I have to buy tickets for away games it is hard for me. All the different sites do things in different ways.
