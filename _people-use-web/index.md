@@ -35,7 +35,7 @@ This resource introduces how people with disabilities use the Web. It describes 
 
 ## Related WAI resources
 
--   **[[Accessibility Principles]](/fundamentals/accessibility-principles/)** - introduces the four principles used to organize accessibility requirements and provides examples of requirements related to each principle from the international accessibility standards from the W3C Web Accessibility Initiative (WAI).
+-   **[[Accessibility Principles]](/fundamentals/accessibility-principles/)** – introduces the four principles used to organize accessibility requirements and provides examples of requirements related to each principle from the international accessibility standards from the W3C Web Accessibility Initiative (WAI).
 -   **[[Web Accessibility Perspectives]](/perspective-videos/)** – presents a collection of short videos highlighting accessibility features that are essential to people with disabilities and useful for all.
--   **[Better Web Browsing](http://www.w3.org/WAI/users/browsing)** - provides tips on how to customize your particular web browser and computer setup to benefit from accessibility features.
+-   **[Better Web Browsing](http://www.w3.org/WAI/users/browsing)** – provides tips on how to customize your particular web browser and computer setup to benefit from accessibility features.
 
