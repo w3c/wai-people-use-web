@@ -137,24 +137,7 @@ Ade is a reporter who has limited use of his arms. He has several strategies for
 
 **Note:** This user story is an example of a person with this type of disability. Other people with this disability may have different experiences.
 
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
 
-
-{::options toc_levels="2..2" /}
-
-{::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents" class="full" %}
-{:/}
-
--   TOC is created automatically.
-{:toc}
-
-{::nomarkdown}
-
-{% include_cached toc.html type="end" %}
-{:/}
 
 ## About Ade
 
