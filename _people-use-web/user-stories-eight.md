@@ -137,24 +137,6 @@ Stefan is a student who has dyslexia and attention deficit hyperactivity disorde
 
 **Note:** This user story is an example of a person with this type of disability. Other people with this disability may have different experiences.
 
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
-
-{::options toc_levels="2..2" /}
-
-{::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents" class="full" %}
-{:/}
-
--   TOC is created automatically.
-{:toc}
-
-{::nomarkdown}
-{% include_cached toc.html type="end" %}
-{:/}
-
 ## About Stefan
 
 > My text reader helps me focus on what I am reading. I don't use it all the time but for long text it is super helpful.
