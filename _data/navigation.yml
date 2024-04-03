@@ -79,8 +79,8 @@
       en: "How People with Disabilities Use the Web, Videos"
       url: "/people-use-web/"
       pages:
-      - name: Videos of How People Use the Web
-        url: "/people-use-web/videos/"
+      - name: Stories of Web Users
+        url: "/people-use-web/user-stories/"
       - name:
           en: "User Story 1: Ade"
         url: "/people-use-web/user-stories-one/"
