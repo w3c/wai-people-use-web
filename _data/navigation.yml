@@ -79,68 +79,12 @@
       en: "How People with Disabilities Use the Web, Videos"
       url: "/people-use-web/"
       pages:
-      - name: Videos of How People Use the Web
-        url: "/people-use-web/videos/"
-      - name:
-          en: "User Story 1: Ade"
-        url: "/people-use-web/user-stories-one/"
-      - name:
-          en: "User Story 2: Ian"
-        url: "/people-use-web/user-stories-two/"
-      - name:
-          en: "User Story 3: Ilya"
-        url: "/people-use-web/user-stories-three/"
-      - name:
-          en: "User Story 4: Lexie"
-        url: "/people-use-web/user-stories-four/"
-      - name:
-          en: "User Story 5: Sophie"
-        url: "/people-use-web/user-stories-five/"
-      - name:
-          en: "User Story 6: Dhruv"
-        url: "/people-use-web/user-stories-six/"
-      - name:
-          en: "User Story 7: Marta"
-        url: "/people-use-web/user-stories-seven/"
-      - name:
-          en: "User Story 8: Stefan"
-        url: "/people-use-web/user-stories-eight/"
-      - name:
-          en: "User Story 9: Elias"
-        url: "/people-use-web/user-stories-nine/"
-      - name:
-          en: "Diverse Abilities and Barriers"
+      - name: Stories of Web Users
+        url: "/people-use-web/user-stories/"
+      - name: "Diverse Abilities and Barriers"
         url: "/people-use-web/abilities-barriers/"
-      - name:
-          en: "Auditory"
-        url: "/people-use-web/abilities-barriers-auditory/"
-      - name:
-          en: "Cognitive and Learning"
-        url: "/people-use-web/abilities-barriers-cognitive/"
-      - name:
-          en: "Physical"
-        url: "/people-use-web/abilities-barriers-physical/"
-      - name:
-          en: "Speech"
-        url: "/people-use-web/abilities-barriers-speech/"
-      - name:
-          en: "Visual"
-        url: "/people-use-web/abilities-barriers-visual/"
-      - name:
-          en: "Tools and Techniques"
+      - name: "Tools and Techniques"
         url: "/people-use-web/tools-techniques/"
-      - name:
-          en: "Perception"
-        url: "/people-use-web/tools-techniques-perception/"
-      - name:
-          en: "Presentation"
-        url: "/people-use-web/tools-techniques-presentation/"
-      - name:
-          en: "Input"
-        url: "/people-use-web/tools-techniques-input/"
-      - name:
-          en: "Interaction"
-        url: "/people-use-web/tools-techniques-navigation/"
     - name: Older Users and Accessibility
       url: "/older-users/"
       pages:
