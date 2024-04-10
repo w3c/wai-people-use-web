@@ -162,7 +162,7 @@ Browser settings don't "stick"
 : **Works well:** "When I change things in my browser, websites keep those settings." 
 
 Distracting pop-ups
-: **Problem:** "Banner ads and popups are distracting."
+: **Problem:** "Banner ads and popups are distracting and make me lose focus on what I'm doing."
 : **Works well:** "It's great when I can turn off these images using the ad blocker in my browser." 
 
 Complex language
