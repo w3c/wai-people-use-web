@@ -162,8 +162,8 @@ Browser settings don't "stick"
 : **Works well:** "When I change things in my browser, websites keep those settings." 
 
 Distracting pop-ups
-: **Problem:** "Banner ads and popups can be distracting for me, especially if they contain moving text or images."
-: **Works well:** "It's great when I can turn off these images and also any background audio. When I turn these off on my device, it's important that the online content recognizes my personal settings." 
+: **Problem:** "Banner ads and popups are distracting."
+: **Works well:** "It's great when I can turn off these images using the ad blocker in my browser." 
 
 Complex language
 : **Problem:** "Complex language and sentence structure are confusing to me and hard to read and retain. 
