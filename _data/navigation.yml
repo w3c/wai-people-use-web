@@ -75,16 +75,69 @@
       - name: Acknowledgements
         url: "/perspective-videos/acknowledgements/"
         hide: true
-    - name:
-      en: "How People with Disabilities Use the Web, Videos"
-      url: "/people-use-web/"
+    - name: Stories of Web Users
+      url: "/people-use-web/user-stories/"
       pages:
-      - name: Stories of Web Users
-        url: "/people-use-web/user-stories/"
-      - name: "Diverse Abilities and Barriers"
-        url: "/people-use-web/abilities-barriers/"
-      - name: "Tools and Techniques"
-        url: "/people-use-web/tools-techniques/"
+      - name:
+          en: "Ade's Story"
+        url: "/people-use-web/user-stories-one/"
+      - name:
+          en: "Ian's Story"
+        url: "/people-use-web/user-stories-two/"
+      - name:
+          en: "Ilya's Story"
+        url: "/people-use-web/user-stories-three/"
+      - name:
+          en: "Lexie's Story"
+        url: "/people-use-web/user-stories-four/"
+      - name:
+          en: "Sophie's Story"
+        url: "/people-use-web/user-stories-five/"
+      - name:
+          en: "Dhruv's Story"
+        url: "/people-use-web/user-stories-six/"
+      - name:
+          en: "Marta's Story"
+        url: "/people-use-web/user-stories-seven/"
+      - name:
+          en: "Stefan's Story"
+        url: "/people-use-web/user-stories-eight/"
+      - name:
+          en: "Elias' Story"
+        url: "/people-use-web/user-stories-nine/"      
+    - name: "Diverse Abilities and Barriers"
+      url: "/people-use-web/abilities-barriers/"
+      pages:
+      - name:
+          en: "Auditory"
+        url: "/people-use-web/abilities-barriers-auditory/"
+      - name:
+          en: "Cognitive and Learning"
+        url: "/people-use-web/abilities-barriers-cognitive/"
+      - name:
+          en: "Physical"
+        url: "/people-use-web/abilities-barriers-physical/"
+      - name:
+          en: "Speech"
+        url: "/people-use-web/abilities-barriers-speech/"
+      - name:
+          en: "Visual"
+        url: "/people-use-web/abilities-barriers-visual/"
+    - name: "Tools and Techniques"
+      url: "/people-use-web/tools-techniques/"
+      pages:
+      - name:
+          en: "Perception"
+        url: "/people-use-web/tools-techniques-perception/"
+      - name:
+          en: "Presentation"
+        url: "/people-use-web/tools-techniques-presentation/"
+      - name:
+          en: "Input"
+        url: "/people-use-web/tools-techniques-input/"
+      - name:
+          en: "Interaction"
+        url: "/people-use-web/tools-techniques-navigation/"
     - name: Older Users and Accessibility
       url: "/older-users/"
       pages:
