@@ -76,35 +76,7 @@
         url: "/perspective-videos/acknowledgements/"
         hide: true
     - name: Stories of Web Users
-      url: "/people-use-web/user-stories/"
-      pages:
-      - name:
-          en: "Ade's Story"
-        url: "/people-use-web/user-stories-one/"
-      - name:
-          en: "Ian's Story"
-        url: "/people-use-web/user-stories-two/"
-      - name:
-          en: "Ilya's Story"
-        url: "/people-use-web/user-stories-three/"
-      - name:
-          en: "Lexie's Story"
-        url: "/people-use-web/user-stories-four/"
-      - name:
-          en: "Sophie's Story"
-        url: "/people-use-web/user-stories-five/"
-      - name:
-          en: "Dhruv's Story"
-        url: "/people-use-web/user-stories-six/"
-      - name:
-          en: "Marta's Story"
-        url: "/people-use-web/user-stories-seven/"
-      - name:
-          en: "Stefan's Story"
-        url: "/people-use-web/user-stories-eight/"
-      - name:
-          en: "Elias' Story"
-        url: "/people-use-web/user-stories-nine/"      
+      url: "/people-use-web/user-stories/"  
     - name: "Diverse Abilities and Barriers"
       url: "/people-use-web/abilities-barriers/"
       pages:
