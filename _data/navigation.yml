@@ -81,6 +81,19 @@
       url: "/people-use-web/abilities-barriers/"
     - name: "Tools and Techniques"
       url: "/people-use-web/tools-techniques/"
+      pages:
+      - name:
+          en: "Perception"
+        url: "/people-use-web/tools-techniques-perception/"
+      - name:
+          en: "Presentation"
+        url: "/people-use-web/tools-techniques-presentation/"
+      - name:
+          en: "Input"
+        url: "/people-use-web/tools-techniques-input/"
+      - name:
+          en: "Interaction"
+        url: "/people-use-web/tools-techniques-navigation/"
     - name: Older Users and Accessibility
       url: "/older-users/"
       pages:
