@@ -157,9 +157,9 @@ Spelling suggestions
 : **Problem:** "I have difficulty with spelling and sometimes misspell words. Sometimes I don't get the search results I'm looking for."
 : **Works well:** "I like when search tools offer alternative spellings or alternative search suggestions instead of just returning no results."
 
-Browser settings don't "stick"
-: **Problem:** "I use browser settings to specify the font, text size, and line spacing I need but some sites don't keep my settings."
-: **Works well:** "When I change things in my browser, websites keep those settings." 
+Browser settings aren't respected
+: **Problem:** "I use browser settings to specify the font, text size, and line spacing I need but some sites don't display my settings."
+: **Works well:** "When I change things in my browser, websites show those settings." 
 
 Distracting pop-ups
 : **Problem:** "Banner ads and popups are distracting and make me lose focus on what I'm doing."
