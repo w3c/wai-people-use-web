@@ -158,7 +158,7 @@ Getting a mobile phone was a huge deal for Sophie. She finds that apps that have
 ## Barrier examples
 
 Breadcrumb trail
-: **Barrier:** ""When I follow several links, sometimes I feel lost and I just want to get back to where I started."
+: **Barrier:** "When I follow several links, sometimes I feel lost and I just want to get back to where I started."
 : **Works well:** "A breadcrumb at the top of the page that shows all of the pages I was on helps me feel oriented and lets me go back to a familiar page."
 
 Plain language
