@@ -153,31 +153,31 @@ For all of the benefits of using a computer to read the news and stay active in 
 ## Barrier examples
 
 Inaccessible CAPTCHA
-: **Problem**: "When I login to my online banking I need to complete a CAPTCHA but I can't really read it well."
+: **Barrier**: "When I login to my online banking I need to complete a CAPTCHA but I can't really read it well."
 : **Works well**: "My banking login sends me a text with a simple code to confirm it is me."
 
 Text doesn't reflow
-: **Problem**: "When I resize a website using my browser some of the text disappears or is cut short and sometimes I have to scroll across the screen as well as down."
+: **Barrier**: "When I resize a website using my browser some of the text disappears or is cut short and sometimes I have to scroll across the screen as well as down."
 : **Works well**: "When I resize a website using my browser the text is all still available and is presented in a longer thinner column that doesn't need to be scrolled sideways."
 
 Distracting animations
-: **Problem:** "When my screen is magnified, animations are very distracting because I don't get the full context of what is going on."
+: **Barrier:** "When my screen is magnified, animations are very distracting because I don't get the full context of what is going on."
 : **Works well:** "Allow me to stop any animation on the screen so I can concentrate on what I'm looking at."
 
 Tables don't zoom well
-: **Problem:** "Online tables sometimes have a lot of space between the columns and when I'm zoomed it, I have to scroll from left to right to see all of the content and I often miss the association from one column to the next."
+: **Barrier:** "Online tables sometimes have a lot of space between the columns and when I'm zoomed it, I have to scroll from left to right to see all of the content and I often miss the association from one column to the next."
 : **Works well:** "When I zoom the tables change from lots of columns to being presented more like a list with each row being shown as a list item."
 
 Breadcrumb
-: **Problem:** "I often lose my place on websites. Sometimes I follow several links and it's not what I'm looking for. I can use the back button to go back page by page but I still get lost."
+: **Barrier:** "I often lose my place on websites. Sometimes I follow several links and it's not what I'm looking for. I can use the back button to go back page by page but I still get lost."
 : **Works well:** "A breadcrumb at the top of each page that shows my path through the site keeps me on track, plus it helps me get back to the home page really quickly."
 
 Login page
-: **Problem:** "I have accounts with so many different websites that sometimes I forget my password."
+: **Barrier:** "I have accounts with so many different websites that sometimes I forget my password."
 : **Works well:** "An option to remember my password for this site and a means of resetting my password if I need to."
 
 Saved information
-: **Problem:** "When I place an order, I have trouble remembering things, like telephone number, address, and credit card details."
+: **Barrier:** "When I place an order, I have trouble remembering things, like telephone number, address, and credit card details."
 : **Works well:** "This store remembers from before, so I only need to select right address in the text field, rather than need typing each time."
 
 ## Assistive technologies and adaptive strategies used
