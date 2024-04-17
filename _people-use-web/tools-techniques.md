@@ -15,7 +15,7 @@ resource:
   ref: /people-use-web/
 
 navigation:
- previous: /people-use-web/
+ previous: /people-use-web/tools-techniques-navigation/
  next: /people-use-web/tools-techniques-perception/
 ---
 
