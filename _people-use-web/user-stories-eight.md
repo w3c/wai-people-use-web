@@ -154,23 +154,23 @@ Stefan experiences problems with sites where the navigation of the site is uncle
 ## Barrier examples
 
 Spelling suggestions
-: **Problem:** "I have difficulty with spelling and sometimes misspell words. Sometimes I don't get the search results I'm looking for."
+: **Barrier:** "I have difficulty with spelling and sometimes misspell words. Sometimes I don't get the search results I'm looking for."
 : **Works well:** "I like when search tools offer alternative spellings or alternative search suggestions instead of just returning no results."
 
 Browser settings aren't respected
-: **Problem:** "I use browser settings to specify the font, text size, and line spacing I need but some sites don't display my settings."
+: **Barrier:** "I use browser settings to specify the font, text size, and line spacing I need but some sites don't display my settings."
 : **Works well:** "When I change things in my browser, websites show those settings." 
 
 Distracting pop-ups
-: **Problem:** "Banner ads and popups are distracting and make me lose focus on what I'm doing."
+: **Barrier:** "Banner ads and popups are distracting and make me lose focus on what I'm doing."
 : **Works well:** "It's great when I can turn off these images using the ad blocker in my browser." 
 
 Complex language
-: **Problem:** "Complex language and sentence structure are confusing to me and hard to read and retain. 
+: **Barrier:** "Complex language and sentence structure are confusing to me and hard to read and retain. 
 : **Works well:** Use short sentences and plain language as much as possible."
 
 Excessive acronyms and abbreviations
-: **Problem:** "Excessive use of acronyms and abbreviations is distracting and I often must reread several times or sometimes just get stuck and give up."
+: **Barrier:** "Excessive use of acronyms and abbreviations is distracting and I often must reread several times or sometimes just get stuck and give up."
 : **Works well:** "Spell out the complete words of an acronym at least the first time it is used. Avoid or explain abbreviations."
 
 ## Assistive technologies and adaptive strategies used
