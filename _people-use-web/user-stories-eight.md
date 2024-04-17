@@ -159,7 +159,7 @@ Spelling suggestions
 
 Browser settings aren't respected
 : **Barrier:** "I use browser settings to specify the font, text size, and line spacing I need but some sites don't display my settings."
-: **Works well:** "When I change things in my browser, websites show those settings." 
+: **Works well:** "When I change settings in my browser, websites show those settings." 
 
 <!--Distracting pop-ups
 : **Barrier:** "Banner ads and popups are distracting and make me lose focus on what I'm doing."
