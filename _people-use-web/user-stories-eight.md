@@ -161,9 +161,9 @@ Browser settings aren't respected
 : **Barrier:** "I use browser settings to specify the font, text size, and line spacing I need but some sites don't display my settings."
 : **Works well:** "When I change things in my browser, websites show those settings." 
 
-Distracting pop-ups
+<!--Distracting pop-ups
 : **Barrier:** "Banner ads and popups are distracting and make me lose focus on what I'm doing."
-: **Works well:** "It's great when I can turn off these images using the ad blocker in my browser." 
+: **Works well:** "It's great when I can turn off these images using the ad blocker in my browser."-->
 
 Complex language
 : **Barrier:** "Complex language and sentence structure are confusing to me and hard to read and retain. 
