@@ -23,9 +23,9 @@ github:
   path: people-use-web/user-stories.md    # Add the language shortcode to the middle of the filename, for example: people-use-web/user-stories.fr.md
 permalink: /people-use-web/user-stories/   # Add the language shortcode to the end, with no slash at end, for example: /people-use-web/user-stories/fr
 
-navigation:
- previous: /people-use-web/user-stories-nine/
- next: /people-use-web/user-stories-one/
+# navigation:
+# previous: /people-use-web/user-stories-nine/
+# next: /people-use-web/user-stories-one/
 
 ref: /people-use-web/user-stories/      # Translators, do not change this
 changelog: /people-use-web/changelog/
