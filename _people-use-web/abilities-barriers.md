@@ -15,7 +15,7 @@ resource:
   ref: /people-use-web/
   
 navigation:
- previous: /people-use-web/
+ previous: /people-use-web/abilities-barriers-visual/
  next: /people-use-web/abilities-barriers-auditory/
 ---
 
