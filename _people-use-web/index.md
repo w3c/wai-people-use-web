@@ -27,7 +27,7 @@ resource:
 
 This resource introduces how people with disabilities use the Web. It describes tools and approaches that people with different kinds of disabilities, including people with age-related impairments, use to browse the Web. It illustrates barriers people may encounter due to poor design. It helps developers, designers, and others to understand the principles for creating accessible websites, web applications, browsers, and other web tools.
 
-## This resource includes the following pages
+## This resource includes the following sections
 
 -   **[[Stories of Web Users]](/people-use-web/user-stories/)** – highlights the effect of barriers and the broader benefits of accessible websites and web tools through stories of selected scenarios of people with disabilities using the Web.
 -   **[[Diverse Abilities and Barriers]](/people-use-web/abilities-barriers/)** – explores the wide range of diversity of people and abilities, and highlights some of the types of barriers that people commonly encounter due to inaccessible design.
