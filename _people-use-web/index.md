@@ -2,7 +2,7 @@
 title: "How People with Disabilities Use the Web"
 doc-note-type: draft
 doc-note-message: <p>This is an in-progress draft. The previously published version is at <a href="https://www.w3.org/WAI/people-use-web/">www.w3.org/WAI/people-use-web/</a>.</p>
-order: 0
+order: 1
 nav_title: Overview
 lang: "en"
 last_updated: 2017-05-15
