@@ -75,6 +75,8 @@
       - name: Acknowledgements
         url: "/perspective-videos/acknowledgements/"
         hide: true
+    - name: How People with Disabilities Use the Web
+      url: "/people-use-web"
     - name: Stories of Web Users
       url: "/people-use-web/user-stories/"
       pages:
