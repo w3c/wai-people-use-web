@@ -108,7 +108,7 @@ footer: >
   <div>
 {:/}
 
-Sophie, a mother with Down syndrome, works at her local library. She would like an office job 
+Sophie, a mother with Down syndrome, works at a basketball stadium. She would like to be a senior assistant 
 but is hesitant to apply because she will have to learn new websites and software that may not 
 be written in language she can understand, for example using unfamiliar words, as well as 
 acronyms and abbreviations. Consistency, writing in plain language, and having small 
@@ -151,7 +151,7 @@ Sophie was born with Down syndrome and experiences barriers when dealing with ab
 
 Sophie loves basketball. She played on her school team and now plays in a local club. She is  an enthusiastic fan and takes her kids to games when she can. Buying tickets online can be difficult sometimes for Sophie. Venues all seem to have different ways to buy tickets and it can sometimes be confusing. This is particularly difficult when the venue website links off to a separate site that looks totally different. Especially confusing is when she clicks on a link and ends up in a PDF file. Sophie likes sites that have a consistent "feel" when going from section to section and page to page. This means the overall layout maintains a similar theme and the placement of the navigation doesn't change too much, and that she is warned when clicking on a link that goes to a different site.
 
-Sophie works part-time in the local library. She is keen to find a full-time office job but worries that the jargon in the workplace will make this difficult at first. Writing in "plain language" is really helpful. If something can be said using simpler terminology or shorter sentences, that makes it easier for her to understand and use the information. Also, acronyms and abbreviations really slow her down because she has to spend time trying to figure them out or going to look them up. Headings are also a huge help as it splits up the page and she can digest information in smaller chunks, kind of like an outline of the page. When navigating a page, having good focus and link styling helps her know where she is and what she can click on.
+Sophie works part-time at a basketball stadium. She is keen to become full-time job but worries that the jargon in the workplace will make this difficult at first. Writing in "plain language" is really helpful. If something can be said using simpler terminology or shorter sentences, that makes it easier for her to understand and use the information. Also, acronyms and abbreviations really slow her down because she has to spend time trying to figure them out or going to look them up. Headings are also a huge help as it splits up the page and she can digest information in smaller chunks, kind of like an outline of the page. When navigating a page, having good focus and link styling helps her know where she is and what she can click on.
 
 Getting a mobile phone was a huge deal for Sophie. She finds that apps that have fewer options and fewer decisions are clearer for her and easier to use. Using the phone for shopping is really easy for Sophie. Being able to find the things she usually buys is a huge help.
 
