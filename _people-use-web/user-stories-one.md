@@ -201,3 +201,52 @@ Popup windows barrier
 * [Content appears and operates in predictable ways (Understandable)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#predictable)
 * [Users are helped to avoid and correct mistakes (Understandable)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#tolerant)
 * [Content is compatible with current and future user tools (Robust)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#compatible)
+
+{% include excol.html type="start" id="video-transcript" %}
+
+##  Text Transcript for Ade's Video {#transcript}
+
+{% include excol.html type="middle" %}
+
+<table aria-labelledby="transcript">
+  <tbody>
+  <tr>
+    <th align="left">Audio</th>
+    <th align="left">Visual</th>
+  </tr>
+  <tr>
+    <td>How people with disabilities use digital technology; Ade, reporter with limited use of his arms.</td>
+    <td>How people with disabilities use the digital technology; Ade, reporter with limited use of his arms.</td>
+  </tr>  
+  <tr>
+    <td>Hello! I’m Ade. I’m quadriplegic, which means I have limited movement in my arms as well as in my legs.</td>
+    <td>A man in a wheelchair speaks directly to the camera.</td>
+  </tr>
+  <tr>
+    <td>The technology I use is really important to me. I use a lot of keyboard shortcuts, especially for the programs that I use often. For example, scrolling a page is much easier with the arrow keys on the keyboard than by clicking on that button in the scroll bar.</td>
+    <td>The man is sitting at a desk using a laptop. He uses the arrow keys to scroll up and down a web page.</td>
+  </tr>
+  <tr>
+    <td>Unfortunately, many websites and apps don’t work well with my keyboard. Often what has focus isn’t clear or jumps around completely out of order.</td>
+    <td>The man uses the Tab key to complete sections of a form.</td>
+  </tr>
+  <tr>
+    <td>Sometimes that doesn’t work well because some websites and apps don’t work in landscape orientation, which is how I setup my tablet so that the buttons are big enough for me to click.</td>
+    <td>The man is sitting and using his tablet in landscape orientation. The web page he is trying to view does not rotate to a landscape orientation.</td>
+  </tr>
+  <tr>
+    <td>While I can use a keyboard and joystick, I can’t use them for long periods because it’s tiring. So, I recently started using speech control software as well. It allows me to dictate text instead of typing, and to say certain commands instead of clicking. It’s really hard to learn a new way of working after so many years, but I’ve been patient with it and I’m slowly getting used to it. The most difficult thing is buttons without labels – it’s not clear which voice command would activate them.</td>
+    <td>The man is sitting at a desk. He is talking to his laptop to write an email.</td>
+  </tr>
+  <tr>
+    <td>You can help make technology accessible to me. Accessibility: It’s about people.</td>
+    <td>The man speaks directly to the camera.</td>
+  </tr>
+  <tr>
+    <td>For more information from the Web Accessibility Initiative on how people with disabilities use digital technology, visit w3.org/WAI/people</td>
+    <td>Accessibility: It's about people; w3.org/WAI/people</td>
+  </tr>
+  </tbody>
+</table>
+
+{% include excol.html type="end" %}
