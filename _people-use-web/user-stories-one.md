@@ -213,6 +213,8 @@ Popup windows barrier
     video-id="user-stories_1"
     yt-id="Z5dMdJzUy7w"
 %}
+<p><em>This video is also available on a W3C server: <a href="https://media.w3.org/wai/people-use-web/user-stories_1.mp4">Video: Ade, reporter with limited use of his arms (file format: MP4, file size: 162MB)</a>.</em></p>
+
 {% include excol.html type="start" id="video-transcript" %}
 
 ###  Text Transcript for Ade's Video {#transcript}
