@@ -120,13 +120,7 @@ Ade is a reporter who has limited use of his arms. He has several strategies for
    accessible-version="#transcript"
    accessible-version-label="Ade's video"
 %}
-  <!--<div class="video-card">
-    {% include video-player-data.html
-        video-id="user-stories_1"
-        yt-id="Z5dMdJzUy7w"
-    %}
-    <p><a href="#transcript">Text Transcript with Descriptions of Visuals</a></p>
-  </div>-->
+
 </div>
 
 {% include_cached toc.html type="start" title="Page Contents" class="full" %}
@@ -213,7 +207,13 @@ Popup windows barrier
 ##  Text Transcript for Ade's Video {#transcript}
 
 {% include excol.html type="middle" %}
-
+  <div class="video-card">
+    {% include video-player-data.html
+        video-id="user-stories_1"
+        yt-id="Z5dMdJzUy7w"
+    %}
+    <p><a href="#transcript">Text Transcript with Descriptions of Visuals</a></p>
+  </div>
 <table aria-labelledby="transcript">
   <tbody>
   <tr>
