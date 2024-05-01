@@ -57,7 +57,7 @@ The following user stories represent the experiences of some people with disabil
 
 * {:.left} [{% include image.html src="profile.png" alt="" %} Ilya, senior accountant who is blind](/people-use-web/user-stories-three)<br> Ilya is blind. She uses a screen reader on her computer and mobile device to interact with online content, including images, form controls, and navigation.
 
-* {:.left} [{% include image.html src="Lexie.png" alt="" %} Lexie, online shopper who cannot distinguish between certain colors (color blindness)](/people-use-web/user-stories-four)<br> Lexie has deuteranopia and protanopia (often called "color blindness"). She has difficulty distinguishing among items that are red, green, orange, and brown, which makes it hard to derive meaning from these colors,
+* {:.left} [{% include image.html src="Lexie.png" alt="" %} Lexie, online shopper who cannot distinguish between certain colors (color blindness)](/people-use-web/user-stories-four)<br> Lexie has deuteranopia and protanopia (often called "color blindness"). She has difficulty distinguishing among items that are red, green, orange, and brown, which makes it hard to derive meaning from these colors.
 
 * {:.left} [{% include image.html src="Sophie.png" alt="" %} Sophie, basketball fan with Down syndrome](/people-use-web/user-stories-five)<br> Sophie has Down syndrome. She sometimes has difficulty comprehending content, especially when it includes acronyms, abbreviations, and unfamiliar words.
 
