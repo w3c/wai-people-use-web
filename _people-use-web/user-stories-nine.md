@@ -235,7 +235,7 @@ Saved information
     video-id="user-stories_9"
     yt-id="c-IqJdL0i38"
 %}
-<p><em>This video is also available on a W3C server: <a href="https://media.w3.org/wai/people-use-web/user-stories_1.mp4">Video: Elias, retiree with low vision, hand tremor, and mild short-term memory loss (file format: MP4, file size: 162MB)</a>.</em></p>
+<p><em>This video is also available on a W3C server: <a href="https://media.w3.org/wai/people-use-web/user-stories_9.mp4">Video: Elias, retiree with low vision, hand tremor, and mild short-term memory loss (file format: MP4, file size: 162MB)</a>.</em></p>
 
 {% include excol.html type="start" id="video-transcript" %}
 
