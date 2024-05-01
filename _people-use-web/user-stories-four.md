@@ -114,13 +114,12 @@ Lexie is an older adult who loves online shopping and fantasy football. Lexie ca
 
 {::nomarkdown}
   </div>
-  <div class="video-card">
-    {% include video-player-data.html
-        video-id="user-stories_4"
-        yt-id="eh091V45uqc"
-    %}
-    <p><a href="#transcript">Text Transcript with Descriptions of Visuals</a></p>
-  </div>
+  {% include video-card.html
+   video-url="//media.w3.org/wai/people-use-web/user-stories_4.mp4"
+   captions="//media.w3.org/wai/people-use-web/user-stories_4.srt"
+   accessible-version="#accessible-video"
+   accessible-version-label="Video: Lexie, online shopper who cannot distinguish between certain colors (color blindness)"
+%}
 </div>
 
 {% include_cached toc.html type="start" title="Page Contents" class="full" %}
@@ -188,3 +187,37 @@ Chart labels barrier
 * [Content is easier to see and hear (Perceivable)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#distinguishable)
 * [Content is compatible with current and future user tools (Robust)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#compatible)
 * [Success Criteria relating to “contrast”](https://www.w3.org/WAI/WCAG21/quickref/?tags=contrast)
+
+
+{% include excol.html type="start" id="video-transcript" %}
+
+##  Video: Lexie, online shopper who cannot distinguish between certain colors (color blindness) {#accessible-video}
+
+{% include excol.html type="middle" %}
+
+
+{% include video-player-data.html
+    video-id="user-stories_4"
+    yt-id="eh091V45uqc"
+%}
+<p><em>This video is also available on a W3C server: <a href="https://media.w3.org/wai/people-use-web/user-stories_4.mp4">Video: Lexie, online shopper who cannot distinguish between certain colors (color blindness) (file format: MP4, file size: 274MB)</a>.</em></p>
+
+{% include excol.html type="start" id="video-transcript" %}
+
+###  Text Transcript with Description of Visuals {#transcript}
+
+{% include excol.html type="middle" %}
+
+| Audio | Visual |
+| --- | --- |
+| How people with disabilities use digital technology; Lexie, online shopper who cannot distinguish between colors (color blindness). | How people with disabilities use digital technology; Lexie, online shopper who cannot distinguish between certain colors (color blindness). |
+| Hello! I’m Lexie. I was born with deuteranopia and protanopia, which people often call “color blindness”. | A woman speaks directly to the camera. |
+| I have difficulty distinguishing between red, green, orange, and brown, all of which appear to me as kind of murky brown. In a store, I often can’t tell the color of two shoes or two shirts beside each other. I love online shopping because it’s often easier for me when they use the names of the colors in addition to showing the colors. | The woman is sitting on a sofa using a tablet, looking at different coloured t-shirts in an online shop. |
+| Unfortunately, not all online shops have an accessible checkout experience for me. Often the sign-up or checkout form says “fields in red are required”. Ugh! Most times I can’t tell which fields are required when they use color only. Good shops either have the word “required” or that little star beside the fields, or even better put the word “optional” beside the ones I can skip. | The woman is sitting on a sofa using a tablet, trying to complete an online form, with some sections marked in red. |
+| Not relying on color alone is important for other websites and apps too. For example, my favorite fantasy football app has a symbol for each team on the jersey of the players, in addition to color. This helps me spot the players on my team more quickly, not just by reading the names under each player. | The woman is sitting on a sofa using a mobile phone, looking at a fantasy football app. |
+| Color issues also happen at work. For example, when my colleagues highlight words in a document without using the commenting function. The commenting function outlines the marked text in addition to highlighting it. Another example is when charts don’t have symbols as well as the colors for lines and bars – I can’t identify them from color alone. My team is usually careful about this but sometimes the suppliers we work with aren’t. | The woman is sitting on a sofa using a tablet, reading through a report which shows highlighted words and phrases as well as a pie chart. |
+| You can help make technology accessible to me. Accessibility: It’s about people. | The woman speaks directly to the camera. |
+| For more information from the Web Accessibility Initiative on how people with disabilities use digital technology, visit w3.org/WAI/people | Accessibility: It's about people; w3.org/WAI/people |
+
+{% include excol.html type="end" %}
+{% include excol.html type="end" %}

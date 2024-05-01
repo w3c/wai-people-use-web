@@ -121,13 +121,14 @@ automatically are frustrating and confusing.
 
 {::nomarkdown}
   </div>
-  <div class="video-card">
-    {% include video-player-data.html
-        video-id="user-stories_2"
-        yt-id="bhV7KMfoyT4"
-    %}
-    <p><a href="#transcript">Text Transcript with Descriptions of Visuals</a></p>
-  </div>
+
+  {% include video-card.html
+   video-url="//media.w3.org/wai/people-use-web/user-stories_2.mp4"
+   captions="//media.w3.org/wai/people-use-web/user-stories_2.srt"
+   accessible-version="#accessible-video"
+   accessible-version-label="Video: Ian, data entry clerk with autism"
+%}
+
 </div>
 
 {% include_cached toc.html type="start" title="Page Contents" class="full" %}
@@ -209,3 +210,39 @@ Moving or blinking content barrier
 * [Content does not cause seizures and physical reactions (Operable)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#safe)
 * [Text is readable and understandable (Understandable)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#readable)
 * [Content appears and operates in predictable ways (Understandable)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#predictable)
+
+{% include excol.html type="start" id="video-transcript" %}
+
+##  Video: Ian, data entry clerk with autism {#accessible-video}
+
+{% include excol.html type="middle" %}
+
+
+{% include video-player-data.html
+    video-id="user-stories_2"
+    yt-id="bhV7KMfoyT4"
+%}
+<p><em>This video is also available on a W3C server: <a href="https://media.w3.org/wai/people-use-web/user-stories_2.mp4">Video: Ian, data entry clerk with autism (file format: MP4, file size: 291MB)</a>.</em></p>
+
+{% include excol.html type="start" id="video-transcript" %}
+
+###  Text Transcript with Description of Visuals {#transcript}
+
+{% include excol.html type="middle" %}
+| Audio | Visual |
+| --- | --- |
+| How people with disabilities use digital technology; Ian, data scientist with autism.| How people with disabilities use digital technology; Ian, data scientist with autism. |
+|Hello! I’m Ian. I’m autistic. I work for a software company three bus stops from my home. | A man speaks directly to the camera. |
+| I’m a data scientist. I enjoy my work very much. Others find this work difficult because it’s quite technical. But for me, it’s really easy. | The man is sitting at a desk using a computer and talking to a woman, standing next to him, about what they can see on the monitor. |
+| Except when something changes and I don’t have enough time to figure out what changed. Like, when I was trying to get to an online meeting and found that the buttons on the app changed. It was very stressful because I was worried about being late to the meeting. Apps that ask for permission before updating allow me to find a suitable time and adjust to the changes. | The man is sitting and working at his desk. A software update appears on his computer screen. |
+| Sometimes I press the wrong thing and everything just changes and I don’t know how to go back. It makes me feel like I just can’t cope. I am trying to work, but I just can’t and I start to panic, and then I can’t even talk anymore. It’s very important to me when I can roll back and undo changes that I didn’t intend or expect to happen. | The man is participating in an online meeting using a video conferencing app. He alternates between single participant and multiple participant view. |
+| It’s also really frustrating when I have to stop work because of an error message that doesn’t tell me what the error is. Error messages that just say “input error” are so useless. Often it’s something really simple, like I didn’t use the right format for the date. Why doesn’t it say that? | The man is working at his desk. He is trying to complete a form and receives an ‘input error’ message. |
+| I love to cook when I’m not working. My friends love to eat what I cook because I find the best recipes! Some cooking websites and apps are easy to use — my favourite recipe sites list the exact ingredients and have step-by-step instructions. It’s easy to find the recipes using the tags and to follow them. | The man is preparing food in a kitchen and reading instructions from a tablet. |
+| Unfortunately, I can’t use some recipe sites even though they have recipes I really want to try. Especially the ones where all sorts of videos start playing and pop-up windows appear without me pressing anything. I didn’t ask for this! These are overwhelming and aren’t the recipe. All I want is the recipe! | The man is having difficulty reading the instructions because of advertisements and pop-up windows. |
+| Or, some sites use meaningless words and phrases and don’t even bother explaining them. I mean, what is a ‘scant cup of brown sugar’? ‘Scant’ could mean so many different things. Instead of ‘scant’ just say what you mean, like ‘a cooking cup filled just below the top’, or ‘not quite a full cup’. That would be easier to understand for everyone.  | The man is preparing food in a kitchen and reading instructions from a tablet. |
+| You can help make technology accessible to me. Accessibility: It’s about people. | The man speaks directly to the camera. |
+| For more information from the Web Accessibility Initiative on how people with disabilities use digital technology, visit w3.org/WAI/people | Accessibility: It's about people; w3.org/WAI/people |
+
+
+{% include excol.html type="end" %}
+{% include excol.html type="end" %}

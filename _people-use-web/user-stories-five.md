@@ -120,13 +120,12 @@ app is easier because there are fewer options and less clutter.
 
 {::nomarkdown}
   </div>
-  <div class="video-card">
-    {% include video-player-data.html
-        video-id="user-stories_5"
-        yt-id="gmrnVAQuSI8"
-    %}
-    <p><a href="#transcript">Text Transcript with Descriptions of Visuals</a></p>
-  </div>
+{% include video-card.html
+   video-url="//media.w3.org/wai/people-use-web/user-stories_5.mp4"
+   captions="//media.w3.org/wai/people-use-web/user-stories_5.srt"
+   accessible-version="#accessible-video"
+   accessible-version-label="Video: Sophie, basketball fan with Down syndrome"
+%}
 </div>
 
 {% include_cached toc.html type="start" title="Page Contents" class="full" %}
@@ -220,3 +219,35 @@ Animation
 * [Content appears and operates in predictable ways (Understandable)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#predictable)
 * [Users are helped to avoid and correct mistakes (Understandable)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#tolerant)
 * [Content is compatible with current and future user tools (Robust)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#compatible)
+
+{% include excol.html type="start" id="video-transcript" %}
+
+##  Video: Sophie, basketball fan with Down syndrome {#accessible-video}
+
+{% include excol.html type="middle" %}
+
+{% include video-player-data.html
+    video-id="user-stories_5"
+    yt-id="gmrnVAQuSI8"
+%}
+<p><em>This video is also available on a W3C server: <a href="https://media.w3.org/wai/people-use-web/user-stories_5.mp4">Video: Sophie, basketball fan with Down syndrome (file format: MP4, file size: 282MB)</a>.</em></p>
+
+{% include excol.html type="start" id="video-transcript" %}
+
+###  Text Transcript with Description of Visuals {#transcript}
+
+{% include excol.html type="middle" %}
+
+| Audio | Visual |
+| --- | --- |
+| How people with disabilities use digital technology; Sophie, basketball fan with Down syndrome. | How people with disabilities use digital technology; Sophie, basketball fan with Down syndrome. |
+| Hello! I am Sophie. I have Down Syndrome. I love basketball! I played on my school team, and now I work in a stadium. | A woman speaks directly to the camera. |
+| At work, we use an app for our team. It has a calendar with all our practices and games. My job is to record the scores and stuff like that. I can also use it to chat with the coach and with the players, and we use it to exchange photos and jokes too. | The woman is sitting in a gym, using a mobile phone. |
+| Sometimes, I take longer to read things but this app is really easy to use. The event or name of the player is at the top, so I know where I am in the app. The calendar is also very clear. It shows the name of the month or the number of the week at the top too. Other apps we tried are too confusing – I could never tell where I am and how to get back. | The woman is sitting in a gym, using a basketball app on a mobile phone. |
+| The biggest problem is buying tickets for games. I try to use this app for buying but sometimes I have to use other apps to get tickets. Some of these apps are too hard. When I click on something it goes somewhere else or opens another page. Or, it doesn’t have that blue box at the top and I don’t know where I am or how to get back. Sometimes, it takes too long, I have to start all over again. It’s a real pain. I wish buying tickets could be easier. | The woman is sitting in a gym, scrolling through and using a ticketing app on a mobile phone. |
+| My dream is to become a senior assistant. I know I can do it. Sometimes it is hard for me to write long things but I use the spell-checker every time. It helps me when coaches use words I already know. Otherwise, it takes me even longer to find the words in the dictionary. | The woman is sitting at a desk using a laptop. She is reading a text and using the dictionary function to check words. |
+| You can help make technology accessible to me. Accessibility: It’s about people. | The woman speaks directly to the camera. |
+| For more information from the Web Accessibility Initiative on how people with disabilities use digital technology, visit w3.org/WAI/people | Accessibility: It's about people; w3.org/WAI/people |
+
+{% include excol.html type="end" %}
+{% include excol.html type="end" %}

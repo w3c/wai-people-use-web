@@ -114,13 +114,13 @@ Stefan is a student who has dyslexia and attention deficit hyperactivity disorde
 
 {::nomarkdown}
   </div>
-  <div class="video-card">
-    {% include video-player-data.html
-        video-id="user-stories_8"
-        yt-id="Ie-RaV7UTCU"
-    %}
-    <p><a href="#transcript">Text Transcript with Descriptions of Visuals</a></p>
-  </div>
+  {% include video-card.html
+   video-url="//media.w3.org/wai/people-use-web/user-stories_8.mp4"
+   captions="//media.w3.org/wai/people-use-web/user-stories_8.srt"
+   accessible-version="#accessible-video"
+   accessible-version-label="Video: Stefan, student with attention deficit hyperactivity disorder and dyslexia"
+%}
+  
 </div>
 
 {% include_cached toc.html type="start" title="Page Contents" class="full" %}
@@ -216,3 +216,36 @@ Excessive acronyms and abbreviations
 * [Content appears and operates in predictable ways (Understandable)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#predictable)
 * [Users are helped to avoid and correct mistakes (Understandable)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#tolerant)
 * [Content is compatible with current and future user tools (Robust)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#compatible)
+
+{% include excol.html type="start" id="video-transcript" %}
+
+##  Video: Stefan, student with attention deficit hyperactivity disorder and dyslexia {#accessible-video}
+
+{% include excol.html type="middle" %}
+
+
+{% include video-player-data.html
+    video-id="user-stories_8"
+    yt-id="Ie-RaV7UTCU"
+%}
+<p><em>This video is also available on a W3C server: <a href="https://media.w3.org/wai/people-use-web/user-stories_8.mp4">Video: Stefan, student with attention deficit hyperactivity disorder and dyslexia (file format: MP4, file size: 346MB)</a>.</em></p>
+
+{% include excol.html type="start" id="video-transcript" %}
+
+###  Text Transcript with Description of Visuals {#transcript}
+
+{% include excol.html type="middle" %}
+| Audio | Visual |
+| --- | --- |
+| How people with disabilities use digital technology; Stefan, student with attention deficit hyperactivity disorder and dyslexia. | How people with disabilities use digital technology; Stefan, student with attention deficit hyperactivity disorder and dyslexia. |
+| Hello! I’m Stefan. I have dyslexia and attention deficit hyperactivity disorder – ADHD. | A man speaks directly to the camera. |
+| I have difficulty recognizing or sounding out written words, even though I use those same words in conversation all the time. It affects my spelling and my reading comprehension. It often takes me a long time to figure out the individual words I’m reading, and then it’s hard for me to remember how the words in a sentence fit together in a meaningful way. | The man is sitting down in a living room reading a magazine. |
+| Digital books and documents are often much better for me. On the computer, on a tablet, or – my favorite – on my new e-reader. I can change the font type, text size, and line spacing, which makes it easier for me to read. I also use the read-aloud function because I read better when I can see and hear the text at the same time. It also highlights the words being read aloud and has a reading ruler, so that I can follow along more easily. | The man is sitting down in a living room reading from a tablet. He is changing the text formatting by adjusting the settings on the device. He then puts on his headphones to listen to the text and follows along with the highlighted text. |
+| Sometimes, though, digital books and documents don’t work well. Sometimes they are just scanned images. These also can’t be read aloud and I can’t change the text size and font. Some don’t have bookmarks, which I use to jump to the parts I want to focus on. Or, there are long chunks or text without any headings, so I have difficulty focusing on the content. It’s so much easier when text has more spacing and graphics to make them easier to follow. | The man is sitting down in a living room reading from a laptop. He is scrolling through a complex document. |
+| Another problem is when I have to do online research. I type in words, but sometimes I do it wrong, or use a different word that sounds the same, like “brake” when I mean “break”. Sometimes I land on websites with all these ads and things popping up and moving around the screen. With ADHD, I get distracted by these ads and videos, and sometimes I click on them and forget what I was meant to be doing. I use several pop-up blockers but they don’t always work. | The man is sitting down in a living room reading from a laptop. We see word options Brake/Break appear on screen. He then looks at a website which contains a number of advertisements and pop-ups. |
+| When I find an article I want to read, I try to remember to switch to reading mode in my browser. This usually removes all the stuff around the page and lets me focus on the text. But some websites don’t work well and the ads still appear, or the text is too difficult for me to read. I love it when websites work well with my settings and extensions. Like, the extension for spelling and grammar, which helps me when I’m typing things like email. That’s very important for me. | The man is sitting down in a living room using a laptop. He types a short text and corrects an error using the spell checker. |
+| You can help make technology accessible to me. Accessibility: It’s about people. | The man speaks directly to the camera. |
+| For more information from the Web Accessibility Initiative on how people with disabilities use digital technology, visit w3.org/WAI/people | Accessibility: It's about people; w3.org/WAI/people |
+
+{% include excol.html type="end" %}
+{% include excol.html type="end" %}

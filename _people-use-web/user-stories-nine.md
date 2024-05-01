@@ -114,13 +114,12 @@ Elias is an 85-year-old retired architect. Over the years, Elias has experienced
 
 {::nomarkdown}
   </div>
-  <div class="video-card">
-    {% include video-player-data.html
-        video-id="user-stories_9"
-        yt-id="c-IqJdL0i38"
-    %}
-    <p><a href="#transcript">Text Transcript with Descriptions of Visuals</a></p>
-  </div>
+{% include video-card.html
+   video-url="//media.w3.org/wai/people-use-web/user-stories_9.mp4"
+   captions="//media.w3.org/wai/people-use-web/user-stories_9.srt"
+   accessible-version="#accessible-video"
+   accessible-version-label="Video: Elias, retiree with low vision, hand tremor, and mild short-term memory loss"
+%}  
 </div>
 
 {% include_cached toc.html type="start" title="Page Contents" class="full" %}
@@ -224,9 +223,23 @@ Saved information
 * [Users are helped to avoid and correct mistakes (Understandable)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#tolerant)
 * [Content is compatible with current and future user tools (Robust)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#compatible)
 
+
 {% include excol.html type="start" id="video-transcript" %}
 
-##  Text Transcript for Elias' Video {#transcript}
+##  Video: Elias, retiree with low vision, hand tremor, and mild short-term memory loss {#accessible-video}
+
+{% include excol.html type="middle" %}
+
+
+{% include video-player-data.html
+    video-id="user-stories_9"
+    yt-id="c-IqJdL0i38"
+%}
+<p><em>This video is also available on a W3C server: <a href="https://media.w3.org/wai/people-use-web/user-stories_1.mp4">Video: Elias, retiree with low vision, hand tremor, and mild short-term memory loss (file format: MP4, file size: 162MB)</a>.</em></p>
+
+{% include excol.html type="start" id="video-transcript" %}
+
+###  Text Transcript with Description of Visuals {#transcript}
 
 {% include excol.html type="middle" %}
 
@@ -242,6 +255,7 @@ Saved information
 | You can help make technology accessible to me. Accessibility: It’s about people. | The man speaks directly to the camera. |
 | For more information from the Web Accessibility Initiative on how people with disabilities use digital technology, visit w3.org/WAI/people | Accessibility: It's about people; w3.org/WAI/people |
 
+{% include excol.html type="end" %}
 {% include excol.html type="end" %}
 
 

@@ -115,13 +115,12 @@ computer. Marta is learning braille and hopes to use her new braille display for
 
 {::nomarkdown}
   </div>
-  <div class="video-card">
-    {% include video-player-data.html
-        video-id="user-stories_7"
-        yt-id="llTnoiq2Mow"
-    %}
-    <p><a href="#transcript">Text Transcript with Descriptions of Visuals</a></p>
-  </div>
+{% include video-card.html
+   video-url="//media.w3.org/wai/people-use-web/user-stories_7.mp4"
+   captions="//media.w3.org/wai/people-use-web/user-stories_7.srt"
+   accessible-version="#accessible-video"
+   accessible-version-label="Video: Marta, marketing assistant who is deaf and blind"
+%}
 </div>
 
 {% include_cached toc.html type="start" title="Page Contents" class="full" %}
@@ -209,3 +208,35 @@ Changes elsewhere on a page
 * [Users can easily navigate, find content, and determine where they are (Operable)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#navigable)
 * [Content appears and operates in predictable ways (Understandable)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#predictable)
 * [Content is compatible with current and future user tools (Robust)](https://www.w3.org/WAI/fundamentals/accessibility-principles/#compatible)
+
+{% include excol.html type="start" id="video-transcript" %}
+
+##  Video: Marta, marketing assistant who is deaf and blind {#accessible-video}
+
+{% include excol.html type="middle" %}
+
+
+{% include video-player-data.html
+    video-id="user-stories_7"
+    yt-id="llTnoiq2Mow"
+%}
+<p><em>This video is also available on a W3C server: <a href="https://media.w3.org/wai/people-use-web/user-stories_7.mp4">Video: Marta, marketing assistant who is deaf and blind (file format: MP4, file size: 360MB)</a>.</em></p>
+
+{% include excol.html type="start" id="video-transcript" %}
+
+###  Text Transcript with Description of Visuals {#transcript}
+
+{% include excol.html type="middle" %}
+
+| Audio | Visual |
+| --- | --- |
+| How people with disabilities use digital technology; Marta, a marketing assistant who is Deaf and blind. | How people with disabilities use digital technology; Marta, a marketing assistant who is deaf and blind. |
+| Hi! I’m Marta, a marketing assistant at my School for the Deaf. I’m Deaf-blind. I was born deaf and have progressive vision loss, which means I can still see things if they’re large and up-close but I see less and less each year. | A woman signs directly to the camera. |
+| As a Deaf child, I learned sign language early on. This is why technology is so important to me – it allows me to communicate with more people. At home, I have a computer that can enlarge my documents up to 20 times. I have a big screen but can still only see a very small portion of the screen, and an even smaller portion of the documents because it’s like looking through a magnification lens. I can find my way around documents with headings and sections that look different. For example, this briefing sheet uses a color for the headings that is different from the main content, which makes it easier for me to recognize them. | The woman is sitting on the sofa with another man, they are signing to each other. The woman is then sitting at a desk scrolling through zoomed-in options on a website. She is using a mouse and looking at a monitor through a magnification lens. |
+| Oh, and I’m learning to use braille too. Braille are those dots that you read with your fingers, and I have this really cool device called a “refreshable braille display” – it’s a small device that I can take with me everywhere, unlike my computer. It has apps for email, web, and chat, and some have a special keyboard for typing in braille. I read the braille characters in a row on the device, which I’m slowly getting used to. It’s always difficult to learn to use something new at first but I’m getting better at reading and typing braille. | The woman is sitting at a desk using a refreshable braille display. |
+| But not all websites and apps work well with magnification or on my braille display. Like when I need to look up the bus schedule to meet up with my friends – that table doesn’t work well when I enlarge it on my phone. And forget about trying to read it in braille. I can’t tell what row or column I’m in and it just jumps all over the place! It makes me nervous because I can’t as easily ask for help from people around me while I’m out, so I’ve been learning how to speak up and ask companies for more accessible websites and apps to help me stay independent. | The woman is sitting at a bus stop, looking at a zoomed-in bus timetable app on her mobile phone. She is holding the mobile phone close to her face. |
+| You can help make technology accessible to me. Accessibility: It’s about people. | The woman speaks directly to the camera. |
+| For more information from the Web Accessibility Initiative on how people with disabilities use digital technology, visit w3.org/WAI/people | Accessibility: It's about people; w3.org/WAI/people |
+
+{% include excol.html type="end" %}
+{% include excol.html type="end" %}
