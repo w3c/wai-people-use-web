@@ -1,6 +1,5 @@
 ---
 title: "Tools and Techniques"
-order: 3
 permalink: /people-use-web/tools-techniques/
 ref: /people-use-web/tools-techniques/
 lang: en
@@ -13,10 +12,6 @@ footer: >
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Previously developed with the <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE Task Force</a>, with support of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a>.</p>
 resource:
   ref: /people-use-web/
-
-navigation:
- previous: /people-use-web/tools-techniques-navigation/
- next: /people-use-web/tools-techniques-perception/
 ---
 
 {::nomarkdown}
