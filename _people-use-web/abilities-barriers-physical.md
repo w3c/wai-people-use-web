@@ -1,5 +1,11 @@
 ---
 title: "Physical"
+nav_title: "Physical"
+parent_in_h1:
+  - ref: /people-use-web/abilities-barriers/
+    name: nav_title
+  - ref: /people-use-web/
+    name: nav_title
 order: 2
 permalink: /people-use-web/abilities-barriers-physical/
 ref: /people-use-web/abilities-barriers-physical/
@@ -20,22 +26,80 @@ navigation:
 ---
 
 {::nomarkdown}
-{% include box.html type="start" h="2" title="Summary" class="full" %}
+<style>
+  #introduction p {
+    font-size:120%;
+    margin: 0.5em 0 0 0;
+  }
+  #introduction .box-i {
+  }
+  #introduction nav {
+    border: 0;
+    margin-top: 0;
+  }
+  #introduction nav header {
+    padding: 8px 16px;
+  }
+  #introduction .video-card {
+    margin: 1em;
+    float: none !important;
+    max-width: inherit !important;
+    min-width: 45% !important;
+  }
+  #introduction .video-card p {
+    font-size: 90%;
+    margin: 0;
+  }
+  #introduction .video-card p:first-child {
+    height: 190px;
+  }
+  #introduction img.video {
+    border-radius: 5px;
+    width: 300px;
+    max-width: 300px;
+  }
+  #introduction .video-card .play-button {
+    position: relative;
+    top: -55px;
+    left: -185px;
+    width: 60px;
+    height: 60px;
+  }
+  @media all and (min-width: 576px) {
+    #introduction .box-i {
+      display: flex;
+      flex: 0 1;
+    }
+    #introduction .video-card .play-button {
+      position: relative;
+      top: -120px;
+      left: 120px;
+      width: 60px;
+      height: 60px;
+    }
+  }
+</style>
+
+<aside id="introduction" class="box"><div class="box-i">
+  <div>
 {:/}
 
 Physical disabilities (sometimes called "motor disabilities") include weakness and limitations of muscular control (such as involuntary movements including tremors, lack of coordination, or paralysis), limitations of sensation, joint disorders (such as arthritis), pain that impedes movement, and missing limbs.
 
-The examples given in this section are not a complete list of all disabilities or barriers.
+{::options toc_levels="2..2" /}
 
 {::nomarkdown}
-{% include box.html type="end" %}
-{:/}
+  </div>
+{% include video-card.html
+   video-url="//media.w3.org/wai/people-use-web/abilities-barriers_physical.mp4"
+   captions="//media.w3.org/wai/people-use-web/abilities-barriers_physical.srt"
+   accessible-version="#accessible-video"
+   accessible-version-label="Video: Diverse Abilities and Barriers - Physical"
+%}
 
+</div>
 
-{::options toc_levels="2" /}
-
-{::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents" %}
+{% include_cached toc.html type="start" title="Page Contents" class="full" %}
 {:/}
 
 -   TOC is created automatically.
@@ -43,7 +107,11 @@ The examples given in this section are not a complete list of all disabilities o
 
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
+    
+</aside>
 {:/}
+
+**Note:** The examples given in this section are not a complete list of all disabilities or barriers.
 
 ## Introduction
 
@@ -85,3 +153,41 @@ People with physical disabilities may have trouble clicking small areas and are 
 
 - [Ade, reporter with limited use of arms](/people-use-web/user-stories-one/) 
 - [Elias, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories-nine/)
+
+{% include excol.html type="start" id="video-transcript" %}
+
+##  Video:  Diverse Abilities and Barriers - Physical {#accessible-video}
+
+{% include excol.html type="middle" %}
+
+
+{% include video-player-data.html
+    video-id="abilities-barriers_physical"
+    yt-id="z_5l75rksSA"
+%}
+<p><em>This video is also available on a W3C server: <a href="https://media.w3.org/wai/people-use-web/abilities-barriers_physical.mp4">Video: Diverse Abilities and Barriers - Physical (file format: MP4, file size: 277MB)</a>.</em></p>
+
+{% include excol.html type="start" id="video-transcript" %}
+
+###  Text Transcript with Description of Visuals {#transcript}
+
+{% include excol.html type="middle" %}
+
+| Audio | Visual |
+| --- | --- |
+| How people with disabilities use digital technology; physical disabilities. | How people with disabilities use digital technology: Physical disabilities |
+| Physical disabilities affect how people move, including an inability to move, limited mobility, a lack of coordination, tremors and involuntary movement, pain that impedes movement, as well as missing and non-typical limbs. | Collage of 3 people using their devices. |
+| People who use a mouse might have difficulty with fine motor control. | Man seated at desk uses his laptop. |
+| For example, tremors, non-typical joints, pain, or fatigue can prevent people from being able to select small targets, such as small links, buttons, and controls. | Man is using trackpad with visible hand tremor. He uses a website where a checkbox can only be selected by clicking the checkbox square, which is difficult to do. |
+Websites and apps with large clickable areas around checkboxes, radio buttons, and other controls, are easier to use for people with limited mobility and reduced dexterity. | He now uses a different website that allows selecting the text label next to a radio button and checkbox, rather than solely the radio button circle and checkbox square. |
+| Other people use speech input instead. While speech input uses the keyboard interface in the background, websites and apps that are programmed and designed with consideration for speech input are more effective. For example, when the name of a button in the code matches the name displayed visually, people using speech input know what they need to say to click that button. "Click send email." | Man in wheelchair sits at a desk as he dictates an email message using his laptop. |
+| Some people do not use a mouse, touch screen, or other pointing devices. They might use specialized keyboards with larger keys, or more space between the keys. Some use tools such as a mouthstick or headstick to type. | Man with irregular hand movement uses a keyboard with large keys to type. |
+| Websites and apps that make functions visibly clear with active focus styles and usable with keyboard only are easier to use for people with physical disabilities. | Website for entering shipping information has clear visual outline around the currently focused field and typed letters appear at the pace of the man using the large keyboard. |
+| Regardless of the input device used, websites and apps that provide sufficient time to type and to complete tasks are easier to use for people with physical disabilities because it might take people longer to navigate and type, and to correct typing mistakes. | Man in wheelchair with non-typical limbs holds and uses tablet. |
+| Providing clear headings and instructions helps people to understand the tasks and reduces the time needed to complete them. This includes instructions for forms and functionality, as well as error messages and dialogs. | Web form is shown featuring large heading and instructions, clear labels, and clearly marked required fields. The man makes a selection from a dropdown. |
+| Finally, websites and apps that work in both portrait and landscape orientation are easier to use for people who have their devices mounted to their wheelchair, desk, or bed. | Man in wheelchair continues to use tablet. |
+| You can help make technology accessible to me. Accessibility: It's about people. | Man in wheelchair speaks the phrase, "You can help make technology accessible to me," then the view pans to collage of 12 people with different colored backgrounds. |
+| For more information from the Web Accessibility Initiative on how people with disabilities use digital technology, visit w3.org/WAI/people | Accessibility: It's about people; w3.org/WAI/people  |
+
+{% include excol.html type="end" %}
+{% include excol.html type="end" %}

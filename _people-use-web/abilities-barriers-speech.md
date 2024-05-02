@@ -1,5 +1,11 @@
 ---
 title: "Speech"
+nav_title: "Speech"
+parent_in_h1:
+  - ref: /people-use-web/abilities-barriers/
+    name: nav_title
+  - ref: /people-use-web/
+    name: nav_title
 order: 2
 permalink: /people-use-web/abilities-barriers-speech/
 ref: /people-use-web/abilities-barriers-speech/
@@ -20,22 +26,80 @@ navigation:
 ---
 
 {::nomarkdown}
-{% include box.html type="start" h="2" title="Summary" class="full" %}
+<style>
+  #introduction p {
+    font-size:120%;
+    margin: 0.5em 0 0 0;
+  }
+  #introduction .box-i {
+  }
+  #introduction nav {
+    border: 0;
+    margin-top: 0;
+  }
+  #introduction nav header {
+    padding: 8px 16px;
+  }
+  #introduction .video-card {
+    margin: 1em;
+    float: none !important;
+    max-width: inherit !important;
+    min-width: 45% !important;
+  }
+  #introduction .video-card p {
+    font-size: 90%;
+    margin: 0;
+  }
+  #introduction .video-card p:first-child {
+    height: 190px;
+  }
+  #introduction img.video {
+    border-radius: 5px;
+    width: 300px;
+    max-width: 300px;
+  }
+  #introduction .video-card .play-button {
+    position: relative;
+    top: -55px;
+    left: -185px;
+    width: 60px;
+    height: 60px;
+  }
+  @media all and (min-width: 576px) {
+    #introduction .box-i {
+      display: flex;
+      flex: 0 1;
+    }
+    #introduction .video-card .play-button {
+      position: relative;
+      top: -120px;
+      left: 120px;
+      width: 60px;
+      height: 60px;
+    }
+  }
+</style>
+
+<aside id="introduction" class="box"><div class="box-i">
+  <div>
 {:/}
 
 Speech disabilities include difficulty producing speech that is recognizable by others or by speech recognition software. For example, the loudness or clarity of someone's voice might be difficult to understand.
 
-The examples given in this section are not a complete list of all disabilities or barriers.
+{::options toc_levels="2..2" /}
 
 {::nomarkdown}
-{% include box.html type="end" %}
-{:/}
+  </div>
+{% include video-card.html
+   video-url="//media.w3.org/wai/people-use-web/abilities-barriers_speech.mp4"
+   captions="//media.w3.org/wai/people-use-web/abilities-barriers_speech.srt"
+   accessible-version="#accessible-video"
+   accessible-version-label="Video: Diverse Abilities and Barriers - Speech"
+%}
 
+</div>
 
-{::options toc_levels="2" /}
-
-{::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents" %}
+{% include_cached toc.html type="start" title="Page Contents" class="full" %}
 {:/}
 
 -   TOC is created automatically.
@@ -43,7 +107,11 @@ The examples given in this section are not a complete list of all disabilities o
 
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
+    
+</aside>
 {:/}
+
+**Note:** The examples given in this section are not a complete list of all disabilities or barriers.
 
 ## Introduction
 
@@ -62,3 +130,39 @@ People with speech disabilities encounter barriers with voice-based services, su
 
 -   Web-based services, including web applications, that rely on interaction using voice only.
 -   Websites that offer phone numbers as the only way to communicate with the organizations.
+
+{% include excol.html type="start" id="video-transcript" %}
+
+##  Video:  Diverse Abilities and Barriers - Speech {#accessible-video}
+
+{% include excol.html type="middle" %}
+
+
+{% include video-player-data.html
+    video-id="abilities-barriers_speech"
+    yt-id="oFF0lbRskKg"
+%}
+<p><em>This video is also available on a W3C server: <a href="https://media.w3.org/wai/people-use-web/abilities-barriers_speech.mp4">Video: Diverse Abilities and Barriers - Speech (file format: MP4, file size: 199MB)</a>.</em></p>
+
+{% include excol.html type="start" id="video-transcript" %}
+
+###  Text Transcript with Description of Visuals {#transcript}
+
+{% include excol.html type="middle" %}
+
+| Audio | Visual |
+| --- | --- |
+| How people with disabilities use digital technology: speech disabilities. | How People with Disabilities Use Digital Technology: Speech Disabilities |
+| Speech disabilities affect how people speak, including not speaking, or speaking in a range of different patterns, pitches, and sounds. | Collage of 4 people doing various activities on technology devices or with them nearby. |
+| Some people do not speak at all. This can include people who are Deaf, autistic, have injured or no vocal organs, or have other conditions impacting physical or cognitive speech production. | Deaf man signing to colleagues on a video conference call. |
+| Unfortunately, although it's a common misperception, speaking differently is not an indication of a person's intellectual capabilities. Many people stutter, pause, or pronounce words in a range of different patterns, pitches, and utterances due to various disabilities. | Man speaks to phone laying on table beside him, but looks frustrated. |
+| While you might be able to understand me, automatic speech recognition systems often don't. | Man speaks to the camera. |
+| Some people use a variety of different assistive technologies to generate speech. | Man in wheelchair typing on large keyboard. |
+| I use software for generating speech, which is often not recognized by automatic speech recognition. | The phrase is shown with each word highlighted as it is spoken by the computer. |
+| Websites and apps that require speech input can be a barrier for people with speech disabilities, especially when they rely on automatic speech recognition. | Man using laptop is frustrated. Website shows Customer Support that is only available by telelphone. |
+| Instead, websites and apps, such as customer support systems, need to provide alternatives to voice calls, like chat or email. | Man continues to use laptop at desk. |
+| You can help make technology accessible to me. Accessibility: It's about people. | Man speaks this phrase then pans to collage of 12 people with different colored backgrounds. |
+| For more information from the Web Accessibility Initiative on how people with disabilities use digital technology, visit w3.org/WAI/people | Accessibility: It's about people; w3.org/WAI/people |
+
+{% include excol.html type="end" %}
+{% include excol.html type="end" %}

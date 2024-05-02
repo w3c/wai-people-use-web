@@ -1,5 +1,11 @@
 ---
 title: "Cognitive and learning"
+nav_title: "Cognitive and learning"
+parent_in_h1:
+  - ref: /people-use-web/abilities-barriers/
+    name: nav_title
+  - ref: /people-use-web/
+    name: nav_title
 order: 2
 permalink: /people-use-web/abilities-barriers-cognitive/
 ref: /people-use-web/abilities-barriers-cognitive/
@@ -20,22 +26,80 @@ navigation:
 ---
 
 {::nomarkdown}
-{% include box.html type="start" h="2" title="Summary" class="full" %}
+<style>
+  #introduction p {
+    font-size:120%;
+    margin: 0.5em 0 0 0;
+  }
+  #introduction .box-i {
+  }
+  #introduction nav {
+    border: 0;
+    margin-top: 0;
+  }
+  #introduction nav header {
+    padding: 8px 16px;
+  }
+  #introduction .video-card {
+    margin: 1em;
+    float: none !important;
+    max-width: inherit !important;
+    min-width: 45% !important;
+  }
+  #introduction .video-card p {
+    font-size: 90%;
+    margin: 0;
+  }
+  #introduction .video-card p:first-child {
+    height: 190px;
+  }
+  #introduction img.video {
+    border-radius: 5px;
+    width: 300px;
+    max-width: 300px;
+  }
+  #introduction .video-card .play-button {
+    position: relative;
+    top: -55px;
+    left: -185px;
+    width: 60px;
+    height: 60px;
+  }
+  @media all and (min-width: 576px) {
+    #introduction .box-i {
+      display: flex;
+      flex: 0 1;
+    }
+    #introduction .video-card .play-button {
+      position: relative;
+      top: -120px;
+      left: 120px;
+      width: 60px;
+      height: 60px;
+    }
+  }
+</style>
+
+<aside id="introduction" class="box"><div class="box-i">
+  <div>
 {:/}
 
 Cognitive and learning disabilities affect how people store, retrieve, or use information. Often, only some functions are impaired while others are unaffected. Many of these disabilities do not affect overall intelligence. Cognitive and learning disabilities are usually invisible and can be age-related. Many users may not have a formal diagnosis or disclose having a disability due to social stigma, vocational concerns and prejudices. Poor design or content choices can undermine or make impossible these different approaches.
 
-The examples given in this section are not a complete list of all disabilities or barriers.
+{::options toc_levels="2..2" /}
 
 {::nomarkdown}
-{% include box.html type="end" %}
-{:/}
+  </div>
+{% include video-card.html
+   video-url="//media.w3.org/wai/people-use-web/abilities-barriers_cognitive.mp4"
+   captions="//media.w3.org/wai/people-use-web/abilities-barriers_cognitive.srt"
+   accessible-version="#accessible-video"
+   accessible-version-label="Video: Diverse Abilities and Barriers - Cognitive"
+%}
 
+</div>
 
-{::options toc_levels="2" /}
-
-{::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents" %}
+{% include_cached toc.html type="start" title="Page Contents" class="full" %}
 {:/}
 
 -   TOC is created automatically.
@@ -43,7 +107,11 @@ The examples given in this section are not a complete list of all disabilities o
 
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
+    
+</aside>
 {:/}
+
+**Note:** The examples given in this section are not a complete list of all disabilities or barriers.
 
 
 ## Introduction
@@ -104,3 +172,46 @@ People with cognitive and learning disabilities may use different types of brows
 - [Ian, data entry clerk with autism](/people-use-web/user-stories-two/) 
 - [Stefan, student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories-eight/) 
 - [Elias, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories-nine/) 
+
+{% include excol.html type="start" id="video-transcript" %}
+
+##  Video:  Diverse Abilities and Barriers - Cognitive {#accessible-video}
+
+{% include excol.html type="middle" %}
+
+
+{% include video-player-data.html
+    video-id="abilities-barriers_cognitive"
+    yt-id="4UaUSbyVFjk"
+%}
+<p><em>This video is also available on a W3C server: <a href="https://media.w3.org/wai/people-use-web/abilities-barriers_cognitive.mp4">Video: Diverse Abilities and Barriers - Cognitive (file format: MP4, file size: 321MB)</a>.</em></p>
+
+{% include excol.html type="start" id="video-transcript" %}
+
+###  Text Transcript with Description of Visuals {#transcript}
+
+{% include excol.html type="middle" %}
+
+| Audio | Visual |
+| --- | --- |
+How People with Disabilities use Digital Technology: Cognitive and Learning Disabilities. | How People with Disabilities use Digital Technology: Cognitive and Learning Disabilities |
+| Cognitive and learning disabilities affect how people process, understand, and remember information. They cover a wide range of cognitive differences and disabilities, and many of them do not affect overall intelligence. | Collage of four people in different settings using various technology. |
+| For example, many people have varying degrees of dyslexia. Dyslexia affects the ability to recognize and sound out written words, which impact spelling and reading comprehension. Websites and apps with sufficient white space and headings to separate the content make it easier for people to read. | Man sits while using laptop on his lap. |
+| Clear navigation with distinct section headers also make it easier for people to navigate through the content. | Scrolling view of a "Gifts for Book Lovers" e-commerce site with a clear page heading, side navigation for filtering results, and main section with a grid of items to purchase. |
+| Websites and apps also need to work with reading tools, including tools that adjust how the text is presented, read the text aloud, and help with spelling and grammar. | Within an e-book, the man selects from among options that change the font and background styles. |
+| Similarly, some people have varying degrees of dyscalculia. Dyscalculia affects the ability to process and work with numbers in mathematical concepts. Websites and apps that provide alternatives to mathematical abstractions, are easier to use for people with dyscalculia. | Woman using laptop at desk. |
+| This could include showing a progress bar instead of or in addition to showing a percentage. | On a website, the 4 steps to complete an order are shown in a step progress bar along the top.|
+| Websites and apps can also provide visual aids and text descriptions for things like schedules and temperatures. | Returns to the woman at her laptop nodding as she follows along with the content. |
+| People have varying degrees of memory abilities, including short-term and working memory. Reduced short-term memory affects the ability to remember new things, such as passwords, or where in a process someone might be, especially in stressful situations. | Man uses his laptop at a desk. |
+| Websites and apps with clear navigation and layout, prominent and unique page titles, and distinct instructions and cues can make it easier for people to remember where they are in the content. | A webpage  for entering shipping information has clearly labelled input fields and highly visible focus outlines on the currently active field. |
+| Websites and apps can also help people remember information they have previously added, such as addresses and telephone numbers. | Returns to the man at his laptop, looking pleased to have completed his task. |
+| People might have different levels of attention and focus. This includes people with attention deficit hyperactivity disorder (ADHD), brain trauma, age-related forgetfulness, and dementia. These cognitive differences affect the ability to focus and to resume a task after the user is distracted. | A woman at her laptop looks frustrated while using it. |
+| In addition to breaking up longer passages of text and using headings, websites and apps without pop-up windows and automatically playing videos, sounds, or animations make it easier for people to focus and follow the content. | On a webpage, a distracting "promo" pop-up dialog window overtakes the screen and must be closed to continue. |
+| Some people experience difficulty orienting themselves in layouts and visual designs that are new to them. | A man uses a desktop computer at his desk. |
+| It may also be difficult for them to learn new keystrokes or gestures needed for interaction. Websites and apps with consistent and predictable designs and with clear and distinct instructions make it easier for people to know where they are and complete tasks. | While clicking through a website, the top navigation keeps changing on each new page, causing visible frustration on how to interact. |
+| You can help make technology accessible to me. | Woman with dyscalculia speaks this phrase. |
+| Accessibility: It's about people. | A collage of 16 different people with disabilities, including those featured in the video. |
+| For more information from the Web Accessibility Initiative on how people with disabilities use digital technology, visit w3.org/WAI/people | Accessibility: It's about people; w3.org/WAI/people |
+
+{% include excol.html type="end" %}
+{% include excol.html type="end" %}
