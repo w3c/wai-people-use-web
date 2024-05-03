@@ -24,7 +24,62 @@ navigation:
 ---
 
 {::nomarkdown}
-{% include box.html type="start" h="2" title="Summary" class="full" %}
+<style>
+  #introduction p, #introduction ul {
+    font-size:120%;
+    margin: 0.5em 0 0 0;
+  }
+  #introduction .box-i {
+  }
+  #introduction nav {
+    border: 0;
+    margin-top: 0;
+  }
+  #introduction nav header {
+    padding: 8px 16px;
+  }
+  #introduction .video-card {
+    margin: 1em;
+    float: none !important;
+    max-width: inherit !important;
+    min-width: 45% !important;
+  }
+  #introduction .video-card p {
+    font-size: 90%;
+    margin: 0;
+  }
+  #introduction .video-card p:first-child {
+    height: 190px;
+  }
+  #introduction img.video {
+    border-radius: 5px;
+    width: 300px;
+    max-width: 300px;
+  }
+  #introduction .video-card .play-button {
+    position: relative;
+    top: -55px;
+    left: -185px;
+    width: 60px;
+    height: 60px;
+  }
+  @media all and (min-width: 576px) {
+    #introduction .box-i {
+      display: flex;
+      flex: 0 1;
+    }
+    #introduction .video-card .play-button {
+      position: relative;
+      top: -120px;
+      left: 120px;
+      width: 60px;
+      height: 60px;
+    }
+  }
+</style>
+
+<aside id="introduction" class="box"><div class="box-i">
+  <div>
 {:/}
 
 People use different approaches to enter text and activate commands, for example:
@@ -34,16 +89,20 @@ People use different approaches to enter text and activate commands, for example
 - Mouse and keyboard with software that compensates for hand tremor;
 - Speech recognition and other hands-free interaction.
 
-The examples given in this section are not a complete list of all the ways that people interact with digital technology.
+
+{::options toc_levels="2..2" /}
 
 {::nomarkdown}
-{% include box.html type="end" %}
-{:/}
+  </div>
+{% include video-card.html
+   video-url="//media.w3.org/wai/people-use-web/tools-techniques_input.mp4"
+   captions="//media.w3.org/wai/people-use-web/tools-techniques_input.srt"
+   accessible-version="#accessible-video"
+   accessible-version-label="Video: Tools and Techniques - Input"
+%}
 
+</div>
 
-{::options toc_levels="2..3" /}
-
-{::nomarkdown}
 {% include_cached toc.html type="start" title="Page Contents" class="full" %}
 {:/}
 
@@ -52,7 +111,11 @@ The examples given in this section are not a complete list of all the ways that 
 
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
+    
+</aside>
 {:/}
+
+**Note:** The examples given in this section are not a complete list of all the ways that people interact with digital technology.
 
 ## Introduction
 
@@ -85,3 +148,43 @@ Accessible content supports people who need more time typing, writing, and click
 - [Stefan, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories-eight/)
 - [Elias, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories-nine/)
 - [Sophie, basketball fan with Down syndrome](/people-use-web/user-stories-five/)
+
+
+{% include excol.html type="start" id="video-transcript" %}
+
+##  Video: Tools and Techniques - Input {#accessible-video}
+
+{% include excol.html type="middle" %}
+
+
+{% include video-player-data.html
+    video-id="tools-techniques_input"
+    yt-id="HG4PXNRjXoU"
+%}
+<p><em>This video is also available on a W3C server: <a href="https://media.w3.org/wai/people-use-web/tools-techniques_input.mp4">Video: Tools and Techniques - Input (file format: MP4, file size: 305MB)</a>.</em></p>
+
+{% include excol.html type="start" id="video-transcript" %}
+
+###  Text Transcript with Description of Visuals {#transcript}
+
+{% include excol.html type="middle" %}
+
+| Audio | Visual |
+| --- | --- |
+| How People with Disabilities Use Digital Technology: Input - Typing, writing, and clicking | How People with Disabilities Use Digital Technology: Input - Typing, writing, and clicking |
+| When content is accessible, people can use a variety of hardware and software to enter text and activate commands. | Collage of four people in various settings using technology. |
+| Some people do not use keyboards, and use only pointing devices instead. This could include a specialized mouse, joystick, trackball, or touch screen to click links and buttons and to type on on-screen keyboards. | Man in wheelchair with non-typical limbs holds and uses tablet. |
+| However, even when using these tools, people might have difficulty selecting small targets, such as small links, buttons, and controls. Websites and apps with large clickable areas around checkboxes, radio buttons, and other controls, are easier to use for people with limited mobility and reduced dexterity. | A website form appears and the man is typing entries such as phone number. For a radio button and checkbox selections, they are able to tap the label text rather than having to tap the actual radio button and checkbox controls. |
+| Websites and apps also need to provide support for people who use the keyboard only. This includes providing ways to skip over repeated content, such as headers and navigation bars, as well as not breaking the default functionality in browsers and operating systems. | Man with irregular hand movement uses a keyboard with large keys to type. |
+| For example, using the Tab key to move around clickable items in the content, using the Enter key for selecting items, and making the currenlty active item visible by showing a rectangular box around it. | A web form with a bold yellow ring around the currently active field. The focus moves from First Name to Last Name with the Tab key (rather than a mouse click). |
+| Websites and apps that provide word prediction and accelerators, for example for search terms, reduce the amount of typing, and make them more efficient for keyboard users. | Man with irregular hand movement continues to use a keyboard with large keys to type. |
+| Additionally, not everyone using only the keyboard can see the screen; for example, people who are blind. So, in addition to ensuring keyboard support, websites and apps also need to provide clear instructions, labels for form controls, error messages, and status notifications, so that people know what is happening on the screen. | A blind man types on his laptop, navigating through a web-based form with several dropdowns. They are able to make selections and move to the next dropdown using just the keyboard commands. |
+| Websites and apps need to help people find and correct mistakes in their input; for example, by showing a summary of the entered data before submitting it. | Woman with Down syndrome uses her mobile phone to complete a form. A confirmation screen appears to confirm the typed entries before submitting. |
+| They also need to provide sufficient time to complete tasks, or avoid timing limitations altogether. Many people with disabilities require more time to navigate and orient themselves in the content, and to click and type. In particular, people with cognitive and learning disabilities. | Woman continues to use her phone while at the gym. |
+| Finally, websites and apps also need to consider people who do not use keyboard or pointing devices at all, and use speech input instead. For example, websites and apps need to be programmed and designed so that the name of a button in the software code matches the name displayed to the user. "Click send email." | Man in wheelchair with nontypical limbs dictates an email on his laptop. Once complete, he speaks aloud the "send email" command to send it. |
+| You can help make technology accessible to me. | Man smiling at screen while computer speech audio relays his message. |
+| Accessibility: It's about people. | Collage of 12 different people with colored backgrounds. |
+| For more information from the Web Accessibility Initiative on how people with disabilities use the digital technology, visit w3.org/WAI/people | Accessibility: It's about people. w3.org/WAI/people |
+
+{% include excol.html type="end" %}
+{% include excol.html type="end" %}

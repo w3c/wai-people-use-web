@@ -24,7 +24,62 @@ navigation:
 ---
 
 {::nomarkdown}
-{% include box.html type="start" h="2" title="Summary" class="full" %}
+<style>
+  #introduction p, #introduction ul {
+    font-size:120%;
+    margin: 0.5em 0 0 0;
+  }
+  #introduction .box-i {
+  }
+  #introduction nav {
+    border: 0;
+    margin-top: 0;
+  }
+  #introduction nav header {
+    padding: 8px 16px;
+  }
+  #introduction .video-card {
+    margin: 1em;
+    float: none !important;
+    max-width: inherit !important;
+    min-width: 45% !important;
+  }
+  #introduction .video-card p {
+    font-size: 90%;
+    margin: 0;
+  }
+  #introduction .video-card p:first-child {
+    height: 190px;
+  }
+  #introduction img.video {
+    border-radius: 5px;
+    width: 300px;
+    max-width: 300px;
+  }
+  #introduction .video-card .play-button {
+    position: relative;
+    top: -55px;
+    left: -185px;
+    width: 60px;
+    height: 60px;
+  }
+  @media all and (min-width: 576px) {
+    #introduction .box-i {
+      display: flex;
+      flex: 0 1;
+    }
+    #introduction .video-card .play-button {
+      position: relative;
+      top: -120px;
+      left: 120px;
+      width: 60px;
+      height: 60px;
+    }
+  }
+</style>
+
+<aside id="introduction" class="box"><div class="box-i">
+  <div>
 {:/}
 
 People adjust the presentation of content to make it easier to distinguish and understand. These adjustments include:
@@ -33,16 +88,19 @@ People adjust the presentation of content to make it easier to distinguish and u
 - Combining audio and visual content to make information easier to understand;
 - Providing alternative presentations of the content, such as sign-language.
 
-The examples given in this section are not a complete list of all the ways that people interact with digital technology.
+{::options toc_levels="2..2" /}
 
 {::nomarkdown}
-{% include box.html type="end" %}
-{:/}
+  </div>
+{% include video-card.html
+   video-url="//media.w3.org/wai/people-use-web/tools-techniques_presentation.mp4"
+   captions="//media.w3.org/wai/people-use-web/tools-techniques_presentation.srt"
+   accessible-version="#accessible-video"
+   accessible-version-label="Video: Tools and Techniques - Presentation"
+%}
 
+</div>
 
-{::options toc_levels="2..3" /}
-
-{::nomarkdown}
 {% include_cached toc.html type="start" title="Page Contents" class="full" %}
 {:/}
 
@@ -51,7 +109,12 @@ The examples given in this section are not a complete list of all the ways that 
 
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
+    
+</aside>
 {:/}
+
+**Note:** The examples given in this section are not a complete list of all the ways that people interact with digital technology.
+
 
 ## Description
 
@@ -91,3 +154,40 @@ Also, people process information differently. This aspect is particularly releva
 - [Elias, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories-nine/)
 - [Sophie, basketball fan with Down syndrome](/people-use-web/user-stories-five/)
 - [Marta, marketing assistant who is deaf and blind](/people-use-web/user-stories-seven/)
+
+{% include excol.html type="start" id="video-transcript" %}
+
+##  Video: Tools and Techniques - Presentation {#accessible-video}
+
+{% include excol.html type="middle" %}
+
+
+{% include video-player-data.html
+    video-id="tools-techniques_presentation"
+    yt-id="tHS_WUAmkMo"
+%}
+<p><em>This video is also available on a W3C server: <a href="https://media.w3.org/wai/people-use-web/tools-techniques_presentation.mp4">Video: Tools and Techniques - Presentation (file format: MP4, file size: 334MB)</a>.</em></p>
+
+{% include excol.html type="start" id="video-transcript" %}
+
+###  Text Transcript with Description of Visuals {#transcript}
+
+{% include excol.html type="middle" %}
+
+| Audio | Visual |
+| --- | --- |
+| How people with disabilities use digital technology; presentation - distinguishing and understanding. | How people with disabilities use digital technology: Presentation - distinguishing and understanding |
+| When content is accessible, people can adjust its presentation to make it easier to distinguish and understand. This could include adjusting screen size and color to see better, adjusting audio volume to hear better, or adjusting how text is presented to read it better. | Collage of 4 people doing different activities. |
+| Some people with low vision increase the text size to make it easier to read. They might adjust properties in the web browser or operating system, such as increasing the default text size, font type, and line spacing, to better see the text. | Woman with low vision views her desktop monitor through a magnifier screen in front of the monitor. |
+| Websites and apps that are programmed and designed to adapt to these properties, allow people to use the content without the text overlapping, getting cropped, or requiring them to scroll both vertically and horizontally. | Text on a W3C-WAI website is increased using the browser zoom feature, triggering responsive design. As the text size gets bigger, the navigation menus collapse into a single menu button and the text adjusts so all text fits in the screen width like what would be seen on a mobile device. |
+| Other people with low vision increase everything on the screen, not only text. They might use screen magnification software as a digital magnifying glass. Some might also change the text and background colors to better read the text, and use text-to-speech to hear the text while they are reading. This means that websites and apps need to be programmed and designed to allow people to change the colors rather than forcing them to appear in a certain way. | The woman now explores a school website using magnification software, causing her to see portions of the page while moving the mouse to the right, opening a navigation menu, then moving left to read the list of choices. |
+| Presentation is not only visual. People with auditory disabilities, for example, might need to increase the volume of online meetings and multimedia like videos, podcasts, and music, without increasing the volume of other system sounds, like notification alerts. Adjusting the bass, treble, and balance of the sound can make the audio easier to hear, so operating systems and media players need to provide these settings. Also, these settings work better with high-quality audio that does not have background noise. | Man with hearing aid watches a video on his laptop. While watching, he increases the volume within the video player. |
+| Presentation adjustments can also make content easier to focus on, particularly for people with different types of cognitive and learning disabilities. This includes "reading modes" that hide less relevant parts of the content, such as sidebars and front matter; pop-up and animation blockers that help avoid distraction and interruption; and digital reading rules that help readers focus on one line at a time. | Man explores a W3C-WAI website on a tablet and activates the reading mode feature in the browser. This removes all content except text and makes the page look more like an e-reader book page in sephia coloring. |
+| Some reading assistants, for example, those that some people with dyslexia might use, adjust how the text is presented to make it easier to read. This includes changing the font type, text size, colors, and the spacing between letters, sentences, and paragraphs. Some people read better with serif-type fonts and others with sans-serif fonts. Adjusting these properties are individual from one person to another, which is why flexible design is so important. | Woman uses her laptop to read an article. She uses font settings in the browser to change the font size and style of the article text. |
+| Other reading assistants support comprehension. Some can process the text to simplify words and phrases, and sometimes also simplify complex sentences. These tools rely on proper programming and design to work. | Woman with Down syndrome reads a basketball article. The word "calorie" is underlined and, once hovered, shows a definition and image in a pop-up. |
+| You can help make technology accessible to me. | Woman with Down syndrome speaks to camera. |
+| Accessibility: It's about people. | Collage of 12 people with different colored backgrounds. |
+| For more information from the Web Accessibility Initiative on how people with disabilities use digital technology,  visit w3.org/WAI/people | Accessibility: It's about people; w3.org/WAI/people |
+
+{% include excol.html type="end" %}
+{% include excol.html type="end" %}

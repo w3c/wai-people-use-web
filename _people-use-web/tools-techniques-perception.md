@@ -25,7 +25,62 @@ navigation:
 ---
 
 {::nomarkdown}
-{% include box.html type="start" h="2" title="Summary" class="full" %}
+<style>
+  #introduction p, #introduction ul {
+    font-size:120%;
+    margin: 0.5em 0 0 0;
+  }
+  #introduction .box-i {
+  }
+  #introduction nav {
+    border: 0;
+    margin-top: 0;
+  }
+  #introduction nav header {
+    padding: 8px 16px;
+  }
+  #introduction .video-card {
+    margin: 1em;
+    float: none !important;
+    max-width: inherit !important;
+    min-width: 45% !important;
+  }
+  #introduction .video-card p {
+    font-size: 90%;
+    margin: 0;
+  }
+  #introduction .video-card p:first-child {
+    height: 190px;
+  }
+  #introduction img.video {
+    border-radius: 5px;
+    width: 300px;
+    max-width: 300px;
+  }
+  #introduction .video-card .play-button {
+    position: relative;
+    top: -55px;
+    left: -185px;
+    width: 60px;
+    height: 60px;
+  }
+  @media all and (min-width: 576px) {
+    #introduction .box-i {
+      display: flex;
+      flex: 0 1;
+    }
+    #introduction .video-card .play-button {
+      position: relative;
+      top: -120px;
+      left: 120px;
+      width: 60px;
+      height: 60px;
+    }
+  }
+</style>
+
+<aside id="introduction" class="box"><div class="box-i">
+  <div>
 {:/}
 
 People perceive content through different senses depending on their needs and preferences. For example, some people are not seeing the screen or hearing the audio. Examples of perception include:
@@ -34,16 +89,19 @@ People perceive content through different senses depending on their needs and pr
 -   **Tactile** - such as dots, bars, and vibration that can be *felt*.
 -   **Visual** - such as images, text, and video that can be *seen*.
 
-The examples given in this section are not a complete list of all the ways that people interact with digital technology.
+{::options toc_levels="2..2" /}
 
 {::nomarkdown}
-{% include box.html type="end" %}
-{:/}
+  </div>
+{% include video-card.html
+   video-url="//media.w3.org/wai/people-use-web/tools-techniques_perception.mp4"
+   captions="//media.w3.org/wai/people-use-web/tools-techniques_perception.srt"
+   accessible-version="#accessible-video"
+   accessible-version-label="Video: Tools and Techniques - Perception"
+%}
 
+</div>
 
-{::options toc_levels="2" /}
-
-{::nomarkdown}
 {% include_cached toc.html type="start" title="Page Contents" class="full" %}
 {:/}
 
@@ -52,7 +110,11 @@ The examples given in this section are not a complete list of all the ways that 
 
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
+    
+</aside>
 {:/}
+
+**Note:** The examples given in this section are not a complete list of all the ways that people interact with digital technology.
 
 ## Description
 
@@ -85,3 +147,41 @@ In some cases, content can be converted into different forms using software or h
 - [Ilya, senior staff member who is blind](/people-use-web/user-stories-three/)
 - [Stefan, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories-eight/)
 - [Marta, marketing assistant who is deaf and blind](/people-use-web/user-stories-seven/)
+
+{% include excol.html type="start" id="video-transcript" %}
+
+##  Video: Tools and Techniques - Perception {#accessible-video}
+
+{% include excol.html type="middle" %}
+
+
+{% include video-player-data.html
+    video-id="tools-techniques_perception"
+    yt-id="dL8W-A4F1ZE"
+%}
+<p><em>This video is also available on a W3C server: <a href="https://media.w3.org/wai/people-use-web/tools-techniques_perception.mp4">Video: Tools and Techniques - Perception (file format: MP4, file size: 264MB)</a>.</em></p>
+
+{% include excol.html type="start" id="video-transcript" %}
+
+###  Text Transcript with Description of Visuals {#transcript}
+
+{% include excol.html type="middle" %}
+
+| Audio | Visual |
+| --- | --- |
+| How people with disabilities use digital technology: Perception - hearing, feeling and seeing |  How people with disabilities use digital technology: Perception - hearing, feeling and seeing |
+| When content is accessible, people can perceive it through different senses depending on their needs and preferences. For example, some people who can't see a screen or hear audio, rely on websites and apps that can present the information in different ways. | Collage of three people using technology devices. |
+| People who are blind may use assistive technology on computers and mobile phones called screen readers. These software tools read the information on the screen out loud, or they can present it in Braille. | Blind man uses laptop to explore Wikipedia-style page about birds. |
+| Link, heading level 2, Bird. Birds are a group of warm-blooded vertebrates constituting the class Aves, (/’eIvi:z/), characterised by feathers, toothless beaked jaws, the laying of -- | The content being read is highlighted on the page during narration. |
+| Screen readers process websites and apps with correctly coded headings, lists, links, button, and other structures much better. | Man continues to use laptop. |
+| People who are blind rely on hearing or touch, rather than sight. For video, content creators need to ensure that visual information is provided in auditory form as well. | The camera zooms to highlight an "Audio Description" button available below a video player on a website. |
+| Often these descriptions of visual information can be placed in existing pauses in the audio, or the script can be created from the start with sufficient description of the scenes, characters, and other important visual information. | Man continues to use his laptop at his desk. |
+| People who are deaf-blind also use screen readers to present the information using a device called a refreshable Braille display. Braille characters are a combination of raised or lowered dots, which people read by scanning over them with their fingertips. | Woman who is deaf-blind scans her fingers across a Braille device. |
+| Similarly to people who are blind and deaf-blind, people who are Deaf and hard of hearing may use haptic feedback too; for example, through vibration alerts on a mobile phone instead of auditory notifications. | Deaf woman uses her laptop at a desk with her phone next to her. Her phone's camera flash blinks to alert her of a new message in a chat app. |
+| People who are Deaf or hard of hearing often rely on seeing instead of hearing. For example, while watching a video they may use captions or sign language as an alternative to the audio. | Deaf man signs to colleagues on a video call, and an interpreter signs back their verbal response. |
+| You can help make technology accessible to me. | Deaf-blind woman signs to the camera. |
+| Accessibility: It's about people. | Collage of 12 people with different colored backgrounds. |
+| For more information from the Web Accessibility Initiative on how people with disabilities use digital technology, visit w3.org/WAI/people | Accessibility: It's about people; w3.org/WAI/people  |
+
+{% include excol.html type="end" %}
+{% include excol.html type="end" %}

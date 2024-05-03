@@ -24,7 +24,62 @@ navigation:
 ---
 
 {::nomarkdown}
-{% include box.html type="start" h="2" title="Summary" class="full" %}
+<style>
+  #introduction p, #introduction ul {
+    font-size:120%;
+    margin: 0.5em 0 0 0;
+  }
+  #introduction .box-i {
+  }
+  #introduction nav {
+    border: 0;
+    margin-top: 0;
+  }
+  #introduction nav header {
+    padding: 8px 16px;
+  }
+  #introduction .video-card {
+    margin: 1em;
+    float: none !important;
+    max-width: inherit !important;
+    min-width: 45% !important;
+  }
+  #introduction .video-card p {
+    font-size: 90%;
+    margin: 0;
+  }
+  #introduction .video-card p:first-child {
+    height: 190px;
+  }
+  #introduction img.video {
+    border-radius: 5px;
+    width: 300px;
+    max-width: 300px;
+  }
+  #introduction .video-card .play-button {
+    position: relative;
+    top: -55px;
+    left: -185px;
+    width: 60px;
+    height: 60px;
+  }
+  @media all and (min-width: 576px) {
+    #introduction .box-i {
+      display: flex;
+      flex: 0 1;
+    }
+    #introduction .video-card .play-button {
+      position: relative;
+      top: -120px;
+      left: 120px;
+      width: 60px;
+      height: 60px;
+    }
+  }
+</style>
+
+<aside id="introduction" class="box"><div class="box-i">
+  <div>
 {:/}
 
 People navigate digital technology differently depending on their preferences, skills, and abilities. Similar to using different strategies for entering text and activating commands, people may use:
@@ -34,16 +89,19 @@ People navigate digital technology differently depending on their preferences, s
 - Mouse and keyboard with software that compensates for hand tremor or limited dexterity;
 - Speech recognition, virtual mice, and other hands-free interactions.
 
-The examples given in this section are not a complete list of all the ways that people interact with digital technology.
+{::options toc_levels="2..2" /}
 
 {::nomarkdown}
-{% include box.html type="end" %}
-{:/}
+  </div>
+{% include video-card.html
+   video-url="//media.w3.org/wai/people-use-web/tools-techniques_interaction.mp4"
+   captions="//media.w3.org/wai/people-use-web/tools-techniques_interaction.srt"
+   accessible-version="#accessible-video"
+   accessible-version-label="Video: Tools and Techniques - Interaction"
+%}
 
+</div>
 
-{::options toc_levels="2..3" /}
-
-{::nomarkdown}
 {% include_cached toc.html type="start" title="Page Contents" class="full" %}
 {:/}
 
@@ -52,7 +110,11 @@ The examples given in this section are not a complete list of all the ways that 
 
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
+    
+</aside>
 {:/}
+
+**Note:** The examples given in this section are not a complete list of all the ways that people interact with digital technology.
 
 ## Description
 
@@ -93,3 +155,38 @@ Many functions to support different styles of navigation are built directly into
 - [Elias, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories-nine/)
 - [Sophie, basketball fan with Down syndrome](/people-use-web/user-stories-five/)
 - [Marta, marketing assistant who is deaf and blind](/people-use-web/user-stories-seven/)
+
+{% include excol.html type="start" id="video-transcript" %}
+
+##  Video: Tools and Techniques - Interaction {#accessible-video}
+
+{% include excol.html type="middle" %}
+
+
+{% include video-player-data.html
+    video-id="tools-techniques_interaction"
+    yt-id="4xF23iGIAPE"
+%}
+<p><em>This video is also available on a W3C server: <a href="https://media.w3.org/wai/people-use-web/tools-techniques_interaction.mp4">Video: Tools and Techniques - Interaction (file format: MP4, file size: 241MB)</a>.</em></p>
+
+{% include excol.html type="start" id="video-transcript" %}
+
+###  Text Transcript with Description of Visuals {#transcript}
+
+{% include excol.html type="middle" %}
+
+| Audio | Visual |
+| --- | --- |
+| How people with disabilities use digital technology: Interaction - navigation and finding | How people with disabilities use digital technology: Interaction - navigation and finding |
+| When content is accessible, people can navigate and find information using different strategies and approaches depending on their preferences, skills, and abilities. | Collage of four people using various technology devices |
+| Many people with cognitive and learning disabilities rely on clear layout and design to find information on websites and apps. This includes different ways of navigating the content, such as using hierarchical menus as well as search functionality; with visual orientation cues, such as using background colors to indicate different parts of the content; using unique headings; and placing relevant information in prominent areas. It's also important to use a consistent and predictable design. | Man at desktop computer searches around a pet supply website inclucing using the search field to find a product. |
+| While many of these are typically usability aspects that affect people with and without disabilities, these situations often affect people with disabilities to a greater extent. For example, people with low vision who use screen magnification also rely on visual orientation cues to orient themselves and find information on websites and apps. | Woman with low vision uses magnification software on her desktop to view the same pet supply website, only seeing a portion of the screen at one time. |
+| And consistency and predictability helps everyone. For example, people who are blind use screen readers to scan the content structures, such as headings, links, and navigational menus to get an overview and orient themselves. Websites and apps with clear and consistent headings, labels, and structures make the content more predictable and easier to navigate. | Blind man uses his laptop to navigate a webpage about visiting a library. The headings and side navigation on the site are highlighted during narration. |
+| In addition, people who are blind rely on mechanisms to skip over blocks of content, such as headings, navigation bars, or menus, repeated within websites and apps. They also rely on websites and apps to provide clear instructions and help users identify and correct mistakes, such as incorrect dates, numbers, and other input. | A "Skip to main content" link on the library page is highlighted then activated. It moves the focus to the main content of the library page (past the navigation menus). |
+| In addition, people with physical disabilities rely on consistent labels on websites and apps, which allow browsers to optionally remember previous entries. This speeds up typing because people can select previous entries, for example names and addresses. | Man in wheelchair types on laptop in web form. The name and address fields are automatically filled in by selecting a dropdown in the browser that has stored this information. |
+| You can help make technology accessible to me.| Man (from first scene) speaks to camera. |
+| Accessibility: It's about people. | Collage of 12 people with colored backgrounds. |
+| For more information from the Web Accessibility Initiative on how people with disabilities use digital technology, visit w3.org/WAI/people | Accessibility: It's about people. w3.org/WAI/people  |
+
+{% include excol.html type="end" %}
+{% include excol.html type="end" %}
