@@ -168,11 +168,11 @@ Also, people process information differently. This aspect is particularly releva
 %}
 <p><em>This video is also available on a W3C server: <a href="https://media.w3.org/wai/people-use-web/tools-techniques_presentation.mp4">Video: Tools and Techniques - Presentation (file format: MP4, file size: 334MB)</a>.</em></p>
 
-{% include excol.html type="start" id="video-transcript" %}
+
 
 ###  Text Transcript with Description of Visuals {#transcript}
 
-{% include excol.html type="middle" %}
+
 
 | Audio | Visual |
 | --- | --- |
@@ -189,5 +189,5 @@ Also, people process information differently. This aspect is particularly releva
 | Accessibility: It's about people. | Collage of 12 people with different colored backgrounds. |
 | For more information from the Web Accessibility Initiative on how people with disabilities use digital technology,  visit w3.org/WAI/people | Accessibility: It's about people; w3.org/WAI/people |
 
-{% include excol.html type="end" %}
+
 {% include excol.html type="end" %}

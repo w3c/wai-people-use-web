@@ -230,11 +230,11 @@ Excessive acronyms and abbreviations
 %}
 <p><em>This video is also available on a W3C server: <a href="https://media.w3.org/wai/people-use-web/user-stories_8.mp4">Video: Stefan, student with attention deficit hyperactivity disorder and dyslexia (file format: MP4, file size: 346MB)</a>.</em></p>
 
-{% include excol.html type="start" id="video-transcript" %}
+
 
 ###  Text Transcript with Description of Visuals {#transcript}
 
-{% include excol.html type="middle" %}
+
 | Audio | Visual |
 | --- | --- |
 | How people with disabilities use digital technology; Stefan, student with attention deficit hyperactivity disorder and dyslexia. | How people with disabilities use digital technology; Stefan, student with attention deficit hyperactivity disorder and dyslexia. |
@@ -247,5 +247,5 @@ Excessive acronyms and abbreviations
 | You can help make technology accessible to me. Accessibility: It’s about people. | The man speaks directly to the camera. |
 | For more information from the Web Accessibility Initiative on how people with disabilities use digital technology, visit w3.org/WAI/people | Accessibility: It's about people; w3.org/WAI/people |
 
-{% include excol.html type="end" %}
+
 {% include excol.html type="end" %}

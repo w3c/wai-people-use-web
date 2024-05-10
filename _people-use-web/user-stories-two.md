@@ -224,11 +224,11 @@ Moving or blinking content barrier
 %}
 <p><em>This video is also available on a W3C server: <a href="https://media.w3.org/wai/people-use-web/user-stories_2.mp4">Video: Ian, data entry clerk with autism (file format: MP4, file size: 291MB)</a>.</em></p>
 
-{% include excol.html type="start" id="video-transcript" %}
+
 
 ###  Text Transcript with Description of Visuals {#transcript}
 
-{% include excol.html type="middle" %}
+
 | Audio | Visual |
 | --- | --- |
 | How people with disabilities use digital technology; Ian, data scientist with autism.| How people with disabilities use digital technology; Ian, data scientist with autism. |
@@ -244,5 +244,5 @@ Moving or blinking content barrier
 | For more information from the Web Accessibility Initiative on how people with disabilities use digital technology, visit w3.org/WAI/people | Accessibility: It's about people; w3.org/WAI/people |
 
 
-{% include excol.html type="end" %}
+
 {% include excol.html type="end" %}

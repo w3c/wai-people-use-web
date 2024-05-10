@@ -161,11 +161,11 @@ In some cases, content can be converted into different forms using software or h
 %}
 <p><em>This video is also available on a W3C server: <a href="https://media.w3.org/wai/people-use-web/tools-techniques_perception.mp4">Video: Tools and Techniques - Perception (file format: MP4, file size: 264MB)</a>.</em></p>
 
-{% include excol.html type="start" id="video-transcript" %}
+
 
 ###  Text Transcript with Description of Visuals {#transcript}
 
-{% include excol.html type="middle" %}
+
 
 | Audio | Visual |
 | --- | --- |
@@ -183,5 +183,5 @@ In some cases, content can be converted into different forms using software or h
 | Accessibility: It's about people. | Collage of 12 people with different colored backgrounds. |
 | For more information from the Web Accessibility Initiative on how people with disabilities use digital technology, visit w3.org/WAI/people | Accessibility: It's about people; w3.org/WAI/people  |
 
-{% include excol.html type="end" %}
+
 {% include excol.html type="end" %}

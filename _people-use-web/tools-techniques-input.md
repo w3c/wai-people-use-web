@@ -163,11 +163,11 @@ Accessible content supports people who need more time typing, writing, and click
 %}
 <p><em>This video is also available on a W3C server: <a href="https://media.w3.org/wai/people-use-web/tools-techniques_input.mp4">Video: Tools and Techniques - Input (file format: MP4, file size: 305MB)</a>.</em></p>
 
-{% include excol.html type="start" id="video-transcript" %}
+
 
 ###  Text Transcript with Description of Visuals {#transcript}
 
-{% include excol.html type="middle" %}
+
 
 | Audio | Visual |
 | --- | --- |
@@ -186,5 +186,5 @@ Accessible content supports people who need more time typing, writing, and click
 | Accessibility: It's about people. | Collage of 12 different people with colored backgrounds. |
 | For more information from the Web Accessibility Initiative on how people with disabilities use the digital technology, visit w3.org/WAI/people | Accessibility: It's about people. w3.org/WAI/people |
 
-{% include excol.html type="end" %}
+
 {% include excol.html type="end" %}

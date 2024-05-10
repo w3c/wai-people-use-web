@@ -168,11 +168,11 @@ Some people are only seeing small portions of the content at a time or are perce
 %}
 <p><em>This video is also available on a W3C server: <a href="https://media.w3.org/wai/people-use-web/abilities-barriers_visual.mp4">Video: Diverse Abilities and Barriers - Visual (file format: MP4, file size: 318MB)</a>.</em></p>
 
-{% include excol.html type="start" id="video-transcript" %}
+
 
 ###  Text Transcript with Description of Visuals {#transcript}
 
-{% include excol.html type="middle" %}
+
 
 | Audio | Visual |
 | --- | --- |
@@ -190,5 +190,5 @@ Some people are only seeing small portions of the content at a time or are perce
 | You can help make technology accessible to me. Accessibility: It's about people. | Woman speaks the phrase, "You can help make technology accessible to me," then pans to a collage of 12 people with different colored backgrounds. |
 | For more information from the Web Accessibility Initiative on how people with disabilities use digital technology, visit w3.org/WAI/people | Accessibility: It's about people; w3.org/WAI/people |
 
-{% include excol.html type="end" %}
+
 {% include excol.html type="end" %}

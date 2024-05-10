@@ -165,11 +165,11 @@ People with physical disabilities may have trouble clicking small areas and are 
 %}
 <p><em>This video is also available on a W3C server: <a href="https://media.w3.org/wai/people-use-web/abilities-barriers_physical.mp4">Video: Diverse Abilities and Barriers - Physical (file format: MP4, file size: 277MB)</a>.</em></p>
 
-{% include excol.html type="start" id="video-transcript" %}
+
 
 ###  Text Transcript with Description of Visuals {#transcript}
 
-{% include excol.html type="middle" %}
+
 
 | Audio | Visual |
 | --- | --- |
@@ -187,5 +187,5 @@ Websites and apps with large clickable areas around checkboxes, radio buttons, a
 | You can help make technology accessible to me. Accessibility: It's about people. | Man in wheelchair speaks the phrase, "You can help make technology accessible to me," then the view pans to collage of 12 people with different colored backgrounds. |
 | For more information from the Web Accessibility Initiative on how people with disabilities use digital technology, visit w3.org/WAI/people | Accessibility: It's about people; w3.org/WAI/people  |
 
-{% include excol.html type="end" %}
+
 {% include excol.html type="end" %}

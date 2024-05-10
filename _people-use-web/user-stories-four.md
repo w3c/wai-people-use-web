@@ -202,11 +202,11 @@ Chart labels barrier
 %}
 <p><em>This video is also available on a W3C server: <a href="https://media.w3.org/wai/people-use-web/user-stories_4.mp4">Video: Lexie, online shopper who cannot distinguish between certain colors (color blindness) (file format: MP4, file size: 274MB)</a>.</em></p>
 
-{% include excol.html type="start" id="video-transcript" %}
+
 
 ###  Text Transcript with Description of Visuals {#transcript}
 
-{% include excol.html type="middle" %}
+
 
 | Audio | Visual |
 | --- | --- |
@@ -219,5 +219,5 @@ Chart labels barrier
 | You can help make technology accessible to me. Accessibility: It’s about people. | The woman speaks directly to the camera. |
 | For more information from the Web Accessibility Initiative on how people with disabilities use digital technology, visit w3.org/WAI/people | Accessibility: It's about people; w3.org/WAI/people |
 
-{% include excol.html type="end" %}
+
 {% include excol.html type="end" %}

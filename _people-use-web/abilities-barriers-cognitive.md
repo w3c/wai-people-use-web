@@ -185,11 +185,10 @@ People with cognitive and learning disabilities may use different types of brows
 %}
 <p><em>This video is also available on a W3C server: <a href="https://media.w3.org/wai/people-use-web/abilities-barriers_cognitive.mp4">Video: Diverse Abilities and Barriers - Cognitive (file format: MP4, file size: 321MB)</a>.</em></p>
 
-{% include excol.html type="start" id="video-transcript" %}
 
 ###  Text Transcript with Description of Visuals {#transcript}
 
-{% include excol.html type="middle" %}
+
 
 | Audio | Visual |
 | --- | --- |
@@ -212,5 +211,5 @@ How People with Disabilities use Digital Technology: Cognitive and Learning Disa
 | Accessibility: It's about people. | A collage of 16 different people with disabilities, including those featured in the video. |
 | For more information from the Web Accessibility Initiative on how people with disabilities use digital technology, visit w3.org/WAI/people | Accessibility: It's about people; w3.org/WAI/people |
 
-{% include excol.html type="end" %}
+
 {% include excol.html type="end" %}
