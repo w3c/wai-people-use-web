@@ -127,6 +127,7 @@ automatically are frustrating and confusing.
    captions="//media.w3.org/wai/people-use-web/user-stories_2.srt"
    accessible-version="#accessible-video"
    accessible-version-label="Video: Ian, data entry clerk with autism"
+   poster="content-images/wai-people-use-web/Ian-video-frame.png"
 %}
 
 </div>
