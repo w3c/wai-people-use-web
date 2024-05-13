@@ -119,6 +119,7 @@ Ade is a reporter who has limited use of his arms. He has several strategies for
    captions="//media.w3.org/wai/people-use-web/user-stories_1.srt"
    accessible-version="#accessible-video"
    accessible-version-label="Video: Ade, reporter with limited use of his arms"
+   poster="/wai-people-use-web/content-images/wai-people-use-web/Ade-video-frame.png"
 %}
 
 </div>
