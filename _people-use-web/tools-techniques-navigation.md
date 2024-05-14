@@ -98,6 +98,7 @@ People navigate digital technology differently depending on their preferences, s
    captions="//media.w3.org/wai/people-use-web/tools-techniques_interaction.srt"
    accessible-version="#accessible-video"
    accessible-version-label="Video: Tools and Techniques - Interaction"
+   poster="content-images/wai-people-use-web/tools-techniques-interaction-video-frame.png"
 %}
 
 </div>

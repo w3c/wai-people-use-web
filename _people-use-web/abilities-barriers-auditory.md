@@ -94,6 +94,7 @@ Auditory disabilities range from mild or moderate hearing loss in one or both ea
    captions="//media.w3.org/wai/people-use-web/abilities-barriers_auditory.srt"
    accessible-version="#accessible-video"
    accessible-version-label="Video: Diverse Abilities and Barriers - Auditory"
+   poster="content-images/wai-people-use-web/abilities-barriers-auditory-video-frame.png"
 %}
 
 </div>

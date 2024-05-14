@@ -94,6 +94,7 @@ Cognitive and learning disabilities affect how people store, retrieve, or use in
    captions="//media.w3.org/wai/people-use-web/abilities-barriers_cognitive.srt"
    accessible-version="#accessible-video"
    accessible-version-label="Video: Diverse Abilities and Barriers - Cognitive"
+   poster="content-images/wai-people-use-web/abilities-barriers-cognitive-video-frame.png"
 %}
 
 </div>

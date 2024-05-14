@@ -97,6 +97,7 @@ People adjust the presentation of content to make it easier to distinguish and u
    captions="//media.w3.org/wai/people-use-web/tools-techniques_presentation.srt"
    accessible-version="#accessible-video"
    accessible-version-label="Video: Tools and Techniques - Presentation"
+   poster="content-images/wai-people-use-web/tools-techniques-presentation-video-frame.png"
 %}
 
 </div>

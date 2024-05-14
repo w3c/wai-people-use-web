@@ -99,6 +99,7 @@ People use different approaches to enter text and activate commands, for example
    captions="//media.w3.org/wai/people-use-web/tools-techniques_input.srt"
    accessible-version="#accessible-video"
    accessible-version-label="Video: Tools and Techniques - Input"
+   poster="content-images/wai-people-use-web/tools-techniques-input-video-frame.png"
 %}
 
 </div>

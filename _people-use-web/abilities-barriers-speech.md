@@ -93,6 +93,7 @@ Speech disabilities include difficulty producing speech that is recognizable by 
    captions="//media.w3.org/wai/people-use-web/abilities-barriers_speech.srt"
    accessible-version="#accessible-video"
    accessible-version-label="Video: Diverse Abilities and Barriers - Speech"
+   poster="content-images/wai-people-use-web/abilities-barriers-speech-video-frame.png"
 %}
 
 </div>
