@@ -20,7 +20,6 @@ footer: >
   
 navigation:
   previous: /people-use-web/tools-techniques-input/
-  next: /people-use-web/tools-techniques/
 ---
 
 {::nomarkdown}
