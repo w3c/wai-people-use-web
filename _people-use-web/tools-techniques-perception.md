@@ -144,9 +144,9 @@ In some cases, content can be converted into different forms using software or h
 
 ## Stories related to perception {#stories-related-to-perception}
 
-- [Dhruv, older adult student who is hard of hearing](/people-use-web/user-stories-six/)
-- [Ilya, senior staff member who is blind](/people-use-web/user-stories-three/)
-- [Stefan, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories-eight/)
+- [Dhruv, older adult student who is deaf](/people-use-web/user-stories-six/)
+- [Lakshmi, senior accountant who is blind](/people-use-web/user-stories-three/)
+- [Stefan, student with attention deficit hyperactivity disorder and dyslexia](/people-use-web/user-stories-eight/)
 - [Marta, marketing assistant who is deaf and blind](/people-use-web/user-stories-seven/)
 
 {% include excol.html type="start" id="video-transcript" %}

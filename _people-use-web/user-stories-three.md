@@ -2,8 +2,8 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "Ilya, senior accountant who is blind"
-nav_title: "Ilya"
+title: "Lakshmi, senior accountant who is blind"
+nav_title: "Lakshmi"
 parent_in_h1:
   - ref: /people-use-web/user-stories/
     name: nav_title
@@ -108,7 +108,7 @@ footer: >
   <div>
 {:/}
 
-Ilya is a senior accountant who is blind. She relies on a screen reader to announce the content in the software she uses at work and she uses a standard keyboard to enter commands to navigate and enter information. Recently Ilya’s company migrated from desktop software to online applications, some of which present barriers for Ilya, such as when images don’t include alternative text or short-cut keys conflict with the screen reader commands. Other sources of frustration include multiple levels of navigation (e.g., nested menus), forms that don’t make it clear to the screen reader what the fields are meant to contain, and visual CAPTCHA with either no or a poor auditory alternative. Ilya really likes using her mobile phone and tablet because of the built-in screen reader functionality, plus their portability. When away from home, Ilya can find directions, pay for things, and keep up with her family and friends via email and text.
+Lakshmi is a senior accountant who is blind. She relies on a screen reader to announce the content in the software she uses at work and she uses a standard keyboard to enter commands to navigate and enter information. Recently Lakshmi’s company migrated from desktop software to online applications, some of which present barriers for Lakshmi, such as when images don’t include alternative text or short-cut keys conflict with the screen reader commands. Other sources of frustration include multiple levels of navigation (e.g., nested menus), forms that don’t make it clear to the screen reader what the fields are meant to contain, and visual CAPTCHA with either no or a poor auditory alternative. Lakshmi really likes using her mobile phone and tablet because of the built-in screen reader functionality, plus their portability. When away from home, Lakshmi can find directions, pay for things, and keep up with her family and friends via email and text.
 
 {::options toc_levels="2..2" /}
 
@@ -131,19 +131,19 @@ Ilya is a senior accountant who is blind. She relies on a screen reader to annou
 
 **Note:** This user story is an example of a person with this type of disability. Other people with this disability may have different experiences.
 
-## About Ilya
+## About Lakshmi
 
 > My mobile phone is so convenient - the accessibility features on it are so easy to use. Shame I can't access our corporate systems with it!
 
-Ilya is blind. She is a senior accountant at an insurance company that uses web-based documents and forms over a corporate intranet. Ilya's work computer has a screen reader which provides her with information on the state and content of applications on her computer in a speech output form. Because of her job, Ilya spends a lot of time working with spreadsheets, presentations and documents. Her company moved from using desktop applications to everything being stored online. Ilya was concerned that the change would make things worse for her.
+Lakshmi is blind. She is a senior accountant at an insurance company that uses web-based documents and forms over a corporate intranet. Lakshmi's work computer has a screen reader which provides her with information on the state and content of applications on her computer in a speech output form. Because of her job, Lakshmi spends a lot of time working with spreadsheets, presentations and documents. Her company moved from using desktop applications to everything being stored online. Lakshmi was concerned that the change would make things worse for her.
 
-Complex web applications are often challenging for Ilya. Many have multiple layers of navigation and require users to cross-reference content. This is more difficult to do with a screen reader which reads back content in a linear fashion. Sometimes they use short-cut keys that are the same as the quick keys used by the screen reader software. So far everything seems to work well though and it is the usual problems of colleagues not creating their documents with accessibility in mind, for example, presentations that don't include text alternatives for images.
+Complex web applications are often challenging for Lakshmi. Many have multiple layers of navigation and require users to cross-reference content. This is more difficult to do with a screen reader which reads back content in a linear fashion. Sometimes they use short-cut keys that are the same as the quick keys used by the screen reader software. So far everything seems to work well though and it is the usual problems of colleagues not creating their documents with accessibility in mind, for example, presentations that don't include text alternatives for images.
 
-Part of Ilya's role is to provide training to employees. Most of this is conducted online as staff are spread out geographically. Ilya and her staff evaluated a number of training tools, such as video conferencing apps, before finding an effective application with accessibility features that meet the needs of a diverse staff with diverse abilities. One of the biggest challenges Ilya faced with these tools was the chat function. Many of the tools don't work with Ilya's screen reader. She would miss messages during meetings because the software didn't make her aware when a new message was delivered.
+Part of Lakshmi's role is to provide training to employees. Most of this is conducted online as staff are spread out geographically. Lakshmi and her staff evaluated a number of training tools, such as video conferencing apps, before finding an effective application with accessibility features that meet the needs of a diverse staff with diverse abilities. One of the biggest challenges Lakshmi faced with these tools was the chat function. Many of the tools don't work with Lakshmi's screen reader. She would miss messages during meetings because the software didn't make her aware when a new message was delivered.
 
-Outside of work, Ilya enjoys cooking, knitting, and travel, and she uses the web to find recipes, knitting patterns, and to book travel. She has found that online communities help her generate ideas that support all of her hobbies. Generally these are great but some of them use a visual CAPTCHA as part of the login process, making it impossible for her to access the forums without someone to assist her.
+Outside of work, Lakshmi enjoys cooking, knitting, and travel, and she uses the web to find recipes, knitting patterns, and to book travel. She has found that online communities help her generate ideas that support all of her hobbies. Generally these are great but some of them use a visual CAPTCHA as part of the login process, making it impossible for her to access the forums without someone to assist her.
 
-When she can, Ilya uses her mobile phone or tablet more than she uses her laptop or desktop computer. The phone and tablet have built-in screen readers that make them much easier for her to use. Using her mobile while travelling is fantastic as she can check location details and find directions.
+When she can, Lakshmi uses her mobile phone or tablet more than she uses her laptop or desktop computer. The phone and tablet have built-in screen readers that make them much easier for her to use. Using her mobile while travelling is fantastic as she can check location details and find directions.
 
 ## Barrier examples
 

@@ -143,7 +143,7 @@ For some people with auditory disabilities, sign language is the primary languag
 
 ## Stories related to auditory disabilities {#stories-related-to-auditory-disabilities}
 
--   [Dhruv, older adult student who is hard of hearing](/people-use-web/user-stories-six/)
+-   [Dhruv, older adult student who is deaf](/people-use-web/user-stories-six/)
 -   [Marta, marketing assistant who is deaf and blind](/people-use-web/user-stories-seven/)
 
 

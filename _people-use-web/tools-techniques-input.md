@@ -145,8 +145,8 @@ Accessible content supports people who need more time typing, writing, and click
 
 ## Stories related to input {#stories-related-to-input}
 
-- [Ade, reporter with repetitive stress injury](/people-use-web/user-stories-one/)
-- [Stefan, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories-eight/)
+- [Ade, reporter with limited use of his arms](/people-use-web/user-stories-one/)
+- [Stefan, student with attention deficit hyperactivity disorder and dyslexia](/people-use-web/user-stories-eight/)
 - [Elias, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories-nine/)
 - [Sophie, basketball fan with Down syndrome](/people-use-web/user-stories-five/)
 

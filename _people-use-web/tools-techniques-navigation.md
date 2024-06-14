@@ -149,9 +149,9 @@ Many functions to support different styles of navigation are built directly into
 
 ## Stories related to interaction {#stories-related-to-interaction}
 
-- [Ade, reporter with repetitive stress injury](/people-use-web/user-stories-one/)
-- [Ilya, senior staff member who is blind](/people-use-web/user-stories-three/)
-- [Stefan, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories-eight/)
+- [Ade, reporter with limited use of his arms](/people-use-web/user-stories-one/)
+- [Lakshmi, senior accountant who is blind](/people-use-web/user-stories-three/)
+- [Stefan, student with attention deficit hyperactivity disorder and dyslexia](/people-use-web/user-stories-eight/)
 - [Elias, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories-nine/)
 - [Sophie, basketball fan with Down syndrome](/people-use-web/user-stories-five/)
 - [Marta, marketing assistant who is deaf and blind](/people-use-web/user-stories-seven/)

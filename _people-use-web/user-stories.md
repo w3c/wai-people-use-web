@@ -52,7 +52,7 @@ The following user stories represent the experiences of some people with disabil
 
 * {:.left} [{% include image.html src="Ian.png" alt="Ian" %} Ian, data entry clerk with autism](/people-use-web/user-stories-two)<br> Ian is autistic. He has difficulty understanding online content and layouts that change often, including carousels, pop-up ads, and videos that play automatically.
 
-* {:.left} [{% include image.html src="Lakshmi.png" alt="Lakshmi" %} Ilya, senior accountant who is blind](/people-use-web/user-stories-three)<br> Ilya is blind. She uses a screen reader on her computer and mobile device to interact with online content, including images, form controls, and navigation.
+* {:.left} [{% include image.html src="Lakshmi.png" alt="Lakshmi" %} Lakshmi, senior accountant who is blind](/people-use-web/user-stories-three)<br> Ilya is blind. She uses a screen reader on her computer and mobile device to interact with online content, including images, form controls, and navigation.
 
 * {:.left} [{% include image.html src="Lexie.png" alt="" %} Lexie, online shopper who cannot distinguish between certain colors (color blindness)](/people-use-web/user-stories-four)<br> Lexie has deuteranopia and protanopia (often called "color blindness"). She has difficulty distinguishing among items that are red, green, orange, and brown, which makes it hard to derive meaning from these colors.
 
