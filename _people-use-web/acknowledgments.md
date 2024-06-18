@@ -8,26 +8,48 @@ resource:
   ref: /people-use-web/
 ---
 
-## Editors {#editors}
+## 2024 Version
 
--   Editor of this version: Shadi Abou-Zahra
--   Editors of Stories of Web Users page: Shadi Abou-Zahra and Norah
-    Sinclair
--   Previous and initial editor: Judy Brewer
+Editors:
+-   **Lead editor for main resource and video scripts: Shadi Abou-Zahra**
+-   Stories of Web Users editors: Shadi Abou-Zahra, Kevin White, Jayne Schurick
+-   Video production lead: Kevin White
 
-## Contributors to this version {#current}
+Major contributors:
+- Jade Matos Carew
+- Michele Williams
+- @@
 
-Brent Bakken, Eric Eggert, Robert Jolly, Laura Keen, Kris Anne Kinney,
+Additional contributors:
+- Brian Elton
+- @@
+- and participants of the
+[Education and Outreach Working Group (EOWG)](http://www.w3.org/WAI/EO/)
+
+EOWG leadership:
+- Co-Chairs during this revision: Brent Bakken (Pearson), Brian Elton (TPGi), Kris Anne Kinney (ETS), Sharron Rush (Knowbility)
+- W3C Team Contact: Shawn Lawton Henry (W3C WAI)
+
+Special thanks to @@ for photos.
+
+## 2017 Version
+
+Editors:
+-   Lead editor: Shadi Abou-Zahra
+-   Stories of Web Users page editors: Shadi Abou-Zahra and Norah Sinclair
+
+Contributors: Brent Bakken, Eric Eggert, Robert Jolly, Laura Keen, Kris Anne Kinney,
 Howard Kramer, Shawn Lawton Henry, Sharron Rush, and participants of the
-[Education and Outreach Working Group
-(EOWG)](http://www.w3.org/WAI/EO/).
+[Education and Outreach Working Group (EOWG)](http://www.w3.org/WAI/EO/).
 
-## Contributors to previous versions {#previous}
+## Previous versions
+
+Editors: Ian Jacobs and Judy Brewer
 
 Some initial material drawn from Gregg Vanderheiden and Kate
 Vanderheiden.
 
-Additional contributions from Kathleen Anderson, Andrew Arch, Harvey
+Contributors: Kathleen Anderson, Andrew Arch, Harvey
 Bingham, Helle Bjarnø, Alan Cantor, Alan Chuter, Dave Clark, Libby
 Cohen, Cynthia Curry, Wayne Dick, Deborah Dimmick, Sylvie Duchateau,
 Pierre Guillou, Julie Howell, Ian Jacobs, Marja-Riitta Koivunen, Chuck
@@ -36,5 +58,4 @@ Liam McGee, Sailesh Panchang, Doyle Saylor, Sheela Sethuraman, Henk
 Snetselaar, Michael Stenitzer, Jeniffer Sutton, Jeff Turner, Carlos
 Velasco, Eric Velleman, and participants of the [WAI-AGE Task
 Force](https://www.w3.org/WAI/EO/2008/wai-age-tf) and participants of the
-[Education and Outreach Working Group
-(EOWG)](https://www.w3.org/WAI/EO/).
+[Education and Outreach Working Group (EOWG)](https://www.w3.org/WAI/EO/).
