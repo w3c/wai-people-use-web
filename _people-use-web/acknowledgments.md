@@ -15,7 +15,7 @@ Editors:
 -   Stories of Web Users editors: Shadi Abou-Zahra, Kevin White, Jayne Schurick
 -   Video production lead: Kevin White
 
-Major contributors:
+Major contributors to stories and videos:
 - Jade Matos Carew
 - Michele Williams
 - @@
