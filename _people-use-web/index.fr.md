@@ -5,7 +5,7 @@ nav_title: Introduction
 permalink: /people-use-web/fr
 ref: /people-use-web/
 lang: fr
-description: Comment les personnes handicapées, y compris pour le cas des handicaps liés à l'âge, utilisent-elles le Web ?
+description: Comment les personnes handicapées, y compris pour le cas des handicaps liés à l’âge, utilisent-elles le Web ?
 image: /content-images/wai-people-use-web/social.png
 last_updated: 2018-09-12
 translators:

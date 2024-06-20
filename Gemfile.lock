@@ -10,6 +10,7 @@ PATH
       jekyll-remote-theme
       jekyll-seo-tag
       jekyll-sitemap
+      rouge (= 3.30.0)
       wai-website-plugin
 
 GEM
