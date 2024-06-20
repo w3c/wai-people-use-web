@@ -1,20 +1,22 @@
 ---
 title: "Videos of Tools and Techniques"
 nav_title: Videos
-layout: default
 lang: "en"
 last_updated: 2024-06-25
+description: Web accessibility is all about people. Learn about the impact of accessibility and the benefits for people with disabilities.
+
 permalink: /people-use-web/tools-techniques-videos/
 ref: /people-use-web/tools-techniques-videos/
-description: Web accessibility is all about people. Learn about the impact of accessibility and the benefits for people with disabilities.
+
+resource:
+  title: "Videos of Tools and Techniques"
+  ref: /people-use-web/tools-techniques-videos/
+
 image: /content-images/wai-people-use-web/social.png
 footer: >
   <p><strong>Date:</strong> Updated 12 April 2023.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">Acknowledgments</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). With support from the European Commission <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a>.</p>
-resource:
-  title: "Videos of Tools and Techniques"
-  ref: /people-use-web/tools-techniques-videos/
   
 playlist:
   - title: Interaction

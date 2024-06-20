@@ -1,25 +1,26 @@
 ---
 title: "Interaction - navigating and finding"
+lang: en
+last_updated: 2024-06-25
+description: Introduces some of the techniques and tools that people with disabilities use to interact with digital technology — browser settings, text-to-speech, speech recognition, and many more.
+
+permalink: /people-use-web/tools-techniques-navigation/
+ref: /people-use-web/tools-techniques-navigation/
+
 parent_in_h1:
   - ref: /people-use-web/tools-techniques/
     name: nav_title
   - ref: /people-use-web/
     name: nav_title
 
-order: 3
-permalink: /people-use-web/tools-techniques-navigation/
-ref: /people-use-web/tools-techniques-navigation/
-lang: en
-last_updated: 2024-06-25
-description: Introduces some of the techniques and tools that people with disabilities use to interact with digital technology — browser settings, text-to-speech, speech recognition, and many more.
+navigation:
+    previous: /people-use-web/tools-techniques-input/
+
 image: /content-images/wai-people-use-web/social.png
 footer: >
    <p><strong>Date: Draft in progress.</strong> Updated @@ Month 2021. First published Month 20@@. CHANGELOG.</p>
    <p><strong>Editors:</strong> Kevin White, Mark Palmer, Jane Schurick, and <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>.  <strong>Contributors:</strong> @@name, @@name, and <a href="https://www.w3.org/groups/wg/eowg/participants">participants of EOWG</a>. ACKNOWLEDGEMENTS lists past editors and additional contributors.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Previously developed with the <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE Task Force</a>, with support of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a>.</p>
-  
-navigation:
-  previous: /people-use-web/tools-techniques-input/
 ---
 
 {::nomarkdown}

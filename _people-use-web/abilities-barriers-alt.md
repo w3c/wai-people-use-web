@@ -1,22 +1,24 @@
 ---
 title: "Diverse Abilities and Barriers"
-order: 2
-permalink: /people-use-web/abilities-barriers-alt/
-ref: /people-use-web/abilities-barriers-alt/
 lang: en
 last_updated: 2024-06-25
 description: Explores the wide diversity of people and abilities. Highlights accessibility barriers that people may experience because of inaccessible digital technology.
+
+permalink: /people-use-web/abilities-barriers-alt/
+ref: /people-use-web/abilities-barriers-alt/
+
+resource:
+  ref: /people-use-web/
+
+navigation:
+  previous: /people-use-web/
+  next: /people-use-web/abilities-barriers-auditory/
+
 image: /content-images/wai-people-use-web/social.png
 footer: >
    <p><strong>Date: Draft in progress.</strong> Updated @@ Month 2021. First published Month 20@@. CHANGELOG.</p>
    <p><strong>Editors:</strong> Kevin White, Mark Palmer, Jane Schurick, and <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>.  <strong>Contributors:</strong> @@name, @@name, and <a href="https://www.w3.org/groups/wg/eowg/participants">participants of EOWG</a>. ACKNOWLEDGEMENTS lists past editors and additional contributors.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Previously developed with the <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE Task Force</a>, with support of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a>.</p>
-resource:
-  ref: /people-use-web/
-  
-navigation:
- previous: /people-use-web/
- next: /people-use-web/abilities-barriers-auditory/
 ---
 
 {::nomarkdown}

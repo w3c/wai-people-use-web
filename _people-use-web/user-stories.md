@@ -4,12 +4,9 @@
 
 title: "Stories of Web Users"
 nav_title: "User Stories"
-parent_in_h1:
-  - ref: /people-use-web/
-    name: nav_title
-
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2024-06-25
+description:  Personas of people with disabilities using the Web that highlight the effect of accessibility barriers and the broader benefits of accessible websites and web tools. @@edit->"digital technologies"
 
 # translators:    # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
 # - name: "Jan Doe"   # Replace Jan Doe with translator name
@@ -21,19 +18,21 @@ last_updated: 2024-06-25
 github:
   repository: w3c/wai-people-use-web
   path: people-use-web/user-stories.md    # Add the language shortcode to the middle of the filename, for example: people-use-web/user-stories.fr.md
+
 permalink: /people-use-web/user-stories/   # Add the language shortcode to the end, with no slash at end, for example: /people-use-web/user-stories/fr
+ref: /people-use-web/user-stories/      # Translators, do not change this
+
+parent_in_h1:
+  - ref: /people-use-web/
+    name: nav_title
 
 navigation:
   next: /people-use-web/user-stories-one/
 
-ref: /people-use-web/user-stories/      # Translators, do not change this
 changelog: /people-use-web/changelog/
-acknowledgements: /people-use-web/user-stories/   acknowledgements/
-
-description:  Personas of people with disabilities using the Web that highlight the effect of accessibility barriers and the broader benefits of accessible websites and web tools. @@edit->"digital technologies"
+acknowledgements: /people-use-web/user-stories/acknowledgements/
 
 image: /content-images/wai-people-use-web/social.png
-
 # In the footer below:
 # Do not translate or change CHANGELOG or ACKNOWLEDGEMENTS.
 # Translate the other words below, including "Date:" and "Editor:"
@@ -43,7 +42,6 @@ footer: >
    <p><strong>Date: Draft in progress.</strong> Updated @@ Month 2021. First published Month 20@@. CHANGELOG.</p>
    <p><strong>Editors:</strong> Kevin White, Mark Palmer, Jane Schurick, and <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>.  <strong>Contributors:</strong> @@name, @@name, and <a href="https://www.w3.org/groups/wg/eowg/participants">participants of EOWG</a>. ACKNOWLEDGEMENTS lists past editors and additional contributors.</p>
      <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Previously developed with the <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE Task Force</a>, with support of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a>.</p>
-
 ---
 
 The following user stories represent the experiences of some people with disabilities. They do not address all disabilities or all impacts faced by people with disabilities. These and other disabilities may be present from birth or may develop as a results of an accident, illness, or aging.

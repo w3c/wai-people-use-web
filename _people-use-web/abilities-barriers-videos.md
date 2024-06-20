@@ -1,20 +1,22 @@
 ---
 title: "Videos of How People with Disabilities Use the Web"
 nav_title: Videos
-layout: default
 lang: "en"
 last_updated: 2024-06-25
+description: Web accessibility is all about people. Learn about the impact of accessibility and the benefits for people with disabilities.
+
 permalink: /people-use-web/abilities-barriers-videos/
 ref: /people-use-web/abilities-barriers-videos/
-description: Web accessibility is all about people. Learn about the impact of accessibility and the benefits for people with disabilities.
+
+resource:
+  title: "Videos of Abilities and Barriers"
+  ref: /people-use-web/abilities-barriers-videos/
+
 image: /content-images/wai-people-use-web/social.png
 footer: >
   <p><strong>Date:</strong> Updated 12 April 2023.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">Acknowledgments</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). With support from the European Commission <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a>.</p>
-resource:
-  title: "Videos of Abilities and Barriers"
-  ref: /people-use-web/abilities-barriers-videos/
   
 playlist:
   - title: Auditory Disabilities
@@ -599,7 +601,6 @@ playlist:
     </tr>
   </tbody>
 </table>
-
 
 </div>
 {% endcapture %}

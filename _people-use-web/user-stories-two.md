@@ -4,14 +4,9 @@
 
 title: "Ian, data entry clerk with autism"
 nav_title: "Ian"
-parent_in_h1:
-  - ref: /people-use-web/user-stories/
-    name: nav_title
-  - ref: /people-use-web/
-    name: nav_title
-
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2024-06-25
+# description: add @@ - @@possibly create separate social images later
 
 # translators:    # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
 # - name: "Jan Doe"   # Replace Jan Doe with translator name
@@ -23,17 +18,22 @@ last_updated: 2024-06-25
 github:
   repository: w3c/wai-people-use-web
   path: people-use-web/user-stories-two.md    # Add the language shortcode to the middle of the filename, for example: people-use-web/user-stories-two.fr.md
+
 permalink: /people-use-web/user-stories-two/   # Add the language shortcode to the end, with no slash at end, for example: /people-use-web/user-stories-two/fr
+ref: /people-use-web/user-stories-two/      # Translators, do not change this
+
+parent_in_h1:
+  - ref: /people-use-web/user-stories/
+    name: nav_title
+  - ref: /people-use-web/
+    name: nav_title
 
 navigation:
   previous: /people-use-web/user-stories-one/
   next: /people-use-web/user-stories-three/
 
-ref: /people-use-web/user-stories-two/      # Translators, do not change this
 changelog: /people-use-web/changelog/
 acknowledgements: /people-use-web/user-stories/acknowledgements/
-
-description: add @@ - @@possibly create separate social images later
 image: /content-images/wai-people-use-web/social.png
 
 # In the footer below:

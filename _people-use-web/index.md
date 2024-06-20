@@ -5,18 +5,20 @@ doc-note-message: <p>This is an in-progress draft. The previously published vers
 nav_title: Overview
 lang: "en"
 last_updated: 2024-06-25
+description: Introduces how people with disabilities, including people with age-related impairments, use the Web.
+
 permalink: /people-use-web/
 ref: /people-use-web/
-description: Introduces how people with disabilities, including people with age-related impairments, use the Web.
+
+resource:
+  title: "How People with Disabilities Use the Web"
+  ref: /people-use-web/
+
 image: /content-images/wai-people-use-web/social.png
 footer: >
   <p><strong>Date:</strong> Updated 15 May 2017.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>. Previous editor: <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">Acknowledgments</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Previously developed with the <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE Task Force</a>, with support of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a>.</p>
-resource:
-  title: "How People with Disabilities Use the Web"
-  ref: /people-use-web/
-  
 ---
 
 ## Introduction
