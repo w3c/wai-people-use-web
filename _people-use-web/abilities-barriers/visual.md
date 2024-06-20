@@ -5,8 +5,8 @@ lang: en
 last_updated: 2024-06-25
 description: Explores the wide diversity of people and abilities. Highlights accessibility barriers that people may experience because of inaccessible digital technology.
 
-permalink: /people-use-web/abilities-barriers-visual/
-ref: /people-use-web/abilities-barriers-visual/
+permalink: /people-use-web/abilities-barriers/visual/
+ref: /people-use-web/abilities-barriers/visual/
 
 parent_in_h1:
   - ref: /people-use-web/abilities-barriers/
@@ -15,7 +15,7 @@ parent_in_h1:
     name: nav_title
 
 navigation:
-  previous: /people-use-web/abilities-barriers-speech/
+  previous: /people-use-web/abilities-barriers/speech/
 
 image: /content-images/wai-people-use-web/social.png
 footer: >
@@ -95,7 +95,7 @@ Visual disabilities range from mild or moderate vision loss in one or both eyes 
    captions="//media.w3.org/wai/people-use-web/abilities-barriers_visual.srt"
    accessible-version="#accessible-video"
    accessible-version-label="Video: Diverse Abilities and Barriers - Visual"
-   poster="content-images/wai-people-use-web/abilities-barriers-visual-video-frame.png"
+   poster="content-images/wai-people-use-web/abilities-barriers/visual-video-frame.png"
 %}
 
 </div>
@@ -152,10 +152,10 @@ Some people are only seeing small portions of the content at a time or are perce
 
 ## Stories related to visual disabilities {#stories-related-to-visual-disabilities}
 
-- [Lakshmi, senior accountant who is blind](/people-use-web/user-stories-three/) 
-- [Lexie, online shopper who cannot distinguish between certain colors](/people-use-web/user-stories-four/)
-- [Marta, marketing assistant who is deaf and blind](/people-use-web/user-stories-seven/)
-- [Elias, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories-nine/) 
+- [Lakshmi, senior accountant who is blind](/people-use-web/user-stories/story-three/) 
+- [Lexie, online shopper who cannot distinguish between certain colors](/people-use-web/user-stories/story-four/)
+- [Marta, marketing assistant who is deaf and blind](/people-use-web/user-stories/story-seven/)
+- [Elias, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories/story-nine/) 
 
 
 {% include excol.html type="start" id="video-transcript" %}

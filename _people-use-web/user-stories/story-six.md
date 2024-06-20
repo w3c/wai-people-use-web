@@ -17,10 +17,10 @@ last_updated: 2024-06-25
 
 github:
   repository: w3c/wai-people-use-web
-  path: people-use-web/user-stories-six.md    # Add the language shortcode to the middle of the filename, for example: people-use-web/user-stories-six.fr.md
+  path: people-use-web/user-stories/story-six.md    # Add the language shortcode to the middle of the filename, for example: people-use-web/user-stories/story-six.fr.md
 
-permalink: /people-use-web/user-stories-six/   # Add the language shortcode to the end, with no slash at end, for example: /people-use-web/user-stories-six/fr
-ref: /people-use-web/user-stories-six/      # Translators, do not change this
+permalink: /people-use-web/user-stories/story-six/   # Add the language shortcode to the end, with no slash at end, for example: /people-use-web/user-stories/story-six/fr
+ref: /people-use-web/user-stories/story-six/      # Translators, do not change this
 
 parent_in_h1:
     - ref: /people-use-web/user-stories/
@@ -29,8 +29,8 @@ parent_in_h1:
       name: nav_title
 
 navigation:
-  previous: /people-use-web/user-stories-five/
-  next: /people-use-web/user-stories-seven/
+  previous: /people-use-web/user-stories/story-five/
+  next: /people-use-web/user-stories/story-seven/
 
 changelog: /people-use-web/changelog/
 acknowledgements: /people-use-web/user-stories/acknowledgements/
@@ -168,9 +168,9 @@ No alternative for audio
 
 ## Assistive technologies and adaptive strategies used
 
-* [Captions (Perception)](/people-use-web/tools-techniques-perception/#captions)
-* [Transcripts (Perception)](/people-use-web/tools-techniques-perception/#transcripts)
-* [Sign language (Perception)](/people-use-web/tools-techniques-perception/#sign)
+* [Captions (Perception)](/people-use-web/tools-techniques/perception/#captions)
+* [Transcripts (Perception)](/people-use-web/tools-techniques/perception/#transcripts)
+* [Sign language (Perception)](/people-use-web/tools-techniques/perception/#sign)
 
 ## Related WAI resources
 

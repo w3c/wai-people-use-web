@@ -17,10 +17,10 @@ last_updated: 2024-06-25
 
 github:
   repository: w3c/wai-people-use-web
-  path: people-use-web/user-stories-eight.md    # Add the language shortcode to the middle of the filename, for example: people-use-web/user-stories-eight.fr.md
+  path: people-use-web/user-stories/story-eight.md    # Add the language shortcode to the middle of the filename, for example: people-use-web/user-stories/story-eight.fr.md
 
-permalink: /people-use-web/user-stories-eight/   # Add the language shortcode to the end, with no slash at end, for example: /people-use-web/user-stories-eight/fr
-ref: /people-use-web/user-stories-eight/      # Do not change this
+permalink: /people-use-web/user-stories/story-eight/   # Add the language shortcode to the end, with no slash at end, for example: /people-use-web/user-stories/story-eight/fr
+ref: /people-use-web/user-stories/story-eight/      # Do not change this
 
 parent_in_h1:
     - ref: /people-use-web/user-stories/
@@ -29,8 +29,8 @@ parent_in_h1:
       name: nav_title
 
 navigation:
-  previous: /people-use-web/user-stories-seven/
-  next: /people-use-web/user-stories-nine/
+  previous: /people-use-web/user-stories/story-seven/
+  next: /people-use-web/user-stories/story-nine/
 
 changelog: /people-use-web/changelog/
 acknowledgements: /people-use-web/user-stories/acknowledgements/
@@ -176,16 +176,16 @@ Excessive acronyms and abbreviations
 
 ## Assistive technologies and adaptive strategies used
 
-* [Captions (Perception)](/people-use-web/tools-techniques-perception/#captions)
-* [Screen reader (Perception)](/people-use-web/tools-techniques-perception/#sr)
-* [Text-to-speech (Perception)](/people-use-web/tools-techniques-perception/#tts)
-* [Pop-up and animations blockers (Presentation)](/people-use-web/tools-techniques-presentation/#blockers)
-* [Reading assistants (Presentation)](/people-use-web/tools-techniques-presentation/#reading)
-* [Spelling and grammar tools (input)](/people-use-web/tools-techniques-input/#lexical)
-* [Consistency and predictability (Interaction)](/people-use-web/tools-techniques-navigation/#consistency)
-* [Helpful error and success messages (Interaction)](/people-use-web/tools-techniques-navigation/#messages)
-* [Keyword search (Interaction)](/people-use-web/tools-techniques-navigation/#search)
-* [Multiple navigation mechanisms (Interaction)](/people-use-web/tools-techniques-navigation/#navigating)
+* [Captions (Perception)](/people-use-web/tools-techniques/perception/#captions)
+* [Screen reader (Perception)](/people-use-web/tools-techniques/perception/#sr)
+* [Text-to-speech (Perception)](/people-use-web/tools-techniques/perception/#tts)
+* [Pop-up and animations blockers (Presentation)](/people-use-web/tools-techniques/presentation/#blockers)
+* [Reading assistants (Presentation)](/people-use-web/tools-techniques/presentation/#reading)
+* [Spelling and grammar tools (input)](/people-use-web/tools-techniques/input/#lexical)
+* [Consistency and predictability (Interaction)](/people-use-web/tools-techniques/navigation/#consistency)
+* [Helpful error and success messages (Interaction)](/people-use-web/tools-techniques/navigation/#messages)
+* [Keyword search (Interaction)](/people-use-web/tools-techniques/navigation/#search)
+* [Multiple navigation mechanisms (Interaction)](/people-use-web/tools-techniques/navigation/#navigating)
 
 ## Related WAI resources
 
@@ -230,8 +230,6 @@ Excessive acronyms and abbreviations
     yt-id="Ie-RaV7UTCU"
 %}
 <p><em>This video is also available on a W3C server: <a href="https://media.w3.org/wai/people-use-web/user-stories_8.mp4">Video: Stefan, student with attention deficit hyperactivity disorder and dyslexia (file format: MP4, file size: 346MB)</a>.</em></p>
-
-
 
 ###  Text Transcript with Description of Visuals {#transcript}
 

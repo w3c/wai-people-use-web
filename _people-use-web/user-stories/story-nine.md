@@ -17,10 +17,10 @@ last_updated: 2024-06-25
 
 github:
   repository: w3c/wai-people-use-web
-  path: people-use-web/user-stories-nine.md    # Add the language shortcode to the middle of the filename, for example: people-use-web/user-stories-nine.fr.md
+  path: people-use-web/user-stories/story-nine.md    # Add the language shortcode to the middle of the filename, for example: people-use-web/user-stories/story-nine.fr.md
 
-permalink: /people-use-web/user-stories-nine/   # Add the language shortcode to the end, with no slash at end, for example: /people-use-web/user-stories-nine/fr
-ref: /people-use-web/user-stories-nine/      # Translators, do not change this
+permalink: /people-use-web/user-stories/story-nine/   # Add the language shortcode to the end, with no slash at end, for example: /people-use-web/user-stories/story-nine/fr
+ref: /people-use-web/user-stories/story-nine/      # Translators, do not change this
 
 parent_in_h1:
     - ref: /people-use-web/user-stories/
@@ -29,7 +29,7 @@ parent_in_h1:
       name: nav_title
 
 navigation:
-  previous: /people-use-web/user-stories-eight/
+  previous: /people-use-web/user-stories/story-eight/
 
 changelog: /people-use-web/changelog/
 acknowledgements: /people-use-web/user-stories/acknowledgements/
@@ -180,14 +180,14 @@ Saved information
 
 ## Assistive technologies and adaptive strategies used
 
-* [Screen magnification (Presentation)](/people-use-web/tools-techniques-presentation/#display)
-* [Alternative keyboard and mouse (Input)](/people-use-web/tools-techniques-input/#input)
-* [Keyboard and mouse filters (Input)](/people-use-web/tools-techniques-input/#filters)
-* [Mouse customization (Input)](/people-use-web/tools-techniques-input/#mouse)
-* [Bookmarks and history (Interaction)](/people-use-web/tools-techniques-navigation/#bookmarks)
-* [Consistency and predictability (Interaction)](/people-use-web/tools-techniques-navigation/#consistency)
-* [Descriptive titles, headings, and labels (Interaction)](/people-use-web/tools-techniques-navigation/#labels)
-* [Helpful error and success messages (Interaction)](/people-use-web/tools-techniques-navigation/#messages)
+* [Screen magnification (Presentation)](/people-use-web/tools-techniques/presentation/#display)
+* [Alternative keyboard and mouse (Input)](/people-use-web/tools-techniques/input/#input)
+* [Keyboard and mouse filters (Input)](/people-use-web/tools-techniques/input/#filters)
+* [Mouse customization (Input)](/people-use-web/tools-techniques/input/#mouse)
+* [Bookmarks and history (Interaction)](/people-use-web/tools-techniques/navigation/#bookmarks)
+* [Consistency and predictability (Interaction)](/people-use-web/tools-techniques/navigation/#consistency)
+* [Descriptive titles, headings, and labels (Interaction)](/people-use-web/tools-techniques/navigation/#labels)
+* [Helpful error and success messages (Interaction)](/people-use-web/tools-techniques/navigation/#messages)
 
 ## Related WAI resources
 

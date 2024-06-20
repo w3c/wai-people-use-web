@@ -5,8 +5,8 @@ lang: en
 last_updated: 2024-06-25
 description: Explores the wide diversity of people and abilities. Highlights accessibility barriers that people may experience because of inaccessible digital technology.
 
-permalink: /people-use-web/abilities-barriers-physical/
-ref: /people-use-web/abilities-barriers-physical/
+permalink: /people-use-web/abilities-barriers/physical/
+ref: /people-use-web/abilities-barriers/physical/
 
 parent_in_h1:
   - ref: /people-use-web/abilities-barriers/
@@ -15,8 +15,8 @@ parent_in_h1:
     name: nav_title
 
 navigation:
-    previous: /people-use-web/abilities-barriers-cognitive/
-    next: /people-use-web/abilities-barriers-speech/
+    previous: /people-use-web/abilities-barriers/cognitive/
+    next: /people-use-web/abilities-barriers/speech/
 
 image: /content-images/wai-people-use-web/social.png
 footer: >
@@ -95,7 +95,7 @@ Physical disabilities (sometimes called "motor disabilities") include weakness a
    captions="//media.w3.org/wai/people-use-web/abilities-barriers_physical.srt"
    accessible-version="#accessible-video"
    accessible-version-label="Video: Diverse Abilities and Barriers - Physical"
-   poster="content-images/wai-people-use-web/abilities-barriers-physical-video-frame.png"
+   poster="content-images/wai-people-use-web/abilities-barriers/physical-video-frame.png"
 %}
 
 </div>
@@ -152,8 +152,8 @@ People with physical disabilities may have trouble clicking small areas and are 
 
 ## Stories related to physical disabilities {#stories-related-to-physical-disabilities}
 
-- [Ade, reporter with limited use of arms](/people-use-web/user-stories-one/) 
-- [Elias, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories-nine/)
+- [Ade, reporter with limited use of arms](/people-use-web/user-stories/story-one/) 
+- [Elias, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories/story-nine/)
 
 {% include excol.html type="start" id="video-transcript" %}
 

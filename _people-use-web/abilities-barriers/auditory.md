@@ -5,12 +5,12 @@ lang: en
 last_updated: 2024-06-25
 description: Explores the wide diversity of people and abilities. Highlights accessibility barriers that people may experience because of inaccessible digital technology.
 
-permalink: /people-use-web/abilities-barriers-auditory/
-ref: /people-use-web/abilities-barriers-auditory/
+permalink: /people-use-web/abilities-barriers/auditory/
+ref: /people-use-web/abilities-barriers/auditory/
 
 navigation:
     previous: /people-use-web/abilities-barriers/
-    next: /people-use-web/abilities-barriers-cognitive/
+    next: /people-use-web/abilities-barriers/cognitive/
 
 parent_in_h1:
   - ref: /people-use-web/abilities-barriers/
@@ -95,7 +95,7 @@ Auditory disabilities range from mild or moderate hearing loss in one or both ea
    captions="//media.w3.org/wai/people-use-web/abilities-barriers_auditory.srt"
    accessible-version="#accessible-video"
    accessible-version-label="Video: Diverse Abilities and Barriers - Auditory"
-   poster="content-images/wai-people-use-web/abilities-barriers-auditory-video-frame.png"
+   poster="content-images/wai-people-use-web/abilities-barriers/auditory-video-frame.png"
 %}
 
 </div>
@@ -144,8 +144,8 @@ For some people with auditory disabilities, sign language is the primary languag
 
 ## Stories related to auditory disabilities {#stories-related-to-auditory-disabilities}
 
--   [Dhruv, older adult student who is deaf](/people-use-web/user-stories-six/)
--   [Marta, marketing assistant who is deaf and blind](/people-use-web/user-stories-seven/)
+-   [Dhruv, older adult student who is deaf](/people-use-web/user-stories/story-six/)
+-   [Marta, marketing assistant who is deaf and blind](/people-use-web/user-stories/story-seven/)
 
 
 {% include excol.html type="start" id="video-transcript" %}

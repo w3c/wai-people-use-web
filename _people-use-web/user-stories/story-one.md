@@ -17,10 +17,10 @@ last_updated: 2024-06-25
 
 github:
   repository: w3c/wai-people-use-web
-  path: people-use-web/user-stories-one.md    # Add the language shortcode to the middle of the filename, for example: people-use-web/user-stories-one.fr.md
+  path: people-use-web/user-stories/story-one.md    # Add the language shortcode to the middle of the filename, for example: people-use-web/user-stories/story-one.fr.md
 
-permalink: /people-use-web/user-stories-one/   # Add the language shortcode to the end, with no slash at end, for example: /people-use-web/user-stories-one/fr
-ref: /people-use-web/user-stories-one/      # Translators, do not change this
+permalink: /people-use-web/user-stories/story-one/   # Add the language shortcode to the end, with no slash at end, for example: /people-use-web/user-stories/story-one/fr
+ref: /people-use-web/user-stories/story-one/      # Translators, do not change this
 
 parent_in_h1:
     - ref: /people-use-web/user-stories/
@@ -30,7 +30,7 @@ parent_in_h1:
 
 navigation:
   previous: /people-use-web/user-stories/
-  next: /people-use-web/user-stories-two/
+  next: /people-use-web/user-stories/story-two/
 
 changelog: /people-use-web/changelog/
 acknowledgements: /people-use-web/user-stories/acknowledgements/
@@ -173,12 +173,12 @@ Popup windows barrier
 
 ## Assistive technologies and adaptive strategies used
 
-* [Accelerators (Input)](/people-use-web/tools-techniques-input/#accelerators)
-* [Alternative keyboard and mouse (Input)](/people-use-web/tools-techniques-input/#input)
-* [Speech recognition (Input)](/people-use-web/tools-techniques-input/#speech)
-* [Word prediction (Input)](/people-use-web/tools-techniques-input/#prediction)
-* [Keyboard navigation (Interaction)](/people-use-web/tools-techniques-navigation/#keyboard)
-* [Skip links (Interation)](/people-use-web/tools-techniques-navigation/#skip)
+* [Accelerators (Input)](/people-use-web/tools-techniques/input/#accelerators)
+* [Alternative keyboard and mouse (Input)](/people-use-web/tools-techniques/input/#input)
+* [Speech recognition (Input)](/people-use-web/tools-techniques/input/#speech)
+* [Word prediction (Input)](/people-use-web/tools-techniques/input/#prediction)
+* [Keyboard navigation (Interaction)](/people-use-web/tools-techniques/navigation/#keyboard)
+* [Skip links (Interation)](/people-use-web/tools-techniques/navigation/#skip)
 
 ## Related WAI resources
 

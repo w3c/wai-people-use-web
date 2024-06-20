@@ -17,10 +17,10 @@ last_updated: 2024-06-25
 
 github:
   repository: w3c/wai-people-use-web
-  path: people-use-web/user-stories-three.md    # Add the language shortcode to the middle of the filename, for example: people-use-web/user-stories-three.fr.md
+  path: people-use-web/user-stories/story-three.md    # Add the language shortcode to the middle of the filename, for example: people-use-web/user-stories/story-three.fr.md
 
-permalink: /people-use-web/user-stories-three/   # Add the language shortcode to the end, with no slash at end, for example: /people-use-web/user-stories-three/fr
-ref: /people-use-web/user-stories-three/      # Translators, do not change this
+permalink: /people-use-web/user-stories/story-three/   # Add the language shortcode to the end, with no slash at end, for example: /people-use-web/user-stories/story-three/fr
+ref: /people-use-web/user-stories/story-three/      # Translators, do not change this
 
 parent_in_h1:
   - ref: /people-use-web/user-stories/
@@ -29,8 +29,8 @@ parent_in_h1:
     name: nav_title
 
 navigation:
-  previous: /people-use-web/user-stories-two/
-  next: /people-use-web/user-stories-four/
+  previous: /people-use-web/user-stories/story-two/
+  next: /people-use-web/user-stories/story-four/
 
 changelog: /people-use-web/changelog/
 acknowledgements: /people-use-web/user-stories/acknowledgements/
@@ -172,14 +172,14 @@ Keyboard trap
 
 ## Assistive technologies and adaptive strategies used
 
-* [Screen reader (Perception)](/people-use-web/tools-techniques-perception/#sr)
-* [Text-to-speech (Perception)](/people-use-web/tools-techniques-perception/#tts)
-* [Transcripts (Perception)](/people-use-web/tools-techniques-perception/#transcripts)
-* [Consistency and predictability (Interaction)](/people-use-web/tools-techniques-navigation/#consistency)
-* [Descriptive titles, headings, and labels (Interaction)](/people-use-web/tools-techniques-navigation/#labels)
-* [Helpful error and success messages (Interaction)](/people-use-web/tools-techniques-navigation/#messages)
-* [Keyboard navigation (Interaction)](/people-use-web/tools-techniques-navigation/#keyboard)
-* [Skip links (Interaction)](/people-use-web/tools-techniques-navigation/#skip)
+* [Screen reader (Perception)](/people-use-web/tools-techniques/perception/#sr)
+* [Text-to-speech (Perception)](/people-use-web/tools-techniques/perception/#tts)
+* [Transcripts (Perception)](/people-use-web/tools-techniques/perception/#transcripts)
+* [Consistency and predictability (Interaction)](/people-use-web/tools-techniques/navigation/#consistency)
+* [Descriptive titles, headings, and labels (Interaction)](/people-use-web/tools-techniques/navigation/#labels)
+* [Helpful error and success messages (Interaction)](/people-use-web/tools-techniques/navigation/#messages)
+* [Keyboard navigation (Interaction)](/people-use-web/tools-techniques/navigation/#keyboard)
+* [Skip links (Interaction)](/people-use-web/tools-techniques/navigation/#skip)
 
 ## Related WAI resources
 

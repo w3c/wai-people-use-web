@@ -11,7 +11,7 @@ resource:
   ref: /people-use-web/
 
 navigation:
-  next: /people-use-web/tools-techniques-perception/
+  next: /people-use-web/tools-techniques/perception/
 
 image: /content-images/wai-people-use-web/social.png
 footer: >
@@ -51,7 +51,7 @@ Accessibility benefits people with and without disabilities. Features that suppo
 Sometimes hardware and software with specific accessibility features, including web browsers, media players, or assistive technologies, may not be available to an individual. For example, tools may not be affordable, not installed or not compatible with the computer, not available in some languages, or not available for other reasons. In other cases, people are unaware of accessibility solutions or how to configure and use them.
 
 ## More on tools and techniques:
-- [Perception - hearing, feeling and seeing](/people-use-web/tools-techniques-perception/)
-- [Presentation - distingushing and understanding](/people-use-web/tools-techniques-presentation/)
-- [Input - typing, writing, and clicking](/people-use-web/tools-techniques-input/)
-- [Interaction - navigating and finding](/people-use-web/tools-techniques-navigation/)
+- [Perception - hearing, feeling and seeing](/people-use-web/tools-techniques/perception/)
+- [Presentation - distingushing and understanding](/people-use-web/tools-techniques/presentation/)
+- [Input - typing, writing, and clicking](/people-use-web/tools-techniques/input/)
+- [Interaction - navigating and finding](/people-use-web/tools-techniques/navigation/)

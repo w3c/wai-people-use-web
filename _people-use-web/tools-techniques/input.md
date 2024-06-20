@@ -4,8 +4,8 @@ lang: en
 last_updated: 2024-06-25
 description: Introduces some of the techniques and tools that people with disabilities use to interact with digital technology — browser settings, text-to-speech, speech recognition, and many more.
 
-permalink: /people-use-web/tools-techniques-input/
-ref: /people-use-web/tools-techniques-input/
+permalink: /people-use-web/tools-techniques/input/
+ref: /people-use-web/tools-techniques/input/
 
 parent_in_h1:
   - ref: /people-use-web/tools-techniques/
@@ -14,8 +14,8 @@ parent_in_h1:
     name: nav_title
 
 navigation:
-  previous: /people-use-web/tools-techniques-presentation/
-  next: /people-use-web/tools-techniques-navigation/
+  previous: /people-use-web/tools-techniques/presentation/
+  next: /people-use-web/tools-techniques/navigation/
 
 image: /content-images/wai-people-use-web/social.png
 footer: >
@@ -100,7 +100,7 @@ People use different approaches to enter text and activate commands, for example
    captions="//media.w3.org/wai/people-use-web/tools-techniques_input.srt"
    accessible-version="#accessible-video"
    accessible-version-label="Video: Tools and Techniques - Input"
-   poster="content-images/wai-people-use-web/tools-techniques-input-video-frame.png"
+   poster="content-images/wai-people-use-web/tools-techniques/input-video-frame.png"
 %}
 
 </div>
@@ -146,10 +146,10 @@ Accessible content supports people who need more time typing, writing, and click
 
 ## Stories related to input {#stories-related-to-input}
 
-- [Ade, reporter with limited use of his arms](/people-use-web/user-stories-one/)
-- [Stefan, student with attention deficit hyperactivity disorder and dyslexia](/people-use-web/user-stories-eight/)
-- [Elias, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories-nine/)
-- [Sophie, basketball fan with Down syndrome](/people-use-web/user-stories-five/)
+- [Ade, reporter with limited use of his arms](/people-use-web/user-stories/story-one/)
+- [Stefan, student with attention deficit hyperactivity disorder and dyslexia](/people-use-web/user-stories/story-eight/)
+- [Elias, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories/story-nine/)
+- [Sophie, basketball fan with Down syndrome](/people-use-web/user-stories/story-five/)
 
 
 {% include excol.html type="start" id="video-transcript" %}

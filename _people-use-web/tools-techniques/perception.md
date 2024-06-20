@@ -4,8 +4,8 @@ lang: en
 last_updated: 2024-06-25
 description: Introduces some of the techniques and tools that people with disabilities use to interact with digital technology — browser settings, text-to-speech, speech recognition, and many more.
 
-permalink: /people-use-web/tools-techniques-perception/
-ref: /people-use-web/tools-techniques-perception/
+permalink: /people-use-web/tools-techniques/perception/
+ref: /people-use-web/tools-techniques/perception/
 
 parent_in_h1:
   - ref: /people-use-web/tools-techniques/
@@ -15,7 +15,7 @@ parent_in_h1:
 
 navigation:
     previous: /people-use-web/tools-techniques/
-    next: /people-use-web/tools-techniques-presentation/
+    next: /people-use-web/tools-techniques/presentation/
 
 image: /content-images/wai-people-use-web/social.png
 footer: >
@@ -98,7 +98,7 @@ People perceive content through different senses depending on their needs and pr
    captions="//media.w3.org/wai/people-use-web/tools-techniques_perception.srt"
    accessible-version="#accessible-video"
    accessible-version-label="Video: Tools and Techniques - Perception"
-   poster="content-images/wai-people-use-web/tools-techniques-perception-video-frame.png"
+   poster="content-images/wai-people-use-web/tools-techniques/perception-video-frame.png"
 %}
 
 </div>
@@ -144,10 +144,10 @@ In some cases, content can be converted into different forms using software or h
 
 ## Stories related to perception {#stories-related-to-perception}
 
-- [Dhruv, older adult student who is deaf](/people-use-web/user-stories-six/)
-- [Lakshmi, senior accountant who is blind](/people-use-web/user-stories-three/)
-- [Stefan, student with attention deficit hyperactivity disorder and dyslexia](/people-use-web/user-stories-eight/)
-- [Marta, marketing assistant who is deaf and blind](/people-use-web/user-stories-seven/)
+- [Dhruv, older adult student who is deaf](/people-use-web/user-stories/story-six/)
+- [Lakshmi, senior accountant who is blind](/people-use-web/user-stories/story-three/)
+- [Stefan, student with attention deficit hyperactivity disorder and dyslexia](/people-use-web/user-stories/story-eight/)
+- [Marta, marketing assistant who is deaf and blind](/people-use-web/user-stories/story-seven/)
 
 {% include excol.html type="start" id="video-transcript" %}
 

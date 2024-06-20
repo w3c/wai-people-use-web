@@ -17,10 +17,10 @@ last_updated: 2024-06-25
 
 github:
   repository: w3c/wai-people-use-web
-  path: people-use-web/user-stories-seven.md    # Add the language shortcode to the middle of the filename, for example: people-use-web/user-stories-seven.fr.md
+  path: people-use-web/user-stories/story-seven.md    # Add the language shortcode to the middle of the filename, for example: people-use-web/user-stories/story-seven.fr.md
 
-permalink: /people-use-web/user-stories-seven/   # Add the language shortcode to the end, with no slash at end, for example: /people-use-web/user-stories-seven/fr
-ref: /people-use-web/user-stories-seven/      # Translators, do not change this
+permalink: /people-use-web/user-stories/story-seven/   # Add the language shortcode to the end, with no slash at end, for example: /people-use-web/user-stories/story-seven/fr
+ref: /people-use-web/user-stories/story-seven/      # Translators, do not change this
 
 parent_in_h1:
     - ref: /people-use-web/user-stories/
@@ -29,8 +29,8 @@ parent_in_h1:
       name: nav_title
 
 navigation:
-  previous: /people-use-web/user-stories-six/
-  next: /people-use-web/user-stories-eight/
+  previous: /people-use-web/user-stories/story-six/
+  next: /people-use-web/user-stories/story-eight/
 
 changelog: /people-use-web/changelog/
 acknowledgements: /people-use-web/user-stories/acknowledgements/
@@ -173,18 +173,18 @@ Changes elsewhere on a page
 
 ## Assistive technologies and adaptive strategies used
 
-* [Braille (Perception)](/people-use-web/tools-techniques-perception/#braille)
-* [Refreshable Braille display (Perception)](/people-use-web/tools-techniques-perception/#braille_display)
-* [Screen reader (Perception)](/people-use-web/tools-techniques-perception/#sr)
-* [Text-to-speech (Perception)](/people-use-web/tools-techniques-perception/#tts)
-* [Transcripts (Perception)](/people-use-web/tools-techniques-perception/#transcripts)
-* [Customized fonts and colors (Presentation)](/people-use-web/tools-techniques-presentation/#style)
-* [Screen magnification (Presentation)](/people-use-web/tools-techniques-presentation/#display)
-* [Screen magnifier (Presentation)](/people-use-web/tools-techniques-presentation/#magnifiers)
-* [Descriptive titles, headings, and labels (Interaction)](/people-use-web/tools-techniques-navigation/#labels)
-* [Helpful error and success messages (Interaction)](/people-use-web/tools-techniques-navigation/#messages)
-* [Keyboard navigation (Interaction)](/people-use-web/tools-techniques-navigation/#keyboard)
-* [Skip links (Interaction)](/people-use-web/tools-techniques-navigation/#skip)
+* [Braille (Perception)](/people-use-web/tools-techniques/perception/#braille)
+* [Refreshable Braille display (Perception)](/people-use-web/tools-techniques/perception/#braille_display)
+* [Screen reader (Perception)](/people-use-web/tools-techniques/perception/#sr)
+* [Text-to-speech (Perception)](/people-use-web/tools-techniques/perception/#tts)
+* [Transcripts (Perception)](/people-use-web/tools-techniques/perception/#transcripts)
+* [Customized fonts and colors (Presentation)](/people-use-web/tools-techniques/presentation/#style)
+* [Screen magnification (Presentation)](/people-use-web/tools-techniques/presentation/#display)
+* [Screen magnifier (Presentation)](/people-use-web/tools-techniques/presentation/#magnifiers)
+* [Descriptive titles, headings, and labels (Interaction)](/people-use-web/tools-techniques/navigation/#labels)
+* [Helpful error and success messages (Interaction)](/people-use-web/tools-techniques/navigation/#messages)
+* [Keyboard navigation (Interaction)](/people-use-web/tools-techniques/navigation/#keyboard)
+* [Skip links (Interaction)](/people-use-web/tools-techniques/navigation/#skip)
 
 ## Related WAI resources
 

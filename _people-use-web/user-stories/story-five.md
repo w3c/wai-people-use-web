@@ -17,14 +17,14 @@ last_updated: 2024-06-25
 
 github:
   repository: w3c/wai-people-use-web
-  path: people-use-web/user-stories-five.md    # Add the language shortcode to the middle of the filename, for example: people-use-web/user-stories-five.fr.md
+  path: people-use-web/user-stories/story-five.md    # Add the language shortcode to the middle of the filename, for example: people-use-web/user-stories/story-five.fr.md
 
-permalink: /people-use-web/user-stories-five/   # Add the language shortcode to the end, with no slash at end, for example: /people-use-web/user-stories-five/fr
-ref: /people-use-web/user-stories-five/      # Translators, do not change this
+permalink: /people-use-web/user-stories/story-five/   # Add the language shortcode to the end, with no slash at end, for example: /people-use-web/user-stories/story-five/fr
+ref: /people-use-web/user-stories/story-five/      # Translators, do not change this
 
 navigation:
-  previous: /people-use-web/user-stories-four/
-  next: /people-use-web/user-stories-six/
+  previous: /people-use-web/user-stories/story-four/
+  next: /people-use-web/user-stories/story-six/
 
 parent_in_h1:
     - ref: /people-use-web/user-stories/
@@ -186,17 +186,17 @@ Animation
 
 ## Assistive technologies and adaptive strategies used
 
-* [Easy-to-read text (Presentation)](/people-use-web/tools-techniques-presentation/#etr)
-* [Pop-up and animations blockers (Presentation)](/people-use-web/tools-techniques-presentation/#blockers)
-* [Progressive disclosure (Presentation)](/people-use-web/tools-techniques-presentation/#progressive)
-* [Reading assistants (Presentation)](/people-use-web/tools-techniques-presentation/#reading)
-* [Reduced interface (Presentation)](/people-use-web/tools-techniques-presentation/#reduced)
-* [Accelerators (Input)](/people-use-web/tools-techniques-input/#accelerators)
-* [Spelling and grammar tools (Input)](/people-use-web/tools-techniques-input/#lexical)
-* [Consistency and predictability (Interaction)](/people-use-web/tools-techniques-navigation/#consistency)
-* [Descriptive titles, headings, and labels (Interaction)](/people-use-web/tools-techniques-navigation/#labels)
-* [Helpful error and success messages (Interaction)](/people-use-web/tools-techniques-navigation/#messages)
-* [Multiple navigation mechanisms (Interaction)](/people-use-web/tools-techniques-navigation/#navigating)
+* [Easy-to-read text (Presentation)](/people-use-web/tools-techniques/presentation/#etr)
+* [Pop-up and animations blockers (Presentation)](/people-use-web/tools-techniques/presentation/#blockers)
+* [Progressive disclosure (Presentation)](/people-use-web/tools-techniques/presentation/#progressive)
+* [Reading assistants (Presentation)](/people-use-web/tools-techniques/presentation/#reading)
+* [Reduced interface (Presentation)](/people-use-web/tools-techniques/presentation/#reduced)
+* [Accelerators (Input)](/people-use-web/tools-techniques/input/#accelerators)
+* [Spelling and grammar tools (Input)](/people-use-web/tools-techniques/input/#lexical)
+* [Consistency and predictability (Interaction)](/people-use-web/tools-techniques/navigation/#consistency)
+* [Descriptive titles, headings, and labels (Interaction)](/people-use-web/tools-techniques/navigation/#labels)
+* [Helpful error and success messages (Interaction)](/people-use-web/tools-techniques/navigation/#messages)
+* [Multiple navigation mechanisms (Interaction)](/people-use-web/tools-techniques/navigation/#navigating)
 
 ## Related WAI resources
 

@@ -4,8 +4,8 @@ lang: en
 last_updated: 2024-06-25
 description: Introduces some of the techniques and tools that people with disabilities use to interact with digital technology — browser settings, text-to-speech, speech recognition, and many more.
 
-permalink: /people-use-web/tools-techniques-navigation/
-ref: /people-use-web/tools-techniques-navigation/
+permalink: /people-use-web/tools-techniques/navigation/
+ref: /people-use-web/tools-techniques/navigation/
 
 parent_in_h1:
   - ref: /people-use-web/tools-techniques/
@@ -14,7 +14,7 @@ parent_in_h1:
     name: nav_title
 
 navigation:
-    previous: /people-use-web/tools-techniques-input/
+    previous: /people-use-web/tools-techniques/input/
 
 image: /content-images/wai-people-use-web/social.png
 footer: >
@@ -98,7 +98,7 @@ People navigate digital technology differently depending on their preferences, s
    captions="//media.w3.org/wai/people-use-web/tools-techniques_interaction.srt"
    accessible-version="#accessible-video"
    accessible-version-label="Video: Tools and Techniques - Interaction"
-   poster="content-images/wai-people-use-web/tools-techniques-interaction-video-frame.png"
+   poster="content-images/wai-people-use-web/tools-techniques/interaction-video-frame.png"
 %}
 
 </div>
@@ -150,12 +150,12 @@ Many functions to support different styles of navigation are built directly into
 
 ## Stories related to interaction {#stories-related-to-interaction}
 
-- [Ade, reporter with limited use of his arms](/people-use-web/user-stories-one/)
-- [Lakshmi, senior accountant who is blind](/people-use-web/user-stories-three/)
-- [Stefan, student with attention deficit hyperactivity disorder and dyslexia](/people-use-web/user-stories-eight/)
-- [Elias, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories-nine/)
-- [Sophie, basketball fan with Down syndrome](/people-use-web/user-stories-five/)
-- [Marta, marketing assistant who is deaf and blind](/people-use-web/user-stories-seven/)
+- [Ade, reporter with limited use of his arms](/people-use-web/user-stories/story-one/)
+- [Lakshmi, senior accountant who is blind](/people-use-web/user-stories/story-three/)
+- [Stefan, student with attention deficit hyperactivity disorder and dyslexia](/people-use-web/user-stories/story-eight/)
+- [Elias, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories/story-nine/)
+- [Sophie, basketball fan with Down syndrome](/people-use-web/user-stories/story-five/)
+- [Marta, marketing assistant who is deaf and blind](/people-use-web/user-stories/story-seven/)
 
 {% include excol.html type="start" id="video-transcript" %}
 

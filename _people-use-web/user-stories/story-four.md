@@ -17,10 +17,10 @@ last_updated: 2024-06-25
 
 github:
   repository: w3c/wai-people-use-web
-  path: people-use-web/user-stories-four.md    # Add the language shortcode to the middle of the filename, for example: people-use-web/user-stories-four.fr.md
+  path: people-use-web/user-stories/story-four.md    # Add the language shortcode to the middle of the filename, for example: people-use-web/user-stories/story-four.fr.md
 
-permalink: /people-use-web/user-stories-four/   # Add the language shortcode to the end, with no slash at end, for example: /people-use-web/user-stories-four/fr
-ref: /people-use-web/user-stories-four/      # Translators, do not change this
+permalink: /people-use-web/user-stories/story-four/   # Add the language shortcode to the end, with no slash at end, for example: /people-use-web/user-stories/story-four/fr
+ref: /people-use-web/user-stories/story-four/      # Translators, do not change this
 
 parent_in_h1:
     - ref: /people-use-web/user-stories/
@@ -29,8 +29,8 @@ parent_in_h1:
       name: nav_title
 
 navigation:
-  previous: /people-use-web/user-stories-three/
-  next: /people-use-web/user-stories-five/
+  previous: /people-use-web/user-stories/story-three/
+  next: /people-use-web/user-stories/story-five/
 
 changelog: /people-use-web/changelog/
 acknowledgements: /people-use-web/user-stories/acknowledgements/
@@ -168,7 +168,7 @@ Chart labels barrier
 
 ## Assistive technologies and adaptive strategies used
 
-* [Customized fonts and colors (Presentation)](/people-use-web/tools-techniques-presentation/#style)
+* [Customized fonts and colors (Presentation)](/people-use-web/tools-techniques/presentation/#style)
 
 ## Related WAI resources
 

@@ -11,7 +11,7 @@ resource:
   ref: /people-use-web/
 
 navigation:
-  next: /people-use-web/abilities-barriers-auditory/
+  next: /people-use-web/abilities-barriers/auditory/
 
 image: /content-images/wai-people-use-web/social.png
 footer: >
@@ -46,8 +46,8 @@ Each individual is unique. People have diverse abilities, skills, tools, prefere
 Digital technology designed for people with a broad range of abilities benefits everyone, including people without disabilities. It is, therefore, important to consider the broad diversity of functional needs rather than categorize people according to medical classifications.
 
 ## More on diverse abilities and barriers:
-- [Auditory](/people-use-web/abilities-barriers-auditory/)
-- [Cognitive and learning](/people-use-web/abilities-barriers-cognitive/)
-- [Physical](/people-use-web/abilities-barriers-physical/)
-- [Speech](/people-use-web/abilities-barriers-speech/)
-- [Visual](/people-use-web/abilities-barriers-visual/)
+- [Auditory](/people-use-web/abilities-barriers/auditory/)
+- [Cognitive and learning](/people-use-web/abilities-barriers/cognitive/)
+- [Physical](/people-use-web/abilities-barriers/physical/)
+- [Speech](/people-use-web/abilities-barriers/speech/)
+- [Visual](/people-use-web/abilities-barriers/visual/)

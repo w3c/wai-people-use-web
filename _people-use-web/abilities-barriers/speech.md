@@ -5,8 +5,8 @@ lang: en
 last_updated: 2024-06-25
 description: Explores the wide diversity of people and abilities. Highlights accessibility barriers that people may experience because of inaccessible digital technology.
 
-permalink: /people-use-web/abilities-barriers-speech/
-ref: /people-use-web/abilities-barriers-speech/
+permalink: /people-use-web/abilities-barriers/speech/
+ref: /people-use-web/abilities-barriers/speech/
 
 parent_in_h1:
   - ref: /people-use-web/abilities-barriers/
@@ -15,8 +15,8 @@ parent_in_h1:
     name: nav_title
 
 navigation:
-    previous: /people-use-web/abilities-barriers-physical/
-    next: /people-use-web/abilities-barriers-visual/
+    previous: /people-use-web/abilities-barriers/physical/
+    next: /people-use-web/abilities-barriers/visual/
 
 image: /content-images/wai-people-use-web/social.png
 footer: >
@@ -95,7 +95,7 @@ Speech disabilities include difficulty producing speech that is recognizable by 
    captions="//media.w3.org/wai/people-use-web/abilities-barriers_speech.srt"
    accessible-version="#accessible-video"
    accessible-version-label="Video: Diverse Abilities and Barriers - Speech"
-   poster="content-images/wai-people-use-web/abilities-barriers-speech-video-frame.png"
+   poster="content-images/wai-people-use-web/abilities-barriers/speech-video-frame.png"
 %}
 
 </div>

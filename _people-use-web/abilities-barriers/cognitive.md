@@ -5,8 +5,8 @@ lang: en
 last_updated: 2024-06-25
 description: Explores the wide diversity of people and abilities. Highlights accessibility barriers that people may experience because of inaccessible digital technology.
 
-permalink: /people-use-web/abilities-barriers-cognitive/
-ref: /people-use-web/abilities-barriers-cognitive/
+permalink: /people-use-web/abilities-barriers/cognitive/
+ref: /people-use-web/abilities-barriers/cognitive/
 
 parent_in_h1:
   - ref: /people-use-web/abilities-barriers/
@@ -15,8 +15,8 @@ parent_in_h1:
     name: nav_title
 
 navigation:
-    previous: /people-use-web/abilities-barriers-auditory/
-    next: /people-use-web/abilities-barriers-physical/
+    previous: /people-use-web/abilities-barriers/auditory/
+    next: /people-use-web/abilities-barriers/physical/
 
 image: /content-images/wai-people-use-web/social.png
 footer: >
@@ -95,7 +95,7 @@ Cognitive and learning disabilities affect how people store, retrieve, or use in
    captions="//media.w3.org/wai/people-use-web/abilities-barriers_cognitive.srt"
    accessible-version="#accessible-video"
    accessible-version-label="Video: Diverse Abilities and Barriers - Cognitive"
-   poster="content-images/wai-people-use-web/abilities-barriers-cognitive-video-frame.png"
+   poster="content-images/wai-people-use-web/abilities-barriers/cognitive-video-frame.png"
 %}
 
 </div>
@@ -169,10 +169,10 @@ People with cognitive and learning disabilities may use different types of brows
 
 ## Stories related to cognitive and learning disabilities {#stories-related-to-cognitive-and-learning-disabilities}
 
-- [Sophie, basketball fan with Down syndrome](/people-use-web/user-stories-five/)
-- [Ian, data entry clerk with autism](/people-use-web/user-stories-two/) 
-- [Stefan, student with attention deficit hyperactivity disorder and dyslexia](/people-use-web/user-stories-eight/) 
-- [Elias, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories-nine/) 
+- [Sophie, basketball fan with Down syndrome](/people-use-web/user-stories/story-five/)
+- [Ian, data entry clerk with autism](/people-use-web/user-stories/story-two/) 
+- [Stefan, student with attention deficit hyperactivity disorder and dyslexia](/people-use-web/user-stories/story-eight/) 
+- [Elias, retiree with low vision, hand tremor, and mild short-term memory loss](/people-use-web/user-stories/story-nine/) 
 
 {% include excol.html type="start" id="video-transcript" %}
 
