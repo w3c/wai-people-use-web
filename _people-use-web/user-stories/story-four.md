@@ -118,7 +118,7 @@ Lexie is an older adult who loves online shopping and fantasy football. Lexie ca
    captions="//media.w3.org/wai/people-use-web/user-stories_4.srt"
    accessible-version="#accessible-video"
    accessible-version-label="Video: Lexie, online shopper who cannot distinguish between certain colors (color blindness)"
-   poster="content-images/wai-people-use-web/lexie-video-frame.png"
+   poster="content-images/wai-people-use-web/user-stories/lexie-video-frame.png"
 %}
 </div>
 
