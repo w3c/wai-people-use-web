@@ -124,7 +124,7 @@ app is easier because there are fewer options and less clutter.
    captions="//media.w3.org/wai/people-use-web/user-stories_5.srt"
    accessible-version="#accessible-video"
    accessible-version-label="Video: Sophie, basketball fan with Down syndrome"
-   poster="content-images/wai-people-use-web/Sophie-video-frame.png"
+   poster="content-images/wai-people-use-web/sophie-video-frame.png"
 %}
 </div>
 
