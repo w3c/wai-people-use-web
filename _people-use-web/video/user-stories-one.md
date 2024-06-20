@@ -4,7 +4,7 @@ title: "Ade, reporter with limited use of his arms"
 nav_title: Ade, reporter with limited use of his arms
 lang: "en"
 
-last_updated: 2017-05-15
+last_updated: 2024-06-25
 permalink: /people-use-web/video/user-stories-one/
 ref: /people-use-web/video/user-stories-one/
 

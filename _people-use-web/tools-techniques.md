@@ -3,7 +3,7 @@ title: "Tools and Techniques"
 permalink: /people-use-web/tools-techniques/
 ref: /people-use-web/tools-techniques/
 lang: en
-last_updated: 2017-05-15
+last_updated: 2024-06-25
 description: Introduces some of the techniques and tools that people with disabilities use to interact with digital technology — browser settings, text-to-speech, speech recognition, and many more.
 image: /content-images/wai-people-use-web/social.png
 footer: >

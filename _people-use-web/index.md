@@ -4,7 +4,7 @@ doc-note-type: draft
 doc-note-message: <p>This is an in-progress draft. The previously published version is at <a href="https://www.w3.org/WAI/people-use-web/">www.w3.org/WAI/people-use-web/</a>.</p>
 nav_title: Overview
 lang: "en"
-last_updated: 2017-05-15
+last_updated: 2024-06-25
 permalink: /people-use-web/
 ref: /people-use-web/
 description: Introduces how people with disabilities, including people with age-related impairments, use the Web.

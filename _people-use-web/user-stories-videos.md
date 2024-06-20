@@ -3,7 +3,7 @@ title: "Videos of How People with Disabilities Use the Web"
 nav_title: Videos
 layout: default
 lang: "en"
-last_updated: 2023-04-12
+last_updated: 2024-06-25
 permalink: /people-use-web/user-stories-videos/
 ref: /people-use-web/user-stories-videos/
 description: Web accessibility is all about people. Learn about the impact of accessibility and the benefits for people with disabilities.

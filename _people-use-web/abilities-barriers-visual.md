@@ -10,7 +10,7 @@ order: 2
 permalink: /people-use-web/abilities-barriers-visual/
 ref: /people-use-web/abilities-barriers-visual/
 lang: en
-last_updated: 2017-05-15
+last_updated: 2024-06-25
 description: Explores the wide diversity of people and abilities. Highlights accessibility barriers that people may experience because of inaccessible digital technology.
 image: /content-images/wai-people-use-web/social.png
 footer: >

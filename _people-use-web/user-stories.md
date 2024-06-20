@@ -9,7 +9,7 @@ parent_in_h1:
     name: nav_title
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2021-@@-@@   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2024-06-25
 
 # translators:    # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
 # - name: "Jan Doe"   # Replace Jan Doe with translator name

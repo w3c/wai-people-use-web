@@ -4,7 +4,7 @@ title: "Auditory Disabilities Video"
 nav_title: Auditory Disabilities Video
 lang: "en"
 
-last_updated: 2017-05-15
+last_updated: 2024-06-25
 permalink: /people-use-web/video/abilities-auditory-disabilities/
 ref: /people-use-web/video/abilities-auditory-disabilities/
 
