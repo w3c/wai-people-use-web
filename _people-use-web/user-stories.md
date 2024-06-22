@@ -6,7 +6,7 @@ title: "Stories of Web Users"
 nav_title: "User Stories"
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2024-06-25
-description:  Personas of people with disabilities using the Web that highlight the effect of accessibility barriers and the broader benefits of accessible websites and web tools. @@edit->"digital technologies"
+description:  Personas of people with disabilities using the Web that highlight the effect of accessibility barriers and the broader benefits of accessible digital technologies.
 
 # translators:    # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
 # - name: "Jan Doe"   # Replace Jan Doe with translator name
@@ -33,15 +33,17 @@ changelog: /people-use-web/changelog/
 acknowledgements: /people-use-web/user-stories/acknowledgements/
 
 image: /content-images/wai-people-use-web/social.png
+
 # In the footer below:
+# Do not change the dates
 # Do not translate or change CHANGELOG or ACKNOWLEDGEMENTS.
 # Translate the other words below, including "Date:" and "Editor:"
 # Translate the Working Group name. Leave the Working Group acronym in English.
-# Do not change the dates in the footer below.
 footer: >
-   <p><strong>Date: Draft in progress.</strong> Updated @@ Month 2021. First published Month 20@@. CHANGELOG.</p>
-   <p><strong>Editors:</strong> Kevin White, Mark Palmer, Jane Schurick, and <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>.  <strong>Contributors:</strong> @@name, @@name, and <a href="https://www.w3.org/groups/wg/eowg/participants">participants of EOWG</a>. ACKNOWLEDGEMENTS lists past editors and additional contributors.</p>
-     <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Previously developed with the <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE Task Force</a>, with support of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a>.</p>
+  <!-- <p>Note about video description: The video on this page does not include synchronized audio description because the visuals only illustrate the audio and do not provide additional information. In this case, audio description would be more distracting than useful to most people, including people who cannot see the visuals. Description of visual information is available in the Text Transcript with Description of Visuals (“descriptive transcript”).</p> -->
+  <p><strong>Date:</strong> Updated 25 June 2024. First published as a draft in 2000.<!-- CHANGELOG.--></p>
+  <p><strong>Editors:</strong>Kevin White and Shadi Abou Zahra. Previous editors: Judy Brewer and Norah Sinclair. Contributors: Brent Bakken, Jade Matos Carew, Jayne Schurick, and Michele Williams. See ACKNOWLEDGEMENTS for additional editors and contributors.</p>
+  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> and <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> co-funded by the European Commission (EC).</p>
 ---
 
 The following user stories represent the experiences of some people with disabilities. They do not address all disabilities or all impacts faced by people with disabilities. These and other disabilities may be present from birth or may develop as a results of an accident, illness, or aging.
