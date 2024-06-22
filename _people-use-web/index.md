@@ -14,13 +14,16 @@ resource:
 
 image: /content-images/wai-people-use-web/social.png
 
+changelog: /people-use-web/changelog/
+acknowledgements: /people-use-web/acknowledgements/
+
 # In the footer below:
 # Do not change the dates
 # Do not translate or change CHANGELOG or ACKNOWLEDGEMENTS.
 # Translate the other words below, including "Date:" and "Editor:"
 # Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
-  <p><strong>Date:</strong> Updated 25 June 2024. Draft first posted in 2000.<!-- CHANGELOG.--></p>
+  <p><strong>Date:</strong> Updated 25 June 2024. First posted as a draft in 2000.<!-- CHANGELOG.--></p>
   <p><strong>Editor:</strong> Shadi Abou Zahra. Previous editor: Judy Brewer. See ACKNOWLEDGEMENTS for additional editors and contributors.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> and <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> co-funded by the European Commission (EC).</p>
 
