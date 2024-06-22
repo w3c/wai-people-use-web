@@ -28,6 +28,7 @@ Additional contributors:
 - Adina Halter
 - Brian Elton
 - Estel·la Oncins Noguer
+- Mark Palmer
 - Shawn Lawton Henry
 - and participants of the
 [Education and Outreach Working Group (EOWG)](http://www.w3.org/WAI/EO/)
