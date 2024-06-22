@@ -47,20 +47,13 @@ Contributors: Brent Bakken, Eric Eggert, Robert Jolly, Laura Keen, Kris Anne Kin
 Howard Kramer, Shawn Lawton Henry, Sharron Rush, and participants of the
 [Education and Outreach Working Group (EOWG)](http://www.w3.org/WAI/EO/).
 
-## Previous versions
+## Previous drafts
 
 Editor: Judy Brewer
 
-Some initial material drawn from Gregg Vanderheiden and Kate
-Vanderheiden.
+Major contributors: Ian Jacobs, Shadi Abou-Zahra, Andrew Arch
 
-Contributors: Kathleen Anderson, Andrew Arch, Harvey
-Bingham, Helle Bjarnø, Alan Cantor, Alan Chuter, Dave Clark, Libby
-Cohen, Cynthia Curry, Wayne Dick, Deborah Dimmick, Sylvie Duchateau,
-Pierre Guillou, Julie Howell, Ian Jacobs, Marja-Riitta Koivunen, Chuck
-Letourneau, William Loughborough, Suzette Keith, Charles McCathieNevile,
-Liam McGee, Sailesh Panchang, Doyle Saylor, Sheela Sethuraman, Henk
-Snetselaar, Michael Stenitzer, Jeniffer Sutton, Jeff Turner, Carlos
-Velasco, Eric Velleman, and participants of the [WAI-AGE Task
-Force](https://www.w3.org/WAI/EO/2008/wai-age-tf) and participants of the
+Some initial material drawn from Gregg Vanderheiden and Kate Vanderheiden.
+
+Contributors: Kathleen Anderson, Harvey Bingham, Helle Bjarnø, Alan Cantor, Alan Chuter, Dave Clark, Libby Cohen, Cynthia Curry, Wayne Dick, Deborah Dimmick, Sylvie Duchateau, Pierre Guillou, Shawn Lawton Henry, Julie Howell, Marja-Riitta Koivunen, Chuck Letourneau, William Loughborough, Suzette Keith, Charles McCathieNevile, Liam McGee, Sailesh Panchang, Doyle Saylor, Sheela Sethuraman, Henk Snetselaar, Michael Stenitzer, Jeniffer Sutton, Jeff Turner, Carlos Velasco, Eric Velleman, and participants of the [WAI-AGE Task Force](https://www.w3.org/WAI/EO/2008/wai-age-tf) and participants of the
 [Education and Outreach Working Group (EOWG)](https://www.w3.org/WAI/EO/).
