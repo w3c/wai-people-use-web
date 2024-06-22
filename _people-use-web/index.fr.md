@@ -19,8 +19,6 @@ footer: > # Translate all the words below, including "Date:" and "Editor:". Do n
 resource:
   title: "Comment les personnes handicapées utilisent le web"
   ref: /people-use-web/
-
-# Read Translations Notes for this resource at https://github.com/w3c/wai-people-use-web#readme
 ---
 
 ## Introduction

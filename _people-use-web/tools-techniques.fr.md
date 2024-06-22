@@ -229,7 +229,7 @@ Un contenu web accessible est utilisable par les personnes qui ont besoin de plu
     - Un clavier avec des touches plus grosses, des étiquettes sur les touches, un espaceur de touches, des touches illuminées, ou une disposition particulière&#8239;;
     - Un clavier virtuel, un écran tactile, un contacteur à la paille, et un contacteur à une touche&#8239;;
     - Une boule de commande (trackball), une poignée (joystick), un pavé tactile (touchpad), une souris spécialement conçue, et autres outils de pointage&#8239;;
-    - Un logiciel de [reconnaissance vocale](#voice){:.termref}, ou d’[oculométrie](#gaze){:.termref}, et autres méthodes d’interaction sans les mains.
+    - Un logiciel de [reconnaissance vocale](#speech){:.termref}, ou d’[oculométrie](#gaze){:.termref}, et autres méthodes d’interaction sans les mains.
 - **Oculométrie**{:#gaze} (aussi appelé «&#8239;<span lang="en">eye-tracking</span>&#8239;»)&#8239;: un système qui suit le mouvement des yeux pour contrôler le pointeur de souris et qui détecte le clignement pour déclencher des clics de souris.
 - **Personnalisation du clavier**{:#kbd}&#8239;: permet le changement de la disposition des touches, l’assignation de raccourcis pour des fonctions, le réglage de [filtres](#filters){:.termref} et l’usage de «&#8239;touches rémanentes&#8239;» pour permettre la frappe à une seule main.
 - **Filtres de clavier et de souris**{:#filters}&#8239;: fonctions du système ou de logiciels spécialisés, qui reconnaissent et compensent les mouvements involontaires tels que les tremblements ou les spasmes.
