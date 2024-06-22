@@ -15,19 +15,20 @@ resource:
 _This update focused on creating videos for all topics and updating the user stories._
 
 Project leads and editors:
--   Kevin White
--   Shadi Abou-Zahra
+- Kevin White
+- Shadi Abou-Zahra
+- Jayne Schurick
 
 Major contributors:
 - Brent Bakken
 - Jade Matos Carew
-- Jayne Schurick
 - Michele Williams
 
 Additional contributors:
 - Adina Halter
 - Brian Elton
 - Estel·la Oncins Noguer
+- Frankie Wolf
 - Mark Palmer
 - Shawn Lawton Henry
 - and participants of the
@@ -41,7 +42,7 @@ EOWG leadership:
 
 Editors:
 -   Lead editor: Shadi Abou-Zahra
--   Stories of Web Users page editors: Shadi Abou-Zahra and Norah Sinclair
+-   Stories of Web Users editors: Shadi Abou-Zahra and Norah Sinclair
 
 Contributors: Brent Bakken, Eric Eggert, Robert Jolly, Laura Keen, Kris Anne Kinney,
 Howard Kramer, Shawn Lawton Henry, Sharron Rush, and participants of the
@@ -49,7 +50,7 @@ Howard Kramer, Shawn Lawton Henry, Sharron Rush, and participants of the
 
 ## Previous drafts
 
-Editor: Judy Brewer
+**Editor: Judy Brewer**
 
 Major contributors: Ian Jacobs, Shadi Abou-Zahra, Andrew Arch
 
