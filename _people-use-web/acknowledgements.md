@@ -2,8 +2,8 @@
 title: "How People with Disabilities Use the Web: Acknowledgments"
 nav_title: "Acknowledgments"
 nosidenav: true
-permalink: /people-use-web/acknowledgments/
-ref: /people-use-web/acknowledgments/
+permalink: /people-use-web/acknowledgements/
+ref: /people-use-web/acknowledgements/
 resource:
   ref: /people-use-web/
 ---
