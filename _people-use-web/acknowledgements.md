@@ -44,7 +44,7 @@ Editors:
 -   Stories of Web Users page editors: Shadi Abou-Zahra and Norah Sinclair
 
 Contributors: Brent Bakken, Eric Eggert, Robert Jolly, Laura Keen, Kris Anne Kinney,
-Howard Kramer, Shawn Lawton Henry, Sharron Rush, and participants of the [WAI-AGE Task Force](https://www.w3.org/WAI/EO/2008/wai-age-tf) and the
+Howard Kramer, Shawn Lawton Henry, Sharron Rush, and participants of the
 [Education and Outreach Working Group (EOWG)](http://www.w3.org/WAI/EO/).
 
 ## Previous versions
