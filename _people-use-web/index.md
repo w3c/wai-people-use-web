@@ -13,10 +13,17 @@ resource:
   ref: /people-use-web/
 
 image: /content-images/wai-people-use-web/social.png
+
+# In the footer below:
+# Do not change the dates
+# Do not translate or change CHANGELOG or ACKNOWLEDGEMENTS.
+# Translate the other words below, including "Date:" and "Editor:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
-  <p><strong>Date:</strong> Updated 15 May 2017.</p>
-  <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>. Previous editor: <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">Acknowledgments</a>.</p>
-  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Previously developed with the <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE Task Force</a>, with support of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a>.</p>
+  <p><strong>Date:</strong> Updated 25 June 2024. Draft first posted in 2000.<!-- CHANGELOG.--></p>
+  <p><strong>Editor:</strong> Shadi Abou Zahra. Previous editor: Judy Brewer. See  ACKNOWLEDGEMENTS for additional editors and contributors.</p>
+  <p>Developed by the Education and Outreach Working Group ([EOWG](http://www.w3.org/WAI/EO/)) with support from the [WAI-Guide Project](https://www.w3.org/WAI/about/projects/wai-guide/) and [WAI-AGE Project](https://www.w3.org/WAI/WAI-AGE/) co-funded by the European Commission (EC).
+
 ---
 
 ## Introduction
