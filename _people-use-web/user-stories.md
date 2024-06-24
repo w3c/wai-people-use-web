@@ -44,6 +44,8 @@ footer: >
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide Project</a> and <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> co-funded by the European Commission (EC).</p>
 ---
 
+{% include_cached blockquote.html class="pull alt-2" content="<p>Accessibility: It's about people</p>" %}
+
 The following user stories represent the experiences of some people with disabilities. They do not address all disabilities or all impacts faced by people with disabilities. These and other disabilities may be present from birth or may develop as a results of an accident, illness, or aging.
 
 * {:.left} [{% include image.html src="user-stories/ade.png" alt="Ade" %} Ade, reporter with limited use of his arms](/people-use-web/user-stories/story-one/)<br> Ade was involved in an accident that caused a spinal cord injury, leaving him with limited use of his arms. He often relies only on the keyboard to navigate websites and other digital content.

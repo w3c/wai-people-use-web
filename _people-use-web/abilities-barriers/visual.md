@@ -88,6 +88,8 @@ footer: >
   }
 </style>
 
+{% include_cached blockquote.html class="pull alt-2" content="<p>Accessibility: It's about people</p>" %}
+
 <aside id="introduction" class="box"><div class="box-i">
   <div>
 {:/}
