@@ -114,7 +114,7 @@ Elias is an 85-year-old retired architect. Over the years, Elias has experienced
   </div>
 {% include video-card.html
    video-url="//media.w3.org/wai/people-use-web/user-stories_9.mp4"
-   captions="//media.w3.org/wai/people-use-web/user-stories_9.srt"
+   captions="wai-videos/people-use-web/user-stories_9.en.vtt|en|default"
    accessible-version="#accessible-video"
    accessible-version-label="Video: Elias, retiree with low vision, hand tremor, and mild short-term memory loss"
    poster="content-images/wai-people-use-web/user-stories/elias-video-frame.png"

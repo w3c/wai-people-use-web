@@ -115,7 +115,7 @@ Stefan is a student who has dyslexia and attention deficit hyperactivity disorde
   </div>
   {% include video-card.html
    video-url="//media.w3.org/wai/people-use-web/user-stories_8.mp4"
-   captions="//media.w3.org/wai/people-use-web/user-stories_8.srt"
+   captions="wai-videos/people-use-web/user-stories_8.en.vtt|en|default"
    accessible-version="#accessible-video"
    accessible-version-label="Video: Stefan, student with attention deficit hyperactivity disorder and dyslexia"
    poster="content-images/wai-people-use-web/user-stories/stefan-video-frame.png"

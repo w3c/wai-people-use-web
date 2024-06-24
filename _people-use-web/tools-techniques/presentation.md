@@ -104,7 +104,7 @@ People adjust the presentation of content to make it easier to distinguish and u
   </div>
 {% include video-card.html
    video-url="//media.w3.org/wai/people-use-web/tools-techniques_presentation.mp4"
-   captions="//media.w3.org/wai/people-use-web/tools-techniques_presentation.srt"
+   captions="wai-videos/people-use-web/tools-techniques_presentation.en.vtt|en|default"
    accessible-version="#accessible-video"
    accessible-version-label="Video: Tools and Techniques - Presentation"
    poster="content-images/wai-people-use-web/tools-techniques/presentation-video-frame.png"

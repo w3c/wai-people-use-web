@@ -104,7 +104,7 @@ People perceive content through different senses depending on their needs and pr
   </div>
 {% include video-card.html
    video-url="//media.w3.org/wai/people-use-web/tools-techniques_perception.mp4"
-   captions="//media.w3.org/wai/people-use-web/tools-techniques_perception.srt"
+   captions="wai-videos/people-use-web/tools-techniques_perception.en.vtt|en|default"
    accessible-version="#accessible-video"
    accessible-version-label="Video: Tools and Techniques - Perception"
    poster="content-images/wai-people-use-web/tools-techniques/perception-video-frame.png"

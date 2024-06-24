@@ -101,7 +101,7 @@ Speech disabilities include difficulty producing speech that is recognizable by 
   </div>
 {% include video-card.html
    video-url="//media.w3.org/wai/people-use-web/abilities-barriers_speech.mp4"
-   captions="//media.w3.org/wai/people-use-web/abilities-barriers_speech.srt"
+   captions="wai-videos/people-use-web/abilities-barriers_speech.en.vtt|en|default"
    accessible-version="#accessible-video"
    accessible-version-label="Video: Diverse Abilities and Barriers - Speech"
    poster="content-images/wai-people-use-web/abilities-barriers/speech-video-frame.png"

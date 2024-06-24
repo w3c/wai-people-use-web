@@ -100,7 +100,7 @@ Visual disabilities range from mild or moderate vision loss in one or both eyes 
   </div>
 {% include video-card.html
    video-url="//media.w3.org/wai/people-use-web/abilities-barriers_visual.mp4"
-   captions="//media.w3.org/wai/people-use-web/abilities-barriers_visual.srt"
+   captions="wai-videos/people-use-web/abilities-barriers_visual.en.vtt|en|default"
    accessible-version="#accessible-video"
    accessible-version-label="Video: Diverse Abilities and Barriers - Visual"
    poster="content-images/wai-people-use-web/abilities-barriers/visual-video-frame.png"
