@@ -60,7 +60,7 @@ The following user stories represent the experiences of some people with disabil
 
 * {:.left} [{% include image.html src="user-stories/dhruv.png" alt="" %} Dhruv, older adult student who is deaf](/people-use-web/user-stories/story-six/)<br> Dhruv is deaf. When watching videos or other online content that contains audio, he relies on real-time captions or transcripts of what is being said.
 
-* {:.left} [{% include image.html src="user-stories/marta.png" alt="" %} Marta, teenager who is deaf and blind](/people-use-web/user-stories/story-seven/)<br> Marta is deaf and blind, although she can see small portions of a computer screen when it is significantly enlarged using screen magnification software. She uses captions and transcripts for audio content.
+* {:.left} [{% include image.html src="user-stories/marta.png" alt="" %} Marta, marketing assistant who is deaf and blind](/people-use-web/user-stories/story-seven/)<br> Marta is deaf and blind, although she can see small portions of a computer screen when it is significantly enlarged using screen magnification software. She uses captions and transcripts for audio content.
 
 * {:.left} [{% include image.html src="user-stories/stefan.png" alt="" %} Stefan, student with attention deficit hyperactivity disorder and dyslexia](/people-use-web/user-stories/story-eight/)<br> Stefan has dyslexia and attention deficit hyperactivity disorder (ADHD), both of which make it difficult to focus on and read online content.
 
