@@ -35,16 +35,15 @@ footer: >
 
 *How do people who cannot move their arms use your website? What about people who cannot see well or at all? Or people who have difficulty hearing, or understanding, or have other disabilities?*
 
-This resource introduces how people with disabilities use the Web. It describes tools and approaches that people with different kinds of disabilities, including people with age-related impairments, use to browse the Web. It illustrates barriers people may encounter due to poor design. It helps developers, designers, and others to understand the principles for creating accessible websites, web applications, browsers, and other web tools.
+This resource introduces how disabled people use the web, including people with age-related impairments. It helps developers, designers, content creators, and others understand the reasons behind creating accessible digital products &mdash; including websites, apps, browsers, and other web tools.
 
-## This resource includes the following sections
+## Sections in this resource
 
--   **[[Stories of Web Users]](/people-use-web/user-stories/)** – highlights the effect of barriers and the broader benefits of accessible websites and web tools through stories of selected scenarios of people with disabilities using the Web.
--   **[[Diverse Abilities and Barriers]](/people-use-web/abilities-barriers/)** – explores the wide range of diversity of people and abilities, and highlights some of the types of barriers that people commonly encounter due to inaccessible design.
--   **[[Tools and Techniques]](/people-use-web/tools-techniques/)** – introduces some of the techniques and tools that people with disabilities use to interact with the Web, such as browser settings, text-to-speech, speech recognition, and many more.
+-   **[[Stories of Web Users]](/people-use-web/user-stories/)** (also called "personas") &mdash; represent the experiences of people with different disabilities.
+-   **[[Diverse Abilities and Barriers]](/people-use-web/abilities-barriers/)** &mdash; introduces the wide diversity of abilities, and highlights some accessibility barriers that people experience because of inaccessible digital technology.
+-   **[[Tools and Techniques]](/people-use-web/tools-techniques/)** &mdash; covers the tools and techniques that disabled people use to interact with digital technology.
 
 ## Related WAI resources
 
 -   **[[Accessibility Principles]](/fundamentals/accessibility-principles/)** – introduces the four principles used to organize accessibility requirements and provides examples of requirements related to each principle from the international accessibility standards from the W3C Web Accessibility Initiative (WAI).
 -   **[[Web Accessibility Perspectives]](/perspective-videos/)** – presents a collection of short videos highlighting accessibility features that are essential to people with disabilities and useful for all.
-
