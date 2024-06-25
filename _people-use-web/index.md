@@ -13,6 +13,7 @@ resource:
   ref: /people-use-web/
 
 image: /content-images/wai-people-use-web/social.png
+class: tight-page
 
 changelog: /people-use-web/changelog/
 acknowledgements: /people-use-web/acknowledgements/
@@ -40,7 +41,7 @@ This resource introduces how disabled people use the web, including people with 
 ## Sections in this resource
 
 -   **[[Stories of Web Users]](/people-use-web/user-stories/)** (also called "personas") &mdash; represent the experiences of people with different disabilities.
--   **[[Diverse Abilities and Barriers]](/people-use-web/abilities-barriers/)** &mdash; introduces the wide diversity of abilities, and highlights some accessibility barriers that people experience because of inaccessible digital technology.
+-   **[[Diverse Abilities and Barriers]](/people-use-web/abilities-barriers/)** &mdash; introduces the wide diversity of abilities and highlights some accessibility barriers that people experience because of inaccessible digital technology.
 -   **[[Tools and Techniques]](/people-use-web/tools-techniques/)** &mdash; covers the tools and techniques that disabled people use to interact with digital technology.
 
 ## Related WAI resources
