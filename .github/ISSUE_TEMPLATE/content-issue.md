@@ -1,5 +1,5 @@
 ---
-name: Ccontent issue
+name: Content issue
 about: 'Submit a content issue'
 title: "Content issue title"
 labels: ''
