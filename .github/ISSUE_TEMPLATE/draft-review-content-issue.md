@@ -1,7 +1,7 @@
 ---
-name: Draft review content issue
-about: 'Submit a content issue from a draft review '
-title: "(low/med/high) Content issue title"
+name: Ccontent issue
+about: 'Submit a content issue'
+title: "Content issue title"
 labels: ''
 assignees: ''
 
