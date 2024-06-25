@@ -103,7 +103,7 @@ Physical disabilities (sometimes called "motor disabilities") include weakness a
   </div>
 {% include video-card.html
    video-url="//media.w3.org/wai/people-use-web/abilities-barriers_physical.mp4"
-   captions="wai-videos/people-use-web/abilities-barriers_physical.en.vtt|en|default"
+   captions="wai-videos/people-use-web/abilities-barriers_physical.en.vtt|en"
    accessible-version="#accessible-video"
    accessible-version-label="Video: Diverse Abilities and Barriers - Physical"
    poster="content-images/wai-people-use-web/abilities-barriers/physical-video-frame.png"

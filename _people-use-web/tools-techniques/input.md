@@ -108,7 +108,7 @@ People use different approaches to enter text and activate commands, for example
   </div>
 {% include video-card.html
    video-url="//media.w3.org/wai/people-use-web/tools-techniques_input.mp4"
-   captions="wai-videos/people-use-web/tools-techniques_input.en.vtt|en|default"
+   captions="wai-videos/people-use-web/tools-techniques_input.en.vtt|en"
    accessible-version="#accessible-video"
    accessible-version-label="Video: Tools and Techniques - Input"
    poster="content-images/wai-people-use-web/tools-techniques/input-video-frame.png"

@@ -118,7 +118,7 @@ computer. Marta is learning braille and hopes to use her new braille display for
   </div>
 {% include video-card.html
    video-url="//media.w3.org/wai/people-use-web/user-stories_7.mp4"
-   captions="wai-videos/people-use-web/user-stories_7.en.vtt|en|default"
+   captions="wai-videos/people-use-web/user-stories_7.en.vtt|en"
    accessible-version="#accessible-video"
    accessible-version-label="Video: Marta, marketing assistant who is deaf and blind"
    poster="content-images/wai-people-use-web/user-stories/marta-video-frame.png"

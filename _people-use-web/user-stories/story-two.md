@@ -125,7 +125,7 @@ automatically are frustrating and confusing.
 
   {% include video-card.html
    video-url="//media.w3.org/wai/people-use-web/user-stories_2.mp4"
-   captions="wai-videos/people-use-web/user-stories_2.en.vtt|en|default"
+   captions="wai-videos/people-use-web/user-stories_2.en.vtt|en"
    accessible-version="#accessible-video"
    accessible-version-label="Video: Ian, data entry clerk with autism"
    poster="content-images/wai-people-use-web/user-stories/ian-video-frame.png"
