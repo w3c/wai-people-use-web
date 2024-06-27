@@ -1,1 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/bc1f0553-a688-4748-94f1-0d8d80c856f2/deploy-status)](https://app.netlify.com/sites/wai-people-use-web/deploys)
+> [!IMPORTANT]
+> This repository will be archived soon.
+>
+> [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web) is now edited in the [wai-website](https://github.com/w3c/wai-website) repository.
